@@ -124,3 +124,6 @@
 [submodule "ds000218"]
 	path = ds000218
 	url = https://github.com/OpenNeuroDatasets/ds000218.git
+[submodule "ds000234"]
+	path = ds000234
+	url = https://github.com/OpenNeuroDatasets/ds000234.git
