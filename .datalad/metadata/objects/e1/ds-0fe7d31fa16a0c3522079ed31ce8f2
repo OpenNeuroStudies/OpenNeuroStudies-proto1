@@ -1,0 +1,394 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"bids":
+{
+"@context":
+{
+"age(years)":
+{
+"@id":
+"pato:0000011",
+"description":
+"age of a sample (organism) at the time of data acquisition in years",
+"unit":
+"uo:0000036",
+"unit_label":
+"year"
+},
+"bids":
+{
+"@id":
+"http://bids.neuroimaging.io/bids_spec1.0.1.pdf#",
+"description":
+"ad-hoc vocabulary for the Brain Imaging Data Structure (BIDS) standard",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+}
+},
+"Acknowledgements":
+"Pleaser refer to README",
+"BIDSVersion":
+"1.0.1",
+"DatasetDOI":
+"10.18112/openneuro.ds002016.v1.0.0",
+"HowToAcknowledge":
+"Please refer to README",
+"author":
+[
+"Yiming Xiao",
+"Jonathan C. Lau",
+"Taylor Anderson",
+"Jordan DeKraker",
+"D. Louis Collins",
+"Terry M. Peters",
+"Ali R. Khan"
+],
+"citation":
+[
+"BigBrainMRICoreg",
+"Pleaes refer to README for the relevant publications"
+],
+"conformsto":
+"http://bids.neuroimaging.io/bids_spec1.0.1.pdf",
+"description":
+"This dataset includes co-registration of the BigBrain dataset to the MNI PD25 atlas and the ICBM152 2009b atlases.\nThe data include deformed BigBrain atlases and manual subcortical segmentations in MINC2 and NIFTI-1 formats, as well as relevant spatial transformation in MINC transformation format.\nThe segmented subcortical structures include: red nucleus, subthalamic nucleus, substantia nigra, caudate, putamen, globus pallidus externa, globus pallidus interna, thalamus, hippocampus, nucleus\naccumbens, and amygdala\n\nNote that the described improved co-registration was performed upon the BigBrain data in ICBM space from the BigBrain 2015release.\n\nWithin this dataset, the down-sampled versions of BigBrain atlases are distributed under the CC BY4.0 License upon the consent from the original data owners, the Montreal Neurological Institute\n(Montreal, Canada) and the Forschungszentrum Jülich (Jülich, Germany). However, this exception to the existing BigBrain dataset does not alter the general term of that license for use of the\nBigBrain itself, which is still under the CC BY-NC-SA 4.0 License.\n\nThe included files are as follows:\n\n1. Deformed BigBrain atlases & MRI templates:\nBigBrain in PD25 space: sub-BigBrain_rez-{300um, 500um, 1mm}_space-PD25_histology.nii.gz\nBigBrain in ICBM152 symmetric atlas: sub-BigBrain_rez-{300um, 500um, 1mm}_space-ICBM2009sym_histology.nii.gz\nBigBrain in ICBM152 asymmetric atlas: sub-BigBrain_rez-{300um, 500um, 1mm}_space-ICBM2009asym_histology.nii.gz\n\nSynthetic T2w PD25 atlas: sub-PD25_rez-{300um,500um,1mm}_SynT2w.nii.gz\nT1-T2* fusion PD25 atlas: sub-PD25_rez-{300um,500um,1mm}_T1T2starfusion.nii.gz\nT1w PD25 atlas: sub-PD25_rez-{300um,500um,1mm}_T1w.nii.gz\nPD25 atlas brain mask: sub-PD25_rez-500um_brainmask.nii.gz\nT1w ICBM152 2009b symmetric atlas: sub-ICBM2009asym_rez-500um_T1w.nii.gz\nT2w ICBM152 2009b symmetric atlas: sub-ICBM2009asym_rez-500um_T2w.nii.gz\nT1w ICBM152 2009b asymmetric atlas: sub-ICBM2009asym_rez-500um_T1w.nii.gz\nT2w ICBM152 2009b asymmetric atlas: sub-ICBM2009asym_rez-500um_T2w.nii.gz\n\n\n2. Manual subcortical segmentations:\nBigBrain coregistered to ICBM in the BigBrain2015 release: sub-BigBrain_rez-{300um,500um}_space-ICBMoriginal_atlas.nii.gz\nMNI PD25: sub-PD25_rez-500um_atlas.nii.gz\nICBM152 2009b symmetric: sub-ICBM2009asym_rez-500um_atlas.nii.gz\nICMB152 2009b asymmetric: sub-ICBM2009asym_rez-500um_atlas.nii.gz\n\n3. Related transformations:\nAs the spatial transformations that deform BigBrain to PD25 and ICBM atlases were in MINC format, please download them via\nhttps://osf.io/xkqb3/\nhttp://nist.mni.mcgill.ca/?p=1209\n\n4. Manual segmentation labels:\nLabel,Nuclei\n1,left red nucleus\n2,right red nucleus\n3,left substantia nigra\n4,right substantia nigra\n5,left subthalamic nucleus\n6,right subthalamic nucleus\n7,left caudate\n8,right caudate\n9,left putamen\n10,right putamen\n11,left globus pallidus externa\n12,right globus pallidus externa\n13,left globus pallidus interna\n14,right globus pallidus Interna\n15,left thalamus\n16,right thalamus\n17,left hippocampus\n18,right hippocampus\n19,left nucleus accumbens\n20,right nucleus accumbens\n21,left amygdala\n22,right amygdala\n\nReferences:\n\nFor the methods used, please cite the following articles:\n1. Y. Xiao, J.C. Lau, T. Anderson,J. DeKraker, D. Louis Collins, T.M. Peters, and A.R. Khan, “Bridging micro and macro:\naccurate registration of the BigBrain dataset with the MNI PD25 and ICBM152 atlases,” bioRxiv, 561118, Cold Spring Harbor Laboratory,\ndoi: https://doi.org/10.1101/561118.\n\n2. Y. Xiao, V. Fonov, S. Beriault, F.A. Subaie, M.M. Chakravarty, A.F. Sadikot,\nG. Bruce Pike, and D. Louis Collins, “Multi-contrast unbiased MRI atlas of a\nParkinson's disease population,” International Journal of Computer-Assisted\nRadiology and Surgery, vol. 10(3), pp. 329-341, 2015.\n\n3.Y. Xiao, V. Fonov, S. Beriault, F.A. Subaie, M.M. Chakravarty, A.F. Sadikot, G. Bruce Pike, and D. Louis Collins,\n“A dataset of multi-contrast population-averaged brain MRI atlases of a Parkinson’s disease cohort,”Data in Brief, 2017.\n\nWhen using the downsamled BigBrain atlases, please cite the following article:\n1. Amunts, K. et al.: “BigBrain: An Ultrahigh-Resolution 3D Human Brain Model”, Science (2013) 340 no. 6139 1472-1475, June 2013",
+"fundedby":
+[
+"BrainsCAN",
+"Canadian Institutes of Health Research"
+],
+"license":
+"Pleaes refer to README",
+"name":
+"BigBrainMRICoreg"
+},
+"datalad_core":
+{
+"@id":
+"2a942c5c-a283-11e9-9236-0242ac130011",
+"ispartof":
+{
+"@id":
+"2ecbb6ba-f811-11e8-b1ed-002590f97d84",
+"type":
+"dataset"
+},
+"refcommit":
+"570fde0a45d980e585f6a84d5a4183330ed4ae62"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"key":
+[
+"MD5E-s106418777--84453f6b0795a5a45249939dd2252fc4.nii.gz",
+"MD5E-s117036779--81b0e68864f8d6568eb35c3e952ffcad.nii.gz",
+"MD5E-s124625666--7ecee1f647a6c0335a488a674efb4a7f.nii.gz",
+"MD5E-s157115061--380dc906be7b70f825a3130d0e53f4ee.nii.gz",
+"MD5E-s159827688--e354a73fbfbdd6286794b947b6f3cd56.nii.gz",
+"MD5E-s161467825--808c6432c63be78a4a3ce68ce6368722.nii.gz",
+"MD5E-s168182931--ad353fea3243f7e40fb6ce5e20983545.nii.gz",
+"MD5E-s169884001--f989e44a0eeb9e569a2f949493918726.nii.gz",
+"MD5E-s192991366--5059b2324122ea295ad1955f939b9153.nii.gz",
+"MD5E-s205685368--d6285c86a0a7a508c224ab74d399bdac.nii.gz",
+"MD5E-s208734331--868ea1f9f23b9949db7f8833f27f8326.nii.gz",
+"MD5E-s25601904--61a38175dc3fb51cd221e282ef44552c.nii.gz",
+"MD5E-s277609600--1c2bfbec8b0de46f3a9e22def4fdfb80.nii.gz",
+"MD5E-s350079--4b78d0b19d22f2410ef5140e9c0d5b37.nii.gz",
+"MD5E-s352067--79d8c82896de653926717b6d93599533.nii.gz",
+"MD5E-s353456--184cf980bfa2cb273adc632ac4a2d2c4.nii.gz",
+"MD5E-s36690628--25e2eeb7505a5aa193ae94d86f853557.nii.gz",
+"MD5E-s37031999--a18285c84e0e24540ed1b398ad2a2dc6.nii.gz",
+"MD5E-s37578426--f861b19ae49b18b46b524f743f71c170.nii.gz",
+"MD5E-s4736001--88fa6622208d13f60725abcb18a1c88b.nii.gz",
+"MD5E-s4740350--e72ab9de9876ebb28a7adb91a63ba046.nii.gz",
+"MD5E-s4792170--65a00390ec5944f8ff464b3b1a813659.nii.gz",
+"MD5E-s48407512--8a373da1d37e17d3d5400142bdeba77d.nii.gz",
+"MD5E-s53361930--be5c3fa0a7504e3bdbf4ebbf009dfbc5.nii.gz",
+"MD5E-s535509--56775bd210e5d16b6605b8724328b143.nii.gz",
+"MD5E-s6233037--adbc74c390aa066ebca891ca0219bbd4.nii.gz",
+"MD5E-s6793484--63040eb8fbdc97a71ebe846e78a161f4.nii.gz",
+"MD5E-s844086--d5c9d9cc140fbce9256179210868294e.nii.gz"
+]
+},
+"bids":
+{
+"extension":
+[
+"tsv"
+],
+"scans":
+[
+"/mnt/btrfs/datasets/datalad/crawl/openneuro/ds002016/sub-BigBrain/sub-BigBrain_scans.tsv",
+"/mnt/btrfs/datasets/datalad/crawl/openneuro/ds002016/sub-ICBM2009asym/sub-ICBM2009asym_scans.tsv",
+"/mnt/btrfs/datasets/datalad/crawl/openneuro/ds002016/sub-ICBM2009sym/sub-ICBM2009sym_scans.tsv",
+"/mnt/btrfs/datasets/datalad/crawl/openneuro/ds002016/sub-PD25/sub-PD25_scans.tsv"
+],
+"subject":
+[
+"BigBrain",
+"ICBM2009asym",
+"ICBM2009sym",
+"PD25"
+],
+"suffix":
+[
+"participants",
+"scans"
+]
+},
+"nifti1":
+{
+"cal_max":
+null,
+"cal_min":
+null,
+"datatype":
+[
+"float32",
+"uint16"
+],
+"description":
+[
+"mnc2nii ../../../../../../mni_icbm152_nlin_sym_09b/mni_icbm152_t1_tal_nlin_sym_",
+"mnc2nii ../../../../mni_icbm152_nlin_sym_09b/mni_icbm152_t2_tal_nlin_sym_09b_hi",
+"mnc2nii ../MINC/BigBrain-SubCorSeg-500um.mnc BigBrain-SubCorSeg-500um.nii",
+"mnc2nii MINC/BigBrain-to-ICBM2009asym-nonlin-1mm.mnc NIFTI/BigBrain-to-ICBM2009",
+"mnc2nii MINC/BigBrain-to-ICBM2009asym-nonlin-300um.mnc NIFTI/BigBrain-to-ICBM20",
+"mnc2nii MINC/BigBrain-to-ICBM2009asym-nonlin-500um.mnc NIFTI/BigBrain-to-ICBM20",
+"mnc2nii MINC/BigBrain-to-ICBM2009sym-nonlin-1mm.mnc NIFTI/BigBrain-to-ICBM2009s",
+"mnc2nii MINC/BigBrain-to-ICBM2009sym-nonlin-300um.mnc NIFTI/BigBrain-to-ICBM200",
+"mnc2nii MINC/BigBrain-to-ICBM2009sym-nonlin-500um.mnc NIFTI/BigBrain-to-ICBM200",
+"mnc2nii MINC/BigBrain-to-PD25-nonlin-1mm.mnc NIFTI/BigBrain-to-PD25-nonlin-1mm.",
+"mnc2nii MINC/BigBrain-to-PD25-nonlin-300um.mnc NIFTI/BigBrain-to-PD25-nonlin-30",
+"mnc2nii MINC/BigBrain-to-PD25-nonlin-500um.mnc NIFTI/BigBrain-to-PD25-nonlin-50",
+"mnc2nii MINC/ICBM2009b_asym-SubCorSeg-500um.mnc NIFTI/ICBM2009b_asym-SubCorSeg-",
+"mnc2nii MINC/PD25-SubCorseg-500um.mnc NIFTI/PD25-SubCorseg-500um.nii",
+"mnc2nii MINC/PD25-SynT2-template-0.5mm.mnc NIFTI/PD25-SynT2-template-0.5mm.nii",
+"mnc2nii MINC/PD25-SynT2-template-1mm.mnc NIFTI/PD25-SynT2-template-1mm.nii",
+"mnc2nii MINC/PD25-SynT2-template-300um.mnc NIFTI/PD25-SynT2-template-300um.nii",
+"mnc2nii MINC/PD25-enhanceFusion-template-0.5mm.mnc NIFTI/PD25-enhanceFusion-tem",
+"mnc2nii MINC/PD25-enhanceFusion-template-1mm.mnc NIFTI/PD25-enhanceFusion-templ",
+"mnc2nii MINC/PD25-enhanceFusion-template-300um.mnc NIFTI/PD25-enhanceFusion-tem",
+"mnc2nii PD25-T1MPRAGE-template-0.3mm.mnc ../PD25-20170213-nifti/PD25-T1MPRAGE-t",
+"mnc2nii PD25-T1MPRAGE-template-0.5mm.mnc ../PD25-20170213-nifti/PD25-T1MPRAGE-t",
+"mnc2nii PD25-T1MPRAGE-template-1mm.mnc ../PD25-20170213-nifti/PD25-T1MPRAGE-tem",
+"mnc2nii PD25-atlas-mask-0.5mm.mnc ../PD25-20170213-nifti/PD25-atlas-mask-0.5mm.",
+"mnc2nii mni_icbm152_t1_tal_nlin_asym_09b_hires.mnc mni_icbm152_t1_tal_nlin_asym",
+"mnc2nii mni_icbm152_t2_tal_nlin_asym_09b_hires.mnc mni_icbm152_t2_tal_nlin_asym"
+],
+"dim":
+[
+[
+3,
+193,
+229,
+193,
+0,
+0,
+0,
+0
+],
+[
+3,
+354,
+334,
+334,
+0,
+0,
+0,
+0
+],
+[
+3,
+394,
+466,
+378,
+0,
+0,
+0,
+0
+],
+[
+3,
+657,
+777,
+630,
+0,
+0,
+0,
+0
+],
+[
+3,
+657,
+777,
+630,
+1,
+1,
+1,
+1
+]
+],
+"freq_axis":
+[
+null
+],
+"intent":
+[
+"none"
+],
+"magic":
+[
+"n+1"
+],
+"phase_axis":
+[
+null
+],
+"pixdim":
+[
+[
+1.0,
+0.30000001192092896,
+0.30000001192092896,
+0.30000001192092896,
+0.0,
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+0.5,
+0.5,
+0.5,
+0.0,
+0.0,
+0.0,
+0.0
+],
+[
+1.0,
+1.0,
+1.0,
+1.0,
+0.0,
+0.0,
+0.0,
+0.0
+]
+],
+"qform_code":
+[
+"aligned",
+"unknown"
+],
+"sform_code":
+[
+"scanner"
+],
+"sizeof_hdr":
+[
+348
+],
+"slice_axis":
+[
+null
+],
+"slice_duration":
+[
+0.0
+],
+"slice_end":
+[
+0
+],
+"slice_order":
+[
+"unknown"
+],
+"slice_start":
+[
+0
+],
+"spatial_resolution(mm)":
+[
+[
+0.30000001192092896,
+0.30000001192092896,
+0.30000001192092896
+],
+[
+0.5,
+0.5,
+0.5
+],
+[
+1.0,
+1.0,
+1.0
+]
+],
+"toffset":
+[
+0.0
+],
+"vox_offset":
+[
+0.0
+],
+"xyz_unit":
+[
+"millimiter (uo:0000016)"
+]
+}
+},
+"nifti1":
+{
+"@context":
+{
+"nifti1":
+{
+"@id":
+"https://nifti.nimh.nih.gov/nifti-1/documentation/nifti1fields#",
+"description":
+"Ad-hoc vocabulary for NIfTI1 header fields",
+"type":
+"http://purl.org/dc/dcam/VocabularyEncodingScheme"
+},
+"spatial_resolution(mm)":
+{
+"@id":
+"idqa:0000162",
+"description":
+"spatial resolution in millimeter",
+"unit":
+"uo:0000016",
+"unit_label":
+"millimeter"
+},
+"temporal_spacing(s)":
+{
+"@id":
+"idqa:0000213",
+"description":
+"temporal sample distance in 4D (in seconds)",
+"unit":
+"uo:0000010",
+"unit_label":
+"second"
+}
+}
+},
+"xmp":
+{
+"@context":
+{}
+}
+}
