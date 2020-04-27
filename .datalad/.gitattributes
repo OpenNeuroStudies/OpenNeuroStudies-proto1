@@ -1,4 +1,5 @@
 
 config annex.largefiles=nothing
+crawl/* annex.largefiles=nothing
 metadata/aggregate* annex.largefiles=nothing
 metadata/objects/** annex.largefiles=(largerthan=20kb)
