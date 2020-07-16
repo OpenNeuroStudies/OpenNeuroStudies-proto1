@@ -1306,3 +1306,7 @@
 	path = ds003017
 	url = https://github.com/OpenNeuroDatasets/ds003017.git
 	datalad-id = 322f5aac-c52c-11ea-8255-96be0168836a
+[submodule "ds003012"]
+	path = ds003012
+	url = https://github.com/OpenNeuroDatasets/ds003012.git
+	datalad-id = cc31e29e-c470-11ea-8e4f-aeab38a2abf1
