@@ -1816,3 +1816,4 @@
 	path = ds003552
 	url = git://github.com/OpenNeuroDatasets/ds003552.git
 	datalad-id = 861a8c06-917b-42cd-b408-4cc11a8df838
+	datalad-url = https://github.com/OpenNeuroDatasets/ds003552.git
