@@ -8,5 +8,6 @@ grep path .gitmodules | awk '{print $3;}' | while read -r d; do
  if [ ! -e "$d" ]; then
     [ -e ".git/_archive_/$d" ] && echo "$d - archived" || echo "$d - gone"; 
     git config --file .gitmodules --remove-section "submodule.$d"
+    git config --remove-section "submodule.$d" || :
  fi
 done
