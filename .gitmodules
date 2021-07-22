@@ -2049,3 +2049,4 @@
 	path = ds003708
 	url = git://github.com/OpenNeuroDatasets/ds003708.git
 	datalad-id = a337d143-db00-497d-ab4f-6303bd319609
+	datalad-url = https://github.com/OpenNeuroDatasets/ds003708.git
