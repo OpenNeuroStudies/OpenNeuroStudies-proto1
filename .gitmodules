@@ -2273,3 +2273,7 @@
 	path = ds003810
 	url = git://github.com/OpenNeuroDatasets/ds003810.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003810.git
+[submodule "ds003800"]
+	path = ds003800
+	url = git://github.com/OpenNeuroDatasets/ds003800.git
+	datalad-url = https://github.com/OpenNeuroDatasets/ds003800.git
