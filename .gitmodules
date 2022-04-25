@@ -1778,657 +1778,657 @@
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003500.git
 [submodule "ds001785"]
 	path = ds001785
-	url = git://github.com/OpenNeuroDatasets/ds001785.git
+	url = https://github.com/OpenNeuroDatasets/ds001785.git
 	datalad-id = a583fa1e-417e-11e9-a490-0242ac13000d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds001785.git
 [submodule "ds003552"]
 	path = ds003552
-	url = git://github.com/OpenNeuroDatasets/ds003552.git
+	url = https://github.com/OpenNeuroDatasets/ds003552.git
 	datalad-id = 861a8c06-917b-42cd-b408-4cc11a8df838
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003552.git
 [submodule "ds001787"]
 	path = ds001787
-	url = git://github.com/OpenNeuroDatasets/ds001787.git
+	url = https://github.com/OpenNeuroDatasets/ds001787.git
 	datalad-id = 0064e35a-4205-11e9-b30f-0242ac13000e
 [submodule "ds002790"]
 	path = ds002790
-	url = git://github.com/OpenNeuroDatasets/ds002790.git
+	url = https://github.com/OpenNeuroDatasets/ds002790.git
 	datalad-id = b083ae5c-9490-11ea-a10e-4a597b48399d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002790.git
 [submodule "ds002785"]
 	path = ds002785
-	url = git://github.com/OpenNeuroDatasets/ds002785.git
+	url = https://github.com/OpenNeuroDatasets/ds002785.git
 	datalad-id = 01c9cffc-909b-11ea-bd7e-96273a5a93d7
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002785.git
 [submodule "ds003436"]
 	path = ds003436
-	url = git://github.com/OpenNeuroDatasets/ds003436.git
+	url = https://github.com/OpenNeuroDatasets/ds003436.git
 	datalad-id = 8cba44cc-742b-41ac-90f1-a9b0220a0fef
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003436.git
 [submodule "ds003382"]
 	path = ds003382
-	url = git://github.com/OpenNeuroDatasets/ds003382.git
+	url = https://github.com/OpenNeuroDatasets/ds003382.git
 	datalad-id = 7b72a22d-c0b4-4fdd-bed9-d44b74b8c4c5
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003382.git
 [submodule "ds003555"]
 	path = ds003555
-	url = git://github.com/OpenNeuroDatasets/ds003555.git
+	url = https://github.com/OpenNeuroDatasets/ds003555.git
 	datalad-id = 81ed8046-46d9-493e-a3c2-905ccb23734c
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003555.git
 [submodule "ds003511"]
 	path = ds003511
-	url = git://github.com/OpenNeuroDatasets/ds003511.git
+	url = https://github.com/OpenNeuroDatasets/ds003511.git
 	datalad-id = 4d89f3d2-02e8-46cf-b1e2-8a549b20a73b
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003511.git
 [submodule "ds003558"]
 	path = ds003558
-	url = git://github.com/OpenNeuroDatasets/ds003558.git
+	url = https://github.com/OpenNeuroDatasets/ds003558.git
 	datalad-id = dc6159ba-0299-4a4b-b142-aaf228066bf2
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003558.git
 [submodule "ds003498"]
 	path = ds003498
-	url = git://github.com/OpenNeuroDatasets/ds003498.git
+	url = https://github.com/OpenNeuroDatasets/ds003498.git
 	datalad-id = 6b08f807-f755-4d8f-9385-8c63fbc8120a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003498.git
 [submodule "ds003505"]
 	path = ds003505
-	url = git://github.com/OpenNeuroDatasets/ds003505.git
+	url = https://github.com/OpenNeuroDatasets/ds003505.git
 	datalad-id = beec98f5-d074-404f-8215-e0de9b6dc40e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003505.git
 [submodule "ds003563"]
 	path = ds003563
-	url = git://github.com/OpenNeuroDatasets/ds003563.git
+	url = https://github.com/OpenNeuroDatasets/ds003563.git
 	datalad-id = 07800171-f765-49f9-a5ed-396cd0c49542
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003563.git
 [submodule "ds003565"]
 	path = ds003565
-	url = git://github.com/OpenNeuroDatasets/ds003565.git
+	url = https://github.com/OpenNeuroDatasets/ds003565.git
 	datalad-id = 421a0cc9-3281-4d88-bad4-47f82f1418f9
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003565.git
 [submodule "ds003011"]
 	path = ds003011
-	url = git://github.com/OpenNeuroDatasets/ds003011.git
+	url = https://github.com/OpenNeuroDatasets/ds003011.git
 	datalad-id = f847662c-c305-11ea-8255-96be0168836a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003011.git
 [submodule "ds003568"]
 	path = ds003568
-	url = git://github.com/OpenNeuroDatasets/ds003568.git
+	url = https://github.com/OpenNeuroDatasets/ds003568.git
 	datalad-id = 1cb7547e-0b84-4b6d-a9a7-2130e9732cf8
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003568.git
 [submodule "ds003569"]
 	path = ds003569
-	url = git://github.com/OpenNeuroDatasets/ds003569.git
+	url = https://github.com/OpenNeuroDatasets/ds003569.git
 	datalad-id = 78b10668-fae1-4813-84b5-b535acdd9d90
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003569.git
 [submodule "ds003570"]
 	path = ds003570
-	url = git://github.com/OpenNeuroDatasets/ds003570.git
+	url = https://github.com/OpenNeuroDatasets/ds003570.git
 	datalad-id = 781924ff-18f5-45ed-adb8-a6dfb5bcdeb3
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003570.git
 [submodule "ds003345"]
 	path = ds003345
-	url = git://github.com/OpenNeuroDatasets/ds003345.git
+	url = https://github.com/OpenNeuroDatasets/ds003345.git
 	datalad-id = bcda3806-7b19-4cf1-b9c9-dc2a5fc7d171
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003345.git
 [submodule "ds002424"]
 	path = ds002424
-	url = git://github.com/OpenNeuroDatasets/ds002424.git
+	url = https://github.com/OpenNeuroDatasets/ds002424.git
 	datalad-id = 876d1ea4-3c7d-11ea-b74e-a64c3dfb0597
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002424.git
 [submodule "ds003574"]
 	path = ds003574
-	url = git://github.com/OpenNeuroDatasets/ds003574.git
+	url = https://github.com/OpenNeuroDatasets/ds003574.git
 	datalad-id = ff62754b-5e83-4840-8db4-6d99b5adcd34
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003574.git
 [submodule "ds003590"]
 	path = ds003590
-	url = git://github.com/OpenNeuroDatasets/ds003590.git
+	url = https://github.com/OpenNeuroDatasets/ds003590.git
 	datalad-id = 40d698dc-1b22-40bb-96de-791088a7c2ad
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003590.git
 [submodule "ds002814"]
 	path = ds002814
-	url = git://github.com/OpenNeuroDatasets/ds002814.git
+	url = https://github.com/OpenNeuroDatasets/ds002814.git
 	datalad-id = 167fc384-9a96-11ea-8eba-967731b5c9f9
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002814.git
 [submodule "ds003599"]
 	path = ds003599
-	url = git://github.com/OpenNeuroDatasets/ds003599.git
+	url = https://github.com/OpenNeuroDatasets/ds003599.git
 	datalad-id = 6e69df94-d77e-492a-97e5-7a0b980212dc
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003599.git
 [submodule "ds003606"]
 	path = ds003606
-	url = git://github.com/OpenNeuroDatasets/ds003606.git
+	url = https://github.com/OpenNeuroDatasets/ds003606.git
 	datalad-id = 0ba87b87-618f-4a24-be79-a221cd5a5f80
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003606.git
 [submodule "ds003612"]
 	path = ds003612
-	url = git://github.com/OpenNeuroDatasets/ds003612.git
+	url = https://github.com/OpenNeuroDatasets/ds003612.git
 	datalad-id = 9c48a333-3cd3-4209-b47d-eb1815c8ed19
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003612.git
 [submodule "ds003626"]
 	path = ds003626
-	url = git://github.com/OpenNeuroDatasets/ds003626.git
+	url = https://github.com/OpenNeuroDatasets/ds003626.git
 	datalad-id = 6697a8a8-3481-4ada-8814-a956cc904899
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003626.git
 [submodule "ds003094"]
 	path = ds003094
-	url = git://github.com/OpenNeuroDatasets/ds003094.git
+	url = https://github.com/OpenNeuroDatasets/ds003094.git
 	datalad-id = 260174e4-e6e8-11ea-8295-0a38a527918f
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003094.git
 [submodule "ds003620"]
 	path = ds003620
-	url = git://github.com/OpenNeuroDatasets/ds003620.git
+	url = https://github.com/OpenNeuroDatasets/ds003620.git
 	datalad-id = 4379f4c7-45cf-4cb5-b643-3e85d2c59bfd
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003620.git
 [submodule "ds003604"]
 	path = ds003604
-	url = git://github.com/OpenNeuroDatasets/ds003604.git
+	url = https://github.com/OpenNeuroDatasets/ds003604.git
 	datalad-id = 04ef29a3-f42e-4dd2-9f59-6427b7c646b0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003604.git
 [submodule "ds001161"]
 	path = ds001161
-	url = git://github.com/OpenNeuroDatasets/ds001161.git
+	url = https://github.com/OpenNeuroDatasets/ds001161.git
 	datalad-id = b64654a8-8746-11e8-954f-0242ac12001e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds001161.git
 [submodule "ds003634"]
 	path = ds003634
-	url = git://github.com/OpenNeuroDatasets/ds003634.git
+	url = https://github.com/OpenNeuroDatasets/ds003634.git
 	datalad-id = 7728d628-5dd9-4013-bf98-533e9e3098e8
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003634.git
 [submodule "ds003608"]
 	path = ds003608
-	url = git://github.com/OpenNeuroDatasets/ds003608.git
+	url = https://github.com/OpenNeuroDatasets/ds003608.git
 	datalad-id = b57773e2-3860-40ed-b23b-70f18882d8b9
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003608.git
 [submodule "ds003642"]
 	path = ds003642
-	url = git://github.com/OpenNeuroDatasets/ds003642.git
+	url = https://github.com/OpenNeuroDatasets/ds003642.git
 	datalad-id = 8d46f0c4-8632-444d-bab5-fb117b0bbc75
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003642.git
 [submodule "ds003639"]
 	path = ds003639
-	url = git://github.com/OpenNeuroDatasets/ds003639.git
+	url = https://github.com/OpenNeuroDatasets/ds003639.git
 	datalad-id = 2c3265b6-909c-40b8-87e4-ead54a644e0a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003639.git
 [submodule "ds003487"]
 	path = ds003487
-	url = git://github.com/OpenNeuroDatasets/ds003487.git
+	url = https://github.com/OpenNeuroDatasets/ds003487.git
 	datalad-id = 745c5338-5bd7-4ab1-9c11-978012e34931
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003487.git
 [submodule "ds003343"]
 	path = ds003343
-	url = git://github.com/OpenNeuroDatasets/ds003343.git
+	url = https://github.com/OpenNeuroDatasets/ds003343.git
 	datalad-id = ece586d2-9212-433b-9788-e4cd18577fcf
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003343.git
 [submodule "ds003647"]
 	path = ds003647
-	url = git://github.com/OpenNeuroDatasets/ds003647.git
+	url = https://github.com/OpenNeuroDatasets/ds003647.git
 	datalad-id = 664e3bb3-48aa-4e55-b525-0c9bcd9ae9a2
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003647.git
 [submodule "ds002843"]
 	path = ds002843
-	url = git://github.com/OpenNeuroDatasets/ds002843.git
+	url = https://github.com/OpenNeuroDatasets/ds002843.git
 	datalad-id = 8c923200-9d20-11ea-9e65-ce19637b99dc
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002843.git
 [submodule "ds003633"]
 	path = ds003633
-	url = git://github.com/OpenNeuroDatasets/ds003633.git
+	url = https://github.com/OpenNeuroDatasets/ds003633.git
 	datalad-id = d7687db7-f5bb-454e-83bb-226d28b6d82f
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003633.git
 [submodule "ds003655"]
 	path = ds003655
-	url = git://github.com/OpenNeuroDatasets/ds003655.git
+	url = https://github.com/OpenNeuroDatasets/ds003655.git
 	datalad-id = 41709738-e81d-412e-af2b-c6c4050844b0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003655.git
 [submodule "ds003645"]
 	path = ds003645
-	url = git://github.com/OpenNeuroDatasets/ds003645.git
+	url = https://github.com/OpenNeuroDatasets/ds003645.git
 	datalad-id = 33028c9c-1606-4b41-bcff-3c48827db955
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003645.git
 [submodule "ds003669"]
 	path = ds003669
-	url = git://github.com/OpenNeuroDatasets/ds003669.git
+	url = https://github.com/OpenNeuroDatasets/ds003669.git
 	datalad-id = 54b09a84-8aac-479b-a71f-67e0cff747ce
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003669.git
 [submodule "ds003643"]
 	path = ds003643
-	url = git://github.com/OpenNeuroDatasets/ds003643.git
+	url = https://github.com/OpenNeuroDatasets/ds003643.git
 	datalad-id = acc00a1b-08c3-4b06-ad19-3de01b33eeed
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003643.git
 [submodule "ds003682"]
 	path = ds003682
-	url = git://github.com/OpenNeuroDatasets/ds003682.git
+	url = https://github.com/OpenNeuroDatasets/ds003682.git
 	datalad-id = 81056ce8-561c-4f55-b423-b36bb2d2bd96
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003682.git
 [submodule "ds003419"]
 	path = ds003419
-	url = git://github.com/OpenNeuroDatasets/ds003419.git
+	url = https://github.com/OpenNeuroDatasets/ds003419.git
 	datalad-id = a438e5a9-4e7e-4e66-b0db-f55cd255d51a
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003419.git
 [submodule "ds003690"]
 	path = ds003690
-	url = git://github.com/OpenNeuroDatasets/ds003690.git
+	url = https://github.com/OpenNeuroDatasets/ds003690.git
 	datalad-id = 90dbff4d-a70e-4d5d-af03-c18a20d6bc67
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003690.git
 [submodule "ds003685"]
 	path = ds003685
-	url = git://github.com/OpenNeuroDatasets/ds003685.git
+	url = https://github.com/OpenNeuroDatasets/ds003685.git
 	datalad-id = f8adfd1c-37f5-4785-977b-c5b52bebe790
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003685.git
 [submodule "ds003688"]
 	path = ds003688
-	url = git://github.com/OpenNeuroDatasets/ds003688.git
+	url = https://github.com/OpenNeuroDatasets/ds003688.git
 	datalad-id = dd077e43-80d5-44a5-8bf6-8bb479b733a0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003688.git
 [submodule "ds003702"]
 	path = ds003702
-	url = git://github.com/OpenNeuroDatasets/ds003702.git
+	url = https://github.com/OpenNeuroDatasets/ds003702.git
 	datalad-id = 977e0fd3-2c6c-4ada-9b04-70aa821e4da7
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003702.git
 [submodule "ds003338"]
 	path = ds003338
-	url = git://github.com/OpenNeuroDatasets/ds003338.git
+	url = https://github.com/OpenNeuroDatasets/ds003338.git
 	datalad-id = 80e07c69-1f2c-4204-9914-32ecf65aa1e0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003338.git
 [submodule "ds003705"]
 	path = ds003705
-	url = git://github.com/OpenNeuroDatasets/ds003705.git
+	url = https://github.com/OpenNeuroDatasets/ds003705.git
 	datalad-id = 837f9920-6e69-473b-8561-98b8e8dd294f
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003705.git
 [submodule "ds003701"]
 	path = ds003701
-	url = git://github.com/OpenNeuroDatasets/ds003701.git
+	url = https://github.com/OpenNeuroDatasets/ds003701.git
 	datalad-id = a294f730-fa1c-490a-b45a-371374f1a8bf
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003701.git
 [submodule "ds003703"]
 	path = ds003703
-	url = git://github.com/OpenNeuroDatasets/ds003703.git
+	url = https://github.com/OpenNeuroDatasets/ds003703.git
 	datalad-id = 328b5913-83ce-47f8-8355-0071fb4fc4da
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003703.git
 [submodule "ds003708"]
 	path = ds003708
-	url = git://github.com/OpenNeuroDatasets/ds003708.git
+	url = https://github.com/OpenNeuroDatasets/ds003708.git
 	datalad-id = a337d143-db00-497d-ab4f-6303bd319609
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003708.git
 [submodule "ds003707"]
 	path = ds003707
-	url = git://github.com/OpenNeuroDatasets/ds003707.git
+	url = https://github.com/OpenNeuroDatasets/ds003707.git
 	datalad-id = c7d34288-dc99-48d6-b227-f9b6de5dfe03
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003707.git
 [submodule "ds003709"]
 	path = ds003709
-	url = git://github.com/OpenNeuroDatasets/ds003709.git
+	url = https://github.com/OpenNeuroDatasets/ds003709.git
 	datalad-id = 28cfbb00-b027-46e4-b674-5573d14496ed
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003709.git
 [submodule "ds003714"]
 	path = ds003714
-	url = git://github.com/OpenNeuroDatasets/ds003714.git
+	url = https://github.com/OpenNeuroDatasets/ds003714.git
 	datalad-id = 7b4359bf-b072-42dd-9c2d-bb63fb13c5d0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003714.git
 [submodule "ds003653"]
 	path = ds003653
-	url = git://github.com/OpenNeuroDatasets/ds003653.git
+	url = https://github.com/OpenNeuroDatasets/ds003653.git
 	datalad-id = 352b484e-4afe-4fce-a042-1684bbca7f1e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003653.git
 [submodule "ds003711"]
 	path = ds003711
-	url = git://github.com/OpenNeuroDatasets/ds003711.git
+	url = https://github.com/OpenNeuroDatasets/ds003711.git
 	datalad-id = 2cf60732-f4c1-40bf-9f39-a1f28753d264
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003711.git
 [submodule "ds003658"]
 	path = ds003658
-	url = git://github.com/OpenNeuroDatasets/ds003658.git
+	url = https://github.com/OpenNeuroDatasets/ds003658.git
 	datalad-id = 34e87d5b-53d3-4cb2-976b-a5a18613e917
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003658.git
 [submodule "ds003670"]
 	path = ds003670
-	url = git://github.com/OpenNeuroDatasets/ds003670.git
+	url = https://github.com/OpenNeuroDatasets/ds003670.git
 	datalad-id = 23649252-e944-46a0-bd7b-c57707a737bc
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003670.git
 [submodule "ds003710"]
 	path = ds003710
-	url = git://github.com/OpenNeuroDatasets/ds003710.git
+	url = https://github.com/OpenNeuroDatasets/ds003710.git
 	datalad-id = 1dff4a26-f14d-4608-ba78-ad09a7e37337
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003710.git
 [submodule "ds003716"]
 	path = ds003716
-	url = git://github.com/OpenNeuroDatasets/ds003716.git
+	url = https://github.com/OpenNeuroDatasets/ds003716.git
 	datalad-id = ac22f255-9072-4cf9-9343-3d682d7ba599
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003716.git
 [submodule "ds003694"]
 	path = ds003694
-	url = git://github.com/OpenNeuroDatasets/ds003694.git
+	url = https://github.com/OpenNeuroDatasets/ds003694.git
 	datalad-id = da994f44-e4ef-4464-b557-3cbc101fd952
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003694.git
 [submodule "ds003722"]
 	path = ds003722
-	url = git://github.com/OpenNeuroDatasets/ds003722.git
+	url = https://github.com/OpenNeuroDatasets/ds003722.git
 	datalad-id = ead444a2-96b0-428e-968b-bcfc94d88ba1
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003722.git
 [submodule "ds003553"]
 	path = ds003553
-	url = git://github.com/OpenNeuroDatasets/ds003553.git
+	url = https://github.com/OpenNeuroDatasets/ds003553.git
 	datalad-id = d12235df-e688-466e-842c-603f93c13d87
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003553.git
 [submodule "ds003554"]
 	path = ds003554
-	url = git://github.com/OpenNeuroDatasets/ds003554.git
+	url = https://github.com/OpenNeuroDatasets/ds003554.git
 	datalad-id = e4c5f9e4-1fc8-4258-98a4-4c097c6bfd87
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003554.git
 [submodule "ds003550"]
 	path = ds003550
-	url = git://github.com/OpenNeuroDatasets/ds003550.git
+	url = https://github.com/OpenNeuroDatasets/ds003550.git
 	datalad-id = 70ca2a1d-265c-4f1a-88d9-f15ca13d537f
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003550.git
 [submodule "ds003739"]
 	path = ds003739
-	url = git://github.com/OpenNeuroDatasets/ds003739.git
+	url = https://github.com/OpenNeuroDatasets/ds003739.git
 	datalad-id = 2cb0a671-28fb-410e-a993-276adf4ac57e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003739.git
 [submodule "ds003745"]
 	path = ds003745
-	url = git://github.com/OpenNeuroDatasets/ds003745.git
+	url = https://github.com/OpenNeuroDatasets/ds003745.git
 	datalad-id = 58be6547-cd45-4cb9-b498-25e88b13c510
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003745.git
 [submodule "ds003752"]
 	path = ds003752
-	url = git://github.com/OpenNeuroDatasets/ds003752.git
+	url = https://github.com/OpenNeuroDatasets/ds003752.git
 	datalad-id = d4bc5335-a9ab-4222-a111-75878b241de6
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003752.git
 [submodule "ds003661"]
 	path = ds003661
-	url = git://github.com/OpenNeuroDatasets/ds003661.git
+	url = https://github.com/OpenNeuroDatasets/ds003661.git
 	datalad-id = 711609f0-089e-447e-8346-5093839eccb8
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003661.git
 [submodule "ds003754"]
 	path = ds003754
-	url = git://github.com/OpenNeuroDatasets/ds003754.git
+	url = https://github.com/OpenNeuroDatasets/ds003754.git
 	datalad-id = 5bfd83e9-8c79-4a91-aba4-67f8fd8eb571
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003754.git
 [submodule "ds003646"]
 	path = ds003646
-	url = git://github.com/OpenNeuroDatasets/ds003646.git
+	url = https://github.com/OpenNeuroDatasets/ds003646.git
 	datalad-id = 48039114-46ab-4b10-92c3-18d2b177bb7e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003646.git
 [submodule "ds003751"]
 	path = ds003751
-	url = git://github.com/OpenNeuroDatasets/ds003751.git
+	url = https://github.com/OpenNeuroDatasets/ds003751.git
 	datalad-id = 3133b8c2-2c70-46bb-9301-3f2025977c7c
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003751.git
 [submodule "ds003397"]
 	path = ds003397
-	url = git://github.com/OpenNeuroDatasets/ds003397.git
+	url = https://github.com/OpenNeuroDatasets/ds003397.git
 	datalad-id = 2f0cdecb-311e-4130-b1b2-4df9fc584e7c
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003397.git
 [submodule "ds003764"]
 	path = ds003764
-	url = git://github.com/OpenNeuroDatasets/ds003764.git
+	url = https://github.com/OpenNeuroDatasets/ds003764.git
 	datalad-id = edf0a0a7-6acd-4505-a23b-6d36f24d3b91
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003764.git
 [submodule "ds003720"]
 	path = ds003720
-	url = git://github.com/OpenNeuroDatasets/ds003720.git
+	url = https://github.com/OpenNeuroDatasets/ds003720.git
 	datalad-id = f4f7323a-50d3-420d-9563-22244a07e441
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003720.git
 [submodule "ds003763"]
 	path = ds003763
-	url = git://github.com/OpenNeuroDatasets/ds003763.git
+	url = https://github.com/OpenNeuroDatasets/ds003763.git
 	datalad-id = 84bbfa33-b9e3-4f7c-9338-56ca3315f4e0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003763.git
 [submodule "ds003721"]
 	path = ds003721
-	url = git://github.com/OpenNeuroDatasets/ds003721.git
+	url = https://github.com/OpenNeuroDatasets/ds003721.git
 	datalad-id = 142b234b-0696-4663-a5c5-3fa03c7df9a4
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003721.git
 [submodule "ds003768"]
 	path = ds003768
-	url = git://github.com/OpenNeuroDatasets/ds003768.git
+	url = https://github.com/OpenNeuroDatasets/ds003768.git
 	datalad-id = 6a1de021-b646-45cf-9a92-494f23aeaedb
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003768.git
 [submodule "ds003758"]
 	path = ds003758
-	url = git://github.com/OpenNeuroDatasets/ds003758.git
+	url = https://github.com/OpenNeuroDatasets/ds003758.git
 	datalad-id = 21edb13c-dc0a-4695-b8a2-ccfa6045fd5d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003758.git
 [submodule "ds003766"]
 	path = ds003766
-	url = git://github.com/OpenNeuroDatasets/ds003766.git
+	url = https://github.com/OpenNeuroDatasets/ds003766.git
 	datalad-id = b8bdf227-2e10-4e49-bed8-a0fc1b56e8dc
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003766.git
 [submodule "ds003770"]
 	path = ds003770
-	url = git://github.com/OpenNeuroDatasets/ds003770.git
+	url = https://github.com/OpenNeuroDatasets/ds003770.git
 	datalad-id = be0b226f-9f33-4607-8ba0-6e812cbd0faa
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003770.git
 [submodule "ds003772"]
 	path = ds003772
-	url = git://github.com/OpenNeuroDatasets/ds003772.git
+	url = https://github.com/OpenNeuroDatasets/ds003772.git
 	datalad-id = 3140bb50-6fe7-41c6-b4a2-7919a0ab6d2b
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003772.git
 [submodule "ds003673"]
 	path = ds003673
-	url = git://github.com/OpenNeuroDatasets/ds003673.git
+	url = https://github.com/OpenNeuroDatasets/ds003673.git
 	datalad-id = 9c73cba1-0727-4856-ae0a-963ebe1a269f
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003673.git
 [submodule "ds003499"]
 	path = ds003499
-	url = git://github.com/OpenNeuroDatasets/ds003499.git
+	url = https://github.com/OpenNeuroDatasets/ds003499.git
 	datalad-id = 9f50cdd4-949b-4165-b3cd-80e04e07cef2
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003499.git
 [submodule "ds003774"]
 	path = ds003774
-	url = git://github.com/OpenNeuroDatasets/ds003774.git
+	url = https://github.com/OpenNeuroDatasets/ds003774.git
 	datalad-id = 00ecf6ab-c458-4a9f-bd93-a7db869b6ec7
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003774.git
 [submodule "ds003775"]
 	path = ds003775
-	url = git://github.com/OpenNeuroDatasets/ds003775.git
+	url = https://github.com/OpenNeuroDatasets/ds003775.git
 	datalad-id = 315e0daf-f22d-4868-ab12-a8bb5a347210
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003775.git
 [submodule "ds003826"]
 	path = ds003826
-	url = git://github.com/OpenNeuroDatasets/ds003826.git
+	url = https://github.com/OpenNeuroDatasets/ds003826.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003826.git
 [submodule "ds003821"]
 	path = ds003821
-	url = git://github.com/OpenNeuroDatasets/ds003821.git
+	url = https://github.com/OpenNeuroDatasets/ds003821.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003821.git
 [submodule "ds003777"]
 	path = ds003777
-	url = git://github.com/OpenNeuroDatasets/ds003777.git
+	url = https://github.com/OpenNeuroDatasets/ds003777.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003777.git
 [submodule "ds003787"]
 	path = ds003787
-	url = git://github.com/OpenNeuroDatasets/ds003787.git
+	url = https://github.com/OpenNeuroDatasets/ds003787.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003787.git
 [submodule "ds003778"]
 	path = ds003778
-	url = git://github.com/OpenNeuroDatasets/ds003778.git
+	url = https://github.com/OpenNeuroDatasets/ds003778.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003778.git
 [submodule "ds003782"]
 	path = ds003782
-	url = git://github.com/OpenNeuroDatasets/ds003782.git
+	url = https://github.com/OpenNeuroDatasets/ds003782.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003782.git
 [submodule "ds003791"]
 	path = ds003791
-	url = git://github.com/OpenNeuroDatasets/ds003791.git
+	url = https://github.com/OpenNeuroDatasets/ds003791.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003791.git
 [submodule "ds003813"]
 	path = ds003813
-	url = git://github.com/OpenNeuroDatasets/ds003813.git
+	url = https://github.com/OpenNeuroDatasets/ds003813.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003813.git
 [submodule "ds003799"]
 	path = ds003799
-	url = git://github.com/OpenNeuroDatasets/ds003799.git
+	url = https://github.com/OpenNeuroDatasets/ds003799.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003799.git
 [submodule "ds003816"]
 	path = ds003816
-	url = git://github.com/OpenNeuroDatasets/ds003816.git
+	url = https://github.com/OpenNeuroDatasets/ds003816.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003816.git
 [submodule "ds003812"]
 	path = ds003812
-	url = git://github.com/OpenNeuroDatasets/ds003812.git
+	url = https://github.com/OpenNeuroDatasets/ds003812.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003812.git
 [submodule "ds003810"]
 	path = ds003810
-	url = git://github.com/OpenNeuroDatasets/ds003810.git
+	url = https://github.com/OpenNeuroDatasets/ds003810.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003810.git
 [submodule "ds003800"]
 	path = ds003800
-	url = git://github.com/OpenNeuroDatasets/ds003800.git
+	url = https://github.com/OpenNeuroDatasets/ds003800.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003800.git
 [submodule "ds003830"]
 	path = ds003830
-	url = git://github.com/OpenNeuroDatasets/ds003830.git
+	url = https://github.com/OpenNeuroDatasets/ds003830.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003830.git
 [submodule "ds003844"]
 	path = ds003844
-	url = git://github.com/OpenNeuroDatasets/ds003844.git
+	url = https://github.com/OpenNeuroDatasets/ds003844.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003844.git
 [submodule "ds003822"]
 	path = ds003822
-	url = git://github.com/OpenNeuroDatasets/ds003822.git
+	url = https://github.com/OpenNeuroDatasets/ds003822.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003822.git
 [submodule "ds003825"]
 	path = ds003825
-	url = git://github.com/OpenNeuroDatasets/ds003825.git
+	url = https://github.com/OpenNeuroDatasets/ds003825.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003825.git
 [submodule "ds003846"]
 	path = ds003846
-	url = git://github.com/OpenNeuroDatasets/ds003846.git
+	url = https://github.com/OpenNeuroDatasets/ds003846.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003846.git
 [submodule "ds003805"]
 	path = ds003805
-	url = git://github.com/OpenNeuroDatasets/ds003805.git
+	url = https://github.com/OpenNeuroDatasets/ds003805.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003805.git
 [submodule "ds003849"]
 	path = ds003849
-	url = git://github.com/OpenNeuroDatasets/ds003849.git
+	url = https://github.com/OpenNeuroDatasets/ds003849.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003849.git
 [submodule "ds003850"]
 	path = ds003850
-	url = git://github.com/OpenNeuroDatasets/ds003850.git
+	url = https://github.com/OpenNeuroDatasets/ds003850.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003850.git
 [submodule "ds003858"]
 	path = ds003858
-	url = git://github.com/OpenNeuroDatasets/ds003858.git
+	url = https://github.com/OpenNeuroDatasets/ds003858.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003858.git
 [submodule "ds003425"]
 	path = ds003425
-	url = git://github.com/OpenNeuroDatasets/ds003425.git
+	url = https://github.com/OpenNeuroDatasets/ds003425.git
 	datalad-id = 364e7432-af7f-40b9-a7f5-690bec9fac3e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003425.git
 [submodule "ds003974"]
 	path = ds003974
-	url = git://github.com/OpenNeuroDatasets/ds003974.git
+	url = https://github.com/OpenNeuroDatasets/ds003974.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003974.git
 [submodule "ds003989"]
 	path = ds003989
-	url = git://github.com/OpenNeuroDatasets/ds003989.git
+	url = https://github.com/OpenNeuroDatasets/ds003989.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003989.git
 [submodule "ds003990"]
 	path = ds003990
-	url = git://github.com/OpenNeuroDatasets/ds003990.git
+	url = https://github.com/OpenNeuroDatasets/ds003990.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003990.git
 [submodule "ds003340"]
 	path = ds003340
-	url = git://github.com/OpenNeuroDatasets/ds003340.git
+	url = https://github.com/OpenNeuroDatasets/ds003340.git
 	datalad-id = a233d195-a698-48b2-b91d-55bae64d9ec4
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003340.git
 [submodule "ds002169"]
 	path = ds002169
-	url = git://github.com/OpenNeuroDatasets/ds002169.git
+	url = https://github.com/OpenNeuroDatasets/ds002169.git
 	datalad-id = e620a582-d35f-11e9-bf85-9a21c7ef920c
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002169.git
 [submodule "ds000232"]
 	path = ds000232
-	url = git://github.com/OpenNeuroDatasets/ds000232.git
+	url = https://github.com/OpenNeuroDatasets/ds000232.git
 	datalad-id = 80bfe226-8928-11e8-be04-0242ac120023
 	datalad-url = https://github.com/OpenNeuroDatasets/ds000232.git
 [submodule "ds002675"]
 	path = ds002675
-	url = git://github.com/OpenNeuroDatasets/ds002675.git
+	url = https://github.com/OpenNeuroDatasets/ds002675.git
 	datalad-id = e15ca142-7456-11ea-a6f4-eec3c20addae
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002675.git
 [submodule "ds002684"]
 	path = ds002684
-	url = git://github.com/OpenNeuroDatasets/ds002684.git
+	url = https://github.com/OpenNeuroDatasets/ds002684.git
 	datalad-id = dc3d86c6-779e-11ea-b35c-e2a44c125e4d
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002684.git
 [submodule "ds003176"]
 	path = ds003176
-	url = git://github.com/OpenNeuroDatasets/ds003176.git
+	url = https://github.com/OpenNeuroDatasets/ds003176.git
 	datalad-id = e65320f1-a170-4930-843d-3834ad1abb70
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003176.git
 [submodule "ds003357"]
 	path = ds003357
-	url = git://github.com/OpenNeuroDatasets/ds003357.git
+	url = https://github.com/OpenNeuroDatasets/ds003357.git
 	datalad-id = 0815f0f3-2ebc-4173-92e8-120f778b6fe2
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003357.git
 [submodule "ds003381"]
 	path = ds003381
-	url = git://github.com/OpenNeuroDatasets/ds003381.git
+	url = https://github.com/OpenNeuroDatasets/ds003381.git
 	datalad-id = 83baec62-6c92-4406-b606-5a6c466255e0
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003381.git
 [submodule "ds003427"]
 	path = ds003427
-	url = git://github.com/OpenNeuroDatasets/ds003427.git
+	url = https://github.com/OpenNeuroDatasets/ds003427.git
 	datalad-id = 05753d98-daa5-49ad-9629-d1865967a1cc
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003427.git
 [submodule "ds001371"]
 	path = ds001371
-	url = git://github.com/OpenNeuroDatasets/ds001371.git
+	url = https://github.com/OpenNeuroDatasets/ds001371.git
 	datalad-id = 0aa2f140-8a8c-11e8-8b2f-0242ac120026
 	datalad-url = https://github.com/OpenNeuroDatasets/ds001371.git
 [submodule "ds001848"]
 	path = ds001848
-	url = git://github.com/OpenNeuroDatasets/ds001848.git
+	url = https://github.com/OpenNeuroDatasets/ds001848.git
 	datalad-id = 63a96ddc-5c80-11e9-af54-0242ac130006
 	datalad-url = https://github.com/OpenNeuroDatasets/ds001848.git
 [submodule "ds002738"]
 	path = ds002738
-	url = git://github.com/OpenNeuroDatasets/ds002738.git
+	url = https://github.com/OpenNeuroDatasets/ds002738.git
 	datalad-id = dd43a010-8661-11ea-bf1d-aa28822dc669
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002738.git
 [submodule "ds002741"]
 	path = ds002741
-	url = git://github.com/OpenNeuroDatasets/ds002741.git
+	url = https://github.com/OpenNeuroDatasets/ds002741.git
 	datalad-id = 0c9c5196-8684-11ea-902c-7a931b4286ec
 	datalad-url = https://github.com/OpenNeuroDatasets/ds002741.git
 [submodule "ds003949"]
 	path = ds003949
-	url = git://github.com/OpenNeuroDatasets/ds003949.git
+	url = https://github.com/OpenNeuroDatasets/ds003949.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003949.git
 [submodule "ds004000"]
 	path = ds004000
-	url = git://github.com/OpenNeuroDatasets/ds004000.git
+	url = https://github.com/OpenNeuroDatasets/ds004000.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004000.git
 [submodule "ds004007"]
 	path = ds004007
-	url = git://github.com/OpenNeuroDatasets/ds004007.git
+	url = https://github.com/OpenNeuroDatasets/ds004007.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004007.git
 [submodule "ds004006"]
 	path = ds004006
-	url = git://github.com/OpenNeuroDatasets/ds004006.git
+	url = https://github.com/OpenNeuroDatasets/ds004006.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004006.git
 [submodule "ds003947"]
 	path = ds003947
-	url = git://github.com/OpenNeuroDatasets/ds003947.git
+	url = https://github.com/OpenNeuroDatasets/ds003947.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003947.git
 [submodule "ds003944"]
 	path = ds003944
-	url = git://github.com/OpenNeuroDatasets/ds003944.git
+	url = https://github.com/OpenNeuroDatasets/ds003944.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003944.git
 [submodule "ds004009"]
 	path = ds004009
-	url = git://github.com/OpenNeuroDatasets/ds004009.git
+	url = https://github.com/OpenNeuroDatasets/ds004009.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004009.git
 [submodule "ds004010"]
 	path = ds004010
-	url = git://github.com/OpenNeuroDatasets/ds004010.git
+	url = https://github.com/OpenNeuroDatasets/ds004010.git
 	datalad-url = https://github.com/OpenNeuroDatasets/ds004010.git
 [submodule "ds003020"]
 	path = ds003020
-	url = git://github.com/OpenNeuroDatasets/ds003020.git
+	url = https://github.com/OpenNeuroDatasets/ds003020.git
 	datalad-id = 2d8ffe82-c533-11ea-8955-72441a294b1e
 	datalad-url = https://github.com/OpenNeuroDatasets/ds003020.git
