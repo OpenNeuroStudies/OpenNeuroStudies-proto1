@@ -1,0 +1,14 @@
+#!/bin/bash
+# helper to archive dataset if no longer available online
+
+set -eu
+ds=${1##*/}
+
+if GIT_TERMINAL_PROMPT=0 git ls-remote "https://github.com/OpenNeuroDatasets/$ds" ; then
+    echo "$ds is still reachable" >&2
+    exit 1
+fi
+
+mv "$ds" .git/_archive_
+datalad save -m "$ds was archived" -d . "$ds"
+
