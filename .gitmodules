@@ -5519,3 +5519,8 @@
 	url = https://github.com/OpenNeuroDatasets/ds005697.git
 	datalad-id = 5c5469d1-9f8b-4e9c-8bcd-f38dca524461
 	datalad-url = https://github.com/OpenNeuroDatasets/ds005697.git
+[submodule "ds005700"]
+	path = ds005700
+	url = https://github.com/OpenNeuroDatasets/ds005700.git
+	datalad-id = 192224d0-cc42-48ae-be95-cac1182f0672
+	datalad-url = https://github.com/OpenNeuroDatasets/ds005700.git
