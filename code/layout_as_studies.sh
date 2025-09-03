@@ -69,10 +69,11 @@ print('\t'.join(row))
 		ds_=${der%%-*}
 		test "$ds_" = "$ds"
 		deriv=${der#*-}
-		ver=$(fetch_cached "https://raw.githubusercontent.com/OpenNeuroDerivatives/$der/refs/heads/$(get_default_branch OpenNeuroDerivatives/$der)/dataset_description.json" | jq -r .GeneratedBy[0].Version)
-		name=$(fetch_cached "https://raw.githubusercontent.com/OpenNeuroDerivatives/$der/refs/heads/main/dataset_description.json" | jq -r .GeneratedBy[0].Name)
-		git mv "$der" "$sds/derivatives/$deriv-$ver"
-		echo -e "$deriv-$ver\t$name\t$ver" >> "$sds/derivatives.tsv"
+		ver=$(fetch_cached "https://raw.githubusercontent.com/OpenNeuroDerivatives/$der/refs/heads/$(get_default_branch OpenNeuroDerivatives/$der)/dataset_description.json" | jq -r .GeneratedBy[0].Version || echo n/a)
+		name=$(fetch_cached "https://raw.githubusercontent.com/OpenNeuroDerivatives/$der/refs/heads/main/dataset_description.json" | jq -r .GeneratedBy[0].Name || echo n/a)
+		deriv_id="$deriv-${ver//\//-}"
+		git mv "$der" "$sds/derivatives/$deriv_id"
+		echo -e "${deriv_id}\t$name\t$ver" >> "$sds/derivatives.tsv"
 	done
 	git add "$sds/derivatives.tsv"
 	# break
