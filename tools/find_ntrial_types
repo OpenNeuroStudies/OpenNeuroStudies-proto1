@@ -1,0 +1,12 @@
+#!/bin/bash
+
+set -eu
+
+function ntrial_types() { csvcut -t -c trial_type "$1" | grep -v trial_type | sort -n | uniq -c | wc -l; }
+
+for ds in ds*; do
+    # will be pretty much distribution - of how many of each size we encountered in this dataset
+    ndist=$(find "$ds" -iname *events.tsv | while read -r fname; do ntrial_types "$fname" 2>/dev/null; done | sort -nr | uniq -c | tr '\n' ';')
+    echo "$ds: $ndist"
+done
+
