@@ -1,0 +1,18 @@
+{
+    "Acknowledgements": "We thank all contributors to OpenNeuro, OpenNeuro and BIDS Maintainers.",
+    "Authors": [
+        "Yaroslav O. Halchenko",
+        "Joe Wexler"
+    ],
+    "BIDSVersion": "1.10.1",
+    "Funding": [
+        "2R24MH117179"
+    ],
+    "License": "CC0",
+    "Name": "DataLad super-dataset composing all OpenNeuro datasets into study folders",
+    "ReferencesAndLinks": [
+        "https://openneuro.org/",
+        "https://datasets.datalad.org/?dir=/openneuro",
+        "https://github.com/OpenNeuroDerivatives/"
+    ]
+}
