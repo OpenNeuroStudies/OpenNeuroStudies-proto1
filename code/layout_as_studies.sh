@@ -42,7 +42,7 @@ for ds in "${dss[@]}"; do
 	sds="study-$ds"
 	mkdir -p "$sds"/{derivatives,sourcedata}
 	# TODO: add `git describe --tags` output somehow or version from CHANGES?
-	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
+	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; j["BIDSVersion"]="1.10.1"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
 		echo " E: likely is not a BIDS dataset!"
 		echo -e "$sds\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
 	else
@@ -78,6 +78,7 @@ print('\t'.join(row))
 	git add "$sds/derivatives.tsv"
 	# break
 done
+
 # TODO: enhance studies.tsv with information about derivatives -- either they are complete or not and either correspond to the same version of the dataset as what we have now etc. But may be that should be already part of the dashboarding
 # TODO: move generation and update of the derivatives.tsv and studies.tsv into a reusable function
 # which would also "bubble up" the status of processing
