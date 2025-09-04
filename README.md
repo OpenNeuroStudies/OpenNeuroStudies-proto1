@@ -21,4 +21,7 @@ It is built
   each study `derivatives.tsv` such as
   [study-ds000002/derivatives.tsv](https://github.com/OpenNeuroStudies/OpenNeuroStudies/blob/main/study-ds000002/derivatives.tsv).
 
+Remember that for viewing .tsv files locally you can use an awesome
+[visidata](https://www.visidata.org/) tool.
+
 For more TODOs etc see the initial https://github.com/OpenNeuroStudies/OpenNeuroStudies/issues/1 .
