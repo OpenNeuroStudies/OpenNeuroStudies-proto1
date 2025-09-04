@@ -10,7 +10,7 @@ set -eu
 if [ -n "$*" ]; then
 	dss="$@"
 else
-	dss=( $(/bin/ls -1d ds0?????) )
+	dss=( $(/bin/ls -1d ds0????? | echo -n '') )
 fi
 
 function fetch_cached() {
