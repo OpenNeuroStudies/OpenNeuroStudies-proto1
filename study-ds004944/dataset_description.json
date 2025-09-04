@@ -1,0 +1,29 @@
+{
+  "Name": "Dataset of BCI2000-compatible intraoperative ECoG with neuromorphic encoding",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Filippo Costa",
+    "Niklaus Krayenb\u00fchl",
+    "Georgia Ramantani",
+    "Ece Boran",
+    "Kristina K\u00f6nig",
+    "Johannes Sarnthein"
+  ],
+  "Acknowledgements": "We thank V. Dimakopoulos for help in reformating the data to BIDS. We acknowledge a grant awarded by the Swiss National Science Foundation (funded by the SNSF 204651 to JS and GI with GR and NK as project partners). The funders had no role in the design or analysis of the study.",
+  "HowToAcknowledge": "If using the raw data, please cite: Ece Boran, Georgia Ramantani, Niklaus Krayenb\u00fchl, Maxine Schreiber, Kristina K\u00f6nig, Tommaso Fedele, Johannes Sarnthein **High-density ECoG improves the detection of high frequency oscillations that predict seizure outcome**, _Clinical Neurophysiology_ [https://doi.org/10.1016/j.clinph.2019.07.008]\n\nIf using the derivatives, please cite: Filippo Costa, Eline Schaft, Geertjan Huiskamp, Erik Aarnoutse, Maryse van\u2019t Klooster, Niklaus Krayenb\u00fchl, Georgia Ramantani, Maeike Zijlmans, Giacomo Indiveri, Johannes Sarnthein, **Robust compression and detection of epileptiform patterns in ECoG using a real-time spiking neural network hardware framework**, _Nature Communications_ [https://doi.org/10.1038/s41467-024-47495-y]",
+  "Funding": [
+    "Swiss National Science Foundation, SNSF 204651"
+  ],
+  "EthicsApprovals": [
+    "The collection of patient data and their analysis was approved and performed in accordance with the guidelines",
+    "and regulations of the local research ethics committee (Kantonale Ethikkommission Z\u00fcrich 2018\u201302171).",
+    "All patients and/or their parents provided informed consent to reuse their clinical data for research purposes."
+  ],
+  "ReferencesAndLinks": [
+    "Ece Boran, Georgia Ramantani, Niklaus Krayenb\u00fchl, Maxine Schreiber, Kristina K\u00f6nig, Tommaso Fedele, Johannes Sarnthein **High-density ECoG improves the detection of high frequency oscillations that predict seizure outcome**, _Clinical Neurophysiology_ [https://doi.org/10.1016/j.clinph.2019.07.008]",
+    "Filippo Costa, Eline Schaft, Geertjan Huiskamp, Erik Aarnoutse, Maryse van\u2019t Klooster, Niklaus Krayenb\u00fchl, Georgia Ramantani, Maeike Zijlmans, Giacomo Indiveri, Johannes Sarnthein, **Robust compression and detection of epileptiform patterns in ECoG using a real-time spiking neural network hardware framework**, _Nature Communications_ [https://doi.org/10.1038/s41467-024-47495-y]"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004944.v1.1.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "The neurocognitive role of working memory load when Pavlovian motivational control affects instrumental learning",
+  "Authors": [
+    "Heesun Park",
+    "Hoyoung Doh",
+    "Eunhwi Lee",
+    "Harhim Park",
+    "Woo-Young Ahn"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004647.v1.0.2",
+  "Funding": [
+    "This work was supported by the Basic Science Research Program through the National Research Foundation (NRF) of Korea (https://nrf.re.kr/) funded by the Ministry of Science and ICT (MSIT) (https://www.msit.go.kr/) (NRF-2018R1C1B300731315 and NRF-2018R1A4A102589113), the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT) (No. 2021M3E5D2A0102249311), the Creative-Pioneering Researchers Program through Seoul National University (https://www.snu.ac.kr/), and the BK21 FOUR (https://bk21four.nrf.re.kr/) program [5199990314123] to W.-Y.A. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  ],
+  "License": "CC0",
+  "DatasetType": "study"
+}

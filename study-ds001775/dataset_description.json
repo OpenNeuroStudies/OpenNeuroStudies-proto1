@@ -1,0 +1,16 @@
+{
+  "Name": "Neural Differentiation Tracks Improved Recall of Competing Memories Following Interleaved Study and Retrieval Practice",
+  "License": "",
+  "Authors": [
+    "Hulbert, J.C., & Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/neural-differentiation-tracks-improved-recall-of-competing-memories-following-interleaved-study-and-retrieval-practice.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001775.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

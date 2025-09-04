@@ -1,0 +1,17 @@
+{
+  "Name": "fastVsSlowERtactile7T",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sarah Khalife",
+    "Susan T. Francis",
+    "Denis Schluppeck",
+    "Rosa Maria Sanchez-Panchuelo",
+    "Julien Besle"
+  ],
+  "Funding": [
+    "This work was supported by a BBSRC grant (BB/G008906/1) and by the University Research Board of the American University of Beirut. The funding sources had no involvement in the study design, collection, analysis and interpretation of data, writing of the manuscript or decision to submit the article for publication."
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003990.v1.0.2",
+  "DatasetType": "study"
+}

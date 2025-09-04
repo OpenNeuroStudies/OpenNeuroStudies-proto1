@@ -1,0 +1,27 @@
+{
+  "Name": "pseudo PRISM images",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Wei-Tang Chang",
+    "",
+    ""
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005737.v1.0.1"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "The Contributionsof Eye Gaze Fixations and Target-Lure Similarity to Behavioral and fMRI Indices of Pattern Separation and Pattern Completion",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Daniel K. Bjornn",
+    "Julie Van",
+    "C. Brock Kirwan"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003711.v1.0.0",
+  "DatasetType": "study"
+}

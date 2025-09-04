@@ -1,0 +1,16 @@
+{
+  "Name": "pyFR: Delayed Free Recall of Word Lists, Preliminary Cognitive Electrophysiology Study",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Haydn G. Herrema",
+    "Michael J. Kahana"
+  ],
+  "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital.",
+  "License": "CC0",
+  "Funding": [
+    "NIH: MH055687",
+    "NIH: MH061975"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004865.v2.0.1"
+}

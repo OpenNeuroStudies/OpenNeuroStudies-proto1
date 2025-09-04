@@ -1,0 +1,27 @@
+{
+  "Name": "An fMRI dataset for investigating language control and cognitive control in bilinguals",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Tingting Guo",
+    "Xuedi Liu",
+    "Mo Chen",
+    "Yongben Fu",
+    "Taomei Guo"
+  ],
+  "Acknowledgements": "This study was supported by the National Natural Science Foundation of China (31871097) to Taomei Guo. We would like to express our deepest gratitude to the participants who volunteered to participate in this study.",
+  "HowToAcknowledge": "When using this dataset in your research, please cite: Guo et al., 2025, Scientific Data (https://doi.org/10.1038/s41597-025-05245-9)",
+  "License": "CC0",
+  "Disclaimer": "Although OpenNeuro requires CC0 licensing, users are ethically expected to comply with CC BY-NC-ND terms as specified in our publication [https://doi.org/10.1038/s41597-025-05245-9]. Commercial use prohibited.",
+  "Funding": [
+    "31871097 (to Taomei Guo)"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Institutional Review Board of the Imaging Center for Brain Research of Beijing Normal University under Protocol Number ICBIR_A_0012_003."
+  ],
+  "ReferencesAndLinks": [
+    "GitHub repository: https://github.com/GttNeuro/Guo-Lab_datapaper",
+    "Dataset description paper: https://doi.org/10.1038/s41597-025-05245-9"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005455.v1.1.6",
+  "DatasetType": "study"
+}

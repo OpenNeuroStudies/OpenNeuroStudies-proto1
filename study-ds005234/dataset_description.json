@@ -1,0 +1,29 @@
+{
+  "Name": "Perception of vowel sounds in children with autism spectrum disorders and typically developing children (MEG/ERF study)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kirill A. Fadeev",
+    "Ilacai V. Romero Reyes",
+    "Dzerassa D. Goiaeva",
+    "Tatyana S. Obukhova",
+    "Tatyana M. Ovsiannikova",
+    "Andrey O. Prokofyev",
+    "Anna M. Rytikova",
+    "Artyom Y. Novikov",
+    "Vladimir V. Kozunov",
+    "Tatyana A. Stroganova",
+    "Elena V. Orekhova"
+  ],
+  "HowToAcknowledge": "Please acknowledge this dataset by indicating that it is distributed under the CC BY license. According to this license, when using this dataset, including a reference link to it (i.e., by DOI) is mandatory.",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005234.v2.1.7",
+  "Acknowledgements": "We sincerely thank all of volunteers who participated in this study.",
+  "Funding": [
+    "The state assignment of the Ministry of Education of the Russian Federation (N 073-00037-24-01)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1186/s11689-024-09585-2",
+    "https://doi.org/10.1101/2024.06.24.600191"
+  ]
+}

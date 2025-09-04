@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "We would like to thank to Christophe Lenglet for helping with setting up diffusion MRI protocols.",
+  "Authors": [
+    "Omer Faruk Gulban",
+    "Kevin R. Sitek",
+    "Satrajit S. Ghosh",
+    "Michelle Moerel",
+    "Federico De Martino"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds001942.v1.2.0",
+  "Funding": [
+    "Data collected by Omer Faruk Gulban and Federico De Martino under NWO VIDI grant 864-13-012. ",
+    "Data also collected by Michelle Moerel under NWO VENI grant 451-15-012."
+  ],
+  "HowToAcknowledge": "Please cite as Sitek & Gulban, et al. (2019): https://elifesciences.org/articles/48932",
+  "License": "CC0",
+  "Name": "Auditory localization with 7T fMRI",
+  "ReferencesAndLinks": [
+    "See https://github.com/sitek/subcortical-auditory-atlas for analysis details and code.",
+    "See https://osf.io/hxekn/ for derived images and videos."
+  ],
+  "DatasetType": "study"
+}

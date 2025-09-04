@@ -1,0 +1,25 @@
+{
+  "Name": "Germ-free_MRI",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Xin Yi Yeo",
+    "Woo Ri Chae",
+    "Li Yang Tan",
+    "Sven Pettersson",
+    "Joanes Grandjean",
+    "Sangyong Jung"
+  ],
+  "HowToAsknowledge": "Cite this dataset. Article DOI pending.",
+  "Funding": [
+    "This work is supported by the Joint Council Office grant (BMSI/15- 800003-SBIC-00E) from Agency for Science, technology and Research (A*STAR), Singapore."
+  ],
+  "EthicApprovals": [
+    "All experiments and data acquisition associated with the current dataset were performed with the approval of the Biomedical Sciences Institute (Agency of Science, Technology and Research, Singapore) and Regional Animal Research Ethical Board (Nanyang Technological Universiy), Institutional Animal Care Committee, Singapore and per the approved guidelines of Nanyang Technological Universiy. "
+  ],
+  "ReferenceAndLinks": [
+    "https://github.com/BrkRaw/brkraw"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004254.v1.0.0",
+  "DatasetType": "study"
+}

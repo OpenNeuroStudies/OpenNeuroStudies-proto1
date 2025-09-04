@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Marc Himmelberg",
+    "Ekin Tuncok",
+    "Jesse Gomez",
+    "Kalanit Grill-Spector",
+    "Marisa Carrasco",
+    "Jonathan Winawer"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004440.v1.0.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Stanford Child and Adult Checkerboard Retinotopy Dataset",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

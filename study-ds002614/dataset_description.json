@@ -1,0 +1,16 @@
+{
+  "Name": "Meditacion Interocepcion",
+  "License": "CC0",
+  "Authors": [
+    "Enzo Tagliazucchi"
+  ],
+  "Acknowledgements": "None",
+  "HowToAcknowledge": "NA",
+  "Funding": [
+    "None"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds002614.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

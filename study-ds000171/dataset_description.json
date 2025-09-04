@@ -1,0 +1,28 @@
+{
+  "Name": "Neural Processing of Emotional Musical and Nonmusical Stimuli in Depression",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Rebecca J. Lepping",
+    "Ruth Ann Atchley",
+    "Evangelia Chrysikou",
+    "Laura E. Martin",
+    "Alicia A. Clair",
+    "Rick E. Ingram",
+    "W. Kyle Simmons",
+    "Cary R. Savage"
+  ],
+  "Acknowledgements": "The authors wish to acknowledge Trisha Patrician and Natalie Stroupe for their assistance with screening of participants, and Allan Schmitt and Franklin Hunsinger for their role in collecting the MR data.",
+  "HowToAcknowledge": "Please cite the papers listed in the ReferencesAndLinks",
+  "Funding": "This work was supported by funding to RL from The Society for Education, Music and Psychology Research (SEMPRE: Arnold Bentley New Initiatives Fund), and the University of Kansas Doctoral Student Research Fund. MR imaging was provided by pilot funding from the Hoglund Brain Imaging Center. The Hoglund Brain Imaging Center is supported by a generous gift from Forrest and Sally Hoglund and funding from the National Institutes of Health (UL1 TR000001). The contents of this dataset are solely the responsibility of the authors and do not necessarily represent the official views of the NIH or any individual institute. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the associated manuscript.",
+  "ReferencesAndLinks": [
+    "Lepping RJ, Atchley RA, Chrysikou E, Martin LE, Clair AA, Ingram RE, et al. Neural processing of emotional musical and nonmusical stimuli in depression.  PlosONE.  In Press.",
+    "Lepping RJ, Atchley RA, Savage CR. Development of a Validated Emotionally Provocative Musical Stimulus Set for Research. Psychology of Music. 2015; online before print. doi:10.1177/0305735615604509.",
+    "Lepping RJ, Atchley RA, Martin LE, Patrician TM, Stroupe N, Brooks WM, et al. Limbic responses to positive and negative emotionally evocative music: An fMRI study.  Society for Neuroscience annual meeting 2012 Oct 13-18; New Orleans, LA 2012.",
+    "Lepping RJ, Atchley RA, Martin LE, Brooks WM, Clair AA, Ingram RE, et al. Musical and nonmusical sounds evoke different patterns of neural activity: An fMRI study.  Psychonomic Society annual meeting; 2012 Nov 14-18; Minneapolis, MN 2012.",
+    "Lepping RJ, Atchley RA, Martin LE, Patrician TM, Ingram RE, Clair AA, et al. The effect of musical experiences and musical training on neural responses to emotionally evocative music and non-musical sounds.  Social and Affective Neuroscience Society annual conference 2013 Apr 12-13; San Francisco, CA 2013",
+    "Lepping RJ, Atchley RA, Patrician TM, Stroupe NN, Martin LE, Ingram RE, et al. Music to my ears: Neural responsiveness to emotional music and sounds in depression.  Society of Biological Psychiatry annual scientific convention 2013 May 16-18; San Francisco, CA 2013."
+  ],
+  "AccessionNumber": "ds000171",
+  "DatasetType": "study"
+}

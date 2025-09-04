@@ -1,0 +1,25 @@
+{
+  "Authors": [
+    "Harrison Ritz",
+    "Amitai Shenhav"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004909.v1.1.0",
+  "Funding": [
+    "NIH grant R01MH124849",
+    "NSF CAREER Award 2046111",
+    "NIH grant S10OD025181"
+  ],
+  "HowToAcknowledge": "Citation TBD. Paper title: Orthogonal neural encoding of targets and distractors supports multivariate cognitive control",
+  "License": "CC0",
+  "Name": "PACT_fMRI",
+  "ReferencesAndLinks": [
+    "analysis code: https://github.com/shenhavlab/PACT_fMRI_public",
+    "updated links to paper and code: https://harrisonritz.github.io"
+  ],
+  "Acknowledgements": "Thanks to Joonhwa Kim and Xiamin Leng for assistance with data collection.",
+  "EthicsApprovals": [
+    "This experiment was approved by Brown University's institutional review board (IRB approval code: 1606001539)."
+  ],
+  "DatasetType": "study"
+}

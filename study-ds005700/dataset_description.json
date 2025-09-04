@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "The authors acknowledge the fMRI center of Central Institute of Psychiatry (CIP), Kanke, Ranchi, and its Institute Ethics Committee for approval and support",
+  "Authors": [
+    "Abgeena Abgeena",
+    "Shruti Garg",
+    "Nishant Goyal",
+    "Justin Raj PC"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005700.v1.2.0",
+  "Funding": [
+    "NA"
+  ],
+  "HowToAcknowledge": "TODO: Cite a corresponding paper\nAbgeena, A., Garg, S., Goyal, N. and PC, J.R., 2025. NeuroEmo: A neuroimaging-based fMRI dataset to extract temporal affective brain dynamics for Indian movie video clips stimuli using dynamic functional connectivity approach with graph convolution neural network (DFC-GCNN). Computers in Biology and Medicine, 194, p.110439. https://doi.org/10.1016/j.compbiomed.2025.110439",
+  "License": "CC0",
+  "Name": "NeuroEmo: An fMRI Dataset for Emotion Recognition",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites",
+    "Abgeena, A., Garg, S., Goyal, N. and PC, J.R., 2025. NeuroEmo: A neuroimaging-based fMRI dataset to extract temporal affective brain dynamics for Indian movie video clips stimuli using dynamic functional connectivity approach with graph convolution neural network (DFC-GCNN). Computers in Biology and Medicine, 194, p.110439."
+  ],
+  "DatasetType": "study"
+}

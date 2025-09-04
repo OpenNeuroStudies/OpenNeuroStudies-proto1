@@ -1,0 +1,12 @@
+{
+  "Name": "Neural representation of consciously seen and unseen information",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Pablo Rodr\u00edguez-San Esteban",
+    "Ana B. Chica",
+    "Jos\u00e9 A. Gonz\u00e1lez-L\u00f3pez"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005273.v1.0.0",
+  "License": "CC0"
+}

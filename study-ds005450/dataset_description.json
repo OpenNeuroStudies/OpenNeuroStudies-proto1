@@ -1,0 +1,77 @@
+{
+  "Name": "BOBS Repo",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "Baby Open Brains: An open-source repository of infant brain segmentations",
+  "GeneratedBy": [
+    {
+      "Name": "infant-abcd-bids-pipeline",
+      "Version": "0.0.9",
+      "Description": "T1w and T2w files are preprocessed BCP intermediate pipline outputs from the DCAN-Labs infant-abcd-bids-pipeline",
+      "CodeURL": "https://github.com/DCAN-Labs/infant-abcd-bids-pipeline"
+    },
+    {
+      "Name": "Manual",
+      "Version": "1.0.0",
+      "Description": "Segmentation files were generated with BIBSNet and subsequently manually corrected by trained PrimeNeuro specialists",
+      "CodeURL": "https://github.com/DCAN-Labs/BIBSnet"
+    }
+  ],
+  "DatasetDOI": "10.17605/OSF.IO/WDR78",
+  "Funding": [
+    "Bill & Melinda Gates Foundation INV-015711 (authors M.D.R., J.T.E., C.D.S, D.A.F.)",
+    "UNC/UMN Baby Connectome Project supported by NIMH R01 MH104324 and NIMH U01 MH110274",
+    "Author E.A.K. supported by a National Research Service Award (NRSA) T32 training grant (T32-NS109604)",
+    "Authors S.M.S. and T.K.M.D.supported by the National Science Foundation Graduate Research Fellowship Program (SMS: 2237827; TKMD: 2020295366)",
+    "D.A.F. supported by NIDA U01DA041148, NIDA U24DA055330, NIMH R01MH096773, NIMH R01MH125829, and NIMH R37MH125829"
+  ],
+  "Acknowledgements": "The authors would like to thank additional markers who contributed to this repository, including Henrique A. Caldas, BettyAnn Chodkowski, Katie Day, Ekomobong Eyoh, Brayton Hall, Alexandra Harper, and Sarah Kuplic.",
+  "Authors": [
+    "Eric Feczko",
+    "Sally Stoyell",
+    "Lucille A. Moore",
+    "Dimitrios Alexopoulos",
+    "Maria Bagonis",
+    "Kenneth Barrett",
+    "Brad Bower",
+    "Addison Cavender",
+    "Taylor A. Chamberlain",
+    "Greg Conan",
+    "Trevor KM Day",
+    "Dhruman Goradia",
+    "Alice Graham",
+    "Lucas Heisler-Roman",
+    "Timothy J. Hendrickson",
+    "Audrey Houghton",
+    "Omid Kardan",
+    "Elizabeth Kiffmeyer",
+    "Erik G. Lee",
+    "Jacob T. Lundquist",
+    "Carina Lucena",
+    "Tabitha Martin",
+    "Anurima Mummaneni",
+    "Mollie Myricks",
+    "Pranav Narnur",
+    "Anders J. Perrone",
+    "Paul Reiners",
+    "Amanda R. Rueter",
+    "Hteemoo Saw",
+    "Martin Styner",
+    "Sooyeon Sung",
+    "Barry Tiklasky",
+    "Jessica L Wisnowski",
+    "Essa Yacoub",
+    "Brett Zimmermann",
+    "Christopher D. Smyser",
+    "Monica D. Rosenberg",
+    "Damien A. Fair",
+    "Jed T. Elison"
+  ],
+  "HowToAcknowledge": "Feczko, E., Stoyell, S. M., Moore, L. A., Alexopoulos, D., Bagonis, M., Barrett, K., Bower, B., Cavender, A., Chamberlain, T. A., Conan, G., Day, T. K., Goradia, D., Graham, A., Heisler-Roman, L., Hendrickson, T. J., Houghton, A., Kardan, O., Kiffmeyer, E. A., Lee, E. G., \u2026 Elison, J. T. (2024). Baby Open Brains: An open-source repository of infant brain segmentations. In bioRxivorg. https://doi.org/10.1101/2024.10.02.616147",
+  "License": "CC-By Attribution 4.0 International",
+  "ReferencesAndLinks": [
+    "Sturgeon, D., Snider, K., Moore, L.A., Perrone, A.J., Earl, E., Madison, T.J., Conan, G., Klein, R., Miranda-Dominguez, O., Feczko, E., Graham, A., & Fair, D.A. (2023). DCAN-Labs infant-abcd-bids-pipeline (v0.0.22). Zenodo. https://doi.org/10.5281/zenodo.7683282",
+    "Hendrickson, T.J., Reiners, P., Alexopoulos, D., Conan, G., Goncalves, M., Houghton, A., Koirala, S., Latham, A., Lee, E., Lundquist, J., Madison, T.J., Markiewicz, C.J., Moore, L.A., Moser, J., Rueter, A., Fair, D.A., & Feczko, Eric. (2022). BIBSNet (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7106148",
+    "Howell BR, Styner MA, Gao W, Yap PT, Wang L, Baluyot K, Yacoub E, Chen G, Potts T, Salzwedel A, Li G, Gilmore JH, Piven J, Smith JK, Shen D, Ugurbil K, Zhu H, Lin W, Elison JT. The UNC/UMN Baby Connectome Project (BCP): An overview of the study design and protocol development. Neuroimage. 2019 Jan 15;185:891-905. doi: 10.1016/j.neuroimage.2018.03.049. Epub 2018 Mar 22. PMID: 29578031; PMCID: PMC6151176."
+  ]
+}

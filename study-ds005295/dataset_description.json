@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Vassiki Chauhan",
+    "Krystal McCook",
+    "Alex White"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005295.v1.0.2",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Dataset accompanying \"Reading Reshapes Stimulus Selectivity in the Visual Word Form Area\", Chauhan, McCook and White (2024)",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

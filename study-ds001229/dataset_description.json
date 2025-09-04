@@ -1,0 +1,16 @@
+{
+  "Name": "Neural Evidence of the Strategic Choice Between Working Memory and Episodic Memory in Prospective Remembering.",
+  "License": "",
+  "Authors": [
+    "Lewis-Peacock, J.A., Cohen, J.D., & Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (R01 MH069456)",
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S0028393216304055"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001229.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

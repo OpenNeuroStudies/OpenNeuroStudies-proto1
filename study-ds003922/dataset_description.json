@@ -1,0 +1,24 @@
+{
+  "Name": "Multisensory Correlation Detector",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Pesnot Lerousseau, J.",
+    "Parise, C.",
+    "Ernst, MO.",
+    "van Wassenhove, V."
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We thank the members of UNIACT for their logistical help on the recruitment of volunteers at NeuroSpin. We thank Leila Azizi for her help with the LED apparatus.",
+  "Funding": [
+    "ERC-YStG-263584",
+    "ANR-16-CE37-0004-04"
+  ],
+  "EthicsApprovals": [
+    "Local Ethics Committee on Human Research at NeuroSpin (Gif-sur-Yvette, France)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003922.v1.0.1",
+  "ReferencesAndLinks": [
+    "Pesnot Lerousseau, J., Parise, C., Ernst, MO., van Wassenhove, V. (2022). Multisensory correlation computations in the human brain identified by a time-resolved encoding model. *Nature Communications*. http://doi.org/10.1038/s41467-022-29687-6"
+  ]
+}

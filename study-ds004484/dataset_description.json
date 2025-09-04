@@ -1,0 +1,27 @@
+{
+  "Name": "Neural activity induced by sensory stimulation can drive large-scale cerebrospinal fluid flow during wakefulness in humans",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Stephanie D. Williams",
+    "Beverly Setzer",
+    "Nina E Fultz",
+    "Zachary Diamandis",
+    "Nicole Tacugue",
+    "Zenia Valdiviezo",
+    "Laura D. Lewis"
+  ],
+  "Funding": [
+    "NIH R00-MH111748",
+    "NIH R01-AG070135",
+    "NIH R01-AT011429",
+    "NIH U19-NS128613",
+    "Pew Biomedical Scholars Program",
+    "1907 Trailblazer Award",
+    "Simons Collaboration on Plasticity in the Aging Brain (no.811231)",
+    "National Defense Science and Engineering Graduate Fellowship"
+  ],
+  "License": "CC0",
+  "HowtoAcknowledge": "Please cite the paper and cite Lewis, L. D., Setsompop, K., Rosen, B. R., & Polimeni, J. R. (2018). Stimulus-dependent hemodynamic response timing across the human subcortical-cortical visual pathway identified through high spatiotemporal resolution 7T fMRI. NeuroImage, 181, 279-291. https://doi.org/10.1016/j.neuroimage.2018.06.056",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004484.v1.0.1"
+}

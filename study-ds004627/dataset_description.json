@@ -1,0 +1,34 @@
+{
+  "Name": "Characterization and Treatment of Adolescent Depression (CAT-D)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Dylan M. Nielson",
+    "Neda Sadeghi",
+    "Lisa S. Gorham",
+    "Lillian Eisner",
+    "Jeremy Taigman",
+    "Katherine Haynes",
+    "Karen Qi",
+    "Christopher C. Camp",
+    "Payton Fors",
+    "Diana Rodriguez",
+    "Jerry McGuire",
+    "Erin Garth",
+    "Chana Engel",
+    "Mollie Davis",
+    "Kenneth Towbin",
+    "Argyris Stringaris"
+  ],
+  "HowToAcknowledge": "When using this data, please cite Sadeghi et al., Mood and Behaviors of Adolescents With Depression in a Longitudinal Study Before and During the COVID-19 Pandemic, 2022,  and  Camp et al., Test-retest reliability of functional connectivity in depressed adolescents, 2023 and include the following: 'This data was obtained from the OpenNeuro database.'",
+  "Funding": [
+    "This research was supported by the Intramural Research Program of NIMH/National Institutes of Health (NIH; ZIA-MH002957-01 to A.S.). Curation of this dataset used computational resources from the National Institutes of Health High-Performance Computing Biowulf Cluster (http://hpc.nih.gov)."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1111/jcpp.13547",
+    "https://doi.org/10.1016/j.jaac.2022.04.004",
+    "https://www.medrxiv.org/content/10.1101/2022.10.11.22280962v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004627.v1.1.0",
+  "DatasetType": "study"
+}

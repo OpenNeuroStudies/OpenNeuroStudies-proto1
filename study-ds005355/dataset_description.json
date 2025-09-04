@@ -1,0 +1,36 @@
+{
+  "Name": "BSC_BIDS_071724",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Robert O. Duncan",
+    "Evan A. Owens"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please acknowledge use of this data by citing our pending paper: Owens, E. A. and Duncan, R. O. (2024). Evidence of a Hierarchical Representation in Bodily Self-Consciousness: The Neural Correlates of Embodiment and Presence in Virtual Worlds. [In Submission]",
+  "Funding": [
+    "This research was funded, in part, by the Research Foundation of CUNY (PSC-CUNY TRAD B 50-188)"
+  ],
+  "EthicsApprovals": [
+    "York College Internal Review Board"
+  ],
+  "ReferencesAndLinks": [
+    "Owens, E. A. and Duncan, R. O. (2024). Evidence of a Hierarchical Representation in Bodily Self-Consciousness: The Neural Correlates of Embodiment and Presence in Virtual Worlds. [In Submission]"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005355.v1.0.1",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

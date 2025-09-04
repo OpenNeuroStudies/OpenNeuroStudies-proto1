@@ -1,0 +1,25 @@
+{
+  "Name": "Dataset Clinical Epilepsy iEEG to BIDS - RESPect_longterm_iEEG",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "van Blooijs D.",
+    "Demuru M.",
+    "Zweiphenning W",
+    "Hermes D.",
+    "Leijten F.",
+    "Zijlmans M."
+  ],
+  "Acknowledgements": "Huiskamp G.J.M.",
+  "HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2021, A practical workflow for organizing clinical intraoperative and long-term iEEG data in BIDS",
+  "Funding": [
+    "Epi-Sign Project",
+    "Alexandre Suerman Stipendium 2015",
+    "EpilepsieNL #17-07"
+  ],
+  "ReferencesAndLinks": [
+    "see HowToAcknowledge"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003848.v1.0.3",
+  "DatasetType": "study"
+}

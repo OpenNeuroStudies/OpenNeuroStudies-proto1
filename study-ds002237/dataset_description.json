@@ -1,0 +1,14 @@
+{
+  "Name": "Briefly cueing memories leads to suppression of their neural representations",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Poppenk, J.",
+    "Norman, K. A."
+  ],
+  "ReferencesAndLinks": [
+    "http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/briefly-cueing-memories-leads-to-suppression-of-their-neural-representations.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002237.v1.1.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Johannes Singer",
+    "Agnessa Karapetian",
+    "Martin Hebart",
+    "Radoslaw Cichy"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004693.v1.0.3",
+  "Funding": [
+    "Max Planck Research Group (M.TN.A.NEPF0009)",
+    "ERC Starting Grant (ERC-StG-2021-101039712)",
+    "German Research Council Grants (CI241/1-1, CI241/3-1, CI241/7-1)",
+    "ERC Starting Grant (ERC-StG-2018-803370)"
+  ],
+  "HowToAcknowledge": "Please cite the preprint (Link: https://www.biorxiv.org/content/10.1101/2023.08.17.553708v1)",
+  "License": "CC0",
+  "Name": "Identifying and characterizing scene representations relevant for categorization behavior",
+  "ReferencesAndLinks": [],
+  "EthicsApprovals": [],
+  "DatasetType": "study"
+}

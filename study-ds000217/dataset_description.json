@@ -1,0 +1,21 @@
+{
+  "Name": "Route Learning",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Avi J H Chanales",
+    "Ashima Oza",
+    "Serra E Favila",
+    "Brice A Kuhl"
+  ],
+  "Funding": [
+    "National Institutes of Health Grant (1RO1NS089729) to B.A.K"
+  ],
+  "Acknowledgements": "We thank Anthony Stigliani and Kalanit Grill-Spector for providing stimuli for the category localizer. This work was supported by a grant from the National Institutes of Health (1RO1NS089729) to B.A.K.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000217",
+  "ReferencesAndLinks": [
+    "http://biorxiv.org/content/early/2017/01/10/099226"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000217.v1.0.0",
+  "DatasetType": "study"
+}

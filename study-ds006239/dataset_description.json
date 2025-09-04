@@ -1,0 +1,28 @@
+{
+  "Name": "A fMRI neuroimaging dataset of word reading with semantic and phonological localizers in children and adolescents",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jiuru Wang",
+    "Avery Vess",
+    "Avantika Mathur",
+    "Neelima Wagley",
+    "David Quinto-Pozos",
+    "James R. Booth"
+  ],
+  "Acknowledgements": "This project was supported by National Institute of Deafness and other Communication Disorders (grant numbers R01 DC018171) awarded to James R Booth. We thank Rachel Banik (Watkins), Angela Scruggs, Chris Brozdowski, Daniel Devor, Clara Plutzer, Rachael Rice, Anna Banaszkiewicz, and Carly Leannah.",
+  "HowToAcknowledge": "Please cite this paper: URL placeholder",
+  "Funding": [
+    "R01 DC018171 from National Institute of Deafness and other Communication Disorders (NIDCD)"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Vanderbilt Institutional Review Board (IRB #171739)"
+  ],
+  "ReferencesAndLinks": [
+    "Banaszkiewicz A, Wagley N, Plutzer C, Rice R, Booth J. The role of speech reading in skilled visual word processing in hearing children. OSF 2023. https://osf.io/zx2y9/",
+    "Wagley N, Banaszkiewicz A, Rice R, Plutzer C, Booth JR. Investigating the role of dIFG and vIFG in top-down and bottom-up influences during phonological and orthographic processing: an effective connectivity study of fMRI in children. OSF 2023. https://osf.io/eh7t9/",
+    "White K, Wagley N, Booth JR. The Role of the Visual Word Form System in Phonological and Semantic Processing During Word Reading. OSF 2024. https://osf.io/ps6hn"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006239.v1.0.2"
+}

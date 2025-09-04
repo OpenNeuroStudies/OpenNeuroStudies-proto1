@@ -1,0 +1,29 @@
+{
+  "Authors": [
+    "Evan M. Russek",
+    "Rani Moran",
+    "Yunzhe Liu",
+    "Ray Dolan",
+    "Quentin Huys"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "UCL ethics board (ID: 9929/002)"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "unknown",
+      "Description": "data2bids converter",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "Name": "Heuristics in risky decision-making relate to preferential representation of information MEG data",
+  "ReferencesAndLinks": [
+    "https://osf.io/preprints/psyarxiv/kb6ew"
+  ],
+  "Acknowledgements": "We thank Daniel Bates for assistance with data collection. We acknowledge funding from the Open Research Fund of the State Key Laboratory of Cognitive Neuroscience and Learning to Y.L. and a Wellcome Trust Investigator Award (098362/Z/12/Z) to R.J.D. This work was carried out whilst R.J.D. was in receipt of a Lundbeck 20 Visiting Professorship (R290-2018-2804) to the Danish Research Centre for Magnetic Resonance. The Max Planck UCL Centre is supported by UCL and the Max Planck Society. The Wellcome Centre for Human Neuroimaging (WCHN) is supported by core funding from the Wellcome Trust (203147/Z/16/Z).",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005065.v1.0.0"
+}

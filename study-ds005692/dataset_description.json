@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "We would like to thank Hans-Juergen Warmbold and Anne Katrin Baum for their technical support.",
+  "Authors": [
+    "Max-Philipp Stenner",
+    "Cindy Marquez Nossa",
+    "Tino Zaehle",
+    "Elena Azanon",
+    "Hans-Jochen Heinze",
+    "Matthias Deliano",
+    "Lars Buentjen"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Funding": [
+    "M.-P.S. was supported by a VolkswagenStiftung Freigeist Fellowship project-ID 92977.",
+    "M.-P.S. and E.A. received funding from a Deutsche Forschungsgemeinschaft Sonderforschungsbereich SFB-1436 TPC03 project-ID 425899996."
+  ],
+  "HowToAcknowledge": "Stenner, Marquez Nossa, Zaehle, Aza\u00f1on, Heinze, Deliano, and B\u00fcntjen, Prior Knowledge Changes Initial Sensory Processing in the Human Spinal Cord. Science Advances, accepted",
+  "License": "CC0",
+  "Name": "SpinalExpect_NonInvasive",
+  "EthicsApprovals": [
+    "Ethics Committee at the Medical Faculty at Otto-von-Guericke University Magdeburg, Germany"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005692.v1.0.0"
+}

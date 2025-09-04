@@ -1,0 +1,32 @@
+{
+  "Name": "Shanxi Enculturation",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Sean Paulsen",
+    "Michael A. Casey"
+  ],
+  "Acknowledgements": "Guilhem Marion\nLaboratoire des Syst\u00e8mes Perceptifs, D\u00e9partement d\u2019\u00c9tude Cognitive, \u00c9cole Normale Sup\u00e9rieure, PSL, Paris, France\n\nClaire Pelofi\nCenter for Language, Music and Emotion, New York University, Max Planck Institute for Empirical Aesthetics\n\nShihab Shamma\nDepartment of Electrical and Computer Engineering\nInstitute for Systems Research\nUniversity of Maryland College Park, USA\n&\nLaboratoire des Syst\u00e8mes Perceptifs, D\u00e9partement d\u2019\u00c9tude Cognitive, \u00c9cole Normale Sup\u00e9rieure, PSL, Paris, France\n\nCamille Barbarot\nCentre PsyCL\u00c9, Universit\u00e9 Aix-Marseille, Aix-en-Provence, Provence-Alpes-C\u00f4te d\u2019Azur, France\n",
+  "HowToAcknowledge": "Cite Sean Paulsen's PhD Thesis: https://digitalcommons.dartmouth.edu/dissertations/173/",
+  "Funding": [],
+  "EthicsApprovals": [],
+  "ReferencesAndLinks": [
+    "https://digitalcommons.dartmouth.edu/dissertations/173/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004866.v1.0.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

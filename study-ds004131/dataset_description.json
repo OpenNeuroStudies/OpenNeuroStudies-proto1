@@ -1,0 +1,164 @@
+{
+  "Name": "BIDS Phenotype External Example Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Samuel Guay",
+    "Eric Earl",
+    "Hao-Ting Wang",
+    "Remi Gau",
+    "Dorota Jarecka",
+    "David Keator",
+    "Melissa Kline Struhl",
+    "Satra Ghosh",
+    "Louis De Beaumont",
+    "Adam G. Thomas"
+  ],
+  "Acknowledgements": "Many thanks to the first two authors' teams who allowed them to work on this among other tasks.",
+  "HowToAcknowledge": "Please cite the OHBM 2022 poster \"New guidelines for phenotypic data in Brain Imaging Data Structure (BIDS)\" and the paper (in review) \"The NIMH Healthy Research Volunteer Dataset: A comprehensive clinical, MRI, and MEG resource\".",
+  "Funding": [
+    "ZICMH002889",
+    "ZICMH002960",
+    "ZIAMH002783",
+    "ZIDMH00291"
+  ],
+  "EthicsApprovals": [
+    "For the data itself: NIH Institutional Review Board (Recruitment and Characterization of Healthy Research Volunteer for NIMH Intramural Studies NCT033046)"
+  ],
+  "ReferencesAndLinks": [
+    "https://nimhresearchvolunteer.ctss.nih.gov",
+    "https://github.com/nih-megcore/hv_protocol",
+    "doi:10.1016/j.psychres.2020.112822",
+    "doi:10.1101/2021.04.28.21256253",
+    "doi:10.1371/journal.pone.0184661",
+    "doi:10.1038/s41592-018-0235-4"
+  ],
+  "Phenotype": {
+    "Adverse Childhood Experiences (ACEs)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Chemistry Panel": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Alcohol Use Disorders Identification Test (AUDIT)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Beck Anxiety Inventory (BAI)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Beck Depression Inventory-II (BDI-II)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Creatine Kinase, C-reactive Protein, TSH": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Complete Blood Count with Differential": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Medical and mental health diagnosis, medications, physical exam, lab findings, vital signs, BMI": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Demographics": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "DSM-5 Level 2 Substance Use - Adult": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Edinburgh Handedness Inventory (EHI)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Study Eligibility": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Family Interview for Genetic Studies (FIGS)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Health History Form": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Perceived Health Rating - self": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "hematology": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Hepatic Panel": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "infectious_disease": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Kaufman Brief Intelligence Test 2nd Edition (KBIT-2) and Visual Analogue of Effort Scale (VAS)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "lipid": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "DSM-5 Self-Rated Level 1 Cross-Cutting Symptoms Measure \u2013 Adult (modified)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "MRI Variables form": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "NIH Toolbox measures": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Viral markers (Hepatitis B, C and HIV)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Perceived Health Rating - clinician": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Research participation satisfaction survey": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Structured Clinical Interview for DSM-5 Disorders (SCID-5)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "urinalysis": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "Urine drug screen and pregnancy test (if indicated)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "vitamin_levels": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    },
+    "World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0)": {
+      "Dataset": "https://openneuro.org/datasets/ds003982",
+      "Database": "https://openneuro.org/"
+    }
+  },
+  "DatasetDOI": "doi:10.18112/openneuro.ds004131.v1.0.1"
+}

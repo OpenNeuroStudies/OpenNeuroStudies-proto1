@@ -1,0 +1,43 @@
+{
+  "Acknowledgements": "n/a",
+  "Authors": [
+    "Eduardo L\u00f3pez-Larraz",
+    "Mar\u00eda Sierra-Torralba",
+    "Sergio Clemente",
+    "Galit Fierro",
+    "David Oriol",
+    "Javier Minguez",
+    "Luis Montesano",
+    "Jens G. Klinzing"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005555.v1.1.1",
+  "DatasetType": "study",
+  "Funding": [
+    "This work was funded by Programa Misiones de I+D en Inteligencia Artificial (AI4HEALTHYAGING: MIA.2021.M02.0007)",
+    "Penta call 5 \u2013 Joint call \u2013 Euripides (pAvIs: IDI-20210522)",
+    "H2020 FET-Open call (MITICS: 964677)",
+    "Horizon-EIC-2022 call (BAYFLEX: 101099555)",
+    "Horizon-RIA-2023 call (MANOLO: 101135782)",
+    "Programa Aragon Investigo (Exp: Z-0073-INVESCS-22)",
+    "Government of Aragon (IDMF/2023/0007)",
+    "Programa red.es (2021/C005/00143341)."
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "be472c3e4",
+      "Description": "data2bids converter",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "License": "CC0",
+  "SourceDatasets": [],
+  "Name": "The Bitbrain Open Access Sleep (BOAS) dataset",
+  "ReferencesAndLinks": [
+    "https://www.bitbrain.com"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Comit\u00e9 de \u00c9tica de la Investigaci\u00f3n de la Comunidad Aut\u00f3noma de Arag\u00f3n: C.I. PI24/046."
+  ]
+}

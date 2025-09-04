@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Visual object recognition",
+  "Authors": [
+    "Haxby, J.V.",
+    "Gobbini, M.I.",
+    "Furey, M.L.",
+    "Ishai, A.",
+    "Schouten, J.L.",
+    "Pietrini, P."
+  ],
+  "ReferencesAndLinks": [
+    "Haxby, J.V., Gobbini, M.I., Furey, M.L., Ishai, A., Schouten, J.L., Pietrini, P. (2001). Distributed and overlapping representations of faces and objects in ventral temporal cortex. Science, 293(5539):2425-30\n\nHanson, S.J., Matsuka, T., Haxby, J.V. (2004). Combinatorial codes in ventral temporal lobe for object recognition: Haxby (2001) revisited: is there a \"face\" area? Neuroimage. 23(1):156-66\n\nO'Toole, A.J., Jiang, F., Abdi, H., Haxby, J.V. (2005). Partially distributed representations of objects and faces in ventral temporal cortex. J Cogn Neurosci, 17(4):580-90"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds000105.v3.0.0",
+  "DatasetType": "study"
+}

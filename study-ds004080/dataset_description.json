@@ -1,0 +1,33 @@
+{
+  "Name": "CCEP ECoG dataset across age 4-51",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "D. van Blooijs",
+    "M.A. van den Boom",
+    "J.F. van der Aar",
+    "G.J.M. Huiskamp",
+    "G. Castegnaro",
+    "M. Demuru",
+    "W.J.E.M. Zweiphenning",
+    "P. van Eijsden",
+    "K. J. Miller",
+    "F.S.S. Leijten",
+    "D. Hermes"
+  ],
+  "Acknowledgements": "The SEIN-UMCU RESPect database group: C.J.J. van Asch, L. van de Berg, S. Blok, M.D. Bourez, K.P.J. Braun, J.W. Dankbaar, C.H. Ferrier, T.A. Gebbink, P.H. Gosselaar, R. van Griethuysen, M.G.G. Hobbelink, F.W.A. Hoefnagels, N.E.C. van Klink, M.A. van \u2018t Klooster, G.A.P. de Kort, M.H.M. Mantione, A. Muhlebner, J.M. Ophorst, P.C. van Rijen, S.M.A. van der Salm, E.V. Schaft, M.M.J. van Schooneveld, H. Smeding, D. Sun, A. Velders, M.J.E. van Zandvoort, G.J.M. Zijlmans, E. Zuidhoek and J. Zwemmer",
+  "HowToAcknowledge": "D. van Blooijs, M.A. van den Boom, J.F. van der Aar, G.J.M. Huiskamp, G. Castegnaro, M. Demuru, W.J.E.M. Zweiphenning, P. van Eijsden, K. J. Miller, F.S.S. Leijten, D. Hermes, Developmental trajectory of transmission speed in the human brain, Nature Neuroscience, 2023, https://doi.org/10.1038/s41593-023-01272-0",
+  "Funding": [
+    "NIMH R01MH122258",
+    "Alexandre Suerman Stipendium 2015",
+    "EpilepsieNL #17-07"
+  ],
+  "ReferencesAndLinks": [
+    "see HowToAcknowledge"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Medical Ethical Committee from the UMC Utrecht, The Netherlands"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004080.v1.2.4",
+  "DatasetType": "study"
+}

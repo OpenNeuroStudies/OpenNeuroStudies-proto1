@@ -1,0 +1,21 @@
+{
+  "Acknowledgements": "We thank Oliver Frank for his assistance with implementing the experiment and pilot testing, Hannah Kruft for her assistance with data collection, and Samuel Pahlke for creating the stimuli used in this experiment.",
+  "Authors": [
+    "Christopher Hilton",
+    "Lilian Befort",
+    "Ronja Brinkmann",
+    "Matthias Ballestrem",
+    "Joerg Fingerhut",
+    "Klaus Gramann"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005397.v1.0.3",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Name": "Affordances of stairs",
+  "ReferencesAndLinks": [],
+  "EthicsApprovals": [
+    "Local ethics board at the Institute of Psychology and Ergonomics at TU Berlin code BPN_GRA_17_210604"
+  ],
+  "HowToAcknowledge": "Please cite as: "
+}

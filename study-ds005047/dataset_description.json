@@ -1,0 +1,32 @@
+{
+  "Acknowledgements": "This research was supported by a Key Program of National Natural Science Foundation of China (#62106285).\nMajor Projects of Technological Innovation 2030 of China (#2022ZD0208500).\nNational Natural Science Foundation of China\uff08#82071884\uff09.",
+  "Authors": [
+    "Panpan Chen",
+    "Chi Zhang",
+    "Bao Li",
+    "Li Tong",
+    "Linyuan Wang",
+    "Shuxiao Ma",
+    "Long Cao",
+    "Ziya Yu",
+    "Bin Yan"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "Key Program of National Natural Science Foundation of China (62106285)",
+    "Major Projects of Technological Innovation 2030 of China (2022ZD0208500)",
+    "National Natural Science Foundation of China\uff0882071884\uff09"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "An fMRI dataset in response to large-scale short natural dynamic facial expression videos",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "EthicsApprovals": [
+    "approval number: AF/SC-08/03.2"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005047.v1.0.7",
+  "DatasetType": "study"
+}

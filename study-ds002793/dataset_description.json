@@ -1,0 +1,23 @@
+{
+  "Name": "ToM following strong vs weak priors",
+  "Description": "Participants learned about novel fictional individuals whose behaviors were either internally inconsistent over time or internally consistent. The inconsistent individuals performed two or four same-valence behaviors, followed by two behaviors of the opposite valence. Participants gave trustworthiness ratings for every behavior on a scale from 1-7 (where 1=least trustworthy, 7=most trustworthy).",
+  "Acknowledgments": "We would like to thank Catherine Kim, Arturo Balaguer, Emma Alai, Mariel Kronitz, and Mookie Manalili for assistance with data collection.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "JTF",
+    "NSF",
+    "NIH"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "ReferencesAndLinks": [],
+  "Authors": [
+    "Minjae Kim",
+    "Peter Mende-Siedlecki",
+    "Stefano Anzellotti",
+    "Liane Young"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002793.v1.0.1",
+  "Acknowledgements": "We would like to thank Emma Alai, Arturo Balaguer, Catherine Kim, Mariel Kronitz, and Mookie Manalili for assistance with data collection.",
+  "DatasetType": "study"
+}

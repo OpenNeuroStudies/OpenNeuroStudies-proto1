@@ -1,0 +1,28 @@
+{
+  "Name": "A high resolution 7-Tesla resting-state fMRI test-retest dataset with cognitive and physiological measures",
+  "License": "CC0",
+  "Authors": [
+    "Chris Gorgolewski",
+    " Natacha Mendes",
+    "Domenica Wilfling",
+    "Elisabeth Wladimirow",
+    "Claudine J. Gauthier",
+    "Tyler Bonnen",
+    "Florence J.M. Ruby",
+    "Robert Trampel",
+    "Pierre-Louis Bazin",
+    "Roberto Cozatl",
+    "Jonathan Smallwood",
+    "Daniel S. Margulies"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite https://doi.org/10.1038/sdata.2014.54",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/sdata.2014.54",
+    "http://fcon_1000.projects.nitrc.org/indi/CoRR/html/mpg_1.html"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001168.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

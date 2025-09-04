@@ -1,0 +1,22 @@
+{
+  "Name": "OLVSL_ Object-location visual statistical learning",
+  "BIDSVersion": "1.10.1",
+  "Description": "This study examined incidental learning of probabilistic contingencies between spatial locations and object identities. On each trial, participants were presented with one of four possible colourful shapes, and were required to identify the target via button-press as quickly and accurately as possible. The target could appear in one of four locations - one in each of the four quadrants of the visual field. Each location was associated with one shape that appeared there frequently and one shape that appeared there infrequently; a second location was associated with the same targets, but with the opposite contingency mapping. Each trial had a single target that was thus either likely at the cued location (Frequent target condition), or unlikely at the cued location (Infrequent target condition).",
+  "Authors": [
+    "Michelle G. Hall",
+    "Claire K. Naughtin",
+    "Jason B. Mattingley",
+    "Paul E. Dux"
+  ],
+  "Acknowledgements": "The authors thank David Lloyd for technical assistance, and Zoie Nott, Kristina Horne, and Abbey Nydam for assistance with data collection.",
+  "Funding": [
+    "This work was supported by the Australian Research Council Special Research Initiative - Science of Learning Research Centre (SR120300015) to PED and JBM. In addition, MGH was supported by an Australian Postgraduate Award, PED by an ARC Future Fellowship (FT120100033) and JBM by an ARC Australian Laureate Fellowship (FL110100103) and the ARC Centre of Excellence for Integrative Brain Function (ARC Centre Grant CE140100007)."
+  ],
+  "ReferencesAndLinks:": "Hall, M. G., Naughtin, C. K., Mattingley, J. B., & Dux, P. E., (in press). Distributed and opposing effects of incidental learning in the human brain. NeuroImage.",
+  "ReferencesAndLinks": [
+    "Hall, M. G., Naughtin, C. K., Mattingley, J. B., & Dux, P. E., (in press). Distributed and opposing effects of incidental learning in the human brain. NeuroImage."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001241.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

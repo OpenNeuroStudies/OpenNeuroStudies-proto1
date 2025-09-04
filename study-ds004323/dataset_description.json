@@ -1,0 +1,19 @@
+{
+  "Name": "Atari-style video game learning fMRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Momchil S. Tomov",
+    "Pedro A. Tsividis",
+    "Thomas Pouncy",
+    "Joshua B. Tenenbaum",
+    "Samuel J. Gershman"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://www.biorxiv.org/content/10.1101/2022.06.14.496001v1",
+  "ReferencesAndLinks": [
+    "Tomov, M.S., Tsividis, P.A., Pouncy, T., Tenenbaum, J.B., & Gershman, S.J. (2023). The neural architecture of theory-based reinforcement learning.",
+    "https://www.biorxiv.org/content/10.1101/2022.06.14.496001v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004323.v1.0.0",
+  "DatasetType": "study"
+}

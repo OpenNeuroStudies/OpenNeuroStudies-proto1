@@ -1,0 +1,17 @@
+{
+  "Name": "Robust functional mapping of layer-selective responses in human lateral geniculate nucleus with high-resolution 7T fMRI",
+  "Authors": [
+    "Yazhu Qian",
+    "Jinyou Zou",
+    "Zihao Zhang",
+    "Zhentao Zuo",
+    "Yan Zhuo",
+    "Danny JJ",
+    "Wang",
+    "Peng Zhang"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002672.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

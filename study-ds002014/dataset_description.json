@@ -1,0 +1,18 @@
+{
+  "Name": "Language Production fMRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Martin Wegrzyn",
+    "Markus Mertens",
+    "Christian G. Bien",
+    "Friedrich G. Woermann",
+    "Kirsten Labudda"
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/mwegrzyn/volume-wise-language",
+    "https://doi.org/10.1101/725671 "
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002014.v1.0.1",
+  "DatasetType": "study"
+}

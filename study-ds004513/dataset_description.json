@@ -1,0 +1,27 @@
+{
+  "Name": "The energetic costs of the human connectome",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Gabriel Castrillon",
+    "Samira Epp",
+    "Antonia Bose",
+    "Laura Fraticelli",
+    "Andr\u00e9 Hechler",
+    "Roman Belenya",
+    "Andreas Ranft",
+    "Igor Yakushev",
+    "Lukas Utz",
+    "Lalith Sundar",
+    "Josef P Rauschecker",
+    "Christine Preibisch",
+    "Katarzyna Kurcyus",
+    "Valentin Riedl"
+  ],
+  "Funding": [
+    "European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme. Grant agreement ID 759659"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004513.v1.0.4",
+  "HowToAcknowledge": "Castrillon, Gabriel, et al. \"An energy costly architecture of neuromodulators for human brain evolution and cognition.\" Science Advances 9.50 (2023): eadi7632."
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "MRI dataset evaluating the effect of head down tilt 15\u00b0 on cerebral perfusion in acute ischemic experimental stroke",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Fabien CHAUVEAU",
+    "Joshua GOBE",
+    "Radu BOLBOS",
+    "Tae-Hee CHO",
+    "Jacopo MARIANI",
+    "Martina VIGANO",
+    "Susanna DIAMANTI",
+    "Marl\u00e8ne WIART",
+    "Davide CARONE",
+    "Simone BERETTA"
+  ],
+  "Acknowledgements": "Data acquired at the multimodal imaging platform CERMEP (Lyon, France) with the help of Jean-Baptiste Langlois.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "French Research National Agency, grant ANR-21-CE17-0028",
+    "Italian Ministry of University and Research (MIUR) grant PRIN 2017CY3J3W"
+  ],
+  "EthicApprovals": "APAFIS#15529-2018061512184831v2 and 32924-2021091015062327v4, institutional ethics committee CELYNE-CNREEA (C2EA-42, Lyon, France)",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004962.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "BallSqueezingHD_Gao2023",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Yuanyuan Gao",
+    "De'Ja Rogers",
+    "Alexander von L\u00fchmann",
+    "Antonio Ortega-Martinez",
+    "David A. Boas",
+    "Meryem A. Y\u00fccel"
+  ],
+  "Acknowledgements": "This work was supported by the NIH BRAIN Initiative (Grant No. 1U01EB029856-01). We thank all the participants and research staff involved in the data collection and analysis.",
+  "HowToAcknowledge": "Gao, Y., Rogers, D., von L\u00fchmann, A., Ortega-Martinez, A., Boas, D.A., & Y\u00fccel, M.A. (2023). Short-separation regression incorporated diffuse optical tomography image reconstruction modeling for high-density functional near-infrared spectroscopy. Neurophotonics, 10(2), 025007. https://doi.org/10.1117/1.NPh.10.2.025007",
+  "Funding": [
+    "NIH BRAIN Initiative (Grant No. 1U01EB029856-01)"
+  ],
+  "EthicsApprovals": [
+    "Boston University IRB (Protocol #4502)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1117/1.NPh.10.2.025007"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005930.v1.0.1"
+}

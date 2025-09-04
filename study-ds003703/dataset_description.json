@@ -1,0 +1,15 @@
+{
+  "Name": "Frequency Tagging of Syntactic Structure or Lexical Properties",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Evgenii Kalenkovich",
+    "Anna Shestakova",
+    "Nina Kazanina"
+  ],
+  "License": "CC0",
+  "Funding": [
+    "The study has been funded by the International Laboratory for Social Neuroscience of the Institute for Cognitive Neuroscience HSE, RF Government grant # 075-15-2019-1930."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003703.v1.0.0"
+}

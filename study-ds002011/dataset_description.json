@@ -1,0 +1,20 @@
+{
+  "Name": "Locus coeruleus activity strengthens prioritized memories under arousal",
+  "BIDSVersion": "1.10.1",
+  "License": "PD",
+  "Authors": [
+    "David Clewett",
+    "Ringo Huang",
+    "Rico Velasco",
+    "Tae-Ho Lee",
+    "Mara Mather"
+  ],
+  "Acknowledgements": "The authors thank Dr. Alexa Tompary for her helpful comments on the manuscript and Avi Chanales for his assistance editing one of the figures.",
+  "Funding": [
+    "University of Southern California Endowed Fellowship and Federal NIH grant R01AG025340"
+  ],
+  "References and Links": "https://www.ncbi.nlm.nih.gov/pubmed/29301874",
+  "DOI": "10.1523/JNEUROSCI.2097-17.2017",
+  "HowToAcknowledge": "Please cite:\n\nClewett, D. V., Huang, R., Velasco, R., Lee, T. H., & Mather, M. (2018). Locus coeruleus activity strengthens prioritized memories under arousal. Journal of Neuroscience.",
+  "DatasetType": "study"
+}

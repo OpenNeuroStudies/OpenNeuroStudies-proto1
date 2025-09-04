@@ -1,0 +1,16 @@
+{
+  "Name": "Game of Thrones - A naturalistic viewing dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kira Noad",
+    "David Watson",
+    "Timothy Andrews"
+  ],
+  "HowToAcknowledge": "Noad, K., Watson, D.M., Andrews, T.J. (2024, Cerebral Cortex). Familiarity enhances functional connectivity between visual and non-visual regions of the brain during natural viewing ",
+  "EthicsApprovals": [
+    "This study was approved by the ethics committee of the York Neuroimaging Centre (University of York, York, UK)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004848.v1.0.1"
+}

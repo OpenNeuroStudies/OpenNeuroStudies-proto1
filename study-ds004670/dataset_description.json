@@ -1,0 +1,31 @@
+{
+  "Name": "Visual Illusion Reconstruction",
+  "License": "CC0",
+  "Authors": [
+    "Fan Cheng",
+    "Tomoyasu Horikawa",
+    "Kei Majima",
+    "Misato Tanaka",
+    "Mohamed Abdelhack",
+    "Shuntaro C. Aoki",
+    "Jin Hirano",
+    "Yukiyasu Kamitani"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1101/2023.06.15.545037",
+  "Funding": [
+    "Japan Society for the Promotion of Science (KAKENHI grant JP20H05705 and JP20H05954)",
+    "Japan Science and Technology Agency (CREST grant JPMJCR18A5 and JPMJCR22P3, and SPRING grant JPMJSP2110)",
+    "New Energy and In-dustrial Technology Development Organization (Project JPNP20006)"
+  ],
+  "ReferencesAndLinks": [
+    "Cheng, F. L., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023). Reconstructing visual illusory experiences from human brain activity. Science Advances, 9(46), eadj3906. https://doi.org/10.1126/sciadv.adj3906",
+    "Cheng, F., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023). Reconstructing visual illusory experiences from human brain activity. bioRxiv. https://doi.org/10.1101/2023.06.15.545037"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004670.v1.1.3",
+  "BIDSVersion": "1.10.1",
+  "EthicsApprovals": [
+    "the Ethics Committee of the Graduate School of Informatics at Kyoto University, Approval No. KUISEAR-2017-002"
+  ],
+  "DatasetType": "study"
+}

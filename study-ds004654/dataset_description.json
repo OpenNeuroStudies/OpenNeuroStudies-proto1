@@ -1,0 +1,60 @@
+{
+  "Name": "Rates of cerebral protein synthesis in subjects with fragile X syndrome",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kathleen C Schmidt",
+    "Inna Loutaev",
+    "Thomas V Burlin",
+    "Zenaide Quezado",
+    "Audrey Thurm",
+    "Carrie Sheeler",
+    "Carolyn Beebe Smith"
+  ],
+  "Curators": [
+    "Martin N\u00f8rgaard",
+    "Eric Earl",
+    "Anthony Galassi",
+    "Dustin Moraczewski",
+    "Adam Thomas"
+  ],
+  "Acknowledgements": "We gratefully acknowledge the participation of the NIH PET Department, in particular, M. Channing, K. Chung, W. Kong, S. Conant, and S. Thada. We also acknowledge the help of the NIH Department of Perioperative Medicine, in particular, A. Mannes, N Miao, and J. Labovsky. We acknowledge the help of T. Burlin, R. Hommer, D. Picchioni, A. Morrow, K. Turetsky, B. Evans, D. Vesselinovitch, Z. Xia, and T. Huang during the studies and R. Sar\u00e9 for helpful advice on the manuscript.",
+  "HowToAcknowledge": "Cite https://doi.org/10.1177/0271678X221090997 and https://doi.org/10.1016/j.nbd.2020.104978 and the dataset DOI on OpenNeuro for the dataset version you are using",
+  "Funding": [
+    "1ZIAMH000889",
+    "1ZIACL090054",
+    "1ZIAMH002935"
+  ],
+  "EthicsApprovals": [
+    "National Institutes of Health Combined Neurosciences Institutional Review Board (06-M-0214, NCT00362843)",
+    "National Institutes of Health Radioactive Drug Research Committee",
+    "National Institutes of Health Radiation Safety Committee"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/jcbfm.2009.7",
+    "https://doi.org/10.1016/j.nbd.2020.104978",
+    "https://doi.org/10.1177/0271678X221090997",
+    "https://doi.org/10.1038/sj.jcbfm.9600067",
+    "https://doi.org/10.1038/sj.jcbfm.9600066",
+    "https://doi.org/10.1038/jcbfm.2008.43",
+    "https://doi.org/10.1038/jcbfm.2009.52",
+    "https://doi.org/10.1038/s41598-017-18890-x",
+    "https://doi.org/10.1371/journal.pone.0195580",
+    "https://doi.org/10.1177/0271678X18771242"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MathWorks MATLAB niftiwrite",
+      "Description": "Used to convert the raw DICOM data to NIfTI format.",
+      "CodeURL": "https://www.mathworks.com/help/images/ref/niftiwrite.html"
+    },
+    {
+      "Name": "FreeSurfer's MiDeFace",
+      "Version": "7.3.2",
+      "Description": "A tool for defacing MRI images in a way that is both minimally invasive and achieves goals of privacy",
+      "CodeURL": "https://surfer.nmr.mgh.harvard.edu/fswiki/MiDeFace"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004654.v1.0.1"
+}

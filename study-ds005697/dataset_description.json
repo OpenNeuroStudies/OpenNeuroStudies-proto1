@@ -1,0 +1,20 @@
+{
+  "Name": "PerceiveImagine",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Weilong Li",
+    "Hua Fan"
+  ],
+  "ReferencesAndLinks": [],
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "9.1"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005697.v1.0.2",
+  "Acknowledgements": "This study has received support from the National Key Special Project for the Integration of Biology and Information Technology (BT and IT Integration)"
+}

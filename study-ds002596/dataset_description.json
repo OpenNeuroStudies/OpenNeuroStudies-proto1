@@ -1,0 +1,19 @@
+{
+  "Authors": [
+    "Zhang, S.",
+    "Yoshida, W.",
+    "Mano, H.",
+    "Yanagisawa, T.",
+    "Shibata, K.",
+    "Kawato, M.",
+    "Seymour, B."
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Cognitive control of sensory pain encoding in the pregenual anterior cingulate cortex. d1 - decoder construction in day 1, d2 - adaptive control in day 2.",
+  "ReferencesAndLinks": [
+    "Zhang, S., Yoshida, W., Mano, H., Yanagisawa, T., Shibata, K., Kawato, M., and Seymour, B. (2019). Cognitive control of sensory pain encoding in the pregenual anterior cingulate cortex."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002596.v1.0.1",
+  "DatasetType": "study"
+}

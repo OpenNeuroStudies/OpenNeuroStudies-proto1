@@ -1,0 +1,29 @@
+{
+  "Name": "Protecting the Aging Brain, Case-Study",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Lilianne R. Mujica-Parodi",
+    "Anar Amgalan",
+    "Syed Fahad Sultan",
+    "Botond Antal",
+    "Steven Skiena",
+    "Andrew Lithen",
+    "Noor Adra",
+    "Eva-Maria Ratai",
+    "Corey Weistuch",
+    "Sindhuja Tirumalai Govindarajan",
+    "Helmut H. Strey",
+    "Ken A. Dill",
+    "Steven M. Stufflebeam",
+    "Richard L. Veech",
+    "Kieran Clarke"
+  ],
+  "Acknowledgements": "The research associated with this dataset was funded by the W. M. Keck Foundation (L.R.M.-P.), the White House Brain Research Through Advancing Innovative Technologies (BRAIN) Initiative (Grants NSFECCS1533257 and NSFNCS-FR 1926781 to L.R.M.-P.), and the US National Academies (Grant NAKFICB8 to L.R.M.-P.). The authors gratefully acknowledge assistance provided by Dominic D\u2019Agostino during the design phase and Nathan A. Smith during the interpretation phase of the experiments.",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1073/pnas.1913042117",
+  "ReferencesAndLinks": [
+    "Mujica-Parodi, Lilianne R., et al. Diet modulates brain network stability, a biomarker for brain aging, in young adults., Proceedings of the National Academy of Sciences 117.11 (2020): 6170-6177. https://www.pnas.org/content/117/11/6170"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003455.v1.0.2",
+  "License": "CC0"
+}

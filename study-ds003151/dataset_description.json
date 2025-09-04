@@ -1,0 +1,28 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Stress-associated brain activation across the hormonal contraceptive cycle",
+  "ReferencesAndLinks": [
+    "Herrera, A. Y., Velasco, R., Faude, S., White, J. D., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 13, 100248. https://doi.org/10.1016/j.ynstr.2020.100248",
+    "Nasseri, P., Herrera, A. Y., Gillette, K., Faude, S., White, J. D., Velasco, R., & Mather, M. (2020). Hormonal contraceptive phases matter: Resting-state functional connectivity of emotion-processing regions under stress. Neurobiology of Stress, 13, 100276. https://doi.org/10.1016/j.ynstr.2020.100276",
+    "Behavioral and demographic data can be found at https://osf.io/b3znw/?view_only=c30f4b45a7a544e782c22188026c11db"
+  ],
+  "Authors": [
+    "Alexandra Ycaza Herrera",
+    "Padideh Nasseri",
+    "Ricardo Velasco",
+    "Sophia Faude",
+    "Jessica D. White",
+    "Philipp C. Opitz",
+    "Ringo Huang",
+    "Kristie Tu",
+    "Mara Mather"
+  ],
+  "Funding": [
+    "National Institute on Aging (R21AG048463 and R01AG025340; PI: M.Mather)"
+  ],
+  "HowToAcknowledge": "For working memory fMRI results, please cite:\n\nHerrera, A. Y., Velasco, R., Faude, S., White, J. D., Opitz, P. C., Huang, R., Tu, K., & Mather, M. (2020). Brain activity during a post-stress working memory task differs between the hormone-present and hormone-absent phase of hormonal contraception. Neurobiology of Stress, 13, 100248.\n\nFor ASL resting state results, please cite:\n\nNasseri, P., Herrera, A. Y., Gillette, K., Faude, S., White, J. D., Velasco, R., & Mather, M. (2020). Hormonal contraceptive phases matter: Resting-state functional connectivity of emotion-processing regions under stress. Neurobiology of Stress, 13, 100276.",
+  "DatasetDOI": "10.18112/openneuro.ds003151.v2.0.1",
+  "template": "project",
+  "DatasetType": "study"
+}

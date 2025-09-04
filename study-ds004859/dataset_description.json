@@ -1,0 +1,24 @@
+{
+  "Name": "iEEG on children during Stroop task",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kazuki Sakakura",
+    "Eishi Asano"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "N/A"
+  ],
+  "EthicsApprovals": [
+    "IRB of Wayne State University"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004859.v1.0.0"
+}

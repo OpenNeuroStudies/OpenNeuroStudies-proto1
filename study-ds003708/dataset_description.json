@@ -1,0 +1,21 @@
+{
+  "Name": "Basis profile curve identification to understand electrical stimulation effects in human brain networks",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Dora Hermes",
+    "Gabriella Ojeda",
+    "Kai J. Miller",
+    "Multimodal Neuroimaging Laboratory at Mayo Clinic"
+  ],
+  "Acknowledgements": "Nicholas Gregg, Brian Lundstom, Kai Miller, Gregory Worrell, Cindy Nelson",
+  "HowToAcknowledge": "This dataset is part of the paper on 'Basis profile curve identification to understand electrical stimulation effects in human brain networks' by Miller, Mueller and Hermes, 2021, https://www.biorxiv.org/content/10.1101/2021.01.24.428020v1.full. This project is funded by the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH122258 to Dora Hermes (Mayo Clinic). The data was collected by Dora Hermes (Mayo Clinic), Nick Gregg (Mayo Clinic), Brian Lundstrom (Mayo Clinic) and Cindy Nelson (Mayo Clinic). The BIDS formatting was performed by Dora Hermes (Mayo Clinic) and Gabriella Ojeda Valencia (Mayo Clinic). The iEEG data collection was facilitated by Gregory Worrell and Kai J. Miller (Mayo Clinic)",
+  "Funding": [
+    "R01 MH122258 CRCNS: Processing speed in the human connectome across the lifespan"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2021.01.24.428020"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003708.v1.0.0",
+  "DatasetType": "study"
+}

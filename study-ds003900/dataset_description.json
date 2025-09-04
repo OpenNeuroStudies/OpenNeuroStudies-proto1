@@ -1,0 +1,72 @@
+{
+  "Name": "TractoInferno: A large-scale, open-source, multi-site database for machine learning dMRI tractography",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Philippe Poulin",
+    "Guillaume Theaud",
+    "Pierre-Marc Jodoin",
+    "Maxime Descoteaux"
+  ],
+  "Acknowledgements": "Thanks to Laurent Petit for his help with the BIL & GIN database.",
+  "HowToAcknowledge": "This data was obtained from the OpenNeuro database (https://openneuro.org/datasets/ds003900). Its accession number is ds003900. Please cite the TractoInferno paper if you use this dataset: https://doi.org/10.1101/2021.11.29.470422",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2021.11.29.470422 "
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "TractoFlow",
+      "Version": "2.1.1",
+      "Container": {
+        "Type": "singularity",
+        "Tag": "scilus/scilus:1.1.0_tractoflow-2.2.1"
+      }
+    },
+    {
+      "Name": "RBX-flow",
+      "Version": "1.1.0",
+      "Container": {
+        "Type": "singularity",
+        "Tag": "scilus/scilus:1.2.0_rbxflow-1.1.0"
+      }
+    },
+    {
+      "Name": "dmriqc-flow",
+      "Version": "0.1.0",
+      "CodeURL": "https://github.com/scilus/dmriqcpy"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.1016/j.neuroimage.2015.02.071"
+    },
+    {
+      "DOI": "doi:10.1101/2020.06.17.154666"
+    },
+    {
+      "DOI": "doi:10.18112/openneuro.ds001796.v1.4.1",
+      "URL": "https://openneuro.org/datasets/ds001796/versions/1.4.1",
+      "Version": "1.4.1"
+    },
+    {
+      "DOI": "doi:10.18112/openneuro.ds000030.v1.0.0",
+      "URL": "https://openneuro.org/datasets/ds000030/versions/1.0.0",
+      "Version": "1.0.0"
+    },
+    {
+      "DOI": "doi:10.18112/openneuro.ds000201.v1.0.3",
+      "URL": "https://openneuro.org/datasets/ds000201/versions/1.0.3",
+      "Version": "1.0.3"
+    },
+    {
+      "DOI": "doi:10.1016/j.nicl.2019.101907"
+    }
+  ],
+  "Funding": [
+    "FRQNT grant #206270",
+    "Compute Canada (www.computecanada.com)",
+    "CBRAIN (www.cbrain.ca)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003900.v1.1.1"
+}

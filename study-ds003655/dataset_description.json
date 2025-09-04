@@ -1,0 +1,14 @@
+{
+  "Name": "VerbalWorkingMemory",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41598-020-72940-5"
+  ],
+  "Authors": [
+    "Yuri G. Pavlov"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HowToAcknowledge": "Cite this paper for the acknowledgement:\nPavlov, Y. G., & Kotchoubey, B. (2021). Temporally distinct oscillatory codes of retention and manipulation of verbal working memory. BioRxiv, 2021.03.13.435253. https://doi.org/10/gjf3tx\n",
+  "DatasetDOI": "10.18112/openneuro.ds003655.v1.0.0",
+  "DatasetType": "study"
+}

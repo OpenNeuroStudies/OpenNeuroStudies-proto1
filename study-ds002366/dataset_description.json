@@ -1,0 +1,18 @@
+{
+  "Name": "Emotion regulation in the Ageing Brain, University of Reading, BBSRC",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "ReferenceAandLinks": "Longitudinal change in executive function is associated with impaired top-down frontolimbic regulation during reappraisal in older adults. bioRxiv 867689; doi: https://doi.org/10.1101/867689",
+  "Authors": [
+    "William K. Lloyd",
+    "Jayne Morriss",
+    "Birthe Macdonald",
+    "Karin Joanknecht",
+    "Julie Nihouarn",
+    "Carien M. van Reekum"
+  ],
+  "Acknowledgements": "We would like to thank all participants who contributed to this dataset. This research was supported by grants from the Biotechnology and Biological Sciences Research Council (BB/J009539/1 and BB/L02697X/1) awarded to Carien van Reekum.",
+  "HowToAcknowledge": "When using these data, please cite the following paper: Lloyd, W. K. M., Morriss, J., Macdonald, B., Joanknecht, K., Nihouarn, J., & van Reekum, C. M. (2021). Longitudinal change in executive function is associated with impaired top-down frontolimbic regulation during reappraisal in older adults. NeuroImage, 225, 1053-8119. doi: http://dx.doi.org/10.1016/j.neuroimage.2020.117488 ",
+  "DatasetDOI": "10.18112/openneuro.ds002366.v1.1.0",
+  "DatasetType": "study"
+}

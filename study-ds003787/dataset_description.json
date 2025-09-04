@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "Cite 'Cross-dataset reproducibility of human retinotopic maps' by Himmelberg, Kurzawski, Benson, Pelli, Carrasco, & Winawer",
+  "Authors": [
+    "Marc Himmelberg",
+    "Jan Kurzawski",
+    "Noah Benson",
+    "Denis Pelli",
+    "Marisa Carrasco",
+    "Jon Winawer"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003787.v1.0.0",
+  "Funding": [
+    "US National Eye Institute R01-EY027401 to MC and JW",
+    "US National Eye Institute  R01-EY027964 to DGP and JW"
+  ],
+  "Name": "NYU Retinotopy Dataset\n\n",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "License": "CC0",
+  "DatasetType": "study"
+}

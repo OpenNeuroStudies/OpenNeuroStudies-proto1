@@ -1,0 +1,30 @@
+{
+  "Name": "28andMe",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Laura Pritschet",
+    "Tyler Santander",
+    "Caitlin M. Taylor",
+    "Evan Layher",
+    "Shuying Yu",
+    "Michael B. Miller",
+    "Scott T. Grafton",
+    "Emily G. Jacobs",
+    "Morgan Fitzgerald",
+    "Joshua M. Mueller"
+  ],
+  "Acknowledgements": "Thanks to Mario Mendoza for phlebotomy and MRI assistance. We would also like to thank Courtney Kenyon, Maggie Hayes, and Morgan Fitzgerald for assistance with data collection",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1016/j.neuroimage.2020.117091",
+  "Funding": [
+    "Brain and Behavior Research Foundation",
+    "California Nanosystems Institute",
+    "Institute for Collaborative Biotechnologies through US Army Research Office W911NF-19-D-0001",
+    "Rutherford B. Fett Fund"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2020.117091"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002674.v1.0.5",
+  "DatasetType": "study"
+}

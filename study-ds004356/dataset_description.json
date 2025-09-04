@@ -1,0 +1,21 @@
+{
+  "Name": "Subcortical responses to music and speech are alike while cortical responses diverge",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Tong Shan",
+    "Madeline S. Cappelloni",
+    "Ross K. Maddox"
+  ],
+  "Funding": [
+    "the Schmitt Program in Neuroscience"
+  ],
+  "EthicsApprovals": [
+    "approved by the University of Rochester Subjects Review Board (#66988)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004356.v2.2.1",
+  "ReferencesAndLinks": [
+    "Shan, T., Cappelloni, M.S. & Maddox, R.K. Subcortical responses to music and speech are alike while cortical responses diverge. Sci Rep 14, 789 (2024). https://doi.org/10.1038/s41598-023-50438-0"
+  ]
+}

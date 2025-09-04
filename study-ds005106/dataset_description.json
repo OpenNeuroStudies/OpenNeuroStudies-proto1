@@ -1,0 +1,32 @@
+{
+  "Name": "200 Objects Infants EEG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Tijl Grootswagers",
+    "Genevieve Quek",
+    "Zhen Zeng",
+    "Manuel Varlet"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005106.v1.5.0",
+  "HowToAcknowledge": "Tijl Grootswagers, Genevieve Quek, Zhen Zeng, Manuel Varlet. 2025. \u201cHuman Infant EEG Recordings for 200 Object Images Presented in Rapid Visual Streams.\u201d Scientific Data",
+  "ReferencesAndLinks": [
+    "https://osf.io/preprints/psyarxiv/dzrkq",
+    "https://doi.org/10.31234/osf.io/dzrkq",
+    "https://doi.org/10.1038/s41597-025-04744-z"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "PsychoPy",
+      "Version": "2023.3.1",
+      "Description": "Used to program and run the experiment."
+    },
+    {
+      "Name": "Python",
+      "Version": "3.9.13",
+      "Description": "Used for scripting and experiment control."
+    }
+  ],
+  "SourceDatasets": []
+}

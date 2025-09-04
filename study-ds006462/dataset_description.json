@@ -1,0 +1,23 @@
+{
+  "Name": "agency-cfs",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "John Veillette",
+    "Yimeng Cheng",
+    "Aditi Joshi",
+    "Howard Nusbaum"
+  ],
+  "EthicsApprovals": [
+    "Social and Behavioral Sciences IRB23-1353 at the University of Chicago."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.13273591",
+    "https://doi.org/10.6084/m9.figshare.26540077.v1"
+  ],
+  "Funding": [
+    "U.S. National Science Foundation BCS 2024923"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006462.v1.0.1"
+}

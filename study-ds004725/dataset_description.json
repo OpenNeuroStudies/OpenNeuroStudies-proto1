@@ -1,0 +1,28 @@
+{
+  "Name": "Single Dose Intranasal Oxytocin Administration: Data from Healthy Younger and Older Adults",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Marilyn Horta",
+    "Rebecca Polk",
+    "Natalie Ebner"
+  ],
+  "Acknowledgements": "Special thanks to all members of the Ebner lab for their help. We also thank the University of Florida Psychology Department, the Center for Cognitive Aging & Memory, the Claude D. Pepper Older Americans Independence Center, the McKnight Brain Institute Advanced Magnetic Resonance Imaging and Spectroscopy Facility, and the Scientific Research Network on Decision Neuroscience and Aging.",
+  "HowToAcknowledge": "Data in Brief manuscript associated with this dataset is currently under review; please see the preprint: osf.io/wn7sj.",
+  "Funding": [
+    "National Center for Advancing Translational Sciences Grant UL1-TR000064",
+    "National Institute on Aging Grants R01AG059809, R24 AG039350, R24 AG054355, 3R01AG072658-01A1S, and T32 AG020499",
+    "National Science Foundation Cooperative Agreement No. DMR-1157490",
+    "U.S. Navy Office of Naval Research Grant N00014-21-1-2201"
+  ],
+  "EthicsApprovals": [
+    "UF Institutional Review Board (IRB#39\u20132013); approved by the FDA (IND 100,860); pre-registered with ClinicalTrials.gov (NCT01823146)"
+  ],
+  "ReferencesAndLinks": [
+    "Liu, P., Lin, T., Feifel, D., & Ebner, N. C. (2022). Intranasal oxytocin modulates the salience network in aging. NeuroImage, 253, 119045. DOI: 10.1016/j.neuroimage.2022.119045. PMID: 35259525. PMCID: PMC9450112.",
+    "Ebner, N. C., Chen, H., *Porges, E., *Lin, T., Fischer, H., Feifel, D., & Cohen, R. A. (2016). Oxytocin's effect on resting-state functional connectivity varies by age and sex. Psychoneuroendocrinology, 69, 50-59. DOI: 10.1016/j.psyneuen.2016.03.013 PMID: 27032063. PMCID: PMC4942126.",
+    "H. Chen, B. Zhao, E. Porges, R.A. Cohen, N.C. Ebner, Edgewise and subgraph-level tests for brain networks, Statistics in Medicine. 35 (2016) 4994\u20135008. https://doi.org/10.1002/sim.7039."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004725.v1.0.1",
+  "License": "CC0"
+}

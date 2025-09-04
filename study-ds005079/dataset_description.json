@@ -1,0 +1,29 @@
+{
+  "Name": "The Effects of Directed Therapeutic Intent on Live and Damaged Cells",
+  "ReferencesAndLinks": [
+    "No bibliographic reference other than the DOI for this dataset"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lorenzo Cohen",
+    "Arnaud Delorme",
+    "Peiying Yang",
+    "Andrew Cusimano",
+    "Sharmistha Chakraborty",
+    "Phuong Nguyen",
+    "Defeng Deng",
+    "Shafaqmuhammad Iqbal",
+    "Monica Nelson",
+    "Chris Fields"
+  ],
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005079.v2.0.0",
+  "DatasetType": "study"
+}

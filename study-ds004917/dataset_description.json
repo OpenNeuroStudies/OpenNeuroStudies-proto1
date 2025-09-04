@@ -1,0 +1,37 @@
+{
+  "Name": "Probability Decision-making Task with ambiguity",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "If using this dataset, please cite the following papers: Valdebenito-Oyarzo et al. (2024) Plos Biology, doi:10.1371/journal.pbio.3002452",
+  "SourceDatasets": [
+    {
+      "DOI": "10.18112/openneuro.ds004917.v1.0.0",
+      "Version": "1.0"
+    }
+  ],
+  "HEDVersion": "",
+  "Funding": [
+    "ANID FONDECYT 11140535",
+    "ANID FONDECYT 1181295",
+    "ANID FONDECYT 1211227",
+    "ANID FONDEQUIP EQM150076"
+  ],
+  "Authors": [
+    "Alejandra Figueroa-Vargas",
+    "Gabriela Valdebenito-Oyarzo",
+    "Mar\u00eda Paz Mart\u00ednez-Molina",
+    "Francisco Zamorano",
+    "Pablo Billeke"
+  ],
+  "ReferencesAndLinks": [
+    "GitHub repository: https://github.com/neurocics/LAN_current",
+    "OSF repository: https://osf.io/zd3g7/",
+    "Valdebenito-Oyarzo et al. (2024) Plos Biology:  https://doi:10.1371/journal.pbio.3002452"
+  ],
+  "EthicsApprovals": [
+    "IRB #2020-67 Comite Etico Cientifico, Universidad del Desarrollo, Chile (https://medicina.udd.cl/comite-etico-cientifico/)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004917.v1.0.1"
+}

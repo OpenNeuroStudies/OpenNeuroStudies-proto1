@@ -1,0 +1,18 @@
+{
+  "Authors": [
+    "Asieh Zadbood",
+    "Samuel A. Nastase",
+    "Janice Chen",
+    "Kenneth A. Norman",
+    "Uri Hasson"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004359.v1.0.0",
+  "Funding": [
+    "National Institutes of Health Grant R01-MH12357"
+  ],
+  "HowToAcknowledge": "Please cite this dataset and/or its corresponding paper.",
+  "License": "CC0",
+  "Name": "SixthSense",
+  "DatasetType": "study"
+}

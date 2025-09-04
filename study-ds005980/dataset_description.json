@@ -1,0 +1,18 @@
+{
+  "Name": "rule learning",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Carol Seger",
+    "Peijuan Li",
+    "Zhiya Liu"
+  ],
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000102",
+  "ReferencesAndLinks": [
+    "http://www.ncbi.nlm.nih.gov/pubmed/20974260",
+    "http://www.ncbi.nlm.nih.gov/pubmed/20079856",
+    "http://www.ncbi.nlm.nih.gov/pubmed/17919929"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005980.v1.0.1",
+  "DatasetType": "study"
+}

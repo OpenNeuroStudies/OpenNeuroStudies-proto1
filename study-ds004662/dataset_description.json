@@ -1,0 +1,17 @@
+{
+  "Name": "Denoising task-correlated head motion from motor-task fMRI data with multi-echo ICA",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Neha A Reddy",
+    "Kristina M Zvolanek",
+    "Molly G Bright"
+  ],
+  "HowToAcknowledge": "Please cite this paper: Neha A. Reddy, Kristina M. Zvolanek, Stefano Moia, Cesar Caballero-Gaudes, Molly G. Bright (2023) Denoising task-correlated head motion from motor-task fMRI data with multi-echo ICA; bioRxiv 2023.07.19.549746; doi: https://doi.org/10.1101/2023.07.19.549746",
+  "Funding": [
+    "NIH Funded Training Program (NAR, KMZ) T32EB025766"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004662.v1.1.0",
+  "Acknowledgements": "Stefano Moia, C\u00e9sar Caballero-Gaudes; Center for Translational Imaging at Northwestern University",
+  "DatasetType": "study"
+}

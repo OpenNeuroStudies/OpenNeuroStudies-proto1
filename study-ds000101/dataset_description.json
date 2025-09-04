@@ -1,0 +1,14 @@
+{
+  "Name": "Simon task",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Kelly AMC",
+    "Milham MP"
+  ],
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000101",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetType": "study"
+}

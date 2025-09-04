@@ -1,0 +1,17 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "michael barnett",
+    "geoffrey aguirre",
+    "david brainard"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003752.v1.0.0",
+  "Funding": [],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "LFContrast",
+  "ReferencesAndLinks": [],
+  "template": "project",
+  "DatasetType": "study"
+}

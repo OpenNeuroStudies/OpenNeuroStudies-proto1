@@ -1,0 +1,23 @@
+{
+  "Name": "Widespread frontoparietal fMRI activity is greatly affected by changes in criterion placement, not discriminability, during recognition memory and visual detection tests",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Evan Layher",
+    "Tyler Santander",
+    "Puneeth Chakravarthula",
+    "Nicole Marinsek",
+    "Benjamin O. Turner",
+    "Miguel P. Eckstein",
+    "Michael B. Miller"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1016/j.neuroimage.2023.120307",
+  "Funding": [
+    "Institute for Collaborative Biotechnologies through US Army Research Office W911NF-19-2-0026"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2023.120307"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004692.v1.0.0",
+  "DatasetType": "study"
+}

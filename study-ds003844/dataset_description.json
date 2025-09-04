@@ -1,0 +1,24 @@
+{
+  "Name": "Dataset Clinical Epilepsy iEEG to BIDS -RESPect_intraoperative_iEEG",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Zweiphenning W.",
+    "Demuru M.",
+    "van Blooijs D.",
+    "Leijten F",
+    "Zijlmans M."
+  ],
+  "Acknowledgements": "dAngremont E., Wassenaar M.",
+  "HowToAcknowledge": "Demuru M., van Blooijs D., Zweiphenning W. et al 2020, A practical workflow for organizing clinical intracranial EEG data in the intraoperative and long term monitoring settings in the Brain Imaging Data Structure",
+  "Funding": [
+    "Epi-Sign Project",
+    "Alexandre Suerman Stipendium 2015",
+    "Epilepsiefonds #17-07"
+  ],
+  "ReferencesAndLinks": [
+    "articles and/or links"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003844.v1.0.1",
+  "DatasetType": "study"
+}

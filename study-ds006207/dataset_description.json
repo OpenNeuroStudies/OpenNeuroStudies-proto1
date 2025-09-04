@@ -1,0 +1,15 @@
+{
+  "Name": "Functional localization of visual motion area FST in humans",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Puti Wen",
+    "Rania Ezzo",
+    "Lowell W. Thompson",
+    "Ari Rosenberg",
+    "Michael S. Landy",
+    "Bas Rokers"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006207.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

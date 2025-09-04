@@ -1,0 +1,23 @@
+{
+  "Name": "NeuroEngage",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Ekaterina Torubarova",
+    "Caroline Arvidsson",
+    "Jonathan Berrebi",
+    "Julia Udd\u00e9n",
+    "Andr\u00e9 Pereira"
+  ],
+  "Acknowledgements": "Data acquisition was supported by a grant to the Stockholm University Brain Imaging Centre (SU FV-5.1.2-1035-15)",
+  "Funding": [
+    "Digital Futures Research pair project Using Neuroimaging Data for Exploring Conversational Engagement in Human-Robot Interaction",
+    "Bank of Sweden Tercentenary Foundation (http://dx.doi.org/10.13039/501100004472) and the Swedish Collegium of Advanced Studies and Stiftelsen Marcus och Amalia Wallenbergs Minnesfond (2022.0034)"
+  ],
+  "EthicsApprovals": [
+    "Swedish Ethical Review Authority (Dnr: 2021-06225-01)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004996.v2.0.0",
+  "License": "CC0",
+  "HowToAcknowledge": "E. Torubarova, C. Arvidsson, J. Berrebi, J. Udd\u00e9n, and A. Pereira, \u201cNeuroengage: A\nmultimodal dataset integrating fmri for analyzing conversational engagement in human-human and human-robot interactions,\u201d in Proceedings\nof the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI), IEEE, 2025"
+}

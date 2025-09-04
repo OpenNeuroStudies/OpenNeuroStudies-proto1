@@ -1,0 +1,31 @@
+{
+  "Name": "High-DensityvSparsefNIRS_WordColorStroop_Sparse_Anderson_2025",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "How To Cite": "Anderson, J., Carlton, L., Kura, S., O\u2019Brien, W., Rogers, D., Zaman, M., Boas, D., Y\u00fccel, M. \u201cHigh-Density Multi-Distance fNIRS Enhances Detection of Brain Activity during a Word-Color Stroop Task.\u201d Neurophotonics Under Review. Available from: https://doi.org/10.1101/2025.03.12.642917",
+  "DatasetType": "study",
+  "Authors": [
+    "Jessica E. Anderson",
+    "Laura Carlton",
+    "Sreekanth Kura",
+    "Walker J. O'Brien",
+    "De'Ja Rogers",
+    "Parisa Rahimi",
+    "Parya Y. Farzam",
+    "Muhammad H. Zaman",
+    "David A. Boas",
+    "Meryem A. Y\u00fccel"
+  ],
+  "Acknowledgements": "We thank Yuanyuan Gao, Antonio Ortega, Sudan Duwadi, Darash Desai, Alexander Von L\u00fchmann, Jack Giblin, Xiaojun Cheng, Byungchan (Kenny) Kim, Chantal Stern, Alice Cronin-Golomb, Rini Kaplan, and Neila Gross for helpful lab training and insightful discussions and feedback. This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds.",
+  "HowToAcknowledge": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006459.v1.0.0",
+  "Funding": [
+    "This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds."
+  ],
+  "EthicsApprovals": [
+    "Boston University Charles River Campus (RCR) IRB. Functional Near-Infrared Spectroscopy of the Brain: 4502"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ]
+}

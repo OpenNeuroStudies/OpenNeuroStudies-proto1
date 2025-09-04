@@ -1,0 +1,18 @@
+{
+  "Name": "Bids Pilot Project",
+  "License": "CC0",
+  "Authors": [
+    "Test"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "test",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "test"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002733.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

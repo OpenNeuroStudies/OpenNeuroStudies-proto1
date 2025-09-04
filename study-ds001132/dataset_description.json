@@ -1,0 +1,16 @@
+{
+  "Name": "Sherlock",
+  "License": "",
+  "Authors": [
+    "Chen, J., Leong, Y.C., Honey, C.J., Yong C.H., Norman, K.A., & Hasson, U."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (1R01MH112357-01 and 1R01MH112566-01)",
+  "ReferencesAndLinks": [
+    "https://www.nature.com/neuro/journal/v20/n1/full/nn.4450.html"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001132.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Imaging the influence of peripheral TRPV1-signaling on cerebral nociceptive processing applying fMRI-based graph theory in a resiniferatoxin rat model",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Isabel Wank",
+    "Lisa Kutsche",
+    "Silke Kreitz",
+    "Peter Reeh",
+    "Andreas Hess"
+  ],
+  "Acknowledgements": "",
+  "HowToAsknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "EthicApprovals": "",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004092.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Sympathovagal quotient and functional connectivity of control networks are related to gut Ruminococcaceae abundance in healthy men",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ana L. Miranda-Angulo",
+    "Juan D. S\u00e1nchez-l\u00f3pez",
+    "Daniel A.Vargas-Tejada",
+    "Juan C. Calder\u00f3n",
+    "Jaime Gallo-Villegas",
+    "Juan F. Alzate-Restrepo",
+    "Jazmin X. Suarez-Revelo",
+    "Gabriel Castrill\u00f3n"
+  ],
+  "Funding": [
+    "MINCIENCIAS grant 11157757335, 2017"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004648.v1.0.0",
+  "DatasetType": "study"
+}

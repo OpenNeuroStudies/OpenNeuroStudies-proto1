@@ -1,0 +1,32 @@
+{
+  "Acknowledgment": "This work was supported by a Sir Henry Wellcome Fellowship (210924/Z/18/Z) and a Tenure-Track Fellowship funded by the University of Liverpool awarded to E.B., as well as grants from the European Research Council (Consolidator Grant 647954) and Economic and Social Research Council (ES/R010072/1) awarded to S.H.",
+  "Authors": [
+    "Biau E",
+    "Wang D",
+    "Park H",
+    "Jensen O",
+    "Hanslmayr S"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Funding": [
+    "Sir Henry Wellcome Fellowship (210924/Z/18/Z)",
+    "European Research Council (Consolidator Grant 647954)",
+    "Economic and Social Research Council (ES/R010072/1)"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "unknown",
+      "Description": "data2bids converter",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "License": "CC0",
+  "Name": "Neocortical and Hippocampal Theta Oscillations Track Audiovisual Integration and Replay of Speech Memories",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.1797-24.2025"
+  ],
+  "TaskName": "AVspeech",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006334.v1.0.0"
+}

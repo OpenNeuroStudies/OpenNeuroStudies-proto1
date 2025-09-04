@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Think Like an Expert",
+  "ReferencesAndLinks": [],
+  "Authors": [
+    "Meir Meshulam",
+    "Liat Hasenfratz",
+    "Hanna Hillman",
+    "Yun-Fei Liu",
+    "Mai Nguyen",
+    "Kenneth A. Norman",
+    "Uri Hasson"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003233.v1.2.1",
+  "HowToAcknowledge": "Meshulam M, Hasenfratz L, Hillman H, Liu Y-F, Nguyen M, Norman KA, Hasson U. Neural alignment predicts learning outcomes in students taking an introduction to computer science course. Nat Commun 12, 1922 (2021). https://doi.org/10.1038/s41467-021-22202-3",
+  "DatasetType": "study"
+}

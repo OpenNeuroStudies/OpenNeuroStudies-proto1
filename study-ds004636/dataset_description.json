@@ -1,0 +1,27 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Cognitive tasks, anatomical MRI, and functional MRI data evaluating the construct of self-regulation",
+  "Authors": [
+    "Bissett, P. G.",
+    "Eisenberg, I. W.",
+    "Shim, S.",
+    "Rios, J. A. H.",
+    "Jones, H. M.",
+    "Hagen, M. P.",
+    "Enkavi, A. Z.",
+    "Li, J. K.",
+    "Mumford, J. A.",
+    "MacKinnon, D. P.",
+    "Marsch, L. A.",
+    "Poldrack, R. A."
+  ],
+  "License": "CC0",
+  "Funding": [
+    "This work was supported by the National Institutes of Health (NIH) Science of Behavior Change Common Fund Program through an award administered by the National Institute for Drug Abuse (NIDA) (UH2DA041713; PIs: Marsch, LA & Poldrack, RA)."
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Stanford Institutional Review Board (IRB protocol #39322) "
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004636.v1.0.4",
+  "DatasetType": "study"
+}

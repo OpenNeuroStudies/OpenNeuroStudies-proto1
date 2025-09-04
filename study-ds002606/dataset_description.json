@@ -1,0 +1,20 @@
+{
+  "Name": "bids_dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Caroline Le Ster",
+    "Antonio Moreno",
+    "Franck Mauconduit",
+    "Vincent Gras",
+    "Ruediger Stirnberg",
+    "Benedikt A. Poser",
+    "Alexandre Vignaud",
+    "Evelyn Eger",
+    "Stanislas Dehaene",
+    "Florent Meyniel",
+    "Nicolas Boulant"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002606.v1.1.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Xuhao Shao",
+    "Ao Li",
+    "Chuangsheng Chen",
+    "Elizabeth F. Loftus",
+    "Bi Zhu"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004261.v2.0.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Cross-stage neural pattern similarity in the hippocampus predicts false memory derived from post-event inaccurate information",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

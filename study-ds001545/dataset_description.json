@@ -1,0 +1,21 @@
+{
+  "Name": "Learning Naturalistic Temporal Structure in the Posterior Medial Network",
+  "License": "",
+  "Authors": [
+    "Aly, M.",
+    "Chen, J.",
+    "Turk-Browne, N.B.",
+    "Hasson, U."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite the paper in References And Links. ",
+  "Funding": [
+    "National Institutes of Health (R01MH112357-01 and R01-EY021755)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_01308"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001545.v1.1.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

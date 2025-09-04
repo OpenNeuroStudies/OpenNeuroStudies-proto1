@@ -1,0 +1,27 @@
+{
+  "Name": "Movement-related artefacts (MR-ART) dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "\u00c1d\u00e1m N\u00e1rai",
+    "Petra Hermann",
+    "Tibor Auer",
+    "P\u00e9ter Kemenczky",
+    "J\u00e1nos Szalma",
+    "Istv\u00e1n Homolya",
+    "Eszter Somogyi",
+    "P\u00e1l Vakli",
+    "B\u00e9la Weiss",
+    "Zolt\u00e1n Vidny\u00e1nszky"
+  ],
+  "HowToAcknowledge": "Please cite the following publication describing the dataset: N\u00e1rai, \u00c1., Hermann, P., Auer, T. et al. Movement-related artefacts (MR-ART) dataset of matched motion-corrupted and clean structural MRI brain scans. Sci Data 9, 630 (2022). https://doi.org/10.1038/s41597-022-01694-8",
+  "Funding": [
+    "Hungarian National Research, Development and Innovation Office (GINOP-2.2.1-18-2018-00001)",
+    "Hungarian Brain Research Program (2017-1.2.1-NKP-2017-00002)"
+  ],
+  "EthicsApprovals": [
+    "The research protocol used for collecting the dataset was approved by the National Institute of Pharmacy and Nutrition (file number: OGY\u00c9I/70184/2017)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004173.v1.0.2",
+  "DatasetType": "study"
+}

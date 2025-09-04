@@ -1,0 +1,15 @@
+{
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2022.08.12.503778v3.abstract"
+  ],
+  "Authors": [
+    "Edward Ester",
+    "Paige Pytel"
+  ],
+  "Name": "Changes in behavioral priority influence the accessibility of working memory content - Experiment 2\n",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004520.v1.0.1",
+  "DatasetType": "study"
+}

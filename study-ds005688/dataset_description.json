@@ -1,0 +1,29 @@
+{
+  "Name": "visStim",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Henry Tan",
+    "Devon Griggs",
+    "Lucas Chen",
+    "Kahte Culevski",
+    "Kat Floerchinger",
+    "Alissa Phutirat",
+    "Gabe Koh",
+    "Nels Schimek",
+    "Pierre Mourad"
+  ],
+  "Acknowledgements": "An immense thanks to all contributors for their support.",
+  "HowToAcknowledge": "Please cite: Tan, H. et al., 2024",
+  "Funding": [
+    "R01 NS119395"
+  ],
+  "EthicsApprovals": [
+    "All animal procedures were vetted and approved by the University of Washington\u2019s Institutional Animal Care and Use Committee under protocol number 4084-10"
+  ],
+  "ReferencesAndLinks": [
+    "https://in_submission_for_publication.com/VisStim"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005688.v1.0.1",
+  "DatasetType": "study"
+}

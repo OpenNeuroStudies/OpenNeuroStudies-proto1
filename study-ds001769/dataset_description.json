@@ -1,0 +1,37 @@
+{
+  "Name": "studyforrest_movie_denoised",
+  "BIDSVersion": "1.10.1",
+  "Description": "The data presented here are related to the studyforrest project. A four-step denoising procedure including preprocessing, ICA decomposition, IC classification and artefacts removal were applied on the movie-watching fMRI data in the studyforrest dataset, producing a denoised version of that.",
+  "License": "CC0",
+  "Authors": [
+    "Xingyu Liu",
+    "Zonglei Zhen",
+    "Anmin Yang",
+    "Haohao Bai",
+    "Jia Liu"
+  ],
+  "SourceDatasets": {
+    "DOI": "10.18112/openneuro.ds000113.v1.3.0",
+    "URL": "https://openneuro.org/datasets/ds000113/versions/1.3.0",
+    "Version": "1.3.0"
+  },
+  "PipelineDescription": {
+    "Name": "ICA-based manual denoising",
+    "CodeURL": "https://github.com/xingyu-liu/studyforrest_denoise"
+  },
+  "Acknowledgements": "Special thanks to the team of studyforrest project especially Michael Hanke for his support.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "National Natural Science Foundation of China (Grant No.31861143039)",
+    "National Natural Science Foundation of China (Grant No.31771251)",
+    "National Basic Research\nProgram of China (2018YFC0810602)",
+    "Changjiang Scholars Programme of China"
+  ],
+  "ReferencesAndLinks": [
+    "Liu, X., et al.\u00a0A manually denoised audio-visual movie watching fMRI dataset for the studyforrest project.\u00a0Sci Data\u00a06,\u00a0295 (2019) (https://www.nature.com/articles/s41597-019-0303-3)",
+    "Hanke, M. et al. A high-resolution 7-Tesla fMRI dataset from complex natural stimulation with an audio movie. Sci. Data 1, sdata20143 (2014) (https://www.nature.com/articles/sdata20143)",
+    "Hanke, M. et al. A studyforrest extension, simultaneous fMRI and eye gaze recordings during prolonged natural stimulation. Sci. Data 3, 160092 (2016) (https://www.nature.com/articles/sdata201693)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001769.v1.3.0",
+  "DatasetType": "study"
+}

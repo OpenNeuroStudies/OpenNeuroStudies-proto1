@@ -1,0 +1,39 @@
+{
+  "Name": "Turone Sheep Chronic Stress (TSCS)",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "3.7.2",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "David A.Barri\u00e8re",
+    "Ella Ars\u00e8ne",
+    "Hans Andriaesen",
+    "Chesneau Didier",
+    "Lomet Didier",
+    "Otten Winfried",
+    "Boissy Alain",
+    "Dardente Hugues",
+    "Poirier Colline",
+    "Calandreau Ludivic",
+    "Keller Matthieu"
+  ],
+  "Acknowledgements": "We thank Didier Chesneau and Chantal Porte for their valuable help at different stages of this project. We thank all the shepherds, especially Damien Capo, Olivier Lasserre and Didier Dubreuil, from the experimental unit (UEPAO) for the care provided to the animals. We are also grateful to Anne-Lyse Lain\u00e9, Corinne Laclie and Dominique Gennetay from the laboratoire de Ph\u00e9notypage-Endocrinologie for hormonal assays. We thank all the staff from the Pixanim platform (https://www6.val-de-loire.inrae.fr/pixanim) for their help during surgeries and imaging sessions, especially Gilles Gomot, Christian Moussu and Fr\u00e9d\u00e9ric Elleboudt.",
+  "HowToAcknowledge": "Please cite the following publication describing the dataset: ***. The Turone Sheep Chronic Stress Project, is a longitudinal study dedicated to study the effect of chronic stress onto the brain in sheep. When acknowledging the TSCS project study should consider including The Turone Sheep Brain Template and Atlas (TSBTA) resource used for spatial sheep brain spatial normalization and labelisation (https://www.nitrc.org/projects/tsbta_2019/) and cite followinf papers : i/ Barri\u00e8re DA, Ella A, Adriaensen H, Roselli CE, Chemineau P, Keller M. In vivo magnetic resonance imaging reveals the effect of gonadal hormones on morphological and functional brain sexual dimorphisms in adult sheep. Psychoneuroendocrinology. 2019 Nov;109:104387. doi: 10.1016/j.psyneuen.2019.104387. Epub 2019 Aug 13. PMID: 31465941. ii/ Ella A, Keller M. Construction of an MRI 3D high resolution sheep brain template. Magn Reson Imaging. 2015 Dec;33(10):1329-1337. doi: 10.1016/j.mri.2015.09.001. Epub 2015 Sep 9. PMID: 26363468. iii/ Ella A, Delgadillo JA, Chemineau P, Keller M. Computation of a high-resolution MRI 3D stereotaxic atlas of the sheep brain. J Comp Neurol. 2017 Feb 15;525(3):676-692. doi: 10.1002/cne.24079. Epub 2016 Aug 9. PMID: 27503489.",
+  "Funding": [
+    "This project was funded by grants from the  French National Research Institute for Agriculture, Food and Environment - ( Starter programm )"
+  ],
+  "EthicsApprovals": [
+    "Comit\u00e9 d\u2019\u00e9thique en exp\u00e9rimentation animale Val de Loire Ethics Committee (CEEA - 019) (reference 2018062214342187.V2 - 15647)"
+  ],
+  "ReferencesAndLinks": [
+    "The Turone Sheep Brain Template and Atlas (TSBTA) have been used to analyse this dataset",
+    "https://www.nitrc.org/projects/tsbta_2019/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004161.v1.0.0"
+}

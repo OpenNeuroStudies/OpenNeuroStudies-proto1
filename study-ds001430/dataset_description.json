@@ -1,0 +1,18 @@
+{
+  "Name": "Neural Overlap in Item Representations Across Episodes Impairs Context Memory",
+  "License": "CC0",
+  "Authors": [
+    "Kim, G.",
+    "Norman, K.A.",
+    "Turk-Browne, N.B."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (R01 MH069456)",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/29897407"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001430.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

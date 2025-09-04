@@ -1,0 +1,22 @@
+{
+  "Name": "Vicarious Punishment of Moral Violations in Naturalistic Drama Narratives \nPredicts Cortical Synchronization",
+  "License": "CC0",
+  "Authors": [
+    "Rene Weber",
+    "Frederic R. Hopp",
+    "Allison Eden",
+    "Kate Lee"
+  ],
+  "Acknowledgements": "Acknowledgements to Margarete Mande and Laura Symonds (Michigan State University) as well as Klaus Mathiak (RWTH University Aachen) for initial advice on data collection and analysis. ",
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "https://medianeuroscience.org"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004775.v1.1.1",
+  "BIDSVersion": "1.10.1",
+  "EthicsApprovals": [
+    "Approved by the Internal Review Board of Michigan State University East Lansing"
+  ],
+  "DatasetType": "study"
+}

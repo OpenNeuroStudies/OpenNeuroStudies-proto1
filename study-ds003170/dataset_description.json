@@ -1,0 +1,21 @@
+{
+  "Name": "changepoint fmri",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Chang-Hao Kao",
+    "Sangil Lee",
+    "Joshua I. Gold",
+    "Joseph W. Kable"
+  ],
+  "ReferencesAndLinks": [
+    "Code and behavioral data can be found at https://github.com/changhaokao/mvpa_changepoint_fmri.",
+    "Kao, C. H., Lee, S., Gold, J. I., & Kable, J. W. (2020). Neural encoding of task-dependent errors during adaptive learning. bioRxiv. https://doi.org/10.1101/2020.05.11.089094."
+  ],
+  "License": "CC0",
+  "Funding": [
+    "National Institute of Mental Health (R01-MH098899 to 677 J.I.G. and J.W.K.)",
+    "National Science Foundation (1533623 to J.I.G. and J.W.K.). "
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003170.v2.0.0",
+  "DatasetType": "study"
+}

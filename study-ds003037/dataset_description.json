@@ -1,0 +1,27 @@
+{
+  "Name": "SUDMEX_TMS: The Mexican dataset of an rTMS clinical trial on cocaine use disorder patients.",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ruth Alcala-Lozano",
+    "Sofia Fernandez-Lozano",
+    "Erick Morelos-Santana",
+    "Alan Davalos",
+    "Viviana Villicana",
+    "Eduardo A. Garza-Villarreal"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Garza-Villarreal, Eduardo A., Ruth Alcala-Lozano, Sofia Fernandez-Lozano, Erik Morelos-Santana, Alan D\u00e1valos, Viviana Villica\u00f1a, Sarael Alcauter, F. Xavier Castellanos, and Jorge J. Gonzalez-Olvera. 2021. \u201cClinical and Functional Connectivity Outcomes of 5-Hz Repeated Transcranial Magnetic Stimulation as an Add-on Treatment in Cocaine Use Disorder: A Double-Blind Randomized Controlled Trial.\u201d Biological Psychiatry. Cognitive Neuroscience and Neuroimaging, (January): 2020.07.15.20154708. https://doi.org/10.1016/j.bpsc.2021.01.003",
+  "Funding": [
+    "CONACYT FOSISS No. 0260971",
+    "CONACYT No. 253072"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.medrxiv.org/content/10.1101/2020.07.15.20154708v1",
+    "https://clinicaltrials.gov/ct2/show/NCT02986438",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2451902221000215?via%3Dihub"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003037.v1.0.1",
+  "Acknowledgements": "We would like to thank Alejandra Torres, Daniela Guerrero Le\u00f3n, Ernesto Reyes Zamorano,Eden Sanchez Rosas, Hugo Garc\u00eda Cant\u00fa and Isabel Espinoza Luna for their assistance inconducting the clinical trial. Major thanks to Michael D. Fox and Molly Schineller for providingthe normative connectivity maps from fucidals. We also thank the Laboratorio Nacional deVisualizaci\u00f3n Cient\u00edfica Avanzada (LAVIS) for the use of their computer cluster and theLaboratorio Nacional de Imagenolog\u00eda por Resonancia Magn\u00e9tica (LANIREM).",
+  "DatasetType": "study"
+}

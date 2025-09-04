@@ -1,0 +1,16 @@
+{
+  "Name": "Personally familiar faces",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Matteo Visconti di Oleggio Castello",
+    "Yaroslav O. Halchenko",
+    "J. Swaroop Guntupalli",
+    "Jason D. Gors",
+    "M. Ida Gobbini"
+  ],
+  "Acknowledgments": "The authors would like to thank Jim Haxby, Brad Duchaine, the members of the GobbiniLab and HaxbyLab for helpful comments and discussions on this work, and Courtney Rogers for invaluable help with subject recruitment.",
+  "HowToAcknowledge": "Please cite: 'Visconti di Oleggio Castello, M., Halchenko, Y. O., Guntupalli, J. S., Gors, J. D., & Gobbini, M. I. (2017). The neural representation of personally familiar and unfamiliar faces in the distributed system for face perception. Scientific Reports, 7(1), 12237. https://doi.org/10.1038/s41598-017-12559-1'",
+  "ReferenceAndLinks": "Visconti di Oleggio Castello, M., Halchenko, Y. O., Guntupalli, J. S., Gors, J. D., & Gobbini, M. I. (2017). The neural representation of personally familiar and unfamiliar faces in the distributed system for face perception. Scientific Reports, 7(1), 12237. https://doi.org/10.1038/s41598-017-12559-1",
+  "DatasetType": "study"
+}

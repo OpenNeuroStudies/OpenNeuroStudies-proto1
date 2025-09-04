@@ -1,0 +1,16 @@
+{
+  "Name": "eeg-neuroforecasting",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Veillette, J.",
+    "Heald, S.",
+    "Wittenbrink, B.",
+    "Nusbaum, H."
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://github.com/john-veillette/eeg-neuroforecasting"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004284.v1.0.0"
+}

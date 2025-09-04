@@ -1,0 +1,15 @@
+{
+  "Name": "Semantic_conditioning",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "Authors": [
+    "Yuri G. Pavlov"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005410.v1.0.1",
+  "HowToAcknowledge": "Pavlov YG, Menger NS, Keil A, Kotchoubey B. 2024. Contingency awareness shapes neural responses in fear conditioning.\nhttps://doi.org/10.1101/2024.08.13.607803",
+  "DatasetType": "study"
+}

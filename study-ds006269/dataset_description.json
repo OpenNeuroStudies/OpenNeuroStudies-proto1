@@ -1,0 +1,33 @@
+{
+  "Name": "Tethered EEG Recordings in Syngap1 rats",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Lucy Pritchard",
+    "Ingrid Buller-Peralta",
+    "Sally M Till",
+    "Peter C Kind",
+    "Alfredo Gonzalez-Sulser"
+  ],
+  "Acknowledgements": "An immense thanks to all contributors for their support.",
+  "HowToAcknowledge": "Please cite: Katsanevaki D, Till SM, Buller-Peralta I, Nawaz MS, Louros SR, Kapgal V, Tiwari S, Walsh D, Anstey NJ, Petrovi\u0107 NG, Cormack A, Salazar-Sanchez V, Harris A, Farnworth-Rowson W, Sutherland A, Watson TC, Dimitrov S, Jackson AD, Arkell D, Biswal S, Dissanayake KN, Mizen LAM, Perentos N, Jones MW, Cousin MA, Booker SA, Osterweil EK, Chattarji S, Wyllie DJA, Gonzalez-Sulser A, Hardt O, Wood ER, Kind PC. Key roles of C2/GAP domains in SYNGAP1-related pathophysiology. Cell Rep. 2024 Sep 24;43(9):114733. doi: 10.1016/j.celrep.2024.114733. Epub 2024 Sep 12. PMID: 39269903.",
+  "Funding": [
+    "The work performed here was funded by The Simons Initiative for the Developing Brain."
+  ],
+  "EthicsApprovals": [
+    "All animal procedures were undertaken in accordance with the University of Edinburgh animal welfare committee regulations and were performed under a United Kingdom Home Office project license."
+  ],
+  "ReferencesAndLinks": [
+    "Katsanevaki D, Till SM, Buller-Peralta I, Nawaz MS, Louros SR, Kapgal V, Tiwari S, Walsh D, Anstey NJ, Petrovi\u0107 NG, Cormack A, Salazar-Sanchez V, Harris A, Farnworth-Rowson W, Sutherland A, Watson TC, Dimitrov S, Jackson AD, Arkell D, Biswal S, Dissanayake KN, Mizen LAM, Perentos N, Jones MW, Cousin MA, Booker SA, Osterweil EK, Chattarji S, Wyllie DJA, Gonzalez-Sulser A, Hardt O, Wood ER, Kind PC. Key roles of C2/GAP domains in SYNGAP1-related pathophysiology. Cell Rep. 2024 Sep 24;43(9):114733. doi: 10.1016/j.celrep.2024.114733. Epub 2024 Sep 12. PMID: 39269903"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006269.v1.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "Open Ephys GUI",
+      "Version": "0.6.1",
+      "Description": "Used for electrophysiology acquisition with headstage and amplifier setup."
+    }
+  ],
+  "SourceDatasets": []
+}

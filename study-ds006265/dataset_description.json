@@ -1,0 +1,33 @@
+{
+  "Name": "TOAM \u2013 Trajectory of a Memory Trace. Human episodic memory 7T fMRI dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Tom Willems",
+    "Konstantinos Zervas",
+    "Finn Rabe",
+    "Andrea Federspiel",
+    "Katharina Henke"
+  ],
+  "Acknowledgements": "The authors thank Mirco Bristle and Luzius Brogli for their support during data analysis. Calculations were performed on UBELIX (https://www.id.unibe.ch/hpc), the HPC cluster at the University of Bern.",
+  "HowToAcknowledge": "This will be replaced by publication details once published.",
+  "Funding": [
+    "This work was supported by Sitem-Insel Support Funds SISF 2019 to K. Henke and by the SNFS Advanced Grant TMAG-1_209374 to K. Henke."
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the ethics committee of the Canton of Berne (ID: 50008). "
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/TomW92/TOAM-fMRI",
+    "https://doi.org/10.1101/2025.06.02.656652"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006265.v1.0.1",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "3.6.3",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ]
+}

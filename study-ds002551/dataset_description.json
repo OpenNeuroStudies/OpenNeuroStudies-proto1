@@ -1,0 +1,19 @@
+{
+  "id": "HEAD",
+  "Name": "Mouse_rest_awake",
+  "License": "CC0",
+  "Authors": [
+    "Norio Takata",
+    "Nobuhiko Sato",
+    "Yuji Komaki",
+    "Hideyuki Okano",
+    "Kenji F. Tanaka"
+  ],
+  "HowToAcknowledge": "Please cite this paper: \nTakata et al. \nFlexible annotation atlas of the mouse brain: combining and dividing brain structures of the Allen Brain Atlas while maintaining anatomical hierarchy\nhttps://www.biorxiv.org/content/10.1101/2020.02.17.953547v2\ndoi: https://doi.org/10.1101/2020.02.17.953547 ",
+  "Funding": [
+    "This work was supported by KAKENHI (16K07032, 16H01620, 18H04952 to N.T.)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002551.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

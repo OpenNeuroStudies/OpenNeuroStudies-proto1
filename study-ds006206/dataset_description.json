@@ -1,0 +1,40 @@
+{
+  "Name": "Motion-robust resting-state BOLD functional MRI in healthy adults at 10.5 Tesla",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Shuxian Qu",
+    "Jiaen Liu",
+    "Peter van Gelderen",
+    "Jacco A. de Zwart",
+    "Jeff H. Duyn",
+    "Matt Waks",
+    "Russell Lagore",
+    "Alexander Bratch",
+    "Andrea Grant",
+    "Edward Auerbach",
+    "Lance Delabarre",
+    "Alireza Sadeghi-Tarakameh",
+    "Yigitcan Eryaman",
+    "Gregor Adriany",
+    "Kamil Ugurbil",
+    "Xiaoping Wu"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Advancing whole-brain BOLD fMRI in humans at 10.5 Tesla with motion-robust 3D EPI, parallel transmission and high-density RF receive coils. Shuxian Qu, Jiaen Liu, Peter van Gelderen, Jacco A. de Zwart, Jeff H. Duyn, Matt Waks, Russell Lagore, Alexander Bratch, Andrea Grant, Edward Auerbach, Lance Delabarre, Alireza Sadeghi-Tarakameh, Yigitcan Eryaman, Gregor Adriany, Kamil Ugurbil, and Xiaoping Wu. MRM 2025.",
+  "Funding": [
+    "R01 NS136490",
+    "P41 EB027061",
+    "U01 EB025144",
+    "S10 RR029672"
+  ],
+  "ReferencesAndLinks": [
+    "Custom built workflow for data processing:"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006206.v2.0.3",
+  "Acknowledgements": "The authors would like to honor and remember Pierre-Francois Van de Moortele for his invaluable contributions to ultrahigh field MRI in general and 10.5 T MRI in particular, which pave the way for the current study. The authors would like to thank Jerahmie Radder, Scott Lynch, and Carlos Soria from the CMRR for their assistance with setting up computation resources. The authors would also like to acknowledge Dr. Yuncong Ma from the CMRR for stimulating discussion on functional connectivity. ",
+  "EthicsApprovals": [
+    "This study is approved by local IRB at the University of Minnesota"
+  ],
+  "DatasetType": "study"
+}

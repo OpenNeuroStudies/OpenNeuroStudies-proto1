@@ -1,0 +1,20 @@
+{
+  "Name": "Abrupt hippocampal remapping signals resolution of memory interference.",
+  "ReferencesAndLinks": [
+    "TBD"
+  ],
+  "Authors": [
+    "Guo Wanjia",
+    "Serra E. Favila",
+    "Ghootae Kim",
+    "Robert J. Molitor",
+    "Brice A. Kuhl"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Funding": [
+    "This work was supported by NIH-NINDS R01 NS089729 awarded to B.A.K. and NIH-NEI K00EY031607 awarded to S.E.F."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003707.v1.0.0",
+  "DatasetType": "study"
+}

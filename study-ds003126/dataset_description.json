@@ -1,0 +1,24 @@
+{
+  "Authors": [
+    "Chiara Banfi",
+    "Karl Koschutnig",
+    "Kristina Moll",
+    "Gerd Schulte-Koerne",
+    "Andreas Fink",
+    "Karin Landerl"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003126.v1.1.0",
+  "Funding": [
+    "Austrian Science Fund (Grant Number: I 1658-G22) ",
+    "German Research Foundation (Grant Number: MO 2569/2-1)"
+  ],
+  "License": "CC0",
+  "Name": "MRI Lab Graz: Reading-related functional activity in children with isolated\nspelling deficits and dyslexia",
+  "ReferencesAndLinks": [
+    "TODO"
+  ],
+  "Acknowledgements": "The present work was funded by the Austrian Science Fund (Grant Number: I 1658-G22) and the German Research Foundation (Grant Number: MO 2569/2-1). ",
+  "HowToAcknowledge": "Please cite the doi of this dataset and the corresponding paper:\nBanfi, C., Koschutnig, K., Moll, K., Schulte-K\u00f6rne, G., Fink, A., & Landerl, K. (in press). Reading-related functional activity in children with isolated spelling deficits and dyslexia. Language, Cognition and Neuroscience. https://doi.org/10.1080/23273798.2020.1859569",
+  "DatasetType": "study"
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Mitchell_Hacker_2013",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Tim Mitchell",
+    "Carl Hacker"
+  ],
+  "Acknowledgements": "None",
+  "HowToAcknowledge": "None",
+  "Funding": [
+    "NIH R21 CA159470-01A1",
+    "NIH P30-NS048056",
+    "NIH R01 MH096482-01"
+  ],
+  "EthicsApprovals": [
+    "None"
+  ],
+  "ReferencesAndLinks": [
+    "https://pubmed.ncbi.nlm.nih.gov/24264234/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005603.v1.0.1",
+  "HEDVersion": "8.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "reproin",
+      "Version": "0.6.0",
+      "Container": {
+        "Type": "docker",
+        "Tag": "repronim/reproin:0.6.0"
+      }
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "s3://dicoms/studies/correlates",
+      "Version": "April 11 2011"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Name": "Expectation of Conflict Stimuli ",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "cite: Martinez-Molina et al. (2024) Nature Communications",
+  "SourceDatasets": [
+    {
+      "DOI": "",
+      "Version": "1.0"
+    }
+  ],
+  "HEDVersion": "",
+  "Funding": [
+    "ANID FONDECYT 11140535",
+    "ANID FONDECYT 1181295",
+    "ANID FONDECYT 1211227",
+    "ANID FONDEQUIP EQM150076"
+  ],
+  "Authors": [
+    "Mar\u00eda Paz Mart\u00ednez-Molina",
+    "Alejandra Figueroa-Vargas",
+    "Francisco Zamorano",
+    "Pablo Billeke"
+  ],
+  "ReferencesAndLinks": [
+    "Martinez-Molina et al. (2024) Nature Communications",
+    "https//doi.org/10.1038/s41467-024-54244-8"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005571.v1.0.1"
+}

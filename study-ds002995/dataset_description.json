@@ -1,0 +1,16 @@
+{
+  "Name": "Taste Quality Representation in the Human Brain",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jason A Avery",
+    "Alexander G Liu",
+    "Cameron Riddell",
+    "John E Ingeholm",
+    "Stephen J Gotts",
+    "Alex Martin"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://pubmed.ncbi.nlm.nih.gov/31836661/",
+  "DatasetDOI": "10.18112/openneuro.ds002995.v1.0.1",
+  "DatasetType": "study"
+}

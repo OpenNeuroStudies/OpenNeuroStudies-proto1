@@ -1,0 +1,35 @@
+{
+  "Acknowledgements": "Dr.Noa Ofen for fMRI consultation",
+  "Authors": [
+    "Liron Rozenkrantz",
+    "Reut Weissgross",
+    "Tali Weiss",
+    "Inbal Ravrebi",
+    "Idan Frumin",
+    "Sagit Shushan",
+    "Lior Gorodisky",
+    "Netta Reshef",
+    "Yael Holzman",
+    "Liron Pinchover",
+    "Yaara Endevelt-Shapira",
+    "Eva Mishor",
+    "Timna Soroka",
+    "Maya Finkel",
+    "Liav Tagania",
+    "Aharon Ravia",
+    "Ofer Perl",
+    "Edna Furman-Haran",
+    "Howard Carp",
+    "Noam Sobel"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [],
+  "HowToAcknowledge": "With using this data please cite the papers in References and Links",
+  "License": "CC0",
+  "Name": "Unexplained Repeated Pregnancy Loss is Associated with Altered Perceptual and Brain Responses to Men\u2019s Body-Odor",
+  "ReferencesAndLinks": [
+    "doi: https://doi.org/10.1101/2020.02.06.937029."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002717.v1.0.1",
+  "DatasetType": "study"
+}

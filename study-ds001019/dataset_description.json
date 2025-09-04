@@ -1,0 +1,22 @@
+{
+  "Name": "navLearn",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "G. Elliott Wimmer",
+    "Christian Buechel"
+  ],
+  "Acknowledgements": "The authors would like to thank Lara Austerman, Lea Kampermann, and Sven Scho\u0308nig assistance in behavioral and fMRI data collection and helpful discussions and Martin Hebart and Krzysztof (Chris) J. Gorgolewski for assistance with fMRI methods and preprocessing. The authors are grateful to the University of Minnesota Center for Magnetic Resonance Research for providing the image reconstruction algorithm for the simultaneous multi-slice acquisitions.",
+  "Funding": [
+    "Deutsche Forschungsgemeinschaft (Research Fellowship 317946335 to G.E.W.)",
+    "DFG SFB TRR 58 and SFB 936 to C.B.",
+    "European Research Council (Grant ERC-2010- AdG_20100407)"
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/gewimmer-neuro/ofc-prediction",
+    "http://dx.doi.org/10.1038/s41467-019-10597-z"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Please cite http://dx.doi.org/10.1038/s41467-019-10597-z",
+  "DatasetDOI": "10.18112/openneuro.ds001019.v1.2.0",
+  "DatasetType": "study"
+}

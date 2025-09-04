@@ -1,0 +1,10 @@
+{
+  "Name": "Implicit Learning EEG (BioSemi)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Mateo Leganes-Fonteneau"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006159.v1.0.0",
+  "License": "CC0"
+}

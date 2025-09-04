@@ -1,0 +1,24 @@
+{
+  "Name": "Naturalistic fMRI and MEG recordings during viewing of a reality TV show",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jixing Li",
+    "Yike Wang",
+    "Chengcheng Wang",
+    "Zhengwu Ma"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005346.v1.0.4",
+  "EthicsApprovals": [
+    "The fMRI experiment was approved by the Ethics Committee of Shanghai Key Laboratory of Brain-Machine Intelligence for Information Behavior (No. 2024BC028), and the MEG experiment was approved by the West China Hospital of Sichuan University Biomedical Research Ethics Committee (No. 2024[657])"
+  ],
+  "DatasetType": "study"
+}

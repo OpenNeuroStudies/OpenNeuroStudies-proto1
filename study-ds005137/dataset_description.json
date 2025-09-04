@@ -1,0 +1,21 @@
+{
+  "Name": "WHIM Syndrome-linked CXCR4 mutation alters cerebellar cytoarchitecture during early development triggering long-lasting behavioral defects",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Giulia Demenego",
+    "Eugene Kim",
+    "Katarina Ilic",
+    "Diana Cash",
+    "Simona Lodato"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "EthicApprovals": "",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005137.v1.0.0",
+  "DatasetType": "study"
+}

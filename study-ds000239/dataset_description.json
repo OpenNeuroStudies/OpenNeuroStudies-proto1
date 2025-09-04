@@ -1,0 +1,17 @@
+{
+  "Name": "Maclaren test-retest brain volume dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Julian Maclaren",
+    "Zhaoying Han",
+    "Sjoerd B. Vos",
+    "Nancy Fischbein",
+    "Roland Bammer"
+  ],
+  "HowToAcknowledge": "When using this data, please cite Maclaren et al., Scientific Data 1:140037, 2014, doi:10.1038/sdata.2014.37, and include the following: 'This data was obtained from the OpenfMRI database. Its accession number is ds000239'",
+  "ReferencesAndLinks": [
+    "http://doi.org/10.1038/sdata.2014.37, https://doi.org/10.6084/m9.figshare.929651_D7"
+  ],
+  "DatasetType": "study"
+}

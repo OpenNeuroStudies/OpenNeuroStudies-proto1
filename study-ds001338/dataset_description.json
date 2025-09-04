@@ -1,0 +1,18 @@
+{
+  "Name": "ParanoiaStory",
+  "License": "Creative Commons Attribution-NonCommercial 4.0 International",
+  "Authors": [
+    "E.S. Finn",
+    "P.R. Corlett",
+    "G. Chen",
+    "P.A. Bandettini",
+    "R.T. Constable"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite original paper:\n\nFinn ES, Corlett PR, Chen G, Bandettini PA, Constable RT. (2018) \"Trait paranoia shapes inter-subject synchrony in brain activity during an ambiguous social narrative.\" Nature Communications, 9: 2043. https://doi.org/10.1038/s41467-018-04387-2",
+  "Funding": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001338.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

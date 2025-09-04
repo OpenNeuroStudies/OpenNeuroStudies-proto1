@@ -1,0 +1,24 @@
+{
+  "Name": "Audiocue walking study",
+  "BIDSVersion": "1.10.1",
+  "License": "Creative commons",
+  "Authors": [
+    "Johanna Wagner",
+    "Ramon Martinez-Cancino",
+    "Scott Makeig",
+    "Arnaud Delorme",
+    "Christa Neuper",
+    "Teodoro Solis-Escalante",
+    "Gernot Mueller-Putz"
+  ],
+  "ReferencesAndLinks": [
+    "http://www.jneurosci.org/content/36/7/2212.short"
+  ],
+  "Funding": [
+    "Future Labs Reloaded 2013 of the Faculty of Computer Science at the Graz University of Technology, Austria, OeAD (Austrian Agency for International Mobility).",
+    " Marietta Blau Grant to J.W., the BMWF (Austrian Federal Ministry of Science and Research).",
+    "Gift to University of California San Diego by the Swartz Foundation (Old Field, NY)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001971.v1.1.1",
+  "DatasetType": "study"
+}

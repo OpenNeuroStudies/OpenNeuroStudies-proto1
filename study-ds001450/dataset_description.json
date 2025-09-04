@@ -1,0 +1,9 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "This data is made available under the Creative Commons BY-SA 4.0 International License.",
+  "Name": "bids_results1",
+  "Authors": [
+    "Yun-Shuang Fan"
+  ],
+  "DatasetType": "study"
+}

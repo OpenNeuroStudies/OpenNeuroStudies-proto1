@@ -1,0 +1,20 @@
+{
+  "Funding": [
+    "This project was supported by Open Research Area grants DFG PO 548/16-1 to SP and NWO 464-13-003, NL, and European Research Council Consolidator grant ERC-CoG-2013-615423 to CO."
+  ],
+  "Name": "negative_template",
+  "HowToAcknowledge": "R. R. Reeder, C. N. L. Olivers, S. Pollmann. Cortical evidence for negative search templates. Visual Cognition, 2017. doi:10.1080/13506285.2017.1339755",
+  "BIDSVersion": "1.10.1",
+  "ReferencesAndLinks": [
+    "Reeder, R. R., Olivers, C. N. L., & Pollmann, S. (2017). Cortical evidence for negative search templates. Visual Cognition. doi:10.1080/13506285.2017.1339755"
+  ],
+  "Authors": [
+    "Reshanne R. Reeder",
+    "Christian N. L. Olivers",
+    "Stefan Pollmann"
+  ],
+  "Acknowledgements": "We would like to thank Lasse Gueldener for his help with data collection. We would like to thank Emanuele Porcu for his help with the fMRI preprocessing.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds001306.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

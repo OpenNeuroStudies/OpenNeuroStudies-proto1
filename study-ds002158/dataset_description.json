@@ -1,0 +1,29 @@
+{
+  "Acknowlegments": "Roberto Martuzzi, Loan Mattera, Gwenael Birot, Gisong Kim",
+  "Authors": [
+    "Michael Pereira",
+    "Nathan Faivre",
+    "Inaki Iturrate",
+    "Marco Wirthlin",
+    "Luana Serafini",
+    "Stephanie Martin",
+    "Arnaud Desvachez",
+    "Olaf Blanke",
+    "Dimitri Van de Ville",
+    "Jose del R. Millan"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002158.v1.0.2",
+  "Funding": [
+    "Bertarelli Foundation",
+    "Swiss National Science Foundation"
+  ],
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors by citing: \nPereira, M., Faivre, N., Iturrate, I., Wirthlin, M., Serafini, L., Martin, S., Desvachez, A., Blanke, O., Van De Ville, D., Millan, JdR. (2018). Disentangling the origins of confidence in speeded perceptual judgments through multimodal imaging (2020). Proceedings of the National Academy of Science, 117 (15) pp 8382-8390\nhttps://doi.org/10.1073/pnas.1918335117\n\nAlso, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "Name": "Disentangling the origins of confidence in speeded perceptual judgments through multimodal imaging",
+  "ReferencesAndLinks": [
+    "Pereira, M., Faivre, N., Iturrate, I., Wirthlin, M., Serafini, L., Martin, S., Desvachez, A., Blanke, O., Van De Ville, D., Millan, JdR. (2018). Disentangling the origins of confidence in speeded perceptual judgments through multimodal imaging (2020). Proceedings of the National Academy of Science, 117 (15) pp 8382-8390 https://doi.org/10.1073/pnas.1918335117"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "ACKNOWLEDGMENTS. O.B. is supported by the Bertarelli Foundation, the Swiss National Science Foundation, and the European Science Foundation. D.V.D.V. is supported by the Bertarelli Foundation and the Swiss National Science Foundation. N.F. has received funding from the European Research Council under the European Union\u2019s Horizon 2020 research and innova- tion programme grant 803122. We thank Roberto Martuzzi, Loan Mattera, Gw\u00e9na\u00ebl Birot, Gisong Kim, and L\u00e9a Vidal for their help during data acqui- sition and Elisa Filevich, Roy Salomon, and two anonymous reviewers for constructive comments on the manuscript.",
+  "DatasetType": "study"
+}

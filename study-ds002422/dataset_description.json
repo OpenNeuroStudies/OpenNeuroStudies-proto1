@@ -1,0 +1,21 @@
+{
+  "Name": "fMRI: resting state and arithmetic task",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yana Panikratova",
+    "Alexander Tomyshev",
+    "Ekaterina Pechenkova",
+    "Roza Vlasova"
+  ],
+  "Acknowledgements": "The authors thank Elena Mershina for her help in study organization, Maria Fomina for data structure formalization, and Mihail Levitchii for automating routine tasks in data preparation for open access",
+  "HowToAcknowledge": "This dataset was provided by Ya. Panikratova, A. Tomyshev, E. Pechenkova, and R. Vlasova",
+  "Funding": [
+    "This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors"
+  ],
+  "ReferencesAndLinks": [
+    "Panikratova, Y., Dobrushina, O., Tomyshev, A., Akhutina, T., Pechenkova, E., Sinitsyn, V., & Vlasova, R. (2020). Context-dependency in the Cognitive Bias Task and Resting-state Functional Connectivity of the Dorsolateral Prefrontal Cortex. Journal of the International Neuropsychological Society, 26(8), 749-762. doi:10.1017/S1355617720000302"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002422.v1.0.2",
+  "DatasetType": "study"
+}

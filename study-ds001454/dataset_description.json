@@ -1,0 +1,20 @@
+{
+  "Name": "Human hippocampal replay during rest prioritizes weakly learned information and predicts memory performance",
+  "License": "CC0",
+  "Authors": [
+    "Schapiro, A.C.",
+    "McDevitt, E.A.",
+    "Rogers, T.T.",
+    "Mednick, S.C.",
+    "Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This work was supported by the National Institutes of Health\u00a0(NINDS F32-NS093901 to A.C.S., NIA R01-AG046646 to S.C.M., and NIMH R01-MH069456 to K.A.N.) and the National Science Foundation (GRFP to E.A.M. and BCS-1439210 to S.C.M.). "
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001454.v1.3.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

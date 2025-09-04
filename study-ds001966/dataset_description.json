@@ -1,0 +1,9 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "This dataset is made available under the CC0 License.",
+  "Name": "action-in-auctions",
+  "ReferencesAndLinks": [
+    "articlename"
+  ],
+  "DatasetType": "study"
+}

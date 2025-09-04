@@ -1,0 +1,26 @@
+{
+  "Name": "Expectation effects on pain and visual perception",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Rotem Botvinik-Nezer",
+    "Stephan Geuter",
+    "Martin A. Lindquist",
+    "Tor D. Wager"
+  ],
+  "HowToAcknowledge": "Please acknowledge that you have used our data, and cite our preprint: https://doi.org/10.1101/2024.10.10.617570\n(paper accepted and will be published soon: Botvinik-Nezer et al., PLoS Comput. Biol., 2025. Expectation generation and its effect on subsequent pain and visual perception).",
+  "Acknowledgements": "This study was funded by the National Institute of Mental Health (NIMH; TDW, R01MH076136). Rotem Botvinik-Nezer thanks the Golda Meir Fellowship and the Azrieli Foundation for their support. The funders had no role in study design, data collection and analysis, decision to publish or preparation of the manuscript. ",
+  "Funding": [
+    "This study was funded by the National Institute of Mental Health (NIMH; TDW, R01MH076136). Rotem Botvinik-Nezer thanks the Golda Meir Fellowship and the Azrieli Foundation for their support. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  ],
+  "EthicsApprovals": [
+    "The Institutional Review Board of the University of Colorado Boulder approved the protocol (approval number 16-0072) and participants provided a written informed consent before the beginning of the experiment."
+  ],
+  "ReferencesAndLinks": [
+    "Preprint: Botvinik-Nezer et al., bioRxiv, 2024. https://doi.org/10.1101/2024.10.10.617570",
+    "Analysis code: https://github.com/rotemb9/PPRI-paper",
+    "Paper (will be published soon): Botvinik-Nezer et al., PLoS Comput. Biol. 2025."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005413.v1.0.0"
+}

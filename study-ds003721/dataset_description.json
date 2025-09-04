@@ -1,0 +1,24 @@
+{
+  "Name": "A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Renee M Visser",
+    "Richard N Henson",
+    "Emily A Holmes"
+  ],
+  "Acknowledgements": "We are grateful to the Holmes lab for their input during the design and setting up of the study, and in particular Ella James for the independent assessment of the diary data. Furthermore, we would like to thank Josephine Newman and Nicole Creasy for help with developing and piloting the stimulus material, Boris Szarzynski, Dora Bosjnak and Robin van Dijkhuizen for transcribing audio files and independent assessment of free recall data, Laura Singh for proofreading, and Nikolaus Kriegeskorte and Erno Hermans for useful discussions about design and data analysis.",
+  "HowToAcknowledge": "Please cite this paper:\nVisser, R M, Henson, R N, & Holmes, E A, (in press). A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging",
+  "Funding": [
+    "RMV received support from the European Union's Horizon 2020 Research and Innovation Programme under the Marie Sklodowska-Curie agreement no. 705641 (SUAI/023/ RG92025) and the Netherlands Organisation for Scientific Research (NWO Veni 016.195.246). RNH is supported by UK Medical Research Council Programme (SUAG/046 G101400). EAH receives support from the Swedish Research Council (VR) 2017-00957, the Lupina Foundation, and the Oak Foundation (OCAY-18-442)."
+  ],
+  "EthicsApprovals": [
+    "All procedures were executed in compliance with relevant laws and institutionsal guidelines, and were approved by the Cambridge Psychological Research Ethics Committee (reference 2017.009)."
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/ucen5/",
+    "Visser, R M, Henson, R N, & Holmes, E A, (in press). A naturalistic paradigm to investigate post-encoding neural activation patterns in relation to subsequent voluntary and intrusive recall of distressing events. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003721.v1.0.0"
+}

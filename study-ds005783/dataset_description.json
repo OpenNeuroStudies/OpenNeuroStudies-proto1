@@ -1,0 +1,21 @@
+{
+  "Acknowledgements": "We thank: Atsushi Takahashi, Steve Shannon, and the Athinoula A. Martinos Imaging Center at the McGovern Institute at MIT for technical and administrative support; Kirsten Lydic for technical support; and members of the Saxe and Kanwisher labs for feedback and assistance with data collection.",
+  "Authors": [
+    "Frederik S. Kamps",
+    "Emily M. Chen",
+    "Nancy Kanwisher",
+    "Rebecca Saxe"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005783.v1.0.1",
+  "Funding": [
+    "NIH grant R01HD103847 to R.S."
+  ],
+  "HowToAcknowledge": "Please cite the following preprint or the publication: \nKamps, F. S., Chen, E. M., Kanwisher, N., & Saxe, R. (2024). Representation of navigational affordances and ego-motion in the occipital place area. bioRxiv, 2024-04.\nFrederik S. Kamps, Emily M. Chen, Nancy Kanwisher, Rebecca Saxe; Representation of navigational affordances and ego-motion in the occipital place area. Imaging Neuroscience 2024; doi: https://doi.org/10.1162/imag_a_00424.",
+  "License": "CC0",
+  "Name": "Representation of navigational affordances and ego-motion in the occipital place area - dataset",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1162/imag_a_00424"
+  ],
+  "DatasetType": "study"
+}

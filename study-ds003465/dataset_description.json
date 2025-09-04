@@ -1,0 +1,30 @@
+{
+  "Name": "DMCC55B",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Todd S. Braver",
+    "Alexander Kizhner",
+    "Rongxiang Tang",
+    "Michael C. Freund",
+    "Joset A. Etzel"
+  ],
+  "Acknowledgements": "We thank Rachel Brough, Maria Gehred, Erin Gourley, Leah Newcomer, Kevin Oksanen, Allison Tay, and Anxu Wang for assistance with data collection and processing. We thank Nicholas Bloom, Mitch Jeffers, and Carolina Ramirez for assistance with pipeline programming and dataset managment.",
+  "HowToAcknowledge": "Please cite https://doi.org/10.1101/2021.05.28.446178 and https://doi.org/10.1162/jocn_a_01768",
+  "Funding": [
+    "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
+    "Image acquisition is partially supported by Mallinckrodt Institute of Radiology, Washington University in St. Louis."
+  ],
+  "EthicsApprovals": [
+    "All participants provided written informed consent in accordance with the Institutional Review Board at Washington University, St. Louis (USA)."
+  ],
+  "ReferencesAndLinks": [
+    "https://sites.wustl.edu/ccplab/",
+    "https://sites.wustl.edu/dualmechanisms",
+    "https://github.com/ccplabwustl/dualmechanisms",
+    "https://nda.nih.gov/edit_collection.html?id=2970",
+    "https://osf.io/6jd9e/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003465.v1.0.6",
+  "DatasetType": "study"
+}

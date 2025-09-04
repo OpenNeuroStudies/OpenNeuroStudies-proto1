@@ -1,0 +1,17 @@
+{
+  "Name": "Registerd Report of ERN During Three Versions of a Flanker Task",
+  "ReferencesAndLinks": [
+    "https://osf.io/qt2zh/",
+    "https://osf.io/preprints/psyarxiv/a3s42"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Peter E. Clayson",
+    "Michael J. Larson"
+  ],
+  "HEDVersion": "8.1.0",
+  "Acknowledgements": "Please cite this repository and the associated preprint.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004883.v1.0.0",
+  "DatasetType": "study"
+}

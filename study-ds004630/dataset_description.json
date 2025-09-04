@@ -1,0 +1,32 @@
+{
+  "Name": "SpiDa-MRI-neuroimaging dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Mengfan Zhang",
+    "Alexander Karner",
+    "Kathrin Kostorz",
+    "Sophia Shea",
+    "David Steyrl",
+    "Filip Melinscak",
+    "Ronald Sladky",
+    "Cindy Sumaly Lor",
+    "Frank Scharnowski"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004630.v1.1.3",
+  "Funding": [
+    "FM was funded by the Austrian Science Fund (FWF) [10.55776/ESP133]. KK was funded by the Austrian Science Fund (FWF) [10.55776/ESP286]. FS was supported by the Swiss National Science Foundation (BSSG10_155915, 100014_178841, 32003B_166566), the Foundation for Research in Science and the Humanities at the University of Zurich (STWF-17-012), and the Baugarten Stiftung."
+  ],
+  "HowToAcknowledge": "Zhang, M., Karner, A., Kostorz, K., Shea, S., Steyrl, D., Melinscak, F., Sladky, R., Lor, C., Scharnowski, F. (in prep.). SpiDa-MRI, behavioral and (f)MRI data of adults with fear of spiders.",
+  "DatasetType": "study",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2niix"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds004630"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "SharedStates",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Suzanne Oosterwijk",
+    "Lukas Snoek",
+    "Mark Rotteveel",
+    "Lisa Feldman Barrett",
+    "H. Steven Scholte"
+  ],
+  "HowToAcknowledge": "Oosterwijk, S., Snoek, L., Rotteveel, M., Barrett, L. F., & Scholte, H. S. (2017). Shared states: using MVPA to test neural overlap between self-focused emotion imagery and other-focused emotion understanding. Social cognitive and affective neuroscience, 12(7), 1025-1035.",
+  "Funding": [
+    "The research leading to these results has received funding from the People Programme (Marie Curie Actions) of the European Union Seventh Framework Programme (grant agreement no 275214) awarded to S.O. The writing of this paper was supported by a Netherlands Organization for Scientific Research VENI grant (451-13-008) awarded to S.O."
+  ],
+  "ReferencesAndLinks": [
+    "Oosterwijk, S., Snoek, L., Rotteveel, M., Barrett, L. F., & Scholte, H. S. (2017). Shared states: using MVPA to test neural overlap between self-focused emotion imagery and other-focused emotion understanding. Social cognitive and affective neuroscience, 12(7), 1025-1035."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002547.v1.1.0",
+  "DatasetType": "study"
+}

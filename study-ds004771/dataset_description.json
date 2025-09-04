@@ -1,0 +1,22 @@
+{
+  "Name": "EEG/ERP data from a Python Reading Task",
+  "License": "CC0",
+  "Authors": [
+    "Chu-Hsuan Kuo",
+    "Chantel S. Prat"
+  ],
+  "ReferencesAndLinks": [
+    "See manuscript"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "Acknowledgements": "Thank you to Mark Pettet for assistance with data analysis and the conversion of data to BIDS format.",
+  "Funding": [
+    "Office of Naval Research, Cognitive Science of Learning program (N00014-20-1-2393)"
+  ],
+  "EthicsApprovals": [
+    "All experimental procedures were approved by the University of Washington Institutional Review Board"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004771.v1.0.0",
+  "DatasetType": "study"
+}

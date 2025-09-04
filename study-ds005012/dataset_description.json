@@ -1,0 +1,32 @@
+{
+  "Name": "Adolescent Health Risk Behavior Study",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Michael I. Demidenko",
+    "Edward D. Huntley",
+    "Daniel P. Keating"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Demidenko, M. I., Huntley, E. D., & Keating, D. P. (2024). Adolescent Health Risk Behavior Study. (ds005012; Version 1.0.3) [Dataset]. OpenNeuro. https://doi.org/www.doi.org/10.18112/openneuro.ds005012.v1.0.3",
+  "Funding": [
+    "Original: Eunice Kennedy Shriver National Institute of Child Health & Human Development (NICHD): R01HD075806 (link: https://reporter.nih.gov/search/swrPst4q102PBv6DQWLsIA/project-details/9497809), D.P. Keating, Principal Investigator)",
+    "Upload/preprocessing: National Institute on Drug Abuse (NIDA): F32DA055334 (link: https://reporter.nih.gov/project-details/10525501)"
+  ],
+  "ReferencesAndLinks": [
+    "See Chapter Two in for extended description of sample: Demidenko, M. (2022). Neural Characteristics of Reward in Adolescents: Neural Substrates of Risk-taking, Researcher Degrees of Freedom and a Person-Specific Network Approach [Thesis]. https://doi.org/10.7302/4773",
+    "Demidenko, M. I., Weigard, A. S., Ganesan, K., Jang, H., Jahn, A., Huntley, E. D., & Keating, D. P. (2021). Interactions between methodological and interindividual variability: How Monetary Incentive Delay (MID) task contrast maps vary and impact associations with behavior. Brain and Behavior, 11(5), e02093. https://doi.org/10.1002/brb3.2093",
+    "Demidenko, M. I., Mumford, J. A., & Poldrack, R. A. (2024). Impact of analytic decisions on test-retest reliability of individual and group estimates in functional magnetic resonance imaging: A multiverse analysis using the monetary incentive delay task. Imaging Neuroscience. https://doi.org/10.1162/imag_a_00262. "
+  ],
+  "OpenNeuroIncludedOutputs": [
+    "fMRIPrep v23.1.4: mid - volumetric + surface",
+    "MRIQC v23.1.0: mid",
+    "task describe - json and png describing task variables"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005012.v1.0.3",
+  "Acknowledgements": "Thanks to the Participants at University of Michigan, and Dr. Daniel Keating for agreeing to share the Adolescent Health Risk Behavior (AHRB; R01HD075806) study data  for this project. Thanks to Krisanne Litinas at the University of Michigan for providing expert advice and scripts to convert the AHRB data into BIDS format.",
+  "EthicsApprovals": [
+    "Participants Consent was Acquired Consistent with the Approved IRB Protocol"
+  ],
+  "DatasetType": "study"
+}

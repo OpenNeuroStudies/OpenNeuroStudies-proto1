@@ -1,0 +1,23 @@
+{
+  "Name": "Tilt Illusion by Phase",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jessica G. Williams",
+    "William J. Harrison",
+    "Henry A. Beale",
+    "Jason B. Mattingley",
+    "Anthony M. Harris"
+  ],
+  "HowToAcknowledge": "Please cite Williams, Harrison, Beale, Mattingley, & Harris (2024). Effects of alpha oscillation power and phase on discrimination performance in a visual tilt illusion. Current Biology",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005021.v1.2.1",
+  "Funding": [
+    "Australian Research Council (DE190100136)",
+    "Australian Research Council (DE220101019)",
+    "National Health and Medical Research Council (NHMRC) Australia Investigator Grant (GNT2010141)"
+  ],
+  "EthicsApprovals": [
+    "All experimental procedures were approved by the Human Research Ethics Committee at The University of Queensland (2021/HE002284). "
+  ],
+  "DatasetType": "study"
+}

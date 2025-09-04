@@ -1,0 +1,16 @@
+{
+  "Acknowledgements": "We thank Daphne Valencia, Jamie Greer, Nora Keathley, and Michael Liu for assistance with data collection.",
+  "Authors": [
+    "Kate Nussenbaum",
+    "Catherine A. Hartley"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Name": "Developmental change in prefrontal cortex recruitment supports the emergence of value-guided memory",
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003499.v1.0.1",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2021.02.13.431073v4",
+    "Nussenbaum, K. & Hartley, C.A. (2021). Developmental change in prefrontal cortex recruitment supports the emergence of value-guided memory. eLife."
+  ],
+  "DatasetType": "study"
+}

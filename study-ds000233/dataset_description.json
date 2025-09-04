@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "We thank Jason Gors, Kelsey G. Wheeler J. Swaroop Guntupalli, Matteo Visconti di Oleggio Castello, M. Ida Gobbini, Terry Sacket, and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection/curation.",
+  "Authors": [
+    "Samuel A. Nastase",
+    "Yaroslav O. Halchenko",
+    "Andrew C. Connolly",
+    "M. Ida Gobbini",
+    "James V. Haxby"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds000233.v1.0.1",
+  "Funding": [
+    "5R01MH075706",
+    "F32MH085433-01A1",
+    "NSF1129764",
+    "NSF1607845"
+  ],
+  "HowToAcknowledge": "If you find this data set useful, please cite the following papers:\n\nNastase, S. A., Connolly, A. C., Oosterhof, N. N., Halchenko, Y. O., Guntupalli, J. S., Visconti di Oleggio Castello, M., Gors, J., Gobbini, M. I., & Haxby, J. V. (2017). Attention selectively reshapes the geometry of distributed semantic representation. Cerebral Cortex, 27(8), 4277-4291. https://doi.org/10.1093/cercor/bhx138\n\nNastase, S. A., Halchenko, Y. O., Connolly, A. C., Gobbini, M. I., & Haxby, J. V. (2018). Neural responses to naturalistic clips of behaving animals in two different task contexts. Frontiers in Neuroscience, 12, 316. https://doi.org/10.3389/fnins.2018.00316",
+  "License": "CC0",
+  "Name": "Neural responses to naturalistic clips of behaving animals in two different task contexts",
+  "ReferencesAndLinks": [
+    "http://datasets.datalad.org/?dir=/labs/haxby/attention",
+    "https://snastase.github.io/datasets/ds000233"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "SONG dataset",
+  "License": "CC0",
+  "Authors": [
+    "Hayoung Song",
+    "Won Mok Shim",
+    "Monica D. Rosenberg"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004592.v1.0.1",
+  "Funding": [
+    "Institute for Basic Science Grant IBS R015-D1",
+    "National Research Foundation of Korea NRF-2019M3E5D2A01060299 and NRF-2019R1A2C1085566",
+    "National Science Foundation BCS-2043740"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Drum Trainer",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Cameron D. Hassall",
+    "Yan Yan",
+    "Laurence T. Hunt"
+  ],
+  "DatasetType": "study",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004152.v1.1.2"
+}

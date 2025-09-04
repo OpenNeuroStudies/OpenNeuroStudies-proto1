@@ -1,0 +1,62 @@
+{
+  "Acknowledgements": "We thank Terry J. Sacket and Courtney Rogers and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav O. Halchenko for helping to prepare this BIDS dataset.\nSpecial thanks go to Kay Robbins for assistance with HED tags annotations.\n\nThis project was supported by NIBIB:R01EB026549-03 from the National Institute of Biomedical Imaging and Bioengineering (NIBIB).",
+  "Authors": [
+    "Heejung Jung",
+    "Maryam Amini",
+    "Bethany J. Hung",
+    "Eilis I. Murphy",
+    "Patrick Sadil",
+    "Yaroslav O. Halchenko",
+    "Bogdan Petre",
+    "Zizhuang Miao",
+    "Philip A. Kragel",
+    "Xiaochun Han",
+    "Mickela O. Heilicher",
+    "Michael Sun",
+    "Owen G. Collins",
+    "Martin A. Lindquist",
+    "Tor D. Wager"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005256.v1.1.0",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "The institutional review board of Dartmouth College approved the study (CPHS STUDY00031937: Spatial Topology 31937), and all participants provided written consent."
+  ],
+  "Funding": [
+    "NIBIB:R01EB026549-03"
+  ],
+  "HEDVersion": "8.3.0",
+  "HowToAcknowledge": "Please cite: Jung, H., Amini, M., Hunt, B. J., Murphy, E. I., Sadil, P., Halchenko, Y. O., Miao, Z., Kragel, P.A., Han, X., Heilicher, M., Petre, B., Collins, O.G., Lindquist, M. A., & Wager, T. D. (2024). A massive multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks. bioRxiv. https://doi.org/10.1101/2024.06.21.599974",
+  "License": "CC0",
+  "Name": "A multimodal fMRI dataset unifying naturalistic processes with a rich array of experimental tasks",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2024.06.21.599974",
+    "https://github.com/spatialtopology/spacetop-prep"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "dcm2niix",
+      "CodeURL": "https://github.com/rordenlab/dcm2niix/",
+      "Version": "v1.0.20201102"
+    },
+    {
+      "Name": "HeuDiConv",
+      "CodeURL": "https://github.com/nipy/heudiconv",
+      "Version": "0.9.0"
+    },
+    {
+      "Name": "ReproIn",
+      "CodeURL": "https://github.com/repronim/reproin",
+      "Container": {
+        "Type": "singularity",
+        "URI": "https://datasets.datalad.org/repronim/containers/images/repronim/repronim-reproin--0.9.0.sing"
+      },
+      "Version": "0.9.0"
+    },
+    {
+      "Name": "Manual",
+      "Description": "Many many steps. Check git log of the git version of the dataset"
+    }
+  ]
+}

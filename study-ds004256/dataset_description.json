@@ -1,0 +1,12 @@
+{
+  "Name": " Encoding of Sound Source Elevation in Human Cortex",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Ole Bialas",
+    "Marc Schoenwiesner",
+    "Burkhard Maess"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004256.v1.0.5",
+  "License": "CC0"
+}

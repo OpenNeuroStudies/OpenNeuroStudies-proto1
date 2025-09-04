@@ -1,0 +1,20 @@
+{
+  "Name": "Violation Differentiation",
+  "License": "",
+  "Authors": [
+    "Ghootae Kim",
+    "Kenneth A. Norman",
+    "Nicholas B. Turk-Browne"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "National Institutes of Health (1R01MH112357-01 and 1R01MH112566-01)"
+  ],
+  "ReferencesAndLinks": [
+    "http://www.jneurosci.org/content/37/8/2022?rss=1"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001926.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

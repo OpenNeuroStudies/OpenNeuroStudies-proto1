@@ -1,0 +1,31 @@
+{
+  "Name": "Odour-imagery ability is linked to food craving, intake, and adiposity change in humans",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Emily E. Perszyk",
+    "Jessica Trinh",
+    "Xue S. Davis",
+    "Zach Hutelin",
+    "Leonie Koban",
+    "Maria G. Veldhuizen",
+    "Jelena Djordjevic",
+    "Marilyn Jones-Gotman",
+    "Tor Wager",
+    "Hedy Kober",
+    "Dana M. Small"
+  ],
+  "Acknowledgements": "This work was supported by the National Science Foundation Graduate Research Fellowship under Grant No. 2139841 (E.E.P.), the National Institute of Diabetes and Digestive and Kidney Diseases of the National Institutes of Health under Award No. F31DK130556 (E.E.P.), and the Modern Diet and Physiology Research Center (D.M.S.). The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Science Foundation or the National Institutes of Health. We would like to thank Jason Avery for advice on the fMRI decoding methods; Bojana Kuzmanovic for guidance on the fMRI preprocessing pipeline; James Howard for example code to perform the sniffing analyses; Thomas Hummel, Johan Lundstr\u00f6m, Joel Mainland, and Paul Wise for their thoughts in troubleshooting the odor detection threshold testing; Alain Dagher, Ralph DiLeone, and Barry Green for their helpful suggestions to the project design; and Karen Martin for MR technical assistance.",
+  "HowToAcknowledge": "Please see our publication at https://www.nature.com/articles/s42255-023-00874-z.",
+  "Funding": [
+    "NIH NIDDKF31 DK130556, NSF GRFP 2139841, Modern Diet and Physiology Research Center Gift."
+  ],
+  "EthicsApprovals": [
+    "All individuals provided written informed consent, and the study procedures were approved by the Yale Human Investigations Committee (Institutional Review Board Protocol # 0405026766)."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/s42255-023-00874-z"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004327.v1.0.3"
+}

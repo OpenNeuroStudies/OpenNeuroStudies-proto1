@@ -1,0 +1,23 @@
+{
+  "Name": "CHN Retinotopic Mapping Dataset",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kelly Chang",
+    "Ione Fine",
+    "Geoffrey M. Boynton"
+  ],
+  "Acknowledgements": "",
+  "Funding": [],
+  "HowToAcknowledge": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004698.v3.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "Manual"
+    }
+  ],
+  "SourceDatasets": []
+}

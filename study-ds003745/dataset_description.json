@@ -1,0 +1,30 @@
+{
+  "Acknowledgements": "This work was supported, in part, by grants from the National Institutes of Health (R21-MH113917, R03-DA046733, and RF1-AG067011 to DVS and R15-MH122927 to DSF) and a Pilot Grant from the Scientific Research Network on Decision Neuroscience and Aging [to DVS; Subaward of NIH R24-AG054355 (PI Gregory Samanez-Larkin)]. We thank Tania Giovannetti for assistance with funding acquisition, development and implementation of study procedures, and recruitment of older adults. We also thank Elizabeth Beard for assistance with task coding, Victoria Kelly, Nicole Henninger, Katherine Hackett, Dennis Desalme, Ben Muzekari, Isaac Levy, Gemma Goldstein, and Srikar Katta for assistance with participant recruitment and data collection. DVS was a Research Fellow of the Public Policy Lab at Temple University during the curation of this dataset (2019-2020 academic year).",
+  "Authors": [
+    "David V. Smith",
+    "Rita M. Ludwig",
+    "Jeffrey B. Dennison",
+    "Crystal Reeck",
+    "Dominic S. Fareri"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003745.v2.1.1",
+  "Funding": [
+    "R21-MH113917 (to DVS)",
+    "R03-DA046733 (to DVS)",
+    "RF1-AG067011 (to DVS)",
+    "R15-MH122927 (to DSF) ",
+    "Pilot Grant from the Scientific Research Network on Decision Neuroscience and Aging [to DVS; Subaward of NIH R24-AG054355 (PI Gregory Samanez-Larkin)]"
+  ],
+  "HowToAcknowledge": "If using this dataset, please cite the following papers: 1) Fareri et al., 2022, NeuroImage (https://doi.org/10.1016/j.neuroimage.2022.119267); 2) Smith et al., 2024, Scientific Data (preprint: https://doi.org/10.31234/osf.io/k7d56). ",
+  "License": "CC0",
+  "Name": "An fMRI Dataset on Social Reward Processing and Decision Making in Younger and Older Adults",
+  "ReferencesAndLinks": [
+    "GitHub repository: https://github.com/DVS-Lab/srndna-datapaper",
+    "Fareri et al., 2022, NeuroImage: https://doi.org/10.1016/j.neuroimage.2022.119267"
+  ],
+  "EthicsApprovals": [
+    "Temple IRB #24452 "
+  ],
+  "DatasetType": "study"
+}

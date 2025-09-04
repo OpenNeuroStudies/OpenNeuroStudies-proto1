@@ -1,0 +1,39 @@
+{
+  "Name": "Integration of overlapping sequences emerges with consolidation through mPFC neural ensembles and hippocampal-cortical connectivity",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Alexa Tompary",
+    "Lila Davachi"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "National Institute of Mental Health Grant MH074692 (L.D.)",
+    "Dart Neuroscience (L.D.)",
+    "NSF Graduate Research Fellowship Program (A.T.)"
+  ],
+  "EthicsApprovals": [
+    "NYU University Committee on Activities Involving Human Subjects"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2022.10.20.513126v1",
+    "https://osf.io/es8zj"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005581.v1.0.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

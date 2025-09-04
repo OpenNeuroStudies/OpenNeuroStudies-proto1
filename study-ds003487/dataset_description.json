@@ -1,0 +1,19 @@
+{
+  "Name": " Differential contributions of ventral striatum subregions in the motivational and hedonic components of the affective response to reward",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Eva R. Pool",
+    "David Munoz Tord",
+    "Sylvain Delplanque",
+    "Yoann Stussi",
+    " Donato Cereghetti",
+    "Patrik Vuilleumier",
+    "David Sander"
+  ],
+  "Funding": [
+    "Research grant (EMODOR \u2013 project UN9046) from Firmenich SA"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003487.v2.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

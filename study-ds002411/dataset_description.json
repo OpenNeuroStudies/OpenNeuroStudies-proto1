@@ -1,0 +1,31 @@
+{
+  "Name": "fMRI dataset on program comprehension and expertise",
+  "License": "CC0",
+  "Authors": [
+    "Yoshiharu Ikutani",
+    "Takatomi Kubo",
+    "Satoshi Nishida",
+    "Hideaki Hata",
+    "Kenichi Matsumoto",
+    "Kazushi Ikeda",
+    "Shinji Nishimoto"
+  ],
+  "Acknowledgements": "Yoshiharu Ikutani prepared and uploaded the dataset in BIDS format",
+  "HowToAcknowledge": "Y. Ikutani, T. Kubo, S. Nishida, H. Hata, K. Matsumoto, K. Ikeda, and S. Nishimoto, \"fMRI dataset on program comprehension and expertise\", OpenNeuro https://openneuro.org/datasets/ds002411, doi:10.18112/openneuro.ds002411.v1.0.0, (2020).",
+  "Funding": [
+    "JST ERATO Grant Number JPMJER1801",
+    "JSPS KAKENHI Grant Number JP15H05311",
+    "JSPS KAKENHI Grant Number JP16H05857",
+    "JSPS KAKENHI Grant Number JP16H06569",
+    "JSPS KAKENHI Grant Number JP17H01797",
+    "JSPS KAKENHI Grant Number JP18K18108",
+    "JSPS KAKENHI Grant Number JP18K18141",
+    "JSPS KAKENHI Grant Number JP18J22957"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002411.v1.1.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

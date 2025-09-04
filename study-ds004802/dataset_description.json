@@ -1,0 +1,15 @@
+{
+  "Name": "Pilot data for Loneliness in the Brain: Distinguishing Between Hypersensitivity and Hyperalertness",
+  "License": "CC0",
+  "Authors": [
+    "Joe Bathelt",
+    "Marte Otten"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/c2svz/?view_only=4ee744ac88c74f41a4d955824a69284b"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "3.0.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004802.v1.0.0",
+  "DatasetType": "study"
+}

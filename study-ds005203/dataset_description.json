@@ -1,0 +1,15 @@
+{
+  "Name": "Arrows and Gaze.",
+  "Authors": [
+    "Marius G\u00f6rner",
+    "Hamidreza Ramezanpour",
+    "Peter Dicke",
+    "Peter Thier"
+  ],
+  "BIDSVersion": "1.10.1",
+  "RepetitionTime": 1.5,
+  "Acknowledgements": "Friedemann Bunjes",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005203.v1.0.0",
+  "DatasetType": "study"
+}

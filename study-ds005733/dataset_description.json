@@ -1,0 +1,14 @@
+{
+  "Name": "Avatar task",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Guochun Yang",
+    "Jiefeng Jiang"
+  ],
+  "ReferencesAndLinks": [
+    "Yang, G., & Jiang, J. (2024). Cost-benefit Tradeoff Mediates the Transition from Rule-based to Memory-based Processing during Practice. PLOS Biology, accepted. https://doi.org/10.1371/journal.pbio.3002987"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005733.v1.0.1",
+  "DatasetType": "study"
+}

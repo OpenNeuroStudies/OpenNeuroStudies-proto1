@@ -1,0 +1,20 @@
+{
+  "Name": "Early stressful experiences are associated with reduced neural responses to naturalistic emotional and social content in children",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Anne T. Park",
+    "Hilary Richardson",
+    "Ursula A. Tooley",
+    "Cassidy L. McDermott",
+    "Austin L. Boroshok",
+    "Adrian Ke",
+    "Julia A. Leonard",
+    "M. Dylan Tisdall",
+    "Kirby Deater-Deckard",
+    "J. Christopher Edgar",
+    "Allyson P. Mackey"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004228.v1.0.1"
+}

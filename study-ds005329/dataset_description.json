@@ -1,0 +1,20 @@
+{
+  "Name": "Are the ventral anterior temporal lobes involved in accessing conceptual knowledge during spoken word production? fMRI evidence from auditory naming",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Angelique Volfart",
+    "Katie McMahon",
+    "Catherine Li\u00e9geois-Chauvel",
+    "Vitoria Piai",
+    "Greig de Zubicaray"
+  ],
+  "Funding": [
+    "Australian Research Council DP200100127"
+  ],
+  "EthicsApprovals": [
+    "Metro North Health and QUT HREC (HREC/15/QRBW/447 and 2015-1148-1620)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005329.v2.0.0"
+}

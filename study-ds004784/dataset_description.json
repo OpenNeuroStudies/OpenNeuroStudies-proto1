@@ -1,0 +1,16 @@
+{
+  "Name": "Phantom EEG Dataset with Motion, Muscle, and Eye Artifacts and Example Scripts",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3390/s23198214"
+  ],
+  "Authors": [
+    "Ryan J. Downey",
+    "Daniel P. Ferris"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "HowToAcknowledge": "Downey, R.J.; Ferris, D.P. iCanClean Removes Motion, Muscle, Eye, and Line-Noise Artifacts from Phantom EEG. Sensors 2023, 23, 8214. https://doi.org/10.3390/s23198214",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004784.v1.0.4",
+  "DatasetType": "study"
+}

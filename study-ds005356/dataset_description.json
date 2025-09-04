@@ -1,0 +1,10 @@
+{
+  "Name": "MEG: Major Depression & Probabilistic Learning Task",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "[Unspecified]"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005356.v1.5.0"
+}

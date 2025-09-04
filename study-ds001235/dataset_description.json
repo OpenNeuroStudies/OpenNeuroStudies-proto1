@@ -1,0 +1,14 @@
+{
+  "Name": "Human-Object Interaction",
+  "BIDSVersion": "1.10.1",
+  "HowToAcknowledge": "C. Baldassano, D.M. Beck, L. Fei-Fei. Human\u2013Object Interactions Are More than the Sum of Their Parts. Cerebral Cortex, 2016. doi: 10.1093/cercor/bhw077",
+  "ReferencesAndLinks": [
+    "Stimuli at https://figshare.com/articles/Human-Object_Stimuli_Experiment_2/5213350"
+  ],
+  "Authors": [
+    "Christopher Baldassano",
+    "Diane M. Beck",
+    "Li Fei-Fei"
+  ],
+  "DatasetType": "study"
+}

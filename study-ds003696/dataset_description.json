@@ -1,0 +1,22 @@
+{
+  "Name": "Action-related object pairs - fMRI dataset",
+  "DatasetType": "study",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Shan Xu",
+    "Xingyu Liu",
+    "Jorge Almeida",
+    "Dietmar Heinke"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "",
+  "Funding": [
+    "Natural Science Foundation of China (Grant No. 31600925)",
+    "Foundation for Science and Technology Portugal (Grant No. PTDC/MHC-PCN/6805/2014)",
+    "ERC starting grant ContentMAP"
+  ],
+  "EthicsApprovals": [
+    "the Institutional Review Board of Beijing Normal University"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003696.v1.0.0"
+}

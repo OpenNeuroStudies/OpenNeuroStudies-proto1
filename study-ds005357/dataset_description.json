@@ -1,0 +1,16 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Neurogame Project",
+  "Authors": [
+    "Author 1",
+    "Author 2"
+  ],
+  "Funding": [
+    "Funding 1",
+    "Funding 2"
+  ],
+  "Missing": "Participants 7 did not complete the scanning procedure and participants 9 and 21 had abnormal brain structures",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005357.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Joseph M. Orr",
+    "Vijay A. Mittal"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds001371.v1.1.0",
+  "Funding": [
+    "R01MH094650",
+    "F32DA034412",
+    "F32MH102898",
+    "Brain & Behavior Research Foundation NARSAD Young Investigator Award"
+  ],
+  "HowToAcknowledge": "Contact Joseph M. Orr at joseph.orr@tamu.edu for current status",
+  "License": "CC0",
+  "Name": "Early signs of disrupted rule learning in adolescents at clinical high risk for psychosis",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2020.01.20.20018069",
+    "https://osf.io/snuqj/",
+    "https://balsa.wustl.edu/Klv19"
+  ],
+  "DatasetType": "study"
+}

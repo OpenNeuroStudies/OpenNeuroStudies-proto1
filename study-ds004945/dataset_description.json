@@ -1,0 +1,26 @@
+{
+  "Name": "PyDesigner Example Dataset",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jens Jensen",
+    "Andreanna Benitez",
+    "Erin Klintworth",
+    "Hunter Moss",
+    "Kathryn Thorn"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "None"
+  ],
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "Pending"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004945.v1.0.0"
+}

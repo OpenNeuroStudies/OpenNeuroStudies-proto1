@@ -1,0 +1,16 @@
+{
+  "Name": "Blink-Pause-Relation (Competing Speaker Paradigm)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Bjoern Holtze",
+    "Marc Rosenkranz",
+    "Martin Bleichner",
+    "Stefan Debener"
+  ],
+  "ReferencesAndLinks": [
+    "tba"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004369.v1.0.1",
+  "DatasetType": "study"
+}

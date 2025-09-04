@@ -1,0 +1,29 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Brain Correlates of Multisensory Lexical Processing in Adults",
+  "ReferencesAndLinks": [
+    "Brennan, C., Cao, F., Pedroareana-Leal, N., McNorgan, C. & Booth, J. R. Reading acquisition reorganizes the phonological awareness network only in alphabetic systems. Human Brain Mapping. 34, 3354-3368 (2013).",
+    "Cao, F., Brennan, C. & Booth, J. R. The brain adapts to orthography with experience: Evidence from English and Chinese. Developmental Science. 18, 785-798 (2015)."
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding developmental data descriptor for use of this dataset:\n \nLytle MN, McNorgan C & Booth JR (2020). Brain correlates of multisensory lexical processing in adults. OpenNeuro. 10.18112/openneuro.ds002879\n\nLytle MN, McNorgan C & Booth JR (2019). A longitudinal neuroimaging dataset on multisensory lexical processing in school-aged children. Scientific Data, 6, 329. \n",
+  "Funding": [
+    "HD093547 from the National Institute of Child Health and Human Development awarded to James R. Booth",
+    "HD042049 from the National Institute of Child Health and Human Development awarded to James R. Booth"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Christine Brennan",
+    "Ozlem Ece Demir-Lira",
+    "Amy Desroches",
+    "Clara Ekerdt",
+    "Margaret M. Gullick",
+    "Marisa N. Lytle",
+    "Chris McNorgan",
+    "Melissa Randazzo-Wagner",
+    "Yael Weiss",
+    "Jessica Wise Younger"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds002879.v1.1.1",
+  "DatasetType": "study"
+}

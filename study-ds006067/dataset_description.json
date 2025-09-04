@@ -1,0 +1,16 @@
+{
+  "Name": "ThinkAloud",
+  "DatasetType": "study",
+  "Authors": [
+    "Hongmi Lee",
+    "Xian Li",
+    "Savannah Born",
+    "Christopher Honey",
+    "Janice Chen"
+  ],
+  "HowToAcknowledge": "Please cite this article: Su, H., Li, X., Born, S., Honey, C.J., Chen, J., Lee, H., 2025. Neural dynamics of spontaneous memory recall and future thinking in the continuous flow of thoughts. Nature Communications 16(1), 6433. https://doi.org/10.1038/s41467-025-61807-w",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006067.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0"
+}

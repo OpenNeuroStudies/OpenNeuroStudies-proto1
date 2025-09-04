@@ -1,0 +1,27 @@
+{
+  "Name": "Emotion Category and Face Perception Task Optimized for Multivariate Pattern Analysis",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Isaac David",
+    "Victor Olalde-Mathieu",
+    "Ana Y. Mart\u00ednez",
+    "Lluviana Rodr\u00edguez-Vidal",
+    "Fernando A. Barrios"
+  ],
+  "Acknowledgments": "Special thanks to Erick H. Pasaye",
+  "HowToAcknowledge": "Please cite this paper:\nhttps://doi.org/10.1101/2021.04.04.438425",
+  "Funding": [
+    "Institute of Neurobiology, UNAM",
+    "CONACyT (CVU 891935)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2021.04.04.438425"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003548.v1.0.1",
+  "Acknowledgements": "Special thanks to Erick H. Pasaye and Leopoldo Gonz\u00e1lez-Santos",
+  "EthicsApprovals": [
+    "https://doi.org/10.1101/2021.04.04.438425"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Evidence against a cortical module for processing communicative gaze",
+  "Authors": [
+    "G\u00f6rner, Marius",
+    "Dicke, Peter W.",
+    "Thier, Peter"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005903.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

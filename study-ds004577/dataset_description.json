@@ -1,0 +1,26 @@
+{
+  "Name": "Dataset containing resting EEG for a sample of 103 normal infants in the first year of life",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Thal\u00eda Harmony (Neurodevelopment Research Unit; Instituto de Neurobiolog\u00eda; Universidad Nacional Aut\u00f3noma de M\u00e9xico)",
+    "Gloria Otero-Ojeda (Facultad de Medicina; Universidad Aut\u00f3noma del Estado de M\u00e9xico)",
+    "Eduardo Aubert (Centro de Neurociencias de Cuba)",
+    "Thal\u00eda Fern\u00e1ndez (Neurodevelopment Research Unit; Instituto de Neurobiolog\u00eda; Universidad Nacional Aut\u00f3noma de M\u00e9xico)",
+    "Lourdes Cubero-Rego (Neurodevelopment Research Unit; Instituto de Neurobiolog\u00eda; Universidad Nacional Aut\u00f3noma de M\u00e9xico)"
+  ],
+  "Acknowledgements": "The authors acknowledge Teresa \u00c1lvarez-V\u00e1zquez, H\u00e9ctor Belmont-Tamayo, and Paulina \u00c1lvarez-Garc\u00eda for their collaboration",
+  "Funding": [
+    "Direcci\u00f3n General Del Personal Acad\u00e9mico IT200223"
+  ],
+  "EthicsApprovals": [
+    "Ethical permission was obtained from the Ethics Committee of the Instituto de Neurobiolog\u00eda of the Universidad Nacional Aut\u00f3noma de M\u00e9xico which also complied with the Ethical Principles for Medical Research Involving Human Subjects outlined in the Helsinki Declaration."
+  ],
+  "ReferencesAndLinks": [
+    "Otero GA, Harmony T, Pliego-Rivero FB, Ricardo-Garcell J, Bosch-Bayard J, Porcayo-Mercado R, Fern\u00e1ndez-Bouzas A, D\u00edaz-Comas L, Gal\u00e1n L, Vieyra-Reyes P, Fern\u00e1ndez T. QEEG norms for the first year of life. Early Hum Dev, 87: 691-703, 2011.DOI: 10.1016/j.earlhumdev.2011.05.010",
+    "Bosch-Bayard Jorge, Vald\u00e9s-Sosa Pedro A., Fernandez T., Otero G., Pliego Rivero B., Ricardo-Garcell J., Gonz\u00e1lez-Frankenberger B., Gal\u00e1n-Garc\u00eda L., Fernandez-Bouzas A., Aubert-Vazquez E., Lage-Castellanos A., Rodr\u00edguez-Vald\u00e9s R., Harmony, T. 3D Statistical Parametric Mapping of quiet sleep EEG in the first year of life. Neuroimage, 59: 3297\u20133308, 2012. DOI: 10.1016/j.neuroimage.2011.11.001",
+    "Bosch-Bayard J, Biscay RJ, Fernandez T, Otero GA, Ricardo-Garcell J, Aubert-Vazquez E, Evans AC, Harmony T. EEG effective connectivity during the first year of life mirrors brain synaptogenesis, myelination, and early right hemisphere predominance. NeuroImage 252 (2022) 119035. https://doi.org/10.1016/j.neuroimage.2022.119035"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004577.v1.0.1",
+  "License": "CC0"
+}

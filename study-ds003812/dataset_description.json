@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "The authors would like to thank Noah C. Benson for his assistance with the retinotopy analysis.",
+  "Authors": [
+    "William F. Broderick",
+    "Jonathan Winawer",
+    "Eero P. Simoncelli"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003812.v1.0.0",
+  "Funding": [
+    "GRANT NIH R01EY027401 (JW)",
+    "GRANT NIH R01EY027964 (JW)",
+    "NSF GRFP (WFB)",
+    "HHMI (EPS)"
+  ],
+  "HowToAcknowledge": "If you use this dataset, please cite both the data set (using the DatasetDOI in this file) and the corresponding paper (as given in ReferencesandLinks).",
+  "License": "CC0",
+  "Name": "spatial_frequency_preferences",
+  "ReferencesAndLinks": [
+    "Paper link: forthcoming",
+    "Github repo with all project code (use for reproducing analyses presented in paper and re-analyzing this dataset): https://github.com/billbrod/spatial-frequency-preferences",
+    "OSF project containing miscellaneous files: https://osf.io/afs85/"
+  ],
+  "DatasetType": "study"
+}

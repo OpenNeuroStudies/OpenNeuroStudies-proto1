@@ -1,0 +1,19 @@
+{
+  "Name": "Dynamic representation of the subjective value of information",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Kenji Kobayashi",
+    "Sangil Lee",
+    "Alexandre L. S. Filipowicz",
+    "Kara D. McGaughey",
+    "Joseph W. Kable",
+    "Matthew R. Nassar"
+  ],
+  "HowToAcknowledge": "",
+  "ReferencesAndLinks": [
+    "Kobayashi, K., Lee, S., Filipowicz, A. L. S., McGaughey, K. D., Kable, J. W. & Nassar, M. R. (2021). Dynamic representation of the subjective value of information. Journal of Neuroscience, https://doi.org/10.1523/JNEUROSCI.0423-21.2021."
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003758.v1.0.2",
+  "DatasetType": "study"
+}

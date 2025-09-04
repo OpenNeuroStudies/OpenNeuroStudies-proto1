@@ -1,0 +1,35 @@
+{
+  "Name": "Brain-wide spatiotemporally distinct traveling waves drive anxiety-like behaviors in mice",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jiaming Liu",
+    "Jia-Wen Mo",
+    "Xunda Wang",
+    "Yinuo Ma",
+    "Shile Tian",
+    "Qi Wang",
+    "Peng-Li Kong",
+    "Ziqi An",
+    "Li Ding",
+    "Jing Ren",
+    "Cheng-Lin Lu",
+    "Chuanjun Tong",
+    "Ed X. Wu",
+    "Qiu-gen Hu",
+    "Xiong Cao",
+    "Yanqiu Feng"
+  ],
+  "Acknowledgements": "Please cite the following references if you use these data: Liu J, Mo JW, Wang X, Ma Y, Tian S, Wang Q, Kong PL, An Z, Ding L, Ren J, Lu CL, Tong C, Wu EX, Hu QG, Cao X, Feng Y. Brain-Wide Spatiotemporally Distinct Traveling Waves Drive Anxiety-Like Behaviors in Mice. Adv Sci (Weinh). 2025 Jul 29:e11867. doi: 10.1002/advs.202411867. ",
+  "Funding": [
+    "National Natural Science Foundation of China (U21A6005 and 82372079 to Y.F., 32271062 to X.C.)",
+    "Ministry of Science and Technology China Brain Initiative Grant (2022ZD0204702 to X.C.)",
+    "Guangzhou, Key Research Program on Brain Science (02206060001 to X.C.)",
+    "Natural Science Foundation of Guangdong Province (2024A1515010014 to Y.F.)",
+    "Guangdong-Hong Kong Joint Laboratory for Psychiatric Disorders (2023B1212120004)",
+    "China Postdoctoral Science Foundation (2024M751348 to J.L.)",
+    "Guangdong Basic and Applied Basic Research Foundation (2023A1515110815 to J.L.)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006407.v1.0.0"
+}

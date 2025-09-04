@@ -1,0 +1,22 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Sai Ma",
+    "Taicheng Huang",
+    "Yukun Qu",
+    "Xiayu Chen",
+    "Yajie Zhang",
+    "Zonglei Zhen"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004044.v2.0.3",
+  "Funding": [
+    "National Key R&D Program of China (Grant No. 2019YFA0709503)",
+    "National Natural Science Foundation of China (Grant No. 31771251)"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "An fMRI dataset for whole-body somatotopic mapping in humans",
+  "ReferencesAndLinks": [],
+  "DatasetType": "study"
+}

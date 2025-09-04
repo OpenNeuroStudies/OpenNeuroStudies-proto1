@@ -1,0 +1,21 @@
+{
+  "Name": "Increased brain reactivity to gambling unavailability as a marker of problem gambling",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Damien Brevers",
+    "Chris Baeken",
+    "Antoine Bechara",
+    "Qinghua He",
+    "Pierre Maurage",
+    "Mathieu Petieau",
+    "Guillaume Sescousse",
+    "Claus V\u00f6gele",
+    "Jo\u00ebl Billieux"
+  ],
+  "Funding": [
+    "This work is supported by Luxembourg National Research Fund (FNR); CORE \u2013 Junior Track [BETHAB]"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002513.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

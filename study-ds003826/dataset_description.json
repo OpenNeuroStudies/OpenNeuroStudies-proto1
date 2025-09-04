@@ -1,0 +1,27 @@
+{
+  "Name": "Structural (t1) images of 136 young healthy adults; study of effects of chronotype, sleep quality and daytime sleepiness on brain structure.",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Michal Rafal Zareba",
+    "Magdalena Fafrowicz",
+    "Tadeusz Marek",
+    "Ewa Beldzik",
+    "Halszka Oginska",
+    "Aleksandra Domagalik"
+  ],
+  "Acknowledgements": "We thank Anna Beres, Koryna Lewandowska, Monika Ostrogorska, Barbara Sikora-Wachowicz, Aleksandra Zyrkowska, Justyna Janik, Kamil Cepuch, and Piotr Faba  for assistance with participant recruitment and data collection",
+  "HowToAcknowledge": "Please cite this paper: \n Michal Rafal Zareba, Magdalena Fafrowicz, Tadeusz Marek, Ewa Beldzik, Halszka Oginska & Aleksandra Domagalik (2021) Late chronotype is linked to greater cortical thickness in the left fusiform and entorhinal gyri, Biological Rhythm Research, DOI: 10.1080/09291016.2021.1990501\n\n(preprint: 10.21203/rs.3.rs-588446/v1)",
+  "Funding": [
+    "Polish National Science Centre (NCN) Grant 2013/08/M/HS6/00042",
+    "Polish National Science Centre (NCN) Grant 2013/08/W/NZ3/00700"
+  ],
+  "EthicsApprovals": [
+    "Research Ethics Committee at the Institute of Applied Psychology at the Jagiellonian University and Bioethics Commission at the Polish Military Institute of Aviation Medicine"
+  ],
+  "ReferencesAndLinks": [
+    " Michal Rafal Zareba, Magdalena Fafrowicz, Tadeusz Marek, Ewa Beldzik, Halszka Oginska & Aleksandra Domagalik (2021) Late chronotype is linked to greater cortical thickness in the left fusiform and entorhinal gyri, Biological Rhythm Research, DOI: 10.1080/09291016.2021.1990501"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003826.v3.0.1"
+}

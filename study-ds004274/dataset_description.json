@@ -1,0 +1,18 @@
+{
+  "Name": "A Chemical Signal in Human Emotional Tears Blocks Aggression in Men",
+  "Authors": [
+    "Shani Agron",
+    "Reut Weissgross",
+    "Eva Mishor",
+    "Lior Gorodisky",
+    "Aharon Ravia",
+    "Edna Furman-Haran",
+    "Tali Weiss",
+    "Noam Sobel"
+  ],
+  "HowToAcknowledge": "With using this data please cite the papers in References and Links",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004274.v1.0.0",
+  "DatasetType": "study"
+}

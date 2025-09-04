@@ -1,0 +1,25 @@
+{
+  "Name": "Over 100 Task fMRI Dataset",
+  "License": "CC0",
+  "Authors": [
+    "Tomoya Nakai",
+    "Shinji Nishimoto"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "MEXT/JSPS KAKENHI grant numbers JP17K13083",
+    "JP18H05091 in #4903",
+    "JP15H05311",
+    "JP18H05522",
+    "JST CREST JPMJCR18A5",
+    "ERATO JPMJER1801"
+  ],
+  "ReferencesAndLinks": [
+    "Nakai & Nishimoto (bioRxiv 2019, doi: https://doi.org/10.1101/614081)",
+    "Nakai & Nishimoto (Nature Communications 2020, doi: https://doi.org/10.1038/s41467-020-14913-w)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002306.v1.0.3",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

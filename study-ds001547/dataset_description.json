@@ -1,0 +1,17 @@
+{
+  "Name": "Layer VASO in visual system",
+  "License": "CC0",
+  "Authors": [
+    "Renzo Huber"
+  ],
+  "Acknowledgements": "These data are acquired in collaboration and with great input from the following people: \nElisha Merriam, elisha.merriam@nih.gov, NIMH, Bethesda, MD, United States,\nInsub Kim, insekim@gmail.com, IBS Center, Sungkyunkwan University, Korea,\nYuhui Chai, yuhui.chai@nih.gov, NIMH, Bethesda, MD, United States,\nSriranga Kashyap, Sriranga.Kashyap@maastrichtuniversity.nl, MBIC, Maastricht University, Netherlands,\nJonathan Polimeni, jonp@nmr.mgh.harvard.edu, MGH, Harvard, MA, United States,\nZvi Roth, zviroth@gmail.com, NIMH, Bethesda, MD, United States,\nWon Mok Shim, wonmokshim@skku.edu, IBS Center, Sungkyunkwan University, Korea,\nSeong-Gi Kim, seonggikim@skku.edu, IBS Center, Sungkyunkwan University, Korea,\nBenedikt A Poser, Benedikt.Poser@maastrichtuniversity.nl, MBIC, Maastricht University, Netherlands,\nPeter A Bandettini, Bandettini@nih.gov, NIMH, Bethesda, MD, United States.\n\nI want to thank Robert Trampel, Saskia Bollmann, Markus Barth, Cheryl Olman, Marcello Venzi, Kevin Murphy and Amir Shmuel for helpful discussion about high-resolution VASO in V1.\n",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001547.v1.1.0",
+  "BIDSVersion": "1.10.1",
+  "ReferenceAndLinks": [
+    "see ISMRM 2019"
+  ],
+  "DatasetType": "study"
+}

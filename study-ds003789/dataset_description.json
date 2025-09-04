@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Xuhao Shao",
+    "Chuansheng Chen",
+    "Elizabeth F. Loftus",
+    "Gui Xue",
+    "Bi Zhu"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003789.v2.1.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Dynamic changes in neural representations underlie the repetition e\ufb00ect on false memory",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2022.119442"
+  ],
+  "DatasetType": "study"
+}

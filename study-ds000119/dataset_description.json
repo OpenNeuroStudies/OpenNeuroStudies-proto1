@@ -1,0 +1,16 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Maturational Changes in Anterior Cingulate and Frontoparietal Recruitment Support the Development of Error Processing and Inhibitory Control (Antistate)",
+  "Description": "Documenting the development of the functional anatomy underlying error processing is critically important for understanding age-related improvements in cognitive performance. Here we used functional magnetic resonance imaging to examine time courses of brain activity in 77 individuals aged 8-27 years during correct and incorrect performance of an oculomotor task requiring inhibitory control. Canonical eye-movement regions showed increased activity for correct versus error trials but no differences between children, adolescents and young adults, suggesting that core task processes are in place early in development.",
+  "License": "PDDL",
+  "Authors": [
+    "Katerina Velanova",
+    "Mark E. Wheeler",
+    "Beatriz Luna"
+  ],
+  "Acknowledgements": "We thank Mark McAvoy and Abraham Snyder for support and development of functional data analysis procedures. Enami Yasui provided assistance with data collection. National Institutes of Mental Health (NIMH RO1 MH067924).",
+  "ReferencesAndLinks": [
+    "http://cercor.oxfordjournals.org/content/18/11/2505.short"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "EmoEEG-MC: A Multi-Context Emotional EEG Dataset for Cross-Context Emotion Decoding",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Xin XU",
+    "Xinke SHEN",
+    "Xuyang CHEN",
+    "Qingzhu ZHANG",
+    "Sitian WANG",
+    "Yihan LI",
+    "Zongsheng LI",
+    "Dan ZHANG",
+    "Mingming ZHANG",
+    "Quanying LIU"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005540.v1.0.7",
+  "Acknowledgements": "We would like to thank Dr. Xin Hu for providing the video materials of the FACED dataset. This work was supported by the National Key R\\&D Program of China (2021YFF1200804), Shenzhen Excellent Youth Project (RCYX20231211090405003), Shenzhen Science and Technology Innovation Committee (RCBS20231211090748082, KJZD20230923115221044, 2022410129,  KCXFZ20201221173400001).",
+  "Funding": [
+    "the National Key R&D Program of China (2021YFF1200804)",
+    "Shenzhen Excellent Youth Project (RCYX20231211090405003)",
+    "Shenzhen Science and Technology Innovation Committee (RCBS20231211090748082, KJZD20230923115221044, 2022410129, KCXFZ20201221173400001)",
+    "SUSTech Undergraduate Innovation and Entrepreneurship Training Program(2024S07)"
+  ],
+  "EthicsApprovals": [
+    "the Medical Ethics Committee of Southern University of Science and Technology (Project No.20220174)"
+  ],
+  "ReferencesAndLinks": [
+    "Chen, J. et al. A Large Finer-grained Affective Computing EEG Dataset. Sci. Data 10, 740, 10.1038/s41597-023-02650-w (2023)",
+    "Nummenmaa, L., Glerean, E., Hari, R. & Hietanen, J. K. Bodily maps of emotions. Proc. Natl. Acad. Sci. 111, 646\u2013651, 10.1073/pnas.1321664111 (2014). https://www.pnas.org/doi/pdf/10.1073/pnas.1321664111"
+  ]
+}

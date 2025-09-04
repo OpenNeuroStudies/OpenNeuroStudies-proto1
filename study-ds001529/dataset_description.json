@@ -1,0 +1,17 @@
+{
+  "Name": "Mouse_rest_anesthesia",
+  "License": "CC0",
+  "Authors": [
+    "Joanes Grandjean",
+    "Aileen Schroeter",
+    "Imene Batata",
+    "Markus Rudin"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite this paper: https://www.ncbi.nlm.nih.gov/pubmed/25175535",
+  "Funding": "Swiss National Science Foundation SNF 310030-141202, SNF 310030-126029",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001529.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

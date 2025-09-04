@@ -1,0 +1,35 @@
+{
+  "Name": "The Dallas Lifespan Brain Study",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Denise Park",
+    "Joseph Hennessee",
+    "Evan T. Smith",
+    "Micaela Chan",
+    "Carson Katen",
+    "Julia Bacci",
+    "Sarah Frank",
+    "Sarah Monier",
+    "Alexandra Collyer",
+    "Carol Tamminga",
+    "William Moore",
+    "Neil Rofsky",
+    "Karen Rodrigue",
+    "Kristen Kennedy",
+    "Gagan Wig"
+  ],
+  "HowToAcknowledge": "Park, D.C. et al. The Dallas Lifespan Brain Study: A Comprehensive Adult Lifespan Data Set of Brain and Cognitive Aging. Sci Data 12, 846 (2025). https://doi.org/10.1038/s41597-025-04847-7",
+  "Acknowledgements": "We thank the former lab members and associates who have made this research possible, and who are listed in the Keys to the Kingdom. In addition, we thank the participants who generously contributed their time and effort to this project",
+  "ReferencesAndLinks": [
+    "Please see the beginning of the README for a list of references."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004856.v1.3.0",
+  "Funding": [
+    "NIH National Institutes on Aging 5R37AG-006265-27, RC1AG036199"
+  ],
+  "EthicsApprovals": [
+    "The University of Texas Southwestern Medical Center Institutional Review Board (IRB #s: STU 072010-112, 072010-219, 092015-003)"
+  ],
+  "DatasetType": "study"
+}

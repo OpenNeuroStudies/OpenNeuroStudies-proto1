@@ -1,0 +1,13 @@
+{
+  "Authors": [
+    "Nadav Aridan",
+    "Nicholas J. Malecek",
+    "Russell A. Poldrack",
+    "Tom Schonberg"
+  ],
+  "DatasetType": "study",
+  "BIDSVersion": "1.10.1",
+  "Name": "Neural Correlates of Effort-Based Valuation Under Risk",
+  "DatasetDOI": "10.18112/openneuro.ds003782.v1.0.0",
+  "License": "CC0"
+}

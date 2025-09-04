@@ -1,0 +1,15 @@
+{
+  "Name": "Auditory Cortex Mapping Dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jonathan Cote",
+    "Etienne de Villers-Sidani"
+  ],
+  "HowToAcknowledge": "please  acknowledge its authors (Jonathan Cote, Jean-Pierre R. Falet, Veronica Tarka , Zaida-Escila Martinez-Moreno and Etienne de Villers-Sidani) and cite the mapping  technique publication (under review).",
+  "Funding": [
+    "This work was funded in part by grants from the Natural Sciences and Engineering Research Council of Canada (NSERC), the Centre for Research on Brain, Language and Music (CRBLM), and the Reseau quebecois de recherche sur le vieillissement (RQRV)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003082.v1.0.0",
+  "DatasetType": "study"
+}

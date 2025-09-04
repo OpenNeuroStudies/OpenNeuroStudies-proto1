@@ -1,0 +1,21 @@
+{
+  "Name": "Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Andre Zugman",
+    "Grace Ringlein",
+    "Daniel S. Pine",
+    "Anderson Winkler"
+  ],
+  "HowToAcknowledge": "When using this data, please cite Zugman et al : Brain Functional Connectivity and Anatomical Features as Predictors of Cognitive Behavioral Therapy Outcome for Anxiety in Youths",
+  "Funding": [
+    "This work was supported by the Intramural Research Program of the National Institutes of Health (NIH) through ZIA-MH002781"
+  ],
+  "DOI": "10.1017/S0033291724003131",
+  "ReferencesAndLinks": [
+    "https://www.cambridge.org/core/journals/psychological-medicine/article/brain-functional-connectivity-and-anatomical-features-as-predictors-of-cognitive-behavioral-therapy-outcome-for-anxiety-in-youths/2BF58F5EC8F672E26392026280895E8E"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006045.v1.0.0",
+  "DatasetType": "study"
+}

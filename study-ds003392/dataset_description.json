@@ -1,0 +1,22 @@
+{
+  "Name": "NeuroSpin hMT+ Localizer DATA (MEG & aMRI)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Nicolas Zilber",
+    "Philippe Ciuciu",
+    "Alexandre Gramfort",
+    "Leila Azizi",
+    "Virginie van Wassenhove"
+  ],
+  "Acknowledgements": "We are grateful to the NeuroSpin nursing staff for their help in recruiting and preparing participants for MEG data acquisition, and to Antoine Grigis for help with the anonymization of the MRIs.",
+  "Funding": [
+    "This work was supported by a Marie Curie IRG-249222 and an ERC-StG-263584 to V.vW and an ANR Schubert ANR-0909-JCJC-071 to P.C."
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003392.v1.0.4",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2014.02.017"
+  ],
+  "HowToAcknowledge": "Please cite: \n\nZilber, N., Ciuciu, P., Gramfort, A., Azizi, L., & Van Wassenhove, V. (2014). Supramodal processing optimizes visual perceptual learning and plasticity. Neuroimage, 93, 32-46.\n\n",
+  "DatasetType": "study"
+}

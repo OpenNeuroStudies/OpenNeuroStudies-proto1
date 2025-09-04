@@ -1,0 +1,16 @@
+{
+  "Name": "Reinstated episodic context guides sampling-based decisions for reward",
+  "License": "",
+  "Authors": [
+    "Bornstein, A.M. & Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/nn.4573#abstract"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001607.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

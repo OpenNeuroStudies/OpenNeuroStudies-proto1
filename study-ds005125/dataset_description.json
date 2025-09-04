@@ -1,0 +1,12 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "The brain hierarchically represents the past and future during multistep anticipation",
+  "Authors": [
+    "Hannah Tarder-Stoll",
+    "Christopher Baldassano*",
+    "Mariam Aly*"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005125.v1.0.0",
+  "DatasetType": "study"
+}

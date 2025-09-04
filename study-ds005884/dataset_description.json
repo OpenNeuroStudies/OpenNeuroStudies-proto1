@@ -1,0 +1,32 @@
+{
+  "Name": "CoSpine Database_motor_dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Zhaoxing Wei",
+    "Xiaomin Lin",
+    "Lingfei Guo",
+    "Jixin Liu",
+    "Li Hu",
+    "Yaou Liu",
+    "Yazhuo Kong"
+  ],
+  "Acknowledgements": "Thanks to Yunyun Duan, Guangyue Tian, Jiahui Zhong, Jiyuan Wang, Mengmeng Feng, Haotian Xin and others for their support in data collection and methodology.",
+  "HowToAcknowledge": "Please cite our paper: Wei, et al. (2025). CoSpine Database: An Innovative Protocol and Open-Access Resource for Simultaneous Cortico-Spinal fMRI.",
+  "Funding": [
+    "National Key R&D Program of China (2022YFC3500603)",
+    "National Natural Science Foundation of China (82072010)",
+    "Beijing Natural Science Foundation (IS23108)"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005884.v1.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2niix",
+      "Version": "v1.0.20190410",
+      "Description": "Converted DICOM to NIfTI and generated BIDS metadata"
+    }
+  ],
+  "SourceDatasets": []
+}

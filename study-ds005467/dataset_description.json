@@ -1,0 +1,40 @@
+{
+  "Name": "University of Florida Mouse Sepsis fMRI Study",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "3.7.2",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Quan Vo",
+    "Zachary D. Simon",
+    "Gwoncheol Park",
+    "Dina C Nacionales",
+    "Carmelina Gorski",
+    "Evan L Barrios",
+    "Gemma Casadesus",
+    "Philip A. Efron",
+    "Lyle L. Moldawer",
+    "Ravinder Nagpal",
+    "Paramita Chakrabarty",
+    "Marcelo Febo"
+  ],
+  "Acknowledgements": "Authors thank Drs. Paramita Chakrabarty, Lyle Moldawer and Marcelo Febo of the University of Florida for generating the original mouse subacute sepsis model and MRI scans",
+  "HowToAcknowledge": "Any publications using this data should acknowledge NIH grant NINDS RF1NS128626 supporting the overall work conducted in the original study. Publications should also cite S10 RR025671, which supported MRI/S instrumentation, as well as the McKnight Brain Institute at the National High Magnetic Field Laboratory\u2019s Advanced Magnetic Resonance Imaging and Spectroscopy (AMRIS) Facility, which is supported by National Science Foundation Cooperative Agreement DMR-1644779 and the State of Florida.",
+  "Funding": [
+    "NINDS RF1NS128626",
+    "NIA R21AG065819",
+    "USDA-ARS #440658",
+    "Florida Department of Health (23A02 and 24A05)",
+    "National Science Foundation Cooperative Agreement No. DMR-1644779"
+  ],
+  "EthicsApprovals": [
+    "Approved under University of Florida Institutional Animal Care and Use Committee under protocol IACUC202200000230"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005467.v1.0.0"
+}

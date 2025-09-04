@@ -1,0 +1,28 @@
+{
+  "Name": "Open iEEG Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Yipeng Zhang",
+    "Atsuro Daida",
+    "Lawrence Liu",
+    "Naoto Kuroda",
+    "Yuanyi Ding",
+    "Shingo Oana",
+    "Tonmoy Monsoor",
+    "Chenda Duan",
+    "Shaun A. Hussain",
+    "Joe X Qiao",
+    "Noriko Salamon",
+    "Aria Fallah",
+    "Myung Shin Sim",
+    "Raman Sankar",
+    "Richard J. Staba",
+    "Jerome Engel Jr.",
+    "Eishi Asano",
+    "Vwani Roychowdhury",
+    "Hiroki Nariai"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005398.v1.0.1",
+  "License": "CC0"
+}

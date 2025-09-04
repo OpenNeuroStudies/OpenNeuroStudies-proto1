@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "We thank Sonia Afonso for assistance with task and participant preparation",
+  "Authors": [
+    "Bruno Direito",
+    "Manuel Ramos",
+    "Alexandre Sayal",
+    "Joao Pereira",
+    "Miguel Castelo-Branco"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004142.v1.0.1",
+  "Funding": [
+    "The authors were supported by the BRAINTRAIN grant, a Collaborative Project supported by the European Commission, under the Health Cooperation Work Programme of the 7th Framework Programme, under the Grant Agreement No. 602186 (www.braintrainproject.eu)",
+    "Fundacao para a Ciencia e Tecnologia, Portugal, PTDC/PSIGER/30852/2017, UID/4950/2020, and PCIF/SSO/0082/2018."
+  ],
+  "HowToAcknowledge": "doi: https://doi.org/10.3389/fnhum.2020.578119",
+  "License": "CC0",
+  "Name": "Exploring the Neural Correlates of Feedback-Related Reward Saliency and Valence During Real-Time fMRI-Based Neurofeedback",
+  "ReferencesAndLinks": [
+    "https://www.frontiersin.org/articles/10.3389/fnhum.2020.578119/full"
+  ],
+  "DatasetType": "study"
+}

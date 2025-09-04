@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "We thank the flow managers who acquired fMRI data over the last decades in our department, and the participants for their time and effort.",
+  "Authors": [
+    "Magnus S. Bom",
+    "Annette M.A. Brak",
+    "Mathijs A.H.L.L. Raemaekers",
+    "Nick F. Ramsey",
+    "Mariska J. Vansteensel",
+    "Mariana P. Branco"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005366.v2.0.0",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "All data was collected within studies approved bythe Medical Ethical Committee of the Utrecht University Medical Center in accordance with the Declaration of Helsinki (2013). Data is fully anonymous."
+  ],
+  "Funding": [
+    "This work was supported by the Dutch Research Council (NWO) Talent Programme Veni (project PANDA, 19072)"
+  ],
+  "HowToAcknowledge": "Please cite this paper at doi: 10.18112/openneuro.ds005366.v1.1.0",
+  "License": "CC0",
+  "Name": "Large-scale fMRI dataset for the design of motor-based Brain-Computer Interfaces",
+  "ReferencesAndLinks": [
+    ""
+  ]
+}

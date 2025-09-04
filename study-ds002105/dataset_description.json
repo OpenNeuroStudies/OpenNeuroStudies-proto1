@@ -1,0 +1,22 @@
+{
+  "Name": "Multi-Domain Task Battery (MDTB)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Maedbh King",
+    "Carlos Hernandez-Castillo",
+    "Russell A. Poldrack",
+    "Jonathon Walters",
+    "Richard B. Ivry",
+    "J\u00f6rn Diedrichsen"
+  ],
+  "HowToAcknowledge": "Please cite the following reference if you use these data: \nKing, M., Hernandez-Castillo, C.R., Poldrack, R.A., Ivry, R.B., and Diedrichsen, J. (2019). Functional boundaries in the human cerebellum revealed by a multi-domain task battery. Nat. Neurosci. 22, 1371\u20131378.",
+  "License": "CC0",
+  "Funding": [
+    "This work was supported by the James S. McDonnell Foundation (Scholar award to J.D.), the Canadian Institutes of Health Research (PJT 159520 to J.D.), a Platform Support Grant from Brain Canada and the Canada First Research Excellence Fund (BrainsCAN to Western University), the National Science Foundation (OAC-1649658 to R.P.), and the National Institute of Health (NS092079, NS105839 to R.B.I.). "
+  ],
+  "ReferencesAndLinks": [
+    "For contrast maps of the cerebellum, see http://www.diedrichsenlab.org/imaging/mdtb.htm"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002105.v1.1.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Agreeableness personality trait and social information encoding",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sandra Arbula",
+    "Elisabetta Pisanu",
+    "Raffaella I. Rumiati"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003436.v1.0.0",
+  "DatasetType": "study"
+}

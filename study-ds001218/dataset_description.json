@@ -1,0 +1,18 @@
+{
+  "Name": "State representation pictures",
+  "License": "Creative Commons Attribution 4.0 International Public License",
+  "Authors": [
+    "Mark Thornton",
+    "Miriam Weaverdyck",
+    "Diana I. Tamir"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "https://osf.io/8n9ze/"
+  ],
+  "DatasetDOI": "",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

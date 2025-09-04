@@ -1,0 +1,23 @@
+{
+  "Authors": [
+    "Mojtaba Lahijanian",
+    "Mohammad Javad Sedghizadeh",
+    "Hamid Aghajan",
+    "Zahra Vahabi"
+  ],
+  "Name": "Auditory Gamma Entrainment",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "Acknowledgements": "The authors wish to thank Ziaeian Hospital in Tehran for providing staff time and equipment for data collection in this study. We are grateful to the patients and their families who participated in this study. ",
+  "Funding": [
+    "This work was partially funded by the Cognitive Sciences & Technologies Council of Iran and by the grant G970736 from Sharif University of Technology, which covered the cost of data collection. The funders had no role in the study conceptualization and design, data collection and analysis, decision to publish, or preparation of the manuscript. "
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Review Board of Tehran University of Medical Sciences (Approval ID: IR.TUMS.MEDICINE.REC.1398.524) and all participants provided informed consent before participating and were free to withdraw at any time."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003800.v1.0.0",
+  "DatasetType": "study"
+}

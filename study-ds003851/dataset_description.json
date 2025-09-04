@@ -1,0 +1,17 @@
+{
+  "Name": "Category-biased neural representations form spontaneously during learning that emphasizes memory for specific instances",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ashby, S.R.",
+    "Zeithamova, D."
+  ],
+  "Acknowledgements": "Funding for this work was provided by the Lewis Family Endowment, which supports the Robert and Beverly Lewis Center for Neuroimaging at the University of Oregon (D.Z.). This work was also supported by the National Institute for Neurological Disease and Stroke Grant R01-NS-112366 (DZ). ",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NINDS R01-NS-112366"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003851.v1.0.1",
+  "DatasetType": "study"
+}

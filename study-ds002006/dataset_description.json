@@ -1,0 +1,15 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Memory and decision making dataset",
+  "Description": "These data were published in Bakkour et al. eLife, 2019",
+  "Authors": [
+    "Akram Bakkour",
+    "Daphna Shohamy",
+    "Michael N. Shadlen"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Bakkour, A., Palombo, D.J., Zylberberg, A., Kang,Y.H.R., Reid, A., Verfaellie, M., Shadlen,M.N., Shohamy, D. (2019). The hippocampus supports deliberation during value based decisions. eLife. [eprint].",
+  "Funding": "McKnight Memory and Cognitive Disorders Award",
+  "DatasetDOI": "10.18112/openneuro.ds002006.v1.0.1",
+  "DatasetType": "study"
+}

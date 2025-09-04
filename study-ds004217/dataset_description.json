@@ -1,0 +1,16 @@
+{
+  "Name": "Interacting representations of mental states and traits",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Mark A. Thornton",
+    "Elyssa Barrick",
+    "Nathan Liang",
+    "Diana I. Tamir"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/xvtud/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004217.v1.0.0",
+  "DatasetType": "study"
+}

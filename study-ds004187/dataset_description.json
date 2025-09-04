@@ -1,0 +1,23 @@
+{
+  "Name": "LGN Layers Data",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Irem Yildirim",
+    "Khan Hekmatyar",
+    "Keith A. Schneider"
+  ],
+  "Acknowledgements": "We thank Ibrahim Malik, Joy Lin, Christina Nelson, Jack Melchiorre, Anton Lebed, and Heather Aiken for their assistance during data collection.",
+  "Funding": [
+    "National Institutes of Health Grant (NIH/NEI 1R01EY028266)"
+  ],
+  "EthicsApprovals": [
+    "University of Delaware Institutional Review Board (ID: 1472937-1, 1472937-2, 1472937-3)"
+  ],
+  "ReferencesAndLinks": [
+    "Yildirim, I., Hekmatyar, K., & Schneider, K. A. (under revision). Evaluating quantitative and functional MRI as potential techniques to identify the layers in the human lateral geniculate nucleus. Invited resubmission to NeuroImage",
+    "Link will be inserted upon publication"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004187.v1.0.2",
+  "License": "CC0"
+}

@@ -1,0 +1,17 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Mouse_opto_INS",
+  "Authors": [
+    "Francesca Mandino",
+    "Yeow Ling Yun",
+    "John Gigg",
+    "Malini C. Olivo",
+    "Joanes Grandjean"
+  ],
+  "Funding": [
+    "This work was supported by the University of Manchester and A*STAR Research Attachment Programme (ARAP), which is co-funded through the University of Manchester, Faculty of Biology, Medicine and Health Doctoral Academy, and Singapore Bioimaging Consortium (SBIC), A*STAR, Singapore. Animal work was supported by Laboratory of Bio-optical Imaging (LBOI), SBIC A*STAR, Singapore"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003464.v1.0.1",
+  "DatasetType": "study"
+}

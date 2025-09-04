@@ -1,0 +1,30 @@
+{
+  "Name": "Developmental Relaxometry 2023",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "David Romascano",
+    "Gian Franco Piredda",
+    "Samuele Caneschi",
+    "Tom Hilbert",
+    "Ricardo Corredor",
+    "B\u00e9n\u00e9dicte Mar\u00e9chal",
+    "Tobias Kober",
+    "Jean-Baptiste Ledoux",
+    "Eleonora Fornari",
+    "Patric Hagmann",
+    "Solange Denervaud"
+  ],
+  "Acknowledgements": "Imaging was supported in part by the Centre d\u2019Imagerie Biom\u00e9dicale (CIBM) of the Universit\u00e9 de Lausanne (UNIL), Universit\u00e9 de Gen\u00e8ve (UNIGE), H\u00f4pitaux Universitaires de Gen\u00e8ve (HUG), the Department of Radiology and Radiodiagnostic of the Centre Hospitalier Universitaire Vaudois (CHUV), Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL), and the Leenaards and Jeantet Foundations.",
+  "Funding": [
+    "Soci\u00e9t\u00e9 Acad\u00e9mique Vaudoise",
+    "Prepared Adult Initiative",
+    "Department of Radiology and Radiodiagnostic of the Centre Hospitalier Universitaire Vaudois (CHUV)"
+  ],
+  "HowToAcknowledge": "If you use these data, please also cite the original paper:\nRomascano, D., Piredda, G.F., Caneschi, S. et al. Normative volumes and relaxation times at 3T during brain development. Sci Data 11, 429 (2024). https://doi.org/10.1038/s41597-024-03267-3",
+  "EthicsApprovals": [
+    "CER-VD; PB_2016-02008 (204/15)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004611.v1.0.2",
+  "DatasetType": "study"
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Animated caricatures fMRI study",
+  "License": "CC0",
+  "Authors": [
+    "Furl, N",
+    "Begum, F",
+    "Sulik, J",
+    "Pizzorni Ferrarese, F",
+    "Jans, S",
+    "Wooley, C"
+  ],
+  "Acknowledgements": "This work was supported by The Research Councils of the United Kingdom Economic and Social Research Council (grant number ES/I01134X/2 to N.F.) and The BIAL Foundation (grant number Application A-10293 to N.F.). Thanks to Iqra Arshad, Lindsay Didcote, Alice Duffield, Will Dommett, Andreea-Ioana Filip, Ana Jancik, Sneha John, Alkistis Karagounis, Paayal Ladwa, Olivia Marshall, Kelly Palomino-Rodriguez, Santiago Torchiaro, Elsa Tuomi, Andrei Vizitue and Charlie Wilkinson.",
+  "HowToAcknowledge": "The manuscript corresponding to these data is not yet citable'",
+  "Funding": [
+    "UK Economic and Social Research Council (ES/I01134X/2)",
+    "BIAL Foundation (Application A-10293)."
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002741.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

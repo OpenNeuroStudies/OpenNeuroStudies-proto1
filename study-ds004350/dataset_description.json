@@ -1,0 +1,21 @@
+{
+  "Name": "Executive Functionning Study for Assessing the Effect of Neurofeedback",
+  "ReferencesAndLinks": [
+    "https://www.frontiersin.org/articles/10.3389/fnhum.2020.00246/full"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Arnaud Delorme",
+    "Tracy Brandmeyer"
+  ],
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004350.v2.0.0",
+  "DatasetType": "study"
+}

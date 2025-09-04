@@ -1,0 +1,13 @@
+{
+  "Name": "Electrophysiological markers of surprise-induced failures of visual and auditory awareness",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "En-Lin Leong",
+    "Yun Da Chua",
+    "Takashi Obana",
+    "Christopher L. Asplund"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006394.v1.0.3",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Psilocybin Precision Functional Mapping (data from Psilocybin desynchronizes the human brain)",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Subramanian, S.",
+    "Reneau, T.R.",
+    "Perry, D.",
+    "et al."
+  ],
+  "Acknowledgements": "This work was supported by the Taylor Family Institute Fund for Innovative Psychiatric Research; the McDonnell Center for Systems Neuroscience; and the Washington University Institute of Clinical and Translational Sciences grant UL1TR002345 from the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH). The content is solely the responsibility of the authors and does not necessarily represent the official view of the NIH.",
+  "HowToAcknowledge": "Research reported in this publication was supported by the Taylor Family Institute Fund for Innovative Psychiatric Research and the Washington University Institute of Clinical and Translational Sciences grant UL1TR002345 from the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH). The content is solely the responsibility of the authors and does not necessarily represent the official view of the NIH.",
+  "Funding": [
+    "Taylor Family Institute Fund for Innovative Psychiatric Research",
+    "McDonnell Center for Systems Neuroscience",
+    "Washington University Institute of Clinical and Translational Sciences"
+  ],
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "Siegel, J.S., Subramanian, S., Perry, D. et al. Psilocybin desynchronizes the human brain. Nature 632, 131\u2013138 (2024). https://doi.org/10.1038/s41593-024-01564-3"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006072.v1.0.6"
+}

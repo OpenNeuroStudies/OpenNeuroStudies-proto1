@@ -1,0 +1,19 @@
+{
+  "Name": "EUPD Cyberball",
+  "BIDSVersion": "1.10.1",
+  "Licence": "PDDL",
+  "Authors": [
+    "Stephen Giles",
+    "Jeremy Hall",
+    "Merrick Pope",
+    "Katie Nicol",
+    "Liana Romaniuk"
+  ],
+  "Acknowledgements": "We thank all the participants for their efforts in taking part.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000214",
+  "Funding": "The current study was supported by a Scottish Senior Clinical Fellowship to Jeremy Hall (SCD/10).",
+  "ReferencesAndLinks": [
+    "https://wellcomeopenresearch.org/articles/1-33/v1"
+  ],
+  "DatasetType": "study"
+}

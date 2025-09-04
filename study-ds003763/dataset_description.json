@@ -1,0 +1,28 @@
+{
+  "Name": "Interoception during aging: The heartbeat detection task",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Olga R. Dobrushina",
+    "Larisa A. Dobrynina",
+    "Galina A. Arina",
+    "Maria V. Gubanova",
+    "Anastasia V. Belopasova",
+    "Evgenia S. Novikova",
+    "Anastasia D. Suslina",
+    "Elena I. Kremneva",
+    "Ekaterina V. Pechenkova",
+    "Marina V. Krotenkova"
+  ],
+  "Acknowledgements": "The authors thank the administration of Neurology Research Center for the assistance with organisation of the study.",
+  "HowToAcknowledge": "This dataset was provided by Olga R. Dobrushina, Larisa A. Dobrynina, Galina A. Arina, Maria V. Gubanova, Anastasia V. Belopasova, Evgenia S. Novikova, Anastasia D. Suslina, Elena I. Kremneva, Ekaterina V. Pechenkova, Marina V. Krotenkova\n\nPlease cite as: O.R. Dobrushina, G.A. Arina, L.A. Dobrynina, E.S. Novikova, M. V. Gubanova, A. V. Belopasova, V.P. Vorobeva, A.D. Suslina, E. V. Pechenkova, O.S. Perepelkina, E.I. Kremneva, M. V. Krotenkova, Sensory integration in interoception: Interplay between top-down and bottom-up processing, Cortex. (2021). https://doi.org/10.1016/j.cortex.2021.08.009.",
+  "Funding": [
+    "This research recieved no external funding."
+  ],
+  "ReferencesAndLinks": [
+    "O.R. Dobrushina, G.A. Arina, L.A. Dobrynina, E.S. Novikova, M. V. Gubanova, A. V. Belopasova, V.P. Vorobeva, A.D. Suslina, E. V. Pechenkova, O.S. Perepelkina, E.I. Kremneva, M. V. Krotenkova, Sensory integration in interoception: Interplay between top-down and bottom-up processing, Cortex. (2021). https://doi.org/10.1016/j.cortex.2021.08.009.",
+    "Dobrushina, Olga R., Arina, G. A., Dobrynina, L. A., Suslina, A. D., Solodchik, P. O., Belopasova, A. V., \u2026 Krotenkova, M. V. (2020). The ability to understand emotions is associated with interoception\u2010related insular activation and white matter integrity during aging. Psychophysiology, 57(3), e13537. https://doi.org/10.1111/psyp.13537"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003763.v1.0.5",
+  "DatasetType": "study"
+}

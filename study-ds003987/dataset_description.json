@@ -1,0 +1,18 @@
+{
+  "Name": "EEG: Amphetamine trials 5CCPT and Probabilistic Learning",
+  "ReferencesAndLinks": [
+    "pending"
+  ],
+  "Authors": [
+    "James F Cavanagh",
+    "Greg Light",
+    "Neal Swerdlow",
+    "Jonathan Brigman",
+    "Jared Young"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Funding": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003987.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,17 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "IQSEC2_sMRI_fMRI",
+  "Authors": [
+    "Daniela Lichtman",
+    "Itamar Kahn"
+  ],
+  "Funding": [
+    "This work was supported by the Israel Science Foundation (770/17; to I.K.), the National Institutes of Health (1R01NS091037; to I.K.) and the Adelis Foundation (to I.K.)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003468.v1.1.0",
+  "License": "CC0",
+  "ReferencesAndLinks": [],
+  "Acknowledgements": "We thank Technion\u2019s Biological Core Facilities and Edith Suss-Toby for her assistance with MRI, and the Technion Preclinical Research Authority for assistance with animal care.",
+  "HowToAcknowledge": "Please cite the paper: Lichtman D.,  Bergmann E., Kavushansky A., Cohen N., Levy N. S., Levy A. P., and Kahn I. (2020). Structural and Functional Brain-wide Alterations in A350V IQSEC2 Mutant Mice Displaying Autistic-like Behavior. bioRxiv, doi:10.1101/2020.09.05.284364.",
+  "DatasetType": "study"
+}

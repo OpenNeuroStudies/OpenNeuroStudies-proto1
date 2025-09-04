@@ -1,0 +1,18 @@
+{
+  "Name": "The role of superstition of cognitive control during neurofeedback training - part 2",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Doris Groessinger",
+    "Florian Ph.S Fischmeister",
+    "Matthias Witte",
+    "Karl Koschutnig",
+    "Manuel Ninaus",
+    "Christa Neuper",
+    "Silvia Erika Kober",
+    "Guilherme Wood"
+  ],
+  "Acknowledgements": "Please cite the doi of this dataset and the corresponding paper:Groessinger, D., Fischmeister, F. P. S., Witte, M., Koschutnig, K., Ninaus, M., Neuper, C., Kober, S.E. & Wood, G. (2021). The role of superstition of cognitive control during neurofeedback training. bioRxiv, 2021-09. ",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004557.v1.1.0",
+  "DatasetType": "study"
+}

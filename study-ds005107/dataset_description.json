@@ -1,0 +1,18 @@
+{
+  "Name": "FACE-DEC",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Wei Xu",
+    "et al."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005107.v2.0.0",
+  "EthicsApprovals": [
+    "This study was approved by the Institutional Review Board of Peking University."
+  ]
+}

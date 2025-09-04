@@ -1,0 +1,25 @@
+{
+  "Name": "Visser, Scholte, Beemsterboer, & Kindt (2013) Nature Neuroscience",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Renee M Visser",
+    "H Steven Scholte",
+    "Tinka Beemsterboer",
+    "Merel Kindt"
+  ],
+  "Acknowledgements": "The authors thank J. Wijnen and M. Spaan for technical assistance.",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1038/nn.3345",
+  "Funding": [
+    "This work was supported by a Vici grant (M. Kindt, #45307-006) from the Netherlands Organization for Scientific Research."
+  ],
+  "EthicsApprovals": [
+    "Procedures were executed in compliance with relevant laws and institutional guidelines and were approved by the local ethics committee (University of Amsterdam, The Netherlands; 2011-CP-1565)."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/nn.3345",
+    "Visser, R. M., Scholte, H. S., Beemsterboer, T., and Kindt, M. (n.d.). Neural pattern similarity predicts long-term fear memory. Nature Neuroscience, 16(4). https://doi.org/10.1038/nn.3345"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003550.v1.0.1"
+}

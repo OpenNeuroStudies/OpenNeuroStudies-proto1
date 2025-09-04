@@ -1,0 +1,18 @@
+{
+  "Name": "fMRI: Audiovisual Valence Congruence",
+  "License": "CC0",
+  "Authors": [
+    "Chuanji Gao",
+    "Christine E. Weber",
+    "Douglas H. Wedell",
+    "Svetlana V. Shinkareva"
+  ],
+  "Acknowledgements": "We thank Roger Newman-Norlund for his consultation and technical assistance with fMRI data collection. This work was supported by the College of Arts and Sciences Faculty Research Initiative at the University of South Carolina.",
+  "ReferencesAndLinks": [
+    "Gao, C., Weber, C. E., Wedell, D. H., & Shinkareva, S. V. (2020). An fMRI study of affective congruence across visual and auditory modalities. Journal of cognitive neuroscience, 32(7), 1251-1262. Gao, C. & Shinkareva, S. V. (2021). Modality-general and modality-specific audiovisual valence processing. Cortex."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003507.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "HowToAcknowledge": "Please cite Gao, C., Weber, C. E., Wedell, D. H., & Shinkareva, S. V. (2020). An fMRI study of affective congruence across visual and auditory modalities. Journal of cognitive neuroscience, 32(7), 1251-1262 and this OpenNEURO dataset.",
+  "DatasetType": "study"
+}

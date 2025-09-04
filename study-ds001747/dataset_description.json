@@ -1,0 +1,13 @@
+{
+  "Name": "Exploring the Resting State Neural Activity of Monolinguals and Late and Early Bilinguals",
+  "BIDSVersion": "1.10.1",
+  "License": "CCo",
+  "Authors": [
+    "Carrie E. Gold",
+    "Athena L. Howell",
+    "Jacob Burdis",
+    "C. Brock Kirwan",
+    "Gregory L. Thompson"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Resting State fMRI study of non bothersome tinnitus",
+  "ReferencesAndLinks": [
+    "Agn\u00e8s Job, Anne Kavounoudias, Chlo\u00e9 Jaroszynski, Assia Jaillard, Chantal Delon-Martin (2019). Specific connectivity with Operculum 3 (OP3) brain region in acoustic trauma tinnitus: a seed-based resting state fMRI study. bioRxiv 676429; doi: https://doi.org/10.1101/676429",
+    "Agn\u00e8s Job, Chlo\u00e9 Jaroszynski, Anne Kavounoudias, Assia Jaillard, Chantal Delon-Martin, (2020). Functional connectivity in chronic non-bothersome tinnitus following acoustic trauma: a seed-based resting state fMRI study. Brain Connectivity, in press"
+  ],
+  "Authors": [
+    "Agn\u00e8s Job",
+    "Chlo\u00e9 Jaroszynski",
+    "Anne Kavounoudias",
+    "Assia Jaillard",
+    "Chantal Delon-Martin"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002896.v1.0.0",
+  "Funding": [
+    "PDH1-SMO-3-0811"
+  ],
+  "DatasetType": "study"
+}

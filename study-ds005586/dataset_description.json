@@ -1,0 +1,12 @@
+{
+  "Name": "Electroencephalographic responses to the number of objects in partially occluded and uncovered scenes",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Cemre Baykan",
+    "Alexander C. Sch\u00fctz"
+  ],
+  "Acknowledgements": "ACS and CB were supported by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No. 101001250). ACS was supported by The Adaptive Mind, funded by the Excellence Program of the Hessian Ministry of Higher Education, Science, Research and Art.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005586.v2.0.0",
+  "License": "CC0"
+}

@@ -1,0 +1,16 @@
+{
+  "Authors": [
+    "Adam Raikes"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005134.v1.0.0",
+  "Funding": [],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Sequence test for multiband DWI and magnetization transfer sequence",
+  "ReferencesAndLinks": [],
+  "EthicsApprovals": [
+    "Data acquisition was obtained under institutional approval from the University of Arizona. All participants provided written informed consent."
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,36 @@
+{
+  "Acknowledgements": "When utilizing this dataset, please formally cite the present article.",
+  "Authors": [
+    "Yang Xu",
+    "Yaqi Zhang",
+    "Meijiao Zhu",
+    "Pengcheng Xue ",
+    "Siyu Ma",
+    "Di Yu ",
+    "Liang Hu ",
+    "Yuxi Zhang ",
+    "Wei Peng ",
+    "Jirong Qi ",
+    "Ming Yang ",
+    "Xuming Mo "
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006556.v1.0.2",
+  "Funding": [
+    "National Natural Science Foundation of China",
+    "Noncommunicable Chronic Diseases-National Science and Technology Major Project",
+    "Jiangsu Provincial key research and development program",
+    "General project of Nanjing Health Commission"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Tetralogy of Fallot Neurodevelopment Research: An Open-Source Dataset",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "EthicsApprovals": [
+    "Review Board in Children's Hospital of Nanjing Medical University and the approval number is 202507014-1 and informed consent was acquired"
+  ],
+  "DatasetType": "study"
+}

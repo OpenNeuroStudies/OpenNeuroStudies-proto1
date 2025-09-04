@@ -1,0 +1,13 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Neural Bases of Psychological Reactance: An fMRI Study on Dogmatic and Suggestive Health Communication",
+  "Authors": [],
+  "Funding": [
+    "Spanish Minister of Consumption (SUBV23/00008)",
+    "Consejer\u00eda de Universidad, Investigaci\u00f3n e Innovaci\u00f3n de la Junta de Andaluc\u00eda (P21_00007)"
+  ],
+  "Missing": "Participants 5 and 21 did not complete the scanning procedure",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005304.v1.0.3",
+  "License": "CC0",
+  "DatasetType": "study"
+}

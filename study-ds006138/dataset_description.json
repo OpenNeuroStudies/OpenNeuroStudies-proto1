@@ -1,0 +1,23 @@
+{
+  "Name": "Neuroimaging Meta-analysis of Psychological Resilience",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Allison Keuhn",
+    "Maegan L. Calvert",
+    "G. Andrew James"
+  ],
+  "Funding": [
+    "National Institute on Drug Abuse Grant R21DA042396",
+    "National Institute on Drug Abuse Grant T32DA022981",
+    "Deby Glidden Women In Science Research Internship"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006138.v1.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "GingerALE",
+      "Version": "3.0.8"
+    }
+  ]
+}

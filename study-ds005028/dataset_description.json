@@ -1,0 +1,29 @@
+{
+  "Name": "Comparing P300 Flashing paradigms in online typing with language models",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Nand Chandravadia",
+    "Shrita Pendekanti",
+    "Dustin Roberts",
+    "Robert Tran",
+    "Saarang Panchavati",
+    "Corey Arnold",
+    "Nader Pouratian",
+    "William Speier"
+  ],
+  "Acknowledgements": "This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under grant no. DGE-2034835.",
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors.",
+  "Funding": [
+    "National Science Foundation Graduate Research Fellowship Program under grant no. DGE-2034835"
+  ],
+  "EthicsApprovals": [
+    "UCLA IRB #11-002062"
+  ],
+  "ReferencesAndLinks": [
+    "Chandravadia, Pendekanti, Roberts, Tran, Panchavati, Arnold, Pouratian, Speier. Comparing P300 flashing paradigms in online typing with language models. medRxiv 2022.06.24.22276882."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005028.v1.0.0"
+}

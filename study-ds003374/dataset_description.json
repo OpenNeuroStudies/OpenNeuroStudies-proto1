@@ -1,0 +1,33 @@
+{
+  "Name": "Dataset of neurons and intracranial EEG from human amygdala during aversive dynamic visual stimulation",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Tommaso Fedele",
+    "Ece Boran",
+    "Valeri Chirkov",
+    "Peter Hilfiker",
+    "Thomas Grunwald",
+    "Lennart Stieglitz",
+    "Hennric Jokeit",
+    "Johannes Sarnthein"
+  ],
+  "Acknowledgements": "We thank the physicians and the staff at Schweizerische Epilepsie-Klinik for their assistance and the subjects for their participation. We acknowledge grants awarded by the Swiss National Science Foundation (SNSF 320030_156029 to J.S.), Mach-Gaensslen Stiftung (to J.S.), Stiftung f\u00fcr wissenschaftliche Forschung an der Universit\u00e4t Z\u00fcrich (to J.S.), Forschungskredit der Universit\u00e4t Z\u00fcrich (to T.F.) and Russian Foundation for Basic Research (RFBR 20-015-00176 A to T.F.). The funders had no role in the design or analysis of the study.",
+  "HowToAcknowledge": "Please cite this paper:  https://doi.org/10.1016/j.neuroimage.2020.116705",
+  "Funding": [
+    "Swiss National Science Foundation, SNSF 320030_156029",
+    "Mach-Gaensslen Stiftung",
+    "Stiftung f\u00fcr wissenschaftliche Forschung an der Universit\u00e4t Z\u00fcrich",
+    "Forschungskredit der Universit\u00e4t Z\u00fcrich",
+    "Russian Federation for Basic Research, RFBR 20-015-00176 A"
+  ],
+  "EthicsApprovals": [
+    "Kantonale Ethikkommission Z\u00fcrich (PB-2016-02055)"
+  ],
+  "ReferencesAndLinks": [
+    "Fedele, T., Tzovara, A., Steiger, B., Hilfiker, P., Grunwald, T., Stieglitz, L., Jokeit, H., Sarnthein, J., 2020. The relation between neuronal firing, local field potentials and hemodynamic activity in the human amygdala in response to aversive dynamic visual stimuli. Neuroimage 213, 116705. https://doi.org/10.1016/j.neuroimage.2020.116705",
+    "Fedele, T., Boran, E., Chirkov, V., Hilfiker, P., Grunwald, T., Stieglitz, L., Jokeit, H., Sarnthein, J., 2020. Dataset of neurons and intracranial EEG from human amygdala during aversive dynamic visual stimulation. G-node. https://gin.g-node.org/USZ_NCH/Human_Amygdala_MUA_sEEG_FearVideo"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003374.v1.1.1"
+}

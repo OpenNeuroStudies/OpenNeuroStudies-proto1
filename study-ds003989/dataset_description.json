@@ -1,0 +1,23 @@
+{
+  "Name": "Structural, diffusion and rs-functional MRI data in Macaque Monkeys",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Vanessa De Castro",
+    "Benoit Cottereau",
+    "Jean-Baptiste Durand"
+  ],
+  "Acknowledgements": "Nil",
+  "HowToAcknowledge": "Please cite the paper in References and Links when using this data",
+  "Funding": [
+    "The Centre National de la Recherche Scientifique (CNRS) from the Agence Nationale de la Recherche (ANR-18-CE37\u20130022)"
+  ],
+  "EthicsApprovals": [
+    "The project was approved by a local ethics committee (CNREEA code: C2EA\u201414) and received authorization from the French Ministry of Research (MP/03/34/10/09)"
+  ],
+  "ReferencesAndLinks": [
+    "De Castro V, Smith AT, Beer AL, Leguen C, Vayssi\u00e8re N, H\u00e9jja-Brichard Y, Audurier P, Cottereau BR, Durand JB. Connectivity of the Cingulate Sulcus Visual Area (CSv) in Macaque Monkeys. Cereb Cortex. 31(2):1347-1364. doi: 10.1093/cercor/bhaa301"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003989.v1.0.0"
+}

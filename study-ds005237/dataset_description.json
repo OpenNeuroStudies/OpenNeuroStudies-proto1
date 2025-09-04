@@ -1,0 +1,37 @@
+{
+  "Name": "Transdiagnostic Connectome Project",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Sidhant Chopra",
+    "Carrisa V. Cocuzza",
+    "Connor Lawhead",
+    "Jocelyn A. Ricard",
+    "Lo\u00efc Labache",
+    "Lauren Patrick",
+    "Poornima Kumar",
+    "Arielle Rubenstein",
+    "Julia Moses",
+    "Lia Chen",
+    "Crystal Blankenbaker",
+    "Bryce Gillis",
+    "Laura T. Germine",
+    "Ilan Harpaz-Rote",
+    "BT Thomas Yeo",
+    "Justin T. Baker",
+    "Avram J. Holmes"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Please cite this paper:\nChopra, S., Cocuzza, C. V., Lawhead, C., Ricard, J. A., Labache, L., Patrick, L., Kumar, P., Rubenstein, A., Moses, J., Chen, L., Blankenbaker, C., Gillis, B., Germine, L. T., Harpaz-Rote, I., Yeo, B. T. T., Baker, J. T., & Holmes, A. J. (2022). The Transdiagnostic Connectome Project: a richly phenotyped open dataset for advancing the study of brain-behavior relationships in psychiatry. BioRxiv. https://doi.org/[insert DOI when available]",
+  "Funding": [
+    "This work was supported by the National Institute of Mental Health (R01MH123245 to AJH and R01MH120080 to AJH and BTTY)."
+  ],
+  "ReferencesAndLinks": [
+    "Preprocessed data can be found on NDA: [ADD NDA LINK]"
+  ],
+  "OpenNeuroIncludedOutputs": [
+    "raw NIFTI files for T1w, T2w, 4xrs-FMRI, 3xtask-FMRI and field maps"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005237.v1.1.3",
+  "DatasetType": "study"
+}

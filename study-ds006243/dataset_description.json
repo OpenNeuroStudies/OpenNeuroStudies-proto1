@@ -1,0 +1,34 @@
+{
+  "Name": "Empathic Pain Task",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Marla Dressel",
+    "Naomi Nero",
+    "Paige Freeburg",
+    "Melinda Somers",
+    "Ashley S. VanMeter",
+    "Shawn A. Rhoads",
+    "Abigail A. Marsh"
+  ],
+  "Acknowledgements": "",
+  "GeneratedBy": [
+    {
+      "Name": "fMRIPrep",
+      "Version": "23.0.0",
+      "CodeURL": "https://github.com/poldracklab/fmriprep"
+    }
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006243.v1.1.0",
+  "ReferencesAndLinks": [
+    "https://osf.io/2sx3v/",
+    "https://github.com/princessamygdala/loneliness-empathy-meditation-study"
+  ],
+  "Funding": [
+    "We thank the Mind and Life Institute for funding this research."
+  ],
+  "EthicsApprovals": [
+    "Institutional Review Board (IRB) at Georgetown University"
+  ]
+}

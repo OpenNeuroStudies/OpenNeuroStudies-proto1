@@ -1,0 +1,28 @@
+{
+  "Name": "Hand-selective visual regions represent how to grasp 3D tools for use: brain decoding during real actions",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Ethan Knights",
+    "Courtney Mansfield",
+    "Diana Tonin",
+    "Janak Saada",
+    "Fraser W. Smith",
+    "Stephanie Rossit"
+  ],
+  "Acknowledgements": "We thank Jenna Green, Richard Greenwood, Holly Weaver, Iwona Szymura and Emmeline Mottram for support in data collection, Derek Quinlan for building the real action set-up and Stefania Bracci for sharing the visual localizer stimuli.",
+  "HowToAcknowledge": "Please cite: https://www.biorxiv.org/content/10.1101/2020.10.14.339606v1",
+  "Funding": [
+    "This work was funded by grant (184/14) from the BIAL Foundation awarded to S. Rossit & F.W. Smith."
+  ],
+  "EthicsApprovals": [
+    "Approval was granted by the Ethics Committee of the University of East Anglia."
+  ],
+  "ReferencesAndLinks": [
+    "OSF Link: https://osf.io/zxnpv/",
+    "Code Repository Link: https://osf.io/zxnpv/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003342.v1.0.0",
+  "HEDVersion": ""
+}

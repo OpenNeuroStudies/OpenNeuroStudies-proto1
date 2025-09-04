@@ -1,0 +1,21 @@
+{
+  "Name": "Headmold",
+  "License": "CC0",
+  "Authors": [
+    "Jonathan D Power",
+    "Benjamin Silver",
+    "Melanie Silverman",
+    "Eliana Ajodan",
+    "Dienke Bos",
+    "Rebecca M. Jones"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds002735.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kun Chen",
+    "Ruien Wang",
+    "Jiamin Huang",
+    "Fei Gao",
+    "Zhen Yuan",
+    "Yanyan Qi",
+    "Haiyan Wu"
+  ],
+  "KeyWords": [
+    "Electroencephalography",
+    "Decision making",
+    "Mouse-racking",
+    "Resting state"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003766.v2.0.3",
+  "SourceDatasets": [
+    {
+      "URL": "file://./sourcedata/rawdata"
+    }
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., & Wu, H. (2022). A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking. Scientific Data, 9(1), 416. https://doi.org/10.1038/s41597-022-01538-5"
+  ]
+}

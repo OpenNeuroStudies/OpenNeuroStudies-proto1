@@ -1,0 +1,29 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Sebastian Dresbach",
+    "Omer Faruk Gulban",
+    "Till Steinbach",
+    "Judith Eck",
+    "Sriranga Kashyap",
+    "Amanda Kaas",
+    "Nikolaus Weiskopf",
+    "Rainer Goebel",
+    "Laurentius (Renzo) Huber "
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005238.v1.0.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "High-resolution CBV and BOLD in the human somatosensory cortex during finger stimulation at 7T",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

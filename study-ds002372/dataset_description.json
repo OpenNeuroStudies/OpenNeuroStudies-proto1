@@ -1,0 +1,23 @@
+{
+  "HowToAcknowledge": "When using the dataset, please cite the paper in the ReferencesAndLinks.",
+  "Authors": [
+    "Mehraveh Salehi",
+    "Abigail Greene",
+    "Xilin Shen",
+    "An Qu",
+    "David O'Connor",
+    "Dustin Scheinost",
+    "R. Todd Constable"
+  ],
+  "Name": "Yale_Single_Subject_Task_Rest30x",
+  "Acknowledgements": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "Salehi, M., Greene, A.S., Karbasi, A., Shen, X., Scheinost, D. and Constable, R.T., 2019. There is no single functional atlas even for a single individual: Functional parcel definitions change with task. NeuroImage, p.116366."
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "PD",
+  "DatasetType": "study"
+}

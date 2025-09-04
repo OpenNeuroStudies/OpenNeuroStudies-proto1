@@ -1,0 +1,20 @@
+{
+  "Name": "Fundamental frequency predominantly drives talker differences in auditory brainstem responses to continuous speech",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Melissa J. Polonenko",
+    "Ross K. Maddox"
+  ],
+  "Funding": [
+    "NIDCD R01DC017962"
+  ],
+  "EthicsApprovals": [
+    "Approved by the University of Rochester Subjects Review Board (#1227)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005340.v1.0.4",
+  "ReferencesAndLinks": [
+    "Melissa J. Polonenko, Ross K. Maddox; Fundamental frequency predominantly drives talker differences in auditory brainstem responses to continuous speech. JASA Express Lett. 1 November 2024; 4 (11): 114401. https://doi.org/10.1121/10.0034329"
+  ],
+  "License": "CC0"
+}

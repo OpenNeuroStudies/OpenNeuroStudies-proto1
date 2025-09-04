@@ -1,0 +1,16 @@
+{
+  "Name": "Identifying cortical areas that underlie the transformation from 2D retinal to 3D head-centric motion signals",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Puti Wen",
+    "Michael S. Landy",
+    "Bas Rokers"
+  ],
+  "Funding": [
+    "NIH EY08266",
+    "Global PhD Student Fellowship "
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004443.v1.0.0",
+  "DatasetType": "study"
+}

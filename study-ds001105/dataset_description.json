@@ -1,0 +1,14 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "Creative Commons Attribution 4.0 International Public License",
+  "Name": "Social predictive coding",
+  "ReferencesAndLinks": [
+    "https://osf.io/x32te/"
+  ],
+  "Authors": [
+    "Mark A. Thornton",
+    "Miriam E. Weaverdyck",
+    "Diana I. Tamir"
+  ],
+  "DatasetType": "study"
+}

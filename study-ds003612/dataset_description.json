@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Monica Crotti",
+    "Karl Koschutnig",
+    "Selina Wriessnegger"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003612.v1.0.5",
+  "Funding": [
+    "no funding"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "The impact of handedness on the neural correlates during kinesthetic motor imagery: a FMRI study",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the local ethics committee (Medical University of Graz) and is in accordance with the ethical standards of the Declaration of Helsinki."
+  ],
+  "DatasetType": "study"
+}

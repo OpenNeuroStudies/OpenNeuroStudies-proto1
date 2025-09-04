@@ -1,0 +1,45 @@
+{
+  "Name": "Characterizing medial temporal lobe vulnerability to neurofibrillary tangle pathology in Alzheimer\u2019s disease using a 3-D ex vivo MRI atlas and serial histology",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Sadhana Ravikumar",
+    "Amanda E. Denning",
+    "Sydney Lim",
+    "Eunice Chung",
+    "Niyousha Sadeghpour",
+    "Ranjit Ittyerah",
+    "Laura E.M. Wisse",
+    "Sandhitsu R. Das",
+    "Long Xie",
+    "John L. Robinson",
+    "Theresa Schuck",
+    "Edward B. Lee",
+    "M. Dylan Tisdall",
+    "Karthik Prabhakaran",
+    "John A. Detre",
+    "Gabor Mizsei",
+    "Maria Mercedes Iniguez de Onzono Martin",
+    "Maria del Mar Arroyo Jimenez",
+    "Monica Munoz",
+    "Maria del Pilar Marcos Rabal",
+    "Sandra Cebada Sanchez",
+    "Jose Carlos Delgado Gonzalez",
+    "Carlo de la Rosa Prieto",
+    "David J. Irwin",
+    "David A. Wolk",
+    "Ricardo Insausti",
+    "Paul A. Yushkevich"
+  ],
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NIH Grants R01 AG056014, RF1 AG069474, P30 AG072979, P01 AG066597 and U19 AG062418, by MultiPark - A Strategic Research Area at Lund University and a UCLM research grant to the Human Neuroanatomy Laboratory."
+  ],
+  "EthicsApprovals": [
+    "University of Pennsylvania IRB (Exempt)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004767.v1.0.0",
+  "ReferencesAndLinks": [],
+  "Acknowledgements": "We gratefully acknowledge the generosity and altruism of the brain donors and their families. We thank the members of the brain banks at the University of Pennsylvania Center for Neurodegenerative Disease Research and at the University of Castilla La Mancha at Albacete for their contributions to this research."
+}

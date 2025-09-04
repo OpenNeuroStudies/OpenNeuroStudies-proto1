@@ -1,0 +1,13 @@
+{
+  "Name": "EEG responses to continuous naturalistic speech\n",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Giovanni M Di Liberto",
+    "Michael P Broderick",
+    "Ole Bialas",
+    "Edmund C Lalor"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004408.v1.0.8"
+}

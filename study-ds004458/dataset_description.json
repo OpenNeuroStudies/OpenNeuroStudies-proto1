@@ -1,0 +1,11 @@
+{
+  "Name": "Highresolution developement",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Renzo Huber"
+  ],
+  "Acknowledgements": "These data are acquired at FMRIF at NIH with the support of the intremural program\n\n",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004458.v1.0.2",
+  "DatasetType": "study"
+}

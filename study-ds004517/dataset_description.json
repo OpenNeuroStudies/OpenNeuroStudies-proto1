@@ -1,0 +1,12 @@
+{
+  "Name": "EEG recordings for semantic decoding of imagined animals and tools during auditory imagery task",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Milan Ryb\u00e1\u0159",
+    "Riccardo Poli",
+    "Ian Daly"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004517.v1.0.2",
+  "License": "CC0"
+}

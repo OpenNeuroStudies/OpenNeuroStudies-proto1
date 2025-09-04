@@ -1,0 +1,15 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Author": [
+    ""
+  ],
+  "License": "CC0",
+  "Name": "CR-DBS",
+  "Authors": [
+    "Noam Harel"
+  ],
+  "HowToAcknowledge": "\n",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005063.v1.0.1",
+  "DatasetType": "study"
+}

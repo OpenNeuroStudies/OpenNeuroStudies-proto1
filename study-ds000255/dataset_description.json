@@ -1,0 +1,19 @@
+{
+  "Name": "Visual image reconstruction",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Yoichi Miyawaki",
+    "Hajime Uchida",
+    "Okito Yamashita",
+    "Masa-aki Sato",
+    "Yusuke Morito",
+    "Hiroki C. Tanabe",
+    "Norihiro Sadato",
+    "Yukiyasu Kamitani"
+  ],
+  "ReferencesAndLinks": [
+    "Miyawaki Y, Uchida H, Yamashita O, Sato M, Morito Y, Tanabe HC, Sadato Norihiro & Kamitani Y (2008) Visual Image Reconstruction from Human Brain Activity using a Combination of Multiscale Local Image Decoders. Neuron 60:915-929."
+  ],
+  "DatasetType": "study"
+}

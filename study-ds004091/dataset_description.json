@@ -1,0 +1,15 @@
+{
+  "Name": "GAZE PRF \n",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Martin Szinte",
+    "Gilles de Hollander",
+    "Marco Aqil",
+    "Serge Dumoulin",
+    "Tomas Knapen"
+  ],
+  "Note": "GazeCenterFS is renamed FullScreen in the manuscript, AttendStim is mentionned as AttendBar in the manuscript",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004091.v2.0.0",
+  "DatasetType": "study"
+}

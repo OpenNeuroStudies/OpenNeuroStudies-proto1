@@ -1,0 +1,27 @@
+{
+  "Name": "memoryreplay",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "G. Elliott Wimmer",
+    "Yunzhe Liu",
+    "Nez\u030ca Vehar",
+    "Timothy E.J. Behrens",
+    "Raymond J. Dolan"
+  ],
+  "Acknowledgements": "The authors thank Zeb Kurth-Nelson for helpful discussions.",
+  "Funding": [
+    "R.D. is supported by Wellcome Trust Investigator Award 098362/ Z/12/Z.",
+    "Y.L. is supported by a UCL Graduate Research Scholarship and an Overseas Research Scholarship.",
+    "The Wellcome Centre for Human Neuroimaging is supported by core funding from the Wellcome Trust (203147/Z/16/Z).",
+    "The Max Planck University College London Centre is a joint initiative supported by University College London and the Max Planck Society."
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/gewimmer-neuro/memory-sequences",
+    "https://osf.io/qaewv/",
+    "https://doi.org/10.1101/758185"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Please cite https://doi.org/10.1101/758185",
+  "DatasetDOI": "doi:10.18112/openneuro.ds002761.v1.1.2",
+  "DatasetType": "study"
+}

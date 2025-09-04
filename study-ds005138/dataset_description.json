@@ -1,0 +1,18 @@
+{
+  "Name": "eddymotionPET benchmark dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Martin Norgaard"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005138.v1.0.2"
+}

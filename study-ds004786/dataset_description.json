@@ -1,0 +1,21 @@
+{
+  "Name": "MorphoSem",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eddy Cavalli",
+    "Val\u00e9rie Chanoine",
+    "Johannes C. Ziegler"
+  ],
+  "Acknowledgements": "say here what are your acknowledgments",
+  "HowToAcknowledge": "say here how you would like to be acknowledged",
+  "Funding": [
+    "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02), the LABEX CORTEX (ANR-11-LABX-0042) and the Excellence Initiative of the University of Lyon (ANR-11-IDEX-0007), and by the research grant \u201cDYSsuccess\u201d awarded to EC (ANR-18-CE28-0006). YT was supported by a doctoral fellowship of the Chinese Research Council. FP was supported by a postdoc fellowship of AMPIRIC (Aix-Marseille \u2013 Po\u0302le d\u2019Innovation, de Recherche, d\u2019Enseignement pour l\u2019E\u0301ducation, France 2030). Brain imaging was performed in the MRI center of the INT (UMR 7289, AMU-CNRS), platform member of France Life Imaging network (grant ANR-11-INBS-0006). "
+  ],
+  "ReferencesAndLinks": [
+    "a data paper",
+    "a resource to be cited when using the data"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004786.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "NIMH METeR (Multi-Echo Test-Retest)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Dylan Nielson",
+    "Andre Zugman",
+    "Marie Zelenina",
+    "Danny Pine"
+  ],
+  "Funding": [
+    "This research was supported by the Intramural Research Program of NIMH/National Institutes of Health (NIH; ZIA-MH002781 to D.P.).  Curation of this dataset used computational resources from the National Institutes of Health High-Performance Computing Biowulf Cluster (http://hpc.nih.gov)."
+  ],
+  "Description": "",
+  "Acknowledgements": "This BIDS dataset was created using the scripts in https://github.com/zugmana/xnat-access created by Andre Zugman",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004787.v1.1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "DatasetDOI": "10.18112/openneuro.ds001534.v1.1.0",
+  "Acknowledgements": "We thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection. TODO: more",
+  "Funding": [
+    "TODO",
+    "GRANT #"
+  ],
+  "Name": "Calorie-labeled food cues",
+  "License": "CC0",
+  "HowToAcknowledge": "If you find this dataset useful, please cite our paper: Courtney, A. L., PeConga, E. K., Wagner, D. D., & Rapuano, K. M. (2018). Calorie information and dieting status modulate reward and control activation during the evaluation of food images. PloS one, 13(11), e0204744.",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Andrea Courtney",
+    "Emma PeConga",
+    "Dylan Wagner",
+    "Kristina Rapuano"
+  ],
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

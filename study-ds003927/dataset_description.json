@@ -1,0 +1,20 @@
+{
+  "Name": "Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks",
+  "Authors": [
+    "Ning Mei",
+    "Roberto Santana",
+    "David Soto"
+  ],
+  "BIDS version": "",
+  "Reference link": "https://www.biorxiv.org/content/10.1101/2021.01.12.426428v3",
+  "License": "CC0",
+  "Funding": [
+    "the BERC 2018-2021 program, from the Spanish Ministry of Economy and Competitiveness, through the 'Severo Ochoa' Programme for Centres/Units of Excellence in R & D (CEX2020-001010-S)",
+    "PSI2016-76443-P and PID2019-105494GB-I00 from MINECO",
+    "the Basque Government (IT1244-19 and ELKARTEK programs)",
+    "the Spanish Ministry of Economy and Competitiveness MINECO (project TIN2016-78365-R)"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003927.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "Behavioral interventions for reducing head motion during MRI scans in children",
+  "Authors": [
+    "Deanna J. Greene",
+    "Jonathan M. Koller",
+    "Jacqueline M. Hampton",
+    "Victoria Wesevich",
+    "Andrew N. Van",
+    "Annie L. Nguyen",
+    "Catherine R. Hoyt",
+    "Lindsey McIntyre",
+    "Eric A. Earl",
+    "Rachel L. Klein",
+    "Joshua S. Shimony",
+    "Steven E. Petersen",
+    "Bradley L. Schlaggar",
+    "Damien A. Fair",
+    "Nico U.F. Dosenbach"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S1053811918300235"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "Collection of these data was supported by National Institutes of Health Grants K01MH104592 (DJG), K23NS088590, UL1TR000448 (NUFD), R01MH096773, R00MH091238, UL1TR000128, MH110766, U01DA041148 (DAF), P30NS098577 (to the Neuroimaging Informatics and Analysis Center), and U54HD087011 (to the Eunice Kennedy Shriver National Institute Of Child Health & Human Development of the National Institutes of Health to the Intellectual and Developmental Disabilities Research Center at Washington University; BLS), the Tourette Association of America (DJG), the McDonnell Center for Systems Neuroscience, the Mallinckrodt Institute of Radiology (DJG, NUFD), the DeStefano Family Foundation (DAF), the Jacobs Foundation, and the Child Neurology Foundation (NUFD)."
+  ],
+  "License": "PDDL (http://opendatacommons.org/licenses/pddl/)",
+  "DatasetType": "study"
+}

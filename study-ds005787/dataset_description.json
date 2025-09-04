@@ -1,0 +1,28 @@
+{
+  "Name": "NOD-EEG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Guohao Zhang",
+    "Yaoze Liu",
+    "Zonglei Zhen"
+  ],
+  "Acknowledgements": "This research was supported by a Key Program of National Natural Science Foundation of China 62236001 (ZZ) and a General Program of National Natural Science Foundation of China 31771251 (ZZ). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication.",
+  "Funding": [
+    "Key Program of National Natural Science Foundation of China (#62236001)",
+    "General Program of National Natural Science Foundation of China (#31771251)"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "mne-bids",
+      "Version": "0.9.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "..."
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005787.v1.0.0",
+  "License": "CC0"
+}

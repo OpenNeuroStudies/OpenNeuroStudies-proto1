@@ -1,0 +1,21 @@
+{
+  "Name": "Brain activity during reciprocal social interaction investigated using conversational robots as control condition",
+  "License": "",
+  "Authors": [
+    "Birgit Rauchbauer",
+    "Bruno Nazarian",
+    "Morgan Bourhis",
+    "Magalie Ochs",
+    "Laurent Prevot",
+    "Thierry Chaminade"
+  ],
+  "Acknowledgements": "The data was acquired at the Centre IRM-INT, Marseille, France. http://irmf.int.univ-amu.fr/",
+  "HowToAcknowledge": "Please cite as:\n\nRauchbauer, B., Nazarian, B., Bourhis, M., Ochs, M., Pr\u00e9vot, L., Chaminade T. (2019). Brain activity during reciprocal social interaction investigated using conversational robots as control condition. Philosophical Transactions B. doi: 10.1098/rstb.2018.0033\n\n",
+  "Funding": "Research supported by grants ANR-16-CONV-0002 (ILCB), ANR-11-LABX-0036 (BLRI) and AAP-ID-17-46-170301-11.1 by the Excellence Initiative of Aix-Marseille University (A*MIDEX), a French \"Investissement d\u2019Avenir\" programme. BR is supported by the Fondation pour la Recherche M\u00e9dicale (FRM, SPF20171039127).",
+  "ReferencesAndLinks": [
+    "Rauchbauer, B., Nazarian, B., Bourhis, M., Ochs, M., Pr\u00e9vot, L., Chaminade, T. (2019). Brain activity during reciprocal social interaction investigated using conversational robots as control condition. Philosophical Transactions B. doi: 10.1098/rstb.2018.0033"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001740.v2.2.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Classification learning and tone-counting",
+  "License": "CC0",
+  "Authors": [
+    "Foerde, K.",
+    "Knowlton, B.J.",
+    "Russell A. Poldrack"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "Foerde, K., Knowlton, B.J., Poldrack, R.A. (2006). Modulation of competing memory systems by distraction. Proc Natl Acad Sci U S A,103(31):11778-83"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds000011.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

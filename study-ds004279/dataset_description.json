@@ -1,0 +1,16 @@
+{
+  "Name": "Large Spanish EEG\n",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Carlos Valle Araya",
+    "Carolina Mendez-Orellana",
+    "Maria Rodriguez-Fernandez"
+  ],
+  "Acknowledgements": "We thank Andrea Sanchez and Amaro silva for their help during data collection.",
+  "Funding": [
+    "Doctoral scholarship N 21211883 (2021)383 by Agencia Nacional de Investigacion y Desarrollo (ANID Chile)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004279.v1.1.2",
+  "License": "CC0"
+}

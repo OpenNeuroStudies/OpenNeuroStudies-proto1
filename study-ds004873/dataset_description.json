@@ -1,0 +1,20 @@
+{
+  "Name": "Two distinct modes of hemodynamic responses in the human brain",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Samira Epp",
+    "Gabriel Castrillon",
+    "Beija Yuan",
+    "Jessica Andrews-Hanna",
+    "Christine Preibisch",
+    "Valentin Riedl"
+  ],
+  "Funding": [
+    "European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation program. Grant agreement ID 759659",
+    "Deutsche Forschungsgemeinschaft (DFG, German Research Foundation, ID 395030489"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004873.v2.0.6",
+  "HowToAcknowledge": "Epp, S., Castrillon, G, Yuan, B., Andrews-Hanna, J., Preibisch, C., Valentin., R. \"Two distinct modes of hemodynamic responses in the human brain.\" bioRxiv (2023): 2023-12."
+}

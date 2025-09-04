@@ -1,0 +1,11 @@
+{
+  "Name": "Multi-echo fMRI replication sample of autobiographical memory, prospection and theory of mind reasoning tasks",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Elizabeth DuPre",
+    "Wen-Ming Luh",
+    "R. Nathan Spreng"
+  ],
+  "DatasetType": "study"
+}

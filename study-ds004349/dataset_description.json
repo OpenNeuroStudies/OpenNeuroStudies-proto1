@@ -1,0 +1,17 @@
+{
+  "Name": "Evaluating methods for measuring background connectivity in slow event-related fMRI designs",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Frank, L.E.",
+    "Zeithamova, D."
+  ],
+  "Acknowledgements": "Funding for this work was provided by the National Institute for Neurological Disease and Stroke Grant R01-NS-112366 (DZ). ",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NINDS R01-NS-112366"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004349.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "POLEX",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Luis Marcos-Vidal",
+    "Helena Gil-Buitrago",
+    "Irene Cisma",
+    "Rosamunde C. Hendricks",
+    "Scott Atran",
+    "Clara Pretus"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "U.S. Department of Defense Minerva Initiative, AFOSR FA9550-18-1-0496"
+  ],
+  "EthicsApprovals": [
+    "This research was approved by the Ethics Committee on Human and Animal Experimentation at the Universitat Aut\u00f2noma de Barcelona according to the Declaration of Helsinki guidelines (Ref. 6530)"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/preprints/psyarxiv/sqzjm",
+    "https://osf.io/pc4fs/ ",
+    "https://github.com/SBL-Barcelona/RateME-fMRI"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005375.v1.0.0"
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "Bimodal dataset on Inner speech",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Foteini Liwicki",
+    "Vibha Gupta",
+    "Rajkumar Saini",
+    "Kanjar De",
+    "Nosheen Abid",
+    "Sumit Rakesh",
+    "Scott Wellington",
+    "Holly Wilson",
+    "Marcus Liwicki",
+    "Johan Eriksson"
+  ],
+  "HowToAcknowledge": "Foteini Simistira Liwicki, Vibha Gupta, Rajkumar Saini, Kanjar De, Nosheen Abid, Sumit Rakesh, Scott Wellington, Holly Wilson, Marcus Liwicki, Johan Eriksson (2022). Bimodal dataset on inner speech. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds004196.v1.0.29",
+  "ReferencesAndLinks": [
+    "https://github.com/LTU-Machine-Learning/Inner_Speech_EEG_FMRI",
+    "https://www.biorxiv.org/content/10.1101/2022.05.24.492109v3"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004196.v2.0.2",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "Etikpr\u00f6vning myndigheden, ID:2021-06710-01"
+  ],
+  "Acknowledgements": "We would like to thank the Stockholm University Brain Imaging Centre (SUBIC) and more precisely Rita Almeida,  Patrik Andersson for giving us access to their facilities and for supporting us in this endeavor.\nPetter Kallioinen and Christoffer Schiehe-Forbes for their valuable support during the EEG data acquisition.\nFinally, we would also like to thank all participants for taking part in this study. ",
+  "Funding": [
+    "This research was funded by the Grants for excellent research projects proposals of SRT.ai 2022."
+  ]
+}

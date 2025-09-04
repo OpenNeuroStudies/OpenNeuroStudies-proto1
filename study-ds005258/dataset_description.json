@@ -1,0 +1,26 @@
+{
+  "Name": "Keep Control Validation Dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Elke Warmerdam",
+    "Robbin Romijnders",
+    "Julius Welzel",
+    "Clint Hansen",
+    "Walter Maetzler"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8434336/",
+  "Funding": [
+    "DFG Open Access fund",
+    "Marie Sk\u0142odowska-Curie grant agreement number 721577"
+  ],
+  "EthicsApprovals": [
+    "Ethics Committee of Kiel University (D438/18, approved on 08/05/2018)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8434336/",
+    "Warmerdam E., et al. (2021). Proposed Mobility Assessments with Simultaneous Full-Body Inertial Measurement Units and Optical Motion Capture in Healthy Adults and Neurological Patients for Future Validation Studies: Study Protocol. Sensors, 2021, 21(17):5833. doi:10.3390/s21175833"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005258.v1.0.5",
+  "DatasetType": "study"
+}

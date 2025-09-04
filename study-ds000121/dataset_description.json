@@ -1,0 +1,20 @@
+{
+  "Name": "Immaturities in Reward Processing and Its Influence on Inhibitory Control in Adolescence (Ring Reward)",
+  "Description": "The nature of immature reward processing and the influence of rewards on basic elements of cognitive control during adolescence are currently not well understood. Here, during functional magnetic resonance imaging, healthy adolescents and adults performed a modified antisaccade task in which trial-by-trial reward contingencies were manipulated. The use of a novel fast, event-related design enabled developmental differences in brain function underlying temporally distinct stages of reward processing and response inhibition to be assessed.",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "C.F. Geier",
+    "R. Terwilliger",
+    "T. Teslovich",
+    "K. Velanova",
+    "B. Luna"
+  ],
+  "Acknowledgements": "National Institutes of Health (RO1 MH067924, RO1 MH080243 to B.L.).",
+  "Funding": "National Institutes of Health (RO1 MH067924, RO1 MH080243 to B.L.).",
+  "ReferencesAndLinks": [
+    "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2882823/",
+    "https://github.com/LabNeuroCogDevel/openfmri_ring_rew"
+  ],
+  "DatasetType": "study"
+}

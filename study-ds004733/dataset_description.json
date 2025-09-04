@@ -1,0 +1,60 @@
+{
+  "Name": "Rates of cerebral protein synthesis in stages of sleep",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Dante Picchioni",
+    "Kathleen C Schmidt",
+    "Inna Loutaev",
+    "Adriana J Pavletic",
+    "Carrie Sheeler",
+    "Shrinivas Bishu",
+    "Thomas J Balkin",
+    "Carolyn B Smith"
+  ],
+  "Curators": [
+    "Martin N\u00f8rgaard",
+    "Eric Earl",
+    "Anthony Galassi",
+    "Dustin Moraczewski",
+    "Adam Thomas"
+  ],
+  "Acknowledgements": "We gratefully acknowledge the following individuals for their help: Burlin, T., Duyn, J., Ethridge, S., Evans, B., Friedman, R., Howell, G., Huang, T., Lee, B., Loomba, N., McWhirter, K., Miao, N., Morrow, A., Nadel, J., Nichols, D., Qin, M., Sar\u00e9, R., Sheeler, C., Speer, A., Turetsky, K., Vesselinovitch, D., Xia, Z., and Zametkin, A.",
+  "HowToAcknowledge": "Cite https://doi.org/10.1177/0271678X221121873 and the dataset DOI on OpenNeuro for the dataset version you are using",
+  "Funding": [
+    "1ZIAMH002936 from the Intramural Research Program of the National Institute of Mental Health (Crossref Funder ID: 100000025)",
+    "1ZIANS003027 from the Intramural Research Program of the National Institute of Neurological Disorders and Stroke (Crossref Funder ID: 100000065)",
+    "W81XWH-08-D-0047 from the Military Operational Medicine Research Program of the United States Army Medical Research and Materiel Command (Crossref Funder ID: 100000182)"
+  ],
+  "EthicsApprovals": [
+    "National Institutes of Health Combined Neurosciences Institutional Review Board (09-M-N230, NCT00884702)",
+    "Walter Reed Army Institute of Research Institutional Review Board",
+    "National Institutes of Health Radioactive Drug Research Committee",
+    "National Institutes of Health Radiation Safety Committee"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1177/0271678X221121873",
+    "https://doi.org/10.1038/sj.jcbfm.9600067",
+    "https://doi.org/10.1038/sj.jcbfm.9600066",
+    "https://doi.org/10.1038/jcbfm.2008.43",
+    "https://doi.org/10.1038/jcbfm.2009.52",
+    "https://doi.org/10.1038/s41598-017-18890-x",
+    "https://doi.org/10.1371/journal.pone.0195580",
+    "https://doi.org/10.1177/0271678X18771242"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MathWorks MATLAB niftiwrite",
+      "Description": "Used to convert the raw DICOM data to NIfTI format.",
+      "CodeURL": "https://www.mathworks.com/help/images/ref/niftiwrite.html"
+    },
+    {
+      "Name": "FreeSurfer's MiDeFace",
+      "Version": "7.3.2",
+      "Description": "A tool for defacing MRI images in a way that is both minimally invasive and achieves goals of privacy",
+      "CodeURL": "https://surfer.nmr.mgh.harvard.edu/fswiki/MiDeFace"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004733.v1.0.0"
+}

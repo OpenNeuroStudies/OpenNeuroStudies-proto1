@@ -1,0 +1,10 @@
+{
+  "Name": "FRESH Motor Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Rickson C. Mesquita"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005963.v1.0.0",
+  "License": "CC0"
+}

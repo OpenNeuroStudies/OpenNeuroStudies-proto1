@@ -1,0 +1,21 @@
+{
+  "Authors": [
+    "Amanda Studnicki",
+    "Daniel P. Ferris"
+  ],
+  "Name": "Real World Table Tennis",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3390/s22155867"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "National Science Foundation Division of Behavioral and Cognitive Sciences (BCS-1835317)"
+  ],
+  "EthicsApprovals": [
+    "University of Florida Institutional Review Board (IRB201801727)"
+  ],
+  "Acknowledgements": "Thank-you to the Human Neuromechanics Lab and to all the undergraduate research assistants who helped with data collections: Christina Collings, Corey Orlando, Sebastian Huerta, and Juan De La Espriella.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004505.v1.0.4",
+  "DatasetType": "study"
+}

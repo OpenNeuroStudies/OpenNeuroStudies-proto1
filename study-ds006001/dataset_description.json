@@ -1,0 +1,36 @@
+{
+  "Name": "Probabilistic Mapping and Automated Segmentation of Human Brainstem White Matter Bundles",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Olchanyi M. D.",
+    "Schreier D. R.",
+    "Li J.",
+    "Maffei C.",
+    "Sorby-Adams A.",
+    "Kinney H. C.",
+    "Healy, B. C.",
+    "Freeman H. J.",
+    "Shless J.",
+    "Destrieux, C.",
+    "Tregidgo H.",
+    "Eugenio Iglesias J.",
+    "Brown E. N.",
+    "Edlow B. L."
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Olchanyi, M. et al. Data from: Probabilistic Mapping and Automated Segmentation of Human Brainstem White Matter Bundles. OpenNeuro https://openneuro.org/datasets/ds006001, doi:10.18112/openneuro.ds006001.v1.0.1 (2025).",
+  "Acknowledgements": "We are immensely thankful to each family for the donation of the brains of their loved ones, as well as to the individuals who donated their brains for this study and the overall advancement of medical science. We thank Michelle Siciliano for help in processing of human brain specimens and Kathryn Regan at Veranex, Inc. for assistance with blocking, sectioning and immunostaining.",
+  "ReferencesAndLinks": [
+    "https://surfer.nmr.mgh.harvard.edu",
+    "https://histopath.nmr.mgh.harvard.edu/images/?page=images&selectionType=collection&selectionId=50",
+    "https://github.com/markolchanyi/BSBT"
+  ],
+  "Funding": [
+    "This work was supported by the National Institutes of Health Director\u2019s Office (DP2hd101400), National Institute for Neurological Disorders and Stroke (R21NS109627, K23NS094538, 1R21NS138995, U01NS086625, R01NS0525851, R21NS072652, R01NS070963, R01NS083534, uh3NS095554, U24NS10059103, R01NS105820, and RF1NS115268), National Institute for Biomedical Imaging and Bioengineering (P41EB030006, R01EB023281, R01EB006758, R21EB018907, R01EB019956, and 1R01EB031114), National Institute of Child Health and Human Development (R01hd102616 and R21hd095338), National Institute on Deafness and Other Communication Disorders (R21dc015888), National Institute on Aging (1R01AG070988, R21AG082082, R01AG064027, R01AG008122, 1RF1AG080371, R01AG016495, and R01AG070988), National Institute on Mental Health (1RF1MH123195, UM1MH130981, R01MH123195, 1UM1MH130981, R01MH121885, and RF1MH123195), Brain Initiative Cell Census Network (U01MH117023 and UM1MH130981), James S. McDonnell Foundation, American Academy of Neurology/American Brain Foundation, Center for Integration of Medicine and Innovative Technology (Boston, MA), Rappaport Foundation, American SidS Institute, Chen Institute MGH Research Scholar Award, and the MIT/MGH Brain Arousal State Control Innovation Center (BAScic) project. Additional support was provided by the Blueprint for Neuroscience Research (U01MH093765), part of the multi-institutional Human Connectome Project. This research was also made possible by the resources provided by NIH grant P41rr014075 and shared instrumentation grants S10rr023401, S10rr019307, and S10rr023043. Computational resources for this research were generously provided by the Massachusetts Life Sciences Center (www.masslifesciences.com/). MDO received funding from the MIT-Takeda fellowship and the MIT IMES fellowship.  DRS received funding from the Swiss National Science Foundation (SNSF) [P500PM_210834]. ASA received funding from the American Heart Association-Tedy\u2019s Team postdoctoral fellowship award (24POST1023166)."
+  ],
+  "EthicsApprovals": [
+    "For each brain specimen, we obtained written informed consent from family members designated as surrogate decision makers, as per accordance with a protocol approved by the Mass General Brigham Institutional Review Board."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006001.v1.0.2",
+  "DatasetType": "study"
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "Acquisition and processing methods of whole-brain layer-fMRI VASO and BOLD: The Kenshu dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kenshu Koiso",
+    "Sebastian Dresbach",
+    "Christopher J Wiggins",
+    "Omer Faruk Gulban",
+    "Anna Katharina Mueller",
+    "Miriam Heynckes",
+    "Yuhui Chai",
+    "Yoichi Miyawaki",
+    "Benedikt A Poser",
+    "Renzo Huber"
+  ],
+  "Acknowledgements": "These data were acquired with the kind support of scannexus at their 7T MAGENTOM SIEMENS scanner. We thank Sebastian Dresbach and Kabir Arora for radiographic assistance during after hour scans. We thank Bianka Linssen for advice regarding head stabilization cushions and cardio-respiratiory tracking. \n",
+  "HowToAcknowledge": "Please use ISMRM abstract upon acceptance. Until then, please cite openneuro DOI. ",
+  "Funding": [
+    "Anna Katharina Mueller was supported for this projec by a fellowship from the Goethe-University in Frankfurt am Main",
+    "Laurentius Huber was funded form the NWO VENI project 016.Veni.198.032",
+    "Benedikt Poser is partially funded by the NWO VIDI grant 16.Vidi.178.052 and by the National Institute for Health grant (R01MH/111444) (PI David Feinberg)",
+    "Miriam Heynckes is funded by The Netherlands Organization for Scientific Research (NWO) Research Talent Grant 406.17.200",
+    "Kenshu Koiso is funded by Japan Public-Private Partnership Student Study Abroad Program (TOBITATE! Young Ambassador Program), by Japan Student Services Organization (JASSO) and by UEC fund"
+  ],
+  "EthicsApprovals": [
+    "the scanning procedures have been approved by the Ethics Review Committee for Psychology and Neuroscience (ERCPN) at Maastricht University, following the principles expressed in the Declaration of Helsinki."
+  ],
+  "ReferencesAndLinks": [
+    "none yet"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003216.v3.0.11"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "EMOTIVE IDIOMS",
+  "Description": "This study investigated processing of idiomatic vs literal sentences during silent reading. Participants were asked to read sentences silently for comprehension and no response was required. Occasional comprehension questions required yes/no answers to make sure participants were engaging in the the task. Therefore the only task performed is silent reading. The study was divided in three consecutive runs or scanning sessions. After scanning, participants' knowledge of idioms was tested and individual unknown idioms for individual participants (reported under phenotype) were excluded from the analyses.",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Francesca M M Citron",
+    "Cristina Cacciari",
+    "Jakob M Funcke",
+    "Chun-Ting Hsu",
+    "Arthur Jacobs"
+  ],
+  "Acknowledgements": "Jasmin Banaei and Bora Meraj helped with the preparation of the experiment. fMRI data acquisition was funded by the Cluster of Excellence Languages of Emotion, Freie Universit\u00e4t Berlin. FMMC was funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg, in conjunction with the Cluster Languages of Emotion. Data analysis and further data collection for revision was funded by the Psychology Department, Lancaster University, UK.",
+  "ReferencesAndLinks": [
+    "Citron, F.M.M., Cacciari, C., Funcke, J.M., Hsu, C.-T., Jacobs, A. (2019). Idiomatic expressions evoke stronger emotional responses in the brain than literal sentences. Neuropsychologia, 131, 233-248. doi: 10.1016/j.neuropsychologia.2019.05.020"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002727.v1.0.2",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Acknowledgements": "We would like to thank Neggin Keshavarzian, Mai Nguyen, Hanna Hillman, Sam Nastase, Sam Zorowitz, Thea Zalaback, Silvy Collin, James Antony and every-one else for buddying during the long fMRI sessions, Norbert Cruz-Lebr\u00f3n, Jamal Williams, the Norman lab and Baldassano lab members for insightful comments and feedback. Sam Perrin, the VRTK, and Unity community for valuable insight on optimizing VR gameplay. Jamal, Jake Reske, Nathan Prillaman, Javier Mas\u00eds and Burne Holiday (Javier, Joey Edelmann, Cory Furlong, and Nathan Tyrell) for providing beautiful music to accompany the rooms. This work was supported by a Multi-University Research Initiative Grant (ONR/DoDN00014-17-1-2961) to KAN and NINDS D-SPAN F99NS120644-01 and T32MH065214 to RMO.",
+  "Authors": [
+    "Rolando Mas\u00eds-Obando",
+    "Kenneth A. Norman",
+    "Christopher Baldassano"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005704.v1.0.0",
+  "Funding": [
+    "Multi-University Research Initiative Grant (ONR/DoDN00014-17-1-2961) to KAN",
+    "NINDS D-SPAN F99NS120644-01 to RMO",
+    "T32MH065214 to RMO"
+  ],
+  "HowToAcknowledge": "Dataset usage can be cited for the preprint (https://doi.org/10.1101/2024.11.26.625465) or corresponding publication.",
+  "License": "CC0",
+  "Name": "How sturdy is your memory palace? Reliable room representations predict subsequent reinstatement of placed objects",
+  "ReferencesAndLinks": [],
+  "DatasetType": "study"
+}

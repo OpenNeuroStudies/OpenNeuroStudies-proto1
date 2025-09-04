@@ -1,0 +1,16 @@
+{
+  "Name": "Deciphering the scopolamine rat model by preclinical functional MRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "David Hlatky",
+    "Gergely Somogyi"
+  ],
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2020.04.08.031534v1"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003647.v1.0.0",
+  "DatasetType": "study"
+}

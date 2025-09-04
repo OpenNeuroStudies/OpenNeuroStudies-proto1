@@ -1,0 +1,41 @@
+{
+  "Name": "NEBULA101 NeuroBehavioural Understanding of Language Aptitude",
+  "BIDSVersion": "1.10.1",
+  "Dataset Version": "1.0",
+  "Authors": [
+    "Alessandra Rampinini University of Geneva Faculty of Psychology and Education Science alessandra.rampinini@unige.ch",
+    "Irene Balboni University of Fribourg Institute of Multilingualism and University of Geneva Faculty of Psychology and Education Science irene.balboni@unifr.ch",
+    "Olga Kepinska Department of Behavioral and Cognitive Biology Faculty of Life Sciences University of Vienna olga.kepinska@univie.ac.at",
+    "Raphael Berthele University of Fribourg Institute of Multilingualism raphael.berthele@unifr.ch",
+    "Narly Golestani University of Vienna Cognitive Science Hub and Department of Behavioral and Cognitive Biology Faculty of Life Sciences University of Vienna narly.golestani@univie.ac.at"
+  ],
+  "Funding": [
+    "Swiss National Science Foundation, Grant #100014_182381",
+    "Swiss National Science Foundation, NCCR Evolving Language Agreement #51NF40_180888",
+    "RunYears: 2020-2024"
+  ],
+  "Validation": [
+    {
+      "BIDS": "This dataset has been validated with terminal-based bids-validator v1.14.14"
+    },
+    {
+      "anat": "Anatomical scans have been defaced with PYdeface and validated with CAT12 in SPM12"
+    },
+    {
+      "func": "Functional scans have been checked for absolute and relative displacement in FSL"
+    },
+    {
+      "dwi": "Diffusion scans have been validated in FSL using QUAD and SQUAD"
+    },
+    {
+      "General": "Validation details available in /code/validation/"
+    }
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We gratefully acknowledge the following people (in alphabetical order): Will Barratt, Priscilla Borges, Melody Cascioli, Tan Chyuan Chin, Michael Dayan, Mark Eckert, Davide Fedeli, Vanessa Gottofrey, Rixa Gruhnert, Tobias Kober, Gwendoline Mahe, Steve Majerus, Roberto Martuzzi, Loan Mattera, Jutta Mueller, Nathalie Philippe, Franck Ramus, Hettie Roebuck, Peter Schneider, Aspasia Sfakaki, Charles Stansfield, Isabelle Udry, Elsje Van Bergen.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005613.v1.0.2",
+  "EthicsApprovals": [
+    "Geneva Cantonal Ethics Commission CCER Prot. N. 2021-01004"
+  ],
+  "DatasetType": "study"
+}

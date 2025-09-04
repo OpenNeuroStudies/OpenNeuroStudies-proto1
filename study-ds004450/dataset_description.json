@@ -1,0 +1,15 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Will be updated"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004450.v1.0.1",
+  "Funding": [],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "XCP_WALKTHROUGH\n",
+  "ReferencesAndLinks": [],
+  "template": "project",
+  "DatasetType": "study"
+}

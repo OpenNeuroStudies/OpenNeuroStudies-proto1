@@ -1,0 +1,25 @@
+{
+  "Name": "The First Comprehensive Study of Early-Emerging Prosopometamorphopsia",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Sydney Fortner",
+    "Antonio Mello",
+    "Daniel A. Stehr",
+    "Chandana Kodiweera",
+    "Bradley D. Duchaine"
+  ],
+  "HowToAcknowledge": "Fortner S, Mello A, Stehr DA, Kodiweera C, Duchaine BD. 2025. The First Comprehensive Study of Early-Emerging Prosopometamorphopsia. In preparation",
+  "Funding": [
+    "National Institute of Health Grant 1R01EY030613-01A1 (B.D.)"
+  ],
+  "EthicsApprovals": [
+    "Procedures were approved by the Dartmouth College Committee for the Protection of Human Subjects (#23282) and were in accordance with the Declaration of Helsinki"
+  ],
+  "ReferencesAndLinks": [
+    "Paper: ",
+    "Code: "
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006592.v1.0.0"
+}

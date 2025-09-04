@@ -1,0 +1,31 @@
+{
+  "Name": "Precise perivascular space segmentation on T2-weighted magnetic resonance imaging from Human Connectome Project-Aging",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yaqiong Chai",
+    "Hedong Zhang",
+    "Carlos Robles",
+    "Andrew Shinho Kim",
+    "Kyung-Wook Kang",
+    "Jiyoung Kim",
+    "Jung-Won Shin",
+    "Abigail Trang",
+    "Jongmok Ha",
+    "Emily Lee",
+    "Yeonsil Moon",
+    "Hosung Kim"
+  ],
+  "HowToAcknowledge": "Please cite the following publication describing the dataset: Y Chai. et al. Precise perivascular space segmentation on T2-weighted magnetic resonance imaging from Human Connectome Project-Aging",
+  "Funding": [
+    "National Institute on Aging (P30-AG066530-03)",
+    " the Foundation of the ASNR Grants (AWD-00008862)",
+    "NIA/California Institute for Research and Education-(NCIRE)/UCSF, WEI2990-18 (#U01 AG024904)",
+    "Micheal J Fox Foundation -The Parkinson\u2019s Progression Markers Initiative (#MJFF-023385)",
+    "Dataset used in this publication was supported by the National Institute on Aging of the National Institutes of Health under Award Number U01AG052564",
+    "Research reported in this publication was supported by the Office Of The Director, National Institutes Of Health of the National Institutes of Health under Award Number S10OD032285",
+    "The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005595.v1.0.0",
+  "DatasetType": "study"
+}

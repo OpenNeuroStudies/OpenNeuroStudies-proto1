@@ -1,0 +1,19 @@
+{
+  "Name": "InterTVA. A multimodal MRI dataset for the study of inter-individual differences in voice perception and identification.",
+  "License": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "Authors": [
+    "Virginia AGLIERI",
+    "Bastien CAGNA",
+    "Pascal BELIN",
+    "Sylvain TAKERKART"
+  ],
+  "Acknowledgements": "The data was acquired at the Centre IRM-INT, Marseille, France. http://irmf.int.univ-amu.fr/",
+  "HowToAcknowledge": "Please cite as follows. Aglieri, V., Cagna, B., Belin, P., Takerkart, S. InterTVA. A multimodal MRI dataset for the study of inter-individual differences in voice perception and identification. OpenNeuro, 2019, http://www.doi.org/10.18112/openneuro.ds001771.v1.0.2",
+  "Funding": "This dataset was acquired as part of the LIVES  project funded by the French Agence Nationale de la Recherche (ANR-15-CE23-0026)",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001771.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

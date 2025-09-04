@@ -1,0 +1,31 @@
+{
+  "Name": "MetaRDK",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Dorian Goueytes",
+    "Francois Stockart",
+    "Alexis Robin",
+    "Lucien Gyger",
+    "Martin Rouy",
+    "Dominique Hoffmann",
+    "Lorella Minotti",
+    "Philippe Kahane",
+    "Michael Pereira",
+    "Nathan Faivre"
+  ],
+  "Acknowledgements": "NF, MP developed the study concept. NF implemented experiments. DG, FS, LG, MR, NF collected data. DG, LG, MP, NF analysed data. DH performed surgeries. LM, PK, AR provided clinical data. DG, NF, MP drafted the paper. All authors provided critical revisions and approved the final version of the paper for submission. ",
+  "Funding": [
+    "ERC Metaction 803122",
+    "ERC LEAP 101077874",
+    "ERC VOLTA 101125379"
+  ],
+  "EthicsApprovals": [
+    "MapCog_SEEG 2017-A03248-45"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2024.03.23.586414"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006253.v1.0.3"
+}

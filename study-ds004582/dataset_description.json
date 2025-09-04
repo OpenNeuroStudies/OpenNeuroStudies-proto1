@@ -1,0 +1,16 @@
+{
+  "Name": "FakeFaceEmo_data",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Makowski, Dominique",
+    "Te, An-Shu",
+    "Kirk, Stephanie",
+    "Ngoi, Zi Liang"
+  ],
+  "EthicsApprovals": [
+    "NTU-IRB-2022-187"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004582.v1.0.0"
+}

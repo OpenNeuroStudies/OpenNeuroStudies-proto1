@@ -1,0 +1,16 @@
+{
+  "Name": "Decoding of multisensory semantics and memories in low-level visual cortex",
+  "Authors": [
+    "Michael P Notter",
+    "Sandra Da Costa",
+    "Micah M Murray"
+  ],
+  "Funding": [
+    "Swiss National Science Foundation (grant numbers 169206, 149982, 133136, 118419, and 105680 to M.M.M.)"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HowToAcknowledge": "Please cite our paper available on: TBD",
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds001345.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Authors": [
+    "Beau Sievers",
+    "Carolyn Parkinson",
+    "Peter J. Kohler",
+    "James Hughes",
+    "Sergey V. Fogelson",
+    "Thalia Wheatley"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Name": "Visual and auditory brain areas share a representational structure that supports emotion perception: fMRI data",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/254961v2"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003715.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

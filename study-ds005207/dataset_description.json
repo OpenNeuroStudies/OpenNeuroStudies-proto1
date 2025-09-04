@@ -1,0 +1,22 @@
+{
+  "Name": "Surrey cEEGrid sleep data set",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kaare B. Mikkelsen",
+    "James K Ebajemito",
+    "Maria A Bonmati-Carrion",
+    "Nayantara Santhi",
+    "Victoria L Revell",
+    "Giuseppe Atzori",
+    "Laura Birch",
+    "Ciro Della Monica",
+    "Stefan Debener",
+    "Derk-Jan Dijk",
+    "Annette Sterr",
+    "Maarten De Vos"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Please cite Mikkelsen et al 2018: https://doi.org/10.1111/jsr.12786",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005207.v1.0.0"
+}

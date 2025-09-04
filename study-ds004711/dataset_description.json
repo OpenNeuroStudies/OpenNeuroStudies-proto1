@@ -1,0 +1,23 @@
+{
+  "Name": "AgeRisk",
+  "BIDSVersion": "1.10.1",
+  "Data set": "This data set was collected as part of the AgeRisk study, which aimed to examine life span trajectories of risk preference, impulsivity, and self-control. Participants completed three sessions, a laboratory session, a home session, and a magnetic resonance neuroimaging session. During the MRI session, we collected a structural san (T1), two functional sequences during which participants completed the Balloon Analogue Risk Task (bart), and a functional sequence during which participants completed a delay discounting task with financial rewards.",
+  "Sample": "For the AgeRisk study we recruited 200 healthy adult human participants between 16 and 81 years of age. This was a convenience sample recruited from the local area in Switzerland using flyers, advertisements, academic presentations, and the lab database. For the neuroimaging component of the study, all participants were screened for MRI safety. All participants were right-handed. At the time of the MRI session, 189 (out of 200) participants were still enrolled in the study. Of the 189 participants we did not collect MRI data for 2 participants (sub-007 and sub-025 did not enter the scanner due to anxiety/unease elicited by the MRI bore. See file participants.tsv for a full list of missing data.)",
+  "MRI acquisition": "A copy of the SIEMENS MAGNETOM Prisma acquisition protocol is available on OSF (https://osf.io/sh34n/).",
+  "Skull stripping": "All images in this repository were processed using Brain Extraction Tool in FSL to remove non-brain tissue as follows: bet <input_image> <output_image> -f 0.5 -o for structural images and bet <input_image> <output_image> -F for functional images. Quality assurance procedures suggested that the threshold (0.5) used for skull-stripping the structural images was too conservative and removed too much brain tissue from the T1w image of one participant (sub-138). To address this issue, we adapted the bet threshold for this participant and specified bet with a threshold of 0.4.",
+  "Authors": [
+    "Tisdall, Loreen",
+    "Mata, Rui"
+  ],
+  "References": [
+    "Tisdall, L., Mugume, S., Kellen, D., & Mata, R. (2023). Developmental trajectories of risk preference, impulsivity, and self-control: A dataset containing self-report, informant-report, behavioral, hormone and functional neuroimaging measures from a cross-sectional adult lifespan sample. OSF Preprint.",
+    "Tisdall, L., & Mata, R. (2023). Age differences in the neural basis of decision-making under uncertainty. Cognitive, Affective, & Behavioral Neuroscience, 1-21.",
+    "Tisdall, L., Frey, R., Wulff, D., Kellen, D., & Mata, R. (2022). A multiverse analysis of age effects on risk preference, impulsivity, and self-control. OSF Preprint. https://osf.io/uj359."
+  ],
+  "Funding": [
+    "Swiss National Science Foundation"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004711.v1.0.0",
+  "DatasetType": "study"
+}

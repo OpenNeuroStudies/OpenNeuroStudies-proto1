@@ -1,0 +1,33 @@
+{
+  "Name": "Food and Brain Study",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Bari Fuchs",
+    "Alaina Pearce",
+    "Barbara Rolls",
+    "Stephen Wilson",
+    "Emma Jane Rose",
+    "Charles Geier",
+    "Hugh Garavan",
+    "Kathleen Keller"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004697.v1.0.2",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2bids",
+      "Version": "2.1.6",
+      "Description": "Used to convert and organize dicoms into BIDS"
+    },
+    {
+      "Name": "Manual",
+      "Description": "Added 'IntendedFor' and 'TaskName' keys to fmap and func .json files, respectively"
+    },
+    {
+      "Name": "pydeface",
+      "Version": "2.0.2",
+      "Description": "Used to de-face MPRage scans"
+    }
+  ],
+  "License": "CC0"
+}

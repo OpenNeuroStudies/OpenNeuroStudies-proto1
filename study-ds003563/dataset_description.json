@@ -1,0 +1,31 @@
+{
+  "Name": "Data from: Comprehensive ultrahigh resolution whole brain in vivo MRI dataset as a human phantom",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Falk Luesebrink",
+    "Hendrik Mattern",
+    "Renat Yakupov",
+    "Julio Acosta-Cabronero",
+    "Mohammad Ashtarayeh",
+    "Steffen Oeltze-Jafra",
+    "Oliver Speck"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003563.v1.0.1",
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/sdata201732",
+    "https://doi.org/10.5061/dryad.38s74",
+    "https://doi.org/10.24352/ub.ovgu-2017-001",
+    "https://doi.org/10.24352/ub.ovgu-2020-145"
+  ],
+  "Acknowledgements": "The authors would like to thank Oleg Posnansky, University Hospital RWTH Aachen, for the acquisition of the DTI data and the staff of the Department of Oral and Maxillofacial Surgery, University Hospital Magdeburg A.\u00f6.R. for creating the custom\u2010built mouthpieces.",
+  "Funding": [
+    "Initial Training Network, HiMR, funded by the FP7 Marie Curie Actions of the European Commission (FP7-PEOPLE-2012-ITN-316716)",
+    "NIH (1R01-DA021146)",
+    "German Research Foundation (DFG Priority Program 2041 \u201cComputational Connectomics\u201d, MO 2397/5\u20101)",
+    "German Reseach Foundation (\u201c9th Nachwuchsakademie Medizintechnik\u201d, MA 9235/1-1)",
+    "Forschungszentrum Medizintechnik Hamburg (fmthh; grant 01fmthh2017)",
+    "Federal state of Saxony-Anhalt, Germany, under grant number \u2018I 88\u2019"
+  ]
+}

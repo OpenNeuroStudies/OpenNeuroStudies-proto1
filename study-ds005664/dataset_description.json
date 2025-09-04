@@ -1,0 +1,40 @@
+{
+  "Name": "San Diego State University Traveling Subjects Diffusion MRI (SDSU-TS) Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Janice Hau",
+    "Savannah Scarlett",
+    "Giovanna Arantes de Oliveira Campos"
+  ],
+  "Acknowledgements": "We thank Ralph-Axel M\u00fcller, Ruth Carper, Annika Linke, and Inna Fishman from the Brain Development Imaging Lab at San Diego State University for sharing their scan protocols used in this dataset as well as the participants for their time and commitment to the study. Thanks also to the SDSU Imaging Center and Center for Functional MRI, UC San Diego for their technical support.",
+  "HowToAcknowledge": "Please cite the dataset accession number or doi.",
+  "Funding": [
+    "NIMH R21MH133229",
+    "NIMH R01MH103494"
+  ],
+  "EthicsApprovals": [
+    "San Diego State University Institutional Review Board (HS-2024-0194)"
+  ],
+  "ReferencesAndLinks": [
+    "Hau, J., Scarlett, S., & Arantes de Oliveira Campos, G. (2025). A traveling subjects dataset for diffusion MRI harmonization benchmarking [Poster presentation]. International Society for Magnetic Resonance in Medicine Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives, Kyoto, Japan."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005664.v1.1.2",
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    },
+    {
+      "Name": "Custom BIDS conversion scripts for GE research sequences",
+      "Description": "In-house scripts were developed to convert the GE research diffusion sequences (i.e., 4shell96dir, 2shell93dir, and 3shell45dir) to BIDS."
+    }
+  ]
+}

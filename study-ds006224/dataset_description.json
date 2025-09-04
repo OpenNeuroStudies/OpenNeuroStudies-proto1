@@ -1,0 +1,17 @@
+{
+  "Name": "Cortical connectivity predicts cognition across time in Parkinson's Disease",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Hunter P Twedt",
+    "Brooke E Yeager",
+    "Jacob Simmering",
+    "Jordan L Schultz",
+    "Nandakumar S Narayanan"
+  ],
+  "Acknowledgements": "Data used in the preparation of this article were obtained June 25, 2021, from the Parkinson\u2019s Progression Markers Initiative (PPMI) database (www.ppmi-info.org/access-data-specimens/download-data). For up-to-date information on the study, visit www.ppmi-info.org. Funding: PPMI\u2014a public\u2013private partnership\u2014is funded by the Michael J. Fox Foundation for Parkinson\u2019s Research funding partners, including 4D Pharma, Abbvie, AcureX, Allergan, Amathus Therapeutics, Aligning Science Across Parkinson\u2019s, AskBio, Avid Radiopharmaceuticals, BIAL, Biogen, Biohaven, BioLegend, BlueRock Therapeutics, Bristol-Myers Squibb, Calico Labs, Celgene, Cerevel Therapeutics, Coave Therapeutics, DaCapo Brainscience, Denali, Edmond J. Safra Foundation, Eli Lilly, Gain Therapeutics, GE HealthCare, Genentech, GSK, Golub Capital, Handl Therapeutics, Insitro, Janssen Neuroscience, Lundbeck, Merck, Meso Scale Discovery, Mission Therapeutics, Neurocrine Biosciences, Pfizer, Piramal, Prevail Therapeutics, Roche, Sanofi, Servier, Sun Pharma Advanced Research Company, Takeda, Teva, UCB, Vanqua Bio, Verily, Voyager Therapeutics, the Weston Family Foundation, and Yumanity Therapeutics",
+  "HowToAcknowledge": "Please cite the PPMI dataset (Marek, K., Chowdhury, S., Siderowf, A., Lasch, S., Coffey, C. S., Caspell\u2010Garcia, C., ... & Larsen, L. (2018). The Parkinson's progression markers initiative (PPMI)\u2013establishing a PD biomarker cohort. Annals of clinical and translational neurology, 5(12), 1460-1477)",
+  "Description": "27 participants were selected from the PPMI dataset. These data are found within the folder 'BIDS'. Within 'BIDS' are each participant's folders containing their respective MRI data. Within each of these participant folders are three sessions corresponding to Visits 1, 2, and 3 that are discussed in the manuscript. In this regard, 'ses-01' corresponds to 'Visit 1', 'ses-02' corresponds to 'Visit 2', and 'ses-03' corresponds to 'Visit 3'. Within each 'ses-' folder are 'anat' and 'func' folders containing respective MRI data in .nii format. Raw DICOMs from the PPMI database were converted to NIFTI using MRIcroGL.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006224.v1.0.0"
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Speech disfluencies: Neurophysiological aspect in normal population",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ekaterina V. Pechenkova",
+    "Yana R. Panikratova",
+    "Maria A. Fomina",
+    "Alena D. Rumshiskaya",
+    "Darya A. Bazhenova",
+    "Liudmila A. Makovskaya",
+    "Irina S. Lebedeva",
+    "Valentin E. Sinitsyn"
+  ],
+  "Acknowledgements": "The authors thank Elena Mershina, Vasily Kaleda and Liudmila Litvinova for their help in study organization, Diana Kayutina and Ekaterina Abdullina for their assistance with data collection from some of the participants",
+  "HowToAcknowledge": "This dataset was provided by Ekaterina V. Pechenkova, Yana R. Panikratova, Maria A. Fomina, Alena D. Rumshiskaya, Darya A. Bazhenova, Liudmila A. Makovskaya, Irina S. Lebedeva, Valentin E. Sinitsyn",
+  "Funding": [
+    "This research funded by RFBR grant 18-00-01598(18-00-01592)."
+  ],
+  "ReferencesAndLinks": [
+    "Here will be journal references"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003469.v1.0.0",
+  "DatasetType": "study"
+}

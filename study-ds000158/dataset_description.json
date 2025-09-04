@@ -1,0 +1,25 @@
+{
+  "Name": "The human Voice Areas: spatial organisation and inter-individual variability in temporal and extra-temporal cortices",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Pernet, CR",
+    "Belin, P",
+    "McAleer, P",
+    "Gorgolewski, KJ",
+    "Valdes-Sosa, M",
+    "Latinus, M",
+    "Charest, I",
+    "Bestelmeyer, PEG",
+    "Watson, RH",
+    "Fleming, D"
+  ],
+  "Funding": [
+    "Data collection was supported by BBSRC grants BB/E003958/1, BBJ003654/1 and BB/I022287/1, ESRC-MRC large grant RES-060-25-0010."
+  ],
+  "ReferencesAndLinks": [
+    "http://www.ncbi.nlm.nih.gov/pubmed/26116964"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000158.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "MRI mapping of hemodynamics in the human spinal cord",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Kimberly J Hemmerling",
+    "Mark A Hoggarth",
+    "Milap S Sandhu",
+    "Todd B Parrish",
+    "Molly G Bright"
+  ],
+  "HowToAcknowledge": "Please cite this paper: ",
+  "Funding": [
+    "Craig H. Neilsen Foundation 595499",
+    "NIH Funded Training Program (KJH) T32EB025766",
+    "NIH Funded Predoctoral Fellowship (KJH) F31NS134222"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004974.v1.0.0",
+  "DatasetType": "study"
+}

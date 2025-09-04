@@ -1,0 +1,17 @@
+{
+  "Name": "Two sessions of resting state with closed eyes for patients with depression in treatment course (NFB, CBT or No treatment groups)",
+  "License": "CC0",
+  "Authors": [
+    "Bezmaternykh DD",
+    "Melnikov ME",
+    "Savelov AA",
+    "Petrovskii ED"
+  ],
+  "Acknowledgements": "Mark Shtark, Kira Natarova.",
+  "Funding": [
+    "The study was supported by Russian Science Foundation grant \u2116 16-15-00183."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002749.v1.0.0",
+  "DatasetType": "study"
+}

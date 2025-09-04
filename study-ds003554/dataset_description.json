@@ -1,0 +1,26 @@
+{
+  "Name": "Visser et al. 2015 Psychoneuroendocrinology",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Renee M Visser",
+    "Anna E. Kunze",
+    "Biance Westhoff",
+    "H Steven Scholte",
+    "Merel Kindt"
+  ],
+  "Acknowledgements": "The authors would like to thank M. Spaan and B. Molenkamp for technical support, J. Bosch and C. Kirschbaum for the saliva-analysis, P. Vonk for supervising the medical aspects of the study and A. Eigenhuis for blinding and counterbalancing of the experimental procedure and statistical advice.",
+  "HowToAcknowledge": "Please cite this paper: http://dx.doi.org/10.1016/j.psyneuen.2015.01.021",
+  "Funding": [
+    "This work was supported by a Vici grant (M. Kindt, #45307-006) from the Netherlands Organization for Scientific Research."
+  ],
+  "EthicsApprovals": [
+    "Procedures were executed in compliance with relevant laws and institutional guidelines and were approved by the local ethics committee (University of Amsterdam, The Netherlands; 2013-CP-2387)."
+  ],
+  "ReferencesAndLinks": [
+    "http://dx.doi.org/10.1016/j.psyneuen.2015.01.021",
+    "Visser, R M, A E Kunze, B Westhoff, H S Scholte, and M Kindt. 2015. \u201cRepresentational Similarity Analysis Offers a Preview of the Noradrenergic Modulation of Long-Term Fear Memory at the Time of Encoding.\u201d Psychoneuroendocrinology 55: 8\u201320."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003554.v1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "29 By ANT",
+  "License": "CC0",
+  "Authors": [
+    "Zhao Xiangyue",
+    "Zhou Jingyao",
+    "Zhang Libo",
+    "Duan Haoqing",
+    "Wei Shiyu",
+    "Bi Yanzhi",
+    "Hu Li"
+  ],
+  "ReferencesAndLinks": [
+    "Bi Y, Liu X, Zhao X, et al. Enhancing pain modulation: the efficacy of synchronous combination of virtual reality and transcutaneous electrical nerve stimulation. General Psychiatry 2023;36:e101164. doi:10.1136/gpsych-2023-101164."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005285.v1.0.0",
+  "DatasetType": "study"
+}

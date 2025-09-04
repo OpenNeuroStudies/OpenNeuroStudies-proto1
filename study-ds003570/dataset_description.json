@@ -1,0 +1,25 @@
+{
+  "Name": "EEG: Improvisation and Musical Structures",
+  "ReferencesAndLinks": [
+    "Goldman, A., Jackson, T., & Sajda, P. (2020). Improvisation experience predicts how musicians categorize musical structures. Psychology of Music, 48(1), 18-34. https://doi.org/10.1177/0305735618779444",
+    "Faller, J., Goldman, A. J., Lin, Y., McIntosh, J. R., & Sajda, P. (2021). Spatiospectral brain networks reflective of improvisational experience. bioRxiv. https://doi.org/10.1101/2021.02.25.432633"
+  ],
+  "License": "CC0",
+  "Authors": [
+    "Andrew Goldman",
+    "Tyreek Jackson",
+    "Paul Sajda"
+  ],
+  "Acknowledgements": "Sincere thanks to Josef Faller, Raphael Gerraty, Daphna Shohamy, George Lewis, Peter Gordon, Lori Custodero, the LIINC Lab, and the Learning Lab for supporting this project. Thanks also to the Presidential Scholars in Society and Neuroscience program.",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1177/0305735618779444",
+  "Funding": [
+    "Presidential Scholars in Society and Neuroscience program at Columbia University",
+    "Army Research Laboratory under Cooperative Agreement Number W911NF-15-2-0074"
+  ],
+  "EthicsApprovals": [
+    "Institutional Review Board of Columbia University, New York City, NY, USA"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003570.v1.0.0",
+  "DatasetType": "study"
+}

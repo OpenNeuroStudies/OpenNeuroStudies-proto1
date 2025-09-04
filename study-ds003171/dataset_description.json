@@ -1,0 +1,29 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Sivayini Kandeepan",
+    "Jorge Rudas",
+    "Francisco Gomez",
+    "Bobby Stojanoski",
+    "Sreeram Valluri",
+    "Adrian Mark Owen",
+    "Lorina Naci",
+    "Andrea Soddu",
+    "Emily Sophia Nichols"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003171.v2.0.1",
+  "Funding": [
+    "NSERC Discovery grant (05578-2014RGPIN)",
+    "Canada Excellence Research Chair (215063)",
+    "CIHR Foundation Fund (167264)"
+  ],
+  "HowToAcknowledge": "Please cite Naci et al., 2018 and Kandeepan et al., 2020",
+  "License": "CC0",
+  "Name": "Modeling an auditory stimulated brain under altered states of consciousness using the generalized ising model",
+  "ReferencesAndLinks": [
+    "Naci, L., Haugg, A., MacDonald, A., Anello, M., Houldin, E., Naqshbandi, S., Gonzalez-Lara, L. E., Arango, M., Harle, C., Cusack, R., & Owen, A. M. (2018). Functional diversity of brain networks supports consciousness and verbal intelligence. Scientific Reports, 8(1), 1\u201315. https://doi.org/10.1038/s41598-018-31525-z",
+    "Kandeepan, S., Rudas, J., Gomez, F., Stojanoski, B., Valluri, S., Owen, A. M., Naci, L., Nichols, E. S., & Soddu, A. (2020). Modeling an auditory stimulated brain under altered states of consciousness using the generalized ising model. NeuroImage, 223(December), 1\u201311. https://doi.org/10.1016/j.neuroimage.2020.117367"
+  ],
+  "DatasetType": "study"
+}

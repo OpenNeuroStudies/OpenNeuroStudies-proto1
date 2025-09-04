@@ -1,0 +1,31 @@
+{
+  "Name": "2024Phantom3D",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Guillaume J.-P.C. Becq",
+    "Olivier Montigon",
+    "Sarvenaz Keshmiri",
+    "Aur\u00e9lien Delphin",
+    "Paul Galloux",
+    "Herv\u00e9 Mathieu",
+    "Benjamin Lemasson",
+    "Emmanuel L. Barbier"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "dcm2niix",
+      "Version": "1.0.20211006"
+    },
+    {
+      "Name": "brkraw",
+      "Version": "0.3.11"
+    }
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.5281/zenodo.15211130",
+    "https://github.com/gjpcbecq/phantom3D.git"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006123.v1.0.2"
+}

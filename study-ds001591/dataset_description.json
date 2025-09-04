@@ -1,0 +1,20 @@
+{
+  "Name": "Mouse_rest_KCLtraining",
+  "License": "",
+  "Authors": [
+    "Joanes Grandjean",
+    "Ling Yun Yeow",
+    "Camilla Simmons",
+    "Eugene Kim",
+    "Diana Cash"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite Grandjean et al. 2014 (https://www.ncbi.nlm.nih.gov/pubmed/25175535) ",
+  "Funding": "This dataset acquisition was supported by the Singapore Bioimaging Consortium core funds",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/25175535"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001591.v1.3.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

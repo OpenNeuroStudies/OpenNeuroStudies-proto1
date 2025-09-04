@@ -1,0 +1,30 @@
+{
+  "Name": "BOLD variability during cognitive control for an adult lifespan sample ",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jenny R Rieck",
+    "Giulia Baracchini",
+    "Brennan DeSouza",
+    "Dan Nichol",
+    "Elizabeth Howard",
+    "Cheryl L Grady"
+  ],
+  "Acknowledgements": "We thank Annette Weekes-Holder, Garry Detzler, and Baycrest Imaging Centre staff for their help with data collection.",
+  "HowToAcknowledge": "We thank the Grady Lab and colleagues for data collection and use of the dataset. Please cite both Rieck (2021) papers in ReferencesAndLinks. Please also cite Rieck (2022) if using the BOLD variability metric.",
+  "Funding": [
+    " Canadian Institutes of Health Research Foundation Grant MOP143311"
+  ],
+  "EthicsApprovals": [
+    "Baycrest Health Sciences (Protocol #16-21)"
+  ],
+  "ReferencesAndLinks": [
+    "Rieck, J. R., Baracchini, G., Nichol, D., Abdi, H., & Grady, C. L. (2021). Reconfiguration and dedifferentiation of functional networks during cognitive control across the adult lifespan. Neurobiology of Aging. doi: https://doi.org/10.1016/j.neurobiolaging.2021.03.019",
+    "Rieck, J. R., Baracchini, G., & Grady, C. L. (2021). Contributions of Brain Function and Structure to Three Different Domains of Cognitive Control in Normal Aging. Journal of Cognitive Neuroscience, 1-22. doi: https://doi.org/10.1162/jocn_a_01685",
+    "Rieck, J. R., DeSouza, B., Baracchini, G., & Grady, C. L. (2022). Reduced modulation of BOLD variability as a function of cognitive load in healthy aging. Neurobiology of Aging, 112, 215-230. doi: https://doi.org/10.1016/j.neurobiolaging.2022.01.010",
+    "Grady, C. L., Rieck, J. R., Baracchini, G., & DeSouza, B. (2023). Relation of resting brain signal variability to cognitive and socioemotional measures in an adult lifespan sample. Social Cognitive and Affective Neuroscience. doi: https://doi.org/10.1093/scan/nsad044"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005270.v1.0.0",
+  "HEDVersion": "XX"
+}

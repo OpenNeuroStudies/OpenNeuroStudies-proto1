@@ -1,0 +1,20 @@
+{
+  "Name": "NeuroMorph: A High-Temporal Resolution MEG Dataset for Morpheme-Based Linguistic Analysis",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Amilleah Rodriguez",
+    "Dan Zhao",
+    "Kyra Wilson",
+    "Ritika Saboo",
+    "Sergey V Samsonau",
+    "Alec Marantz"
+  ],
+  "Funding": [
+    "New York University Abu Dhabi Institute Grant G1001"
+  ],
+  "Ethics Approval": "New York University Abu Dhabi Institute IRB-Legacy-003-2012 (Visual) MEG Investigation of Language and Cognitive Processes: Visual Presentation",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005241.v1.1.0",
+  "EthicsApprovals": []
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Neural codes track prior events in a narrative and predict subsequent memory for details",
+  "License": "CC0",
+  "Authors": [
+    "Collin, S.H.P.",
+    "Kempner, R.",
+    "Srivatsan, S.",
+    "Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Multi-University Research Initiative Grant (ONR/DoDN00014-17-1-2961)",
+    "NWO Rubicon grant (446-17-009)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2024.02.13.580092v2"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005050.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

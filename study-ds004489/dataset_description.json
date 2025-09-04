@@ -1,0 +1,21 @@
+{
+  "Name": "Raw data for Engaging in word recognition elicits highly specific modulations in visual cortex",
+  "Authors": [
+    "Alex L. White",
+    "Kendrick Kay",
+    "Kenny A. Tang",
+    "Jason D. Yeatman"
+  ],
+  "HowToAcknowledge": "Please cite this paper: Engaging in word recognition elicits highly specific modulations in visual cortex, published in Current Biology, 2023",
+  "Funding": [
+    "NIH R00 EY029366",
+    "NIH R01 HD095861",
+    "NIH P41 EB027061",
+    "NSF IIS-1822683",
+    "NSF IIS-1822929"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004489.v1.0.1"
+}

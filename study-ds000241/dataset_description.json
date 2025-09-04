@@ -1,0 +1,22 @@
+{
+  "Name": "AK6",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Andrew C. Connolly",
+    "J. Swaroop Guntupalli",
+    "Jason Gors",
+    "Michael Hanke",
+    "Yaroslav O. Halchenko",
+    "Yu-Chien Wu",
+    "Herv\u00e9 Abdi",
+    "James V. Haxby"
+  ],
+  "ReferencesAndLinks": [
+    "Connolly, A. C., J. S. Guntupalli, J. Gors, M. Hanke, Y. O. Halchenko, Y.-C. Wu, H. Abdi, and J. V. Haxby. The Representation of Biological Classes in the Human Brain. Journal of Neuroscience 32.8 (2012): 2608-618."
+  ],
+  "Acknowledgements": "Special thanks to Isabella Hansen for help in formatting this dataset in BIDS. We thank Ida Gobbini and Rajeev Raizada for helpful comments and discussions about the experiment and manuscript; Courtney Rogers for administrative support; and Brad Mahon for providing data for the medial-to-lateral index analysis.",
+  "Funding": "This research was funded by National Institutes of Mental Health Grants F32MH08543301A1 (A.C.C.) and 5R01MH075706 (J.V.H.).",
+  "HowToAcknowledge": "Please cite: 'Connolly, A. C., J. S. Guntupalli, J. Gors, M. Hanke, Y. O. Halchenko, Y.-C. Wu, H. Abdi, and J. V. Haxby. The Representation of Biological Classes in the Human Brain. Journal of Neuroscience 32.8 (2012): 2608-618.' and include the following message: 'This data was obtained from the OpenfMRI database. Its accession number is ds000241'",
+  "DatasetType": "study"
+}

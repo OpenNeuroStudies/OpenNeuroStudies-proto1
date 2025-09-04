@@ -1,0 +1,23 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Brain Development of Deductive Reasoning",
+  "ReferencesAndLinks": [
+    "Prado J, Mutreja R & Booth JR (2013). Fractionating the neural substrates of deductive reasoning: Task-dependent contributions of spatial and verbal representations. Cerebral Cortex, 23, 499-507. (PMCID: PMC3563338)",
+    "Mathieu R, Booth JR & Prado J (2015). Distributed neural representations of logical arguments in school-age children. Human Brain Mapping, 36, 996-1009. (PMCID: PMC4814569)"
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset:\n\nLytle MN, Prado J & Booth JR (2020). Brain development of deductive reasoning. OpenNeuro. 10.18112/openneuro.ds002886\n\nLytle MN, Prado J & Booth JR (2020). A neuroimaging dataset of deductive reasoning in school-aged children. Data in Brief, 33, 106405.\n",
+  "Funding": [
+    "Neural development of deductive reasoning. National Institute of Child Health and Human Development (R03 HD069781)"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "John Binzak",
+    "Ozlem Ece Demir-Lira",
+    "Marisa Lytle",
+    "Rachna Mutreja",
+    "J\u00e9r\u00f4me Prado"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002886.v1.1.0",
+  "DatasetType": "study"
+}

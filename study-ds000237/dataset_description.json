@@ -1,0 +1,16 @@
+{
+  "Name": "Phonological memory in sign language relies on the visuomotor neural system outside the left hemisphere language network",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Yuji Kanazawa",
+    "Kimihiro Nakamura",
+    "Toru Ishii",
+    "Toshihiko Aso",
+    "Hiroshi Yamazaki",
+    "Koichi Omori"
+  ],
+  "Acknowledgements": "We thank to Masataka Nakayama (Department of Education, Kyoto University) for his assistance in devising the behavioral tasks.",
+  "Funding": "the Japan Society of Logopedics and Phoniatrics (to UK) and JSPS Kakenhi (16KT0005 to KN)",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000237.",
+  "DatasetType": "study"
+}

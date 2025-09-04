@@ -1,0 +1,20 @@
+{
+  "Name": "Macaque angiography dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yue Cui",
+    "Haibin Huang",
+    "Jialu Liu"
+  ],
+  "Acknowledgements": "None",
+  "HowToAcknowledge": "None",
+  "Funding": [
+    "This work is supported by STI 2030 - Major Projects (No. 2021ZD0200402)"
+  ],
+  "ReferencesAndLinks": [
+    "If using this dataset, please cite our paper: FFCM-MRF: An accurate and generalizable cerebrovascular segmentation pipeline on TOF-MRA"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004620.v1.0.0",
+  "DatasetType": "study"
+}

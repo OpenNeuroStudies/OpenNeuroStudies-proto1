@@ -1,0 +1,25 @@
+{
+  "Name": "Connectome 2.0 Diffusion MRI (in vivo)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Gabriel Ramos-Llord\u00e9n",
+    "Hong-Hsi Lee",
+    "Yixin Ma",
+    "Hansol Lee",
+    "Susie Y. Huang"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "Martinos Center Connectome 2.0 team",
+  "HowToAcknowledge": "Please cite: Ramos-Llord\u00e9n, G., et al. 'Connectome 2.0: Next-Generation Connectomics and Microstructure MRI Scanner for Imaging of Human Brain Circuits across Scales.' Nature Biomedical Engineering, in press, 2025.",
+  "Funding": [
+    "U24NS137077"
+  ],
+  "EthicsApprovals": [
+    "IRB 2018P002443"
+  ],
+  "ReferencesAndLinks": [
+    "https://connectome2.martinos.org/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006181.v1.0.0"
+}

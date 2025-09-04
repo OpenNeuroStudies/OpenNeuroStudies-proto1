@@ -1,0 +1,32 @@
+{
+  "Name": "Data for \"Modeling 2D Spatio-Tactile Population Receptive Fields of the Fingertip in Human Primary Somatosensory Cortex\"",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Susanne Stoll",
+    "Falk Luesebrink",
+    "D. Samuel Schwarzkopf",
+    "Hendrik Mattern",
+    "Peng Liu",
+    "Johanna Noelle",
+    "Esther Kuehn"
+  ],
+  "Acknowledgements": "We thank Astrid Wollrab and Cindy L\u00fcbeck for help with data collection, Juliane D\u00f6hler for discussions about the quality of our segmentation results, Udo Adler for computing support, and the University Clinic for Oral and Maxillofacial Surgery in Magdeburg for manufacturing high-quality mouthpieces.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "European Structure and Investment Fund (ZS/2020/05/141591)",
+    "European Research Council under the European Union's Horizon 2020 research and innovation programme (949609)",
+    "Deutsche Forschungsgemeinschaft (MA, 9235/3-1, 501214112 and KU 3711/4-1, 528318902)"
+  ],
+  "EthicsApprovals": [
+    "NaN",
+    "NaN"
+  ],
+  "ReferencesAndLinks": [
+    "NaN",
+    "NaN",
+    "NaN"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006128.v1.0.6"
+}

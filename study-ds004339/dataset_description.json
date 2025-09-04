@@ -1,0 +1,21 @@
+{
+  "Name": "dataset_for_test",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Arnaud",
+    "et al."
+  ],
+  "ReferencesAndLinks": [
+    "Arnaud, Brainhack Marseille,  2022, training session to test openneuro platform"
+  ],
+  "Acknowledgements": "The authors thank the openneuro developpers",
+  "Funding": [
+    "Free"
+  ],
+  "EthicsApprovals": [
+    "Participants provided informed consent in compliance with the ethical requirements of openscience community"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004339.v1.0.0"
+}

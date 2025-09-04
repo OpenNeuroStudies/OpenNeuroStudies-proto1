@@ -1,0 +1,18 @@
+{
+  "Name": "Brainstorm Tutorial ECoG/sEEG",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Francois Tadel",
+    "Marcel Heers",
+    "Andreas Schulze-Bonhage"
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://neuroimage.usc.edu/brainstorm/Tutorials/Epileptogenicity"
+  ],
+  "Acknowledgements": "n/a",
+  "HowToAcknowledge": "n/a",
+  "Funding": [],
+  "DatasetDOI": "10.18112/openneuro.ds001868.v1.0.2",
+  "DatasetType": "study"
+}

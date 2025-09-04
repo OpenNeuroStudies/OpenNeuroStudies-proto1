@@ -1,0 +1,17 @@
+{
+  "Name": "Generic Object Decoding (fMRI on ImageNet)",
+  "License": "CC0",
+  "Authors": [
+    "Tomoyasu Horikawa",
+    "Yukiyasu Kamitani"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "Horikawa, T. & Kamitani, Y. (2017) Generic decoding of seen and imagined objects using hierarchical visual features. Nature Communications 8:15037. https://www.nature.com/articles/ncomms15037"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001246.v1.2.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

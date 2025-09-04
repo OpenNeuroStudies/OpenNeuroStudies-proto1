@@ -1,0 +1,14 @@
+{
+  "Name": "PD De Novo: Resting State fMRI and Physiological Signals",
+  "License": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+  "Authors": [
+    "Carlo Tessa"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Tessa C, Toschi N, Orsolini S, Valenza G, Lucetti C, Barbieri R, Diciotti S. Central modulation of parasympathetic outflow is impaired in de novo Parkinson's disease patients. Accepted for publication in PLoS ONE",
+  "Funding": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001354.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

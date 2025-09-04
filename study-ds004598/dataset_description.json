@@ -1,0 +1,29 @@
+{
+  "Name": "LFP during linear track in 6-month old TgF344-AD rats",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Moradi Faraz",
+    "van den Berg Monica",
+    "Mirjebreili Morteza",
+    "Kosten Lauren",
+    "Verhoye Marleen",
+    "Amiri Mahmood",
+    "Keliris A. Georgios"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "N/A"
+  ],
+  "EthicsApprovals": [
+    "Etical commitee of University of Antwerp"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004598.v1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Inverse Base Rate",
+  "License": "PDDL",
+  "Authors": [
+    "Sean O\u2019Bryan",
+    "Darrell Worthy",
+    "Evan Livesey",
+    "Tyler Davis"
+  ],
+  "Acknowledgements": "Thanks to the CAPROCK Lab and all who supported us during the collection and writing of this project.",
+  "HowToAcknowledge": "O'Bryan, S.R., Worthy, D.A., Livesey, E.J., & Davis, T. (accepted). Model-based fMRI reveals dissimilarity processes underlying base rate neglect. eLife. ",
+  "Funding": "Start-up funds to Tyler Davis",
+  "ReferencesAndLinks": [
+    "https://www.researchgate.net/profile/Tyler_Davis7/publication/322852257_Model-based_fMRI_Reveals_Dissimilarity_Processes_Underlying_Base_Rate_Neglect/links/5a729e9a0f7e9b20d48e19bc/Model-based-fMRI-Reveals-Dissimilarity-Processes-Underlying-Base-Rate-Neglect.pdf",
+    "https://www.biorxiv.org/content/biorxiv/early/2017/11/29/130716.full.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001302.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Runabout: A mobile EEG study of auditory oddball processing in laboratory and real-world conditions",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Magnus Liebherr",
+    "Andrew W. Corcoran",
+    "Phillip M. Alday",
+    "Scott Coussens",
+    "Valeria Bellan",
+    "Caitlin A. Howlett",
+    "Maarten A. Immink",
+    "Mark Kohler",
+    "Matthias Schlesewsky",
+    "Ina Bornkessel-Schlesewsky"
+  ],
+  "Acknowledgements": "AWC and CAH are supported by Australian Government Research Training Program (RTP) scholarships. IBS acknowledges the support of an Australian Research Council Future Fellowship (FT160100437). This research was funded by the University of South Australia under the Research Themes Investment Scheme. We would also like to thank the undergraduate students in course BEHL 3021 ('Cognitive Neuroscience') at the University of South Australia who participated in this study and helped with data collection as part of their class project.",
+  "HowToAcknowledge": "In addition to citing this OpenNeuro dataset, please cite the accompanying manuscript (linked below).",
+  "Funding": [
+    "FT160100437"
+  ],
+  "ReferencesAndLinks": [
+    "Liebherr, Corcoran, et al. (2021). EEG and behavioral correlates of attentional processing while walking and navigating naturalistic environments. Sci Rep 11, 22325. doi: 10.1038/s41598-021-01772-8"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003620.v1.1.1",
+  "EthicsApprovals": [
+    "0000034991"
+  ],
+  "DatasetType": "study"
+}

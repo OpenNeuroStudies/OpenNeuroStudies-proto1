@@ -1,0 +1,21 @@
+{
+  "ReferencesAndLinks": [
+    "Horikawa, T., Cowen, A.S., Keltner, D., Kamitani, Y., The neuralrepresentation of visually evoked emotion is high-dimensional, categorical, and distributed acrosstransmodal brain regions, ISCIENCE (2020), doi: https://doi.org/10.1016/j.isci.2020.101060"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds002425.v1.0.2",
+  "Funding": [
+    "This research was supported by grants from the New Energy and Industrial Technology Development Organization (NEDO); Tateishi Science and Technology Foundation; JSPS KAKENHI Grant number JP15H05710, JP15H05920, and JP17K12771; JST CREST Grant Number JPMJCR18A5; and JST PRESTO Grant Number JPMJPR185B Japan."
+  ],
+  "Name": "The neural representation of visually evoked emotion is high-dimensional, categorical, and distributed across transmodal brain regions",
+  "License": "CC0",
+  "Authors": [
+    "Tomoyasu Horikawa",
+    "Alan S. Cowen",
+    "Dacher Keltner",
+    "Yukiyasu Kamitani"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "DatasetType": "study"
+}

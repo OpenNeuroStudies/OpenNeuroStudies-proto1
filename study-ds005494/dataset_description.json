@@ -1,0 +1,15 @@
+{
+  "Name": "Cued Recall of Paired Associates with Open-Loop Stimulation at Encoding or Retrieval",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Haydn G. Herrema",
+    "Michael J. Kahana"
+  ],
+  "Funding": [
+    "DARPA RAM: N66001-14-2-4032"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Mayo Clinic, NIH NINDS.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005494.v1.0.1"
+}

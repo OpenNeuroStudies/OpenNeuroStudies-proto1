@@ -1,0 +1,26 @@
+{
+  "Name": "Dataset of EEG recordings of pediatric patients with epilepsy based on the 10-20 system ",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Dorottya Cserpan",
+    "Ece Boran",
+    "Richard Rosch",
+    "San Pietro Lo Biundo",
+    "Georgia Ramantani",
+    "Johannes Sarnthein"
+  ],
+  "Acknowledgements": "We thank C. Carosio, L. Glaser, P. Hieber, and G. Selmin for their assistance with EEG recordings and data analysis and V. Dimakopoulos for fruitful discussions.",
+  "HowToAcknowledge": "Please cite this paper: to be filled when DOI confirmed",
+  "Funding": [
+    "Swiss National Science Foundation (CRSK-3_190895 to G.R. and J.S.). "
+  ],
+  "EthicsApprovals": [
+    "Kantonale Ethikkommission Z\u00fcrich ( KEK-ZH PB-2016-02055)"
+  ],
+  "ReferencesAndLinks": [
+    "TBD"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003555.v1.0.1"
+}

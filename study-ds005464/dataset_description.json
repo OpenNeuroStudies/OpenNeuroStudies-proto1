@@ -1,0 +1,21 @@
+{
+  "Name": "Priority",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Wangjing Yu",
+    "Asieh Zadbood",
+    "Avi J. H. Chanales",
+    "Lila Davachi"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite this dataset and our article. Thank you!",
+  "Funding": [
+    "National Institutes of Health grant R01-MH0746492"
+  ],
+  "ReferencesAndLinks": [
+    "Yu, W., Zadbood, A., Chanales, A. J. H., & Davachi, L. (2024). Repetition dynamically and rapidly increases cortical, but not hippocampal, offline reactivation. Proceedings of the National Academy of Sciences, 121(40), e2405929121. https://doi.org/10.1073/pnas.2405929121"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005464.v1.0.1"
+}

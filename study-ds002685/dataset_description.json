@@ -1,0 +1,21 @@
+{
+  "Acknowledgements": "We first thank Juan-Jesus Torre and Swetha Shankar for preparing and running some of the acquisitions.  We also wish to thank Alexis Amadon for the set-up of MRI sequences, Chantal Ginisty, Severine Becuwe, and Severine Roger for running MRI acquisitions while tracking all possible artifacts and for their help in all experimental procedures.  Thanks also to Isabelle Denghien for helping in task set-up and video annotations, to Torsten Ruest for the set up of HCP tasks and pilot acquisitions; thanks to Murielle Fabre and Christophe Pallier for the RSV Language task design, and to Philippe Pinel for the ARCHI task design.  Many thanks to Laurence Laurier, Veronique Joly-Testault, and Gaelle Mediouni-Cloarec for participant handling, to Christine Double for recruitment and communication with participants, to Ludivine Monassier for participant screening and to Bernadette Martins for careful follow-up of legal and safety procedures.  Thanks to Elvis Dohmatob for help in data processing, to Evelyn Eger, Stanislas Dehaene and Gael Varoquaux for their thoughtful advice on study design and analysis. \n And we specially thank the 13 volunteers who accepted to participate in that challenging study with many MRI repeated scans over a long period of time.",
+  "BIDSVersion": "1.10.1",
+  "ReferencesAndLinks": [
+    "Pinho AL, Amadon A, Ruest T, Fabre M, Dohmatob E, Denghien I, Ginisty C, Becuwe-Desmidt S, Roger S, Laurier L, Joly-Testault V, Mediouni-Cloarec G, Double C, Martins B, Pinel P, Eger E, Varoquaux G, Pallier C, Dehaene S, Hertz-Pannier L, Thirion B. Individual Brain Charting, a high-resolution fMRI dataset for cognitive mapping. Sci Data. 2018 Jun 12;5:180105."
+  ],
+  "Funding": [
+    "720270 (Human Brain Project SGA1)",
+    " 785905 (Human Brain Project SGA2)"
+  ],
+  "Name": "IBC",
+  "HowToAcknowledge": "Please cite the paper in ReferencesAndLinks",
+  "DatasetDOI": "10.18112/openneuro.ds002685.v1.3.1",
+  "License": "CC0",
+  "Authors": [
+    "Ana Luisa Grilo Pinho",
+    "Lucie Hertz-Pannier",
+    "Bertrand Thirion"
+  ],
+  "DatasetType": "study"
+}

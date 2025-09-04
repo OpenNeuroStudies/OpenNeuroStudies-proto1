@@ -1,0 +1,31 @@
+{
+  "Name": "Michigan Longitudinal Study",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Michael I. Demidenko",
+    "Ryan Klaus",
+    "Mary Soules",
+    "Mary M. Heitzeg"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Funding: R01AA012217 (link: https://reporter.nih.gov/project-details/8896367)",
+    "Upload/preprocessing: National Institute on Drug Abuse (NIDA): F32DA055334 (link: https://reporter.nih.gov/project-details/10525501)"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "OpenNeuroIncludedOutputs": [
+    "fMRIPrep v23.1.4: reward - volumetric + surface",
+    "MRIQC v23.1.0: reward",
+    "task summarise - behavioral summaries in json an png files"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005027.v1.0.3",
+  "Acknowledgements": "Thanks to the Participants at University of Michigan, and Dr. Mary Heitzeg for agreeing to share the Michigan Longitudinal Study (MLS; R01HD075806) data for this project. Thanks to Mary Soules and Ryan Klaus (with assistance from Krisanne Litinas) at the University of Michigan for working to convert the MLS data to BIDS format and sharing these derivatives.",
+  "EthicsApprovals": [
+    "Participants Consent was Acquired Consistent with the Approved IRB Protocol"
+  ],
+  "DatasetType": "study"
+}

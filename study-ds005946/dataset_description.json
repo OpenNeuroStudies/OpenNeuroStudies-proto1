@@ -1,0 +1,29 @@
+{
+  "Authors": [
+    "Federico Frau",
+    "Paolo Canal",
+    "Maddalena Bressler",
+    "Chiara Pompei",
+    "Valentina Bambini"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "The study was approved by the Ethics Committee of the Department of Brain and Behavioral Sciences of the University of Pavia (protocol number 123/2023)."
+  ],
+  "Funding": [
+    "This work received support from the European Research Council under the EU\u2019s Horizon Europe program ERC Consolidator Grant \u201cPROcessing MEtaphors: Neurochronometry Acquisition and Decay (PROMENADE)\u201d [101045733]."
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "20241025",
+      "Description": "data2bids converter",
+      "CodeURL": "https://github.com/fieldtrip/fieldtrip/blob/release/data2bids.m",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "License": "CC0",
+  "Name": "ERC_CoG PROMENADE - WP2 - MetaImagery (Metaphor and Mental Imagery)",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005946.v1.0.1"
+}

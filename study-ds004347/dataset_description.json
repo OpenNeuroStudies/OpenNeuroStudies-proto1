@@ -1,0 +1,16 @@
+{
+  "Name": "Symmetry perception and affective responses: a combined EEG/EMG study",
+  "Authors": [
+    "Makin, A. D. J",
+    "Wilton, M. M",
+    "Pecchinenda, A.",
+    "Bertamini, M."
+  ],
+  "ReferencesAndLinks": [
+    "10.1016/j.neuropsychologia.2012.10.003"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004347.v1.0.0",
+  "DatasetType": "study"
+}

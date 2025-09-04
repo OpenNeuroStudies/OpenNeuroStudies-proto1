@@ -1,0 +1,28 @@
+{
+  "Name": "Natural Dialogue fMRI Dataset",
+  "License": "CC0",
+  "Authors": [
+    "Masahiro Yamashita",
+    "Rieko Kubo",
+    "Shinji Nishimoto"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "ERATO JPMJER1801",
+    "CREST JPMJCR18A5",
+    "MIRAI JPMJMI19D1",
+    "AIP JPMJCR24U2",
+    "JSPS JP23H05493 and JP24H00619"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41562-025-02231-4",
+    "https://github.com/yamashita-lang/dialogue"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004669.v2.0.2",
+  "BIDSVersion": "1.10.1",
+  "EthicsApprovals": [
+    "The Ethics and Safety Committee of the National Institute of Information and Communications Technology, Osaka, Japan, approved the experimental protocol, and all participants provided written informed consent."
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Author": [
+    "Mario Mascalchi"
+  ],
+  "License": "Creative Commons Attribution 4.0 International (CC-BY 4.0)",
+  "Name": "SCA2 Diffusion Tensor Imaging",
+  "Authors": [
+    "Mario Mascalchi"
+  ],
+  "HowToAcknowledge": "Mascalchi M, Marzi C, Giannelli M, Ciulli S, Bianchi A, Ginestroni A, Tessa C, Nicolai E, Aiello M, Salvatore E, Soricelli A, Diciotti S. DTI histogram analysis reveals progression of pontocerebellar degeneration in SCA2. DOI: 10.1371/journal.pone.0200258\n",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "",
+  "DatasetType": "study"
+}

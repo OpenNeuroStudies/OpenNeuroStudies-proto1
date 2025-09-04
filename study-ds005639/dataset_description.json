@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "We thank Pablo Velasco and the rest of the NYU CBI (Center for Brain Imaging) personnel for preparing the BIDS dataset. TODO: whom else you want to acknowledge",
+  "Authors": [
+    "Jan Kurzawski",
+    "Brenda S. Qiu",
+    "Najib J. Majaj",
+    "Noah Benson",
+    "Denis Pelli",
+    "Jonathan Winawer"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005639.v1.0.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Human V4 size predicts crowding distance",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "HEAD",
+  "BIDSVersion": "1.10.1",
+  "Name": "Offline Processing in Associative Learning",
+  "License": "PPDL",
+  "Authors": [
+    "James K. Bursley",
+    "Adrian Nestor",
+    "Michael J. Tarr",
+    "J. David Creswell"
+  ],
+  "Acknowledgements": "We would like to thank the members of the Health and Human Performance Laboratory at Carnegie Mellon University, J. Pyles, and R. Buckner for help and feedback and D. Palka and E. Adair for creating the stimuli. We are also grateful to the staff at the Scientific Imaging and Brain Research (SIBR) Center at Carnegie Mellon University.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000168",
+  "Funding": [
+    "This project was supported by a Rothberg Research Award in Human Brain Imaging awarded to J.K.B. and J.D.C."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4847934/"
+  ],
+  "DatasetType": "study"
+}

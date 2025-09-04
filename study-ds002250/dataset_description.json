@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "When my wrongs are worse than yours: behavioral and neural asymmetries in first-person and third-person perspectives of accidents",
+  "Authors": [
+    "Joshua Hirschfeld-Kroen",
+    "Emily Wasserman",
+    "Stefano Anzellotti",
+    "Liane Young"
+  ],
+  "Funding": [
+    "This work was supported by the John Templeton Foundation and the National Science Foundation"
+  ],
+  "ReferencesAndLinks": [],
+  "Acknowledgments": "The authors thank Minjae Kim, Ryan McManus, BoKyung Park, Justin Martin, Gordon Kraft-Todd, Kevin Jiang, and other members of the Boston College Morality Lab for their helpful feedback. ",
+  "DatasetDOI": "10.18112/openneuro.ds002250.v1.0.1",
+  "DatasetType": "study"
+}

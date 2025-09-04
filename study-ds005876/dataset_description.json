@@ -1,0 +1,22 @@
+{
+  "Name": "Song Familiarity",
+  "Authors": [
+    "Jared R. Girard",
+    "Aaron M. Bishop",
+    "Cameron D. Hassall"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005876.v1.0.1",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "9.0"
+    }
+  ],
+  "DatasetType": "study"
+}

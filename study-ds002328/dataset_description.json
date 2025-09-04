@@ -1,0 +1,13 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "FSL open science dev dataset",
+  "ReferencesAndLinks": [
+    "https://fsl.fmrib.ox.ac.uk"
+  ],
+  "Authors": [
+    "Taylor Hanayik"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002328.v1.0.2",
+  "DatasetType": "study"
+}

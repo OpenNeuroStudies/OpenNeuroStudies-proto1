@@ -1,0 +1,20 @@
+{
+  "Name": "Pupil mimicry promotes trust through the theory-of-mind network",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Eliska Prochazkova",
+    "Luisa Prochazkova",
+    "Michael Rojek Giffin",
+    "Steven Scholte",
+    "Carsten de Dreu",
+    "Mariska Kret"
+  ],
+  "ReferencesAndLinks": [
+    "Prochazkova, E., Prochazkova, L., Giffin, M. R., Scholte, H. S., De Dreu, C. K., & Kret, M. E. (2018). Pupil mimicry promotes trust through the theory-of-mind network. Proceedings of the National Academy of Sciences, 115(31), E7265-E7274."
+  ],
+  "DatasetDOI": "10.1073/pnas.1803916115",
+  "Funding": "Funding Research was supported by the Netherlands Science Foundation VENI 016-155- 082 (to M.E.K.) and Talent Grant 406-15-026 from Nederlandse Organisatie voor Wetenschappelijk Onderzoek (to M.E.K. and E.P.), and an Affect Regulation grant (to C.K.W.D.D.). This study was further funded by the Brain and Cognition Research Priority Program of the University of Amsterdam.",
+  "HowToAcknowledge": " While not legally required, we hope that all users \\nof the data will acknowledge the OpenfMRI project and Netherlands Science Foundation VENI 016-155- 082 (to M.E.K.) in any publications.\",",
+  "License": "CC0",
+  "DatasetType": "study"
+}

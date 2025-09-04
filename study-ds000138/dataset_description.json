@@ -1,0 +1,21 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Spinal fMRI reveals decreased descending inhibition during secondary mechanical hyperalgesia",
+  "License": "PDDL",
+  "Authors": [
+    "Rempe T",
+    "Wolff S",
+    "Riedel C",
+    "Baron R",
+    "Stroman PW",
+    "Jansen O",
+    "Gierthmuhlen J"
+  ],
+  "Acknowledgements": "We are indebted to the subjects who participated in the study for their consent and co-operation.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000138",
+  "Funding": "The study was supported by the German Federal Ministry of Education and Research (BMBF, 01EM05/04). However, the authors received no specific funding for this work. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/25372292"
+  ],
+  "DatasetType": "study"
+}

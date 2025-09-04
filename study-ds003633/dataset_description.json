@@ -1,0 +1,21 @@
+{
+  "Name": " ForrestGump-MEG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Xingyu Liu",
+    "Yuxuan Dai",
+    "Hailun Xie",
+    "Zonglei Zhen"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We would like to thank the team of  the *studyforrest* project for their great contribution in acquiring and sharing the *studyforrest* dataset (https://openneuro.org/datasets/ds000113/versions/1.3.0). ",
+  "Funding": [
+    "National Key R&D Program of China (Grant No. 2019YFA0709503)",
+    "National Natural Science Foundation of China (Grant No. 31771251)"
+  ],
+  "EthicsApprovals": [
+    "Institutional Review Board of the Faculty of Psychology, Beijing Normal University"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003633.v1.0.3"
+}

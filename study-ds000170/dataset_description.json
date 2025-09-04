@@ -1,0 +1,19 @@
+{
+  "Name": "Learning and memory: motor skill consolidation and intermanual transfer",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Ella Gabitov",
+    "David Manor",
+    "Avi Karni"
+  ],
+  "Acknowledgements": "E.G. was partially supported by a fellowship from the E. J. Safra Brain Research Center for the Study of Learning Disabilities. The research leading to these results has received funding from the European Union Seventh Framework Program (FP7/2007-2013) under grant agreement no. 604102 (Human Brain Project). We thank Tammi Kushnir, Ph.D., director of research at the C. Sheba Medical Center, for her technical and administrative support.",
+  "HowToAcknowledge": "",
+  "Funding": "E.G. was partially supported by a fellowship from the E. J. Safra Brain Research Center for the Study of Learning Disabilities. The research leading to these results has received funding from the European Union Seventh Framework Program (FP7/2007-2013) under grant agreement no. 604102 (Human Brain Project).",
+  "ReferencesAndLinks": [
+    "Gabitov, E., Manor D., and Karni, A. (2015). Patterns of modulation in the activity and connectivity of motor cortex during the repeated generation of movement sequences. Journal of Cognitive Neuroscience, 27(4), 736 \u2013 751.",
+    "Gabitov, E., Manor D., and Karni, A. (2014). Done that: short-term repetition related modulations of motor cortex activity as a stable signature for overnight motor memory consolidation. Journal of Cognitive Neuroscience, 26(12), 2716 \u2013 2734.",
+    "Gabitov, E., Manor D., Karni A. (2015). Learning from the other limb's experience: Sharing the \"Trained\" M1's representation of the motor sequence knowledge. The Journal of Physiology, 594(1), 169 \u2013 188."
+  ],
+  "DatasetType": "study"
+}

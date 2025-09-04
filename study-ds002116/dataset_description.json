@@ -1,0 +1,18 @@
+{
+  "Name": "Development of Symbolic Number Processing",
+  "License": "CC0",
+  "Authors": [
+    "Celia Goffin",
+    "Michael Slipenkyj",
+    "Stephan E. Vogel",
+    "Daniel Ansari"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This work was supported by funding from the Canadian Institutes of Health Research (CIHR), The National Sciences and Engineering Research Council of Canada (NSERC), Canada Research Chairs program (CRC) and an Advanced Research Fellowship from the Klaus J. Jacobs Foundation to Daniel Ansari as well as an NSERC Doctoral Scholarship to Celia Goffin. We are grateful for the support provided by the Canada First Research Excellence Fund to BrainsCAN award for fees associated with the acquisition of the fMRI data."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002116.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,28 @@
+{
+  "Authors": [
+    "Nestor Zaragoza-Jimenez",
+    "Hauke Niehaus",
+    "Ina Thome",
+    "Christoph Vogelbacher",
+    "Gabriele Ende",
+    "Inge Kamp-Becker",
+    "Dominik Endres",
+    "Andreas Jansen"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004529.v1.1.1",
+  "Funding": [
+    "This work was supported by the German Research Council (Deutsche Forschungsgemeinschaft, DFG, project number 417284407)."
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Modeling Face Recognition in the Predictive Coding Framework: \nA Combined Computational Modeling and Functional Imaging Study - Stage 2",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.17605/OSF.IO/A8VU7",
+    "https://osf.io/tye24/"
+  ],
+  "EthicsApprovals": [
+    "Approved by the local ethics committee of the Medical Faculty of the University of Marburg"
+  ],
+  "DatasetType": "study"
+}

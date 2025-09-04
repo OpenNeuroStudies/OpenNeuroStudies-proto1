@@ -1,0 +1,15 @@
+{
+  "Authors": [
+    "Christopher Stolz",
+    "Alan Pickering",
+    "Erik M. Mueller"
+  ],
+  "Name": "Reward gain and punishment avoidance reversal learning",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004295.v1.0.0",
+  "DatasetType": "study"
+}

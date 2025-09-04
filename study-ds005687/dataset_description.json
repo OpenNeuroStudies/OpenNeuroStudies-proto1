@@ -1,0 +1,42 @@
+{
+  "Name": "2016GinRatAnesth",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "G JPC BECQ",
+    "S ACHARD",
+    "E L BARBIER"
+  ],
+  "Acknowledgments": "Irmage, UGA",
+  "HowToAcknowledge": "Please cite this paper: BECQ, Guillaume JPC, HABET, Tarik, COLLOMB, Nora, et al. Functional connectivity is preserved but reorganized across several anesthetic regimes. NeuroImage, 2020, vol. 219, p. 116945. https://doi.org/10.1016/j.neuroimage.2020.116945",
+  "Funding": [
+    "French program Investissement d'Avenir run by the French National Research Agency grant Infrastructure d'avenir en Biologie Sant\u00e9 [ANR-11-INBS-0006]",
+    "Neurocog IDEX UGA in the framework of the Investissements d'avenir program [ANR-15-IDEX-02]",
+    "Q-Func Advances spatiotemporal statistical models for quantification and estimation of functional connectivity [NSF grant IIS-2135859] "
+  ],
+  "EthicsApprovals": [
+    "All experiments were approved by the local ethics committee and were performed in full compliance with the guidelines of the European community (EUVD 86/609/EEC) for the care and use of the laboratory animals, under permits from the French Ministry of Agriculture (number 380820 for EB and B3851610008 for experimental and animal care facility of the Grenoble Institute of Neurosciences, a Specific Pathogen Free (SPF) house facility, and comply with the ARRIVE guidelines (Kilkenny et al.2010). "
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2020.116945",
+    "https://doi.org/10.1088/1741-2552/ab9fec",
+    "https://doi.org/10.1007/s11222-024-10411-x"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "sourcedata",
+      "Description": "acquisition setups described in https://doi.org/10.1016/j.neuroimage.2020.116945, and codes for data and metadata preparation given in ./code"
+    }
+  ],
+  "DatasetLinks": {
+    "sourcedata": "sourcedata"
+  },
+  "SourceDatasets": [
+    {
+      "URL": "bids:sourcedata:"
+    }
+  ],
+  "Acknowledgements": "Irmage, UGA",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005687.v1.0.0"
+}

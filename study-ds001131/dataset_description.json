@@ -1,0 +1,18 @@
+{
+  "Name": "Milky-Vodka",
+  "License": "CC0",
+  "Authors": [
+    "Yeshurun, Y.",
+    "Nguyen, M.",
+    "Hasson, U."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (1R01MH112357-01 and 1R01MH112566-01)",
+  "ReferencesAndLinks": [
+    "http://www.pnas.org/content/114/35/9475.short"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001131.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

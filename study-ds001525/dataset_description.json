@@ -1,0 +1,18 @@
+{
+  "Name": "Syllable level speech sequencing",
+  "License": "CC0",
+  "Authors": [
+    "Feng Rong",
+    "A. Lisette Isenberg",
+    "Erica Sun",
+    "Gregory S. Hickok"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (NIDCD R01 DC009659)",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001525.v1.1.1",
+  "BIDSVersion": "1.10.1",
+  "ReferensesAndLinks": "Rong F, Isenberg AL, Sun E, Hickok GS (2018) The Neuroanatomy of Speech Sequencing at the Syllable Level. PLoS ONE",
+  "DatasetType": "study"
+}

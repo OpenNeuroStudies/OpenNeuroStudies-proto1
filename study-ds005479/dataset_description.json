@@ -1,0 +1,27 @@
+{
+  "Name": "Monetary Incentive Delay task - structural and functional images of 37 men; study of associations between circadian characteristics (eveningness, distinctness) and affective processing",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Patrycja Scislewska",
+    "Michal Rafal Zareba",
+    "Julia Lengier",
+    "Aaron Schirmer",
+    "Piotr Bebas",
+    "Iwona Szatkowska"
+  ],
+  "Acknowledgements": "Special thanks to Laboratory of Brain Imaging, Nencki Institute of Experimental Biology, Polish Academy of Sciences for assistance with MRI data collection.",
+  "HowToAcknowledge": "Please cite this paper: to be added",
+  "Funding": [
+    "This research was funded by the Ministry of Science and Higher Education (Poland) as a project under the program Excellence Initiative \u2013 Research University (2020\u20132026), decision no.: BOB-IDUB-622-28/2023 (IV.4.1.)."
+  ],
+  "EthicsApprovals": [
+    "The described protocol was approved by Rector's Committee for the Ethics of Research Involving Human Participants at the University of Warsaw (decision no. 230/2023) and was performed in accordance with the Declaration of Helsinki (World Medical Association, 2008)."
+  ],
+  "ReferencesAndLinks": [
+    "to be added"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005479.v1.1.0",
+  "HEDVersion": "8.0.0"
+}

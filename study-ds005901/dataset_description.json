@@ -1,0 +1,27 @@
+{
+  "Name": "Structural and functional MRI dataset from the Adolescent Health and Development in Context (AHDC) study in Columbus, Ohio",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Baldwin M. Way",
+    "Christopher R. Browning",
+    "Dylan D. Wagner",
+    "Jodi L. Ford",
+    "Bethany Boettner",
+    "Ping Bai"
+  ],
+  "Acknowledgements": "We are grateful to the participants who made this data possible as well as the team who helped collect it, including, but not limited to (in alphabetical order): Ping Bai, Daniel Berman, Zoey Butka, Charlie Ferris, Kathryn Jenkins, Stephen Suss, Kendra Wilson, and Angela Xie.",
+  "HowToAcknowledge": "Please cite this paper: to be added",
+  "Funding": [
+    "NIH National Institutes on Drug Abuse (R01DA042080, R01DA032371, and R21DA034960); Eunice Kennedy Shriver National Institute on Child Health and Human Development (R03HD096182, R01HD088545); the Ohio State University Institute for Population Research, 2P2CHD058484; William T. Grant Foundation"
+  ],
+  "EthicsApprovals": [
+    "The Ohio State Behavioral and Social Sciences Institutional Review Board (2010B0369) and the Ohio State University Biomedical Sciences Institutional Review Board (2017H0096)"
+  ],
+  "ReferencesAndLinks": [
+    "Please see the beginning of the README for a list of references."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005901.v1.0.0",
+  "HEDVersion": "8.0.0"
+}

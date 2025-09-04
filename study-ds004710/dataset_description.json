@@ -1,0 +1,27 @@
+{
+  "Name": "Next Generation MRI scanner designed for ultra-high resolution human brain imaging at 7-Tesla",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "David A Feinberg",
+    "Alexander JS Beckett",
+    "An T VU"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "EthicsApprovals": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004710.v1.1.0"
+}

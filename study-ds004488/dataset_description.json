@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "This research was supported by a Key Program of National Natural Science Foundation of China (#62236001) and a General Program of National Natural Science Foundation of China (#31771251). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication. We also appriciate Xiayu Chen, Yajie Zhang, Guangyu Deng, Junyi Wang and other lab colleagues for asistance in data collecting and software maintaining.",
+  "Authors": [
+    "Ming Zhou",
+    "Zhengxin Gong",
+    "Yuxuan Dai",
+    "Yushan Wen",
+    "Zonglei Zhen"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004488.v1.0.0",
+  "Funding": [
+    "Key Program of National Natural Science Foundation of China (62236001)",
+    "General Program of National Natural Science Foundation of China (31771251)"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "A large-scale fMRI dataset for human action recognition",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

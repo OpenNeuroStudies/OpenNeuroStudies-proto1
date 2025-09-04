@@ -1,0 +1,16 @@
+{
+  "Name": "A dataset recording joint EEG-fMRI during affective music listening ",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Ian Daly",
+    "Nicoletta Nicolaou",
+    "Duncan Williams",
+    "Faustina Hwang",
+    "Alexis Kirke",
+    "Eduardo Miranda",
+    "Slawomir J. Nasuto"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002725.v1.0.0",
+  "DatasetType": "study"
+}

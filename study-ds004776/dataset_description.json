@@ -1,0 +1,31 @@
+{
+  "Acknowledgements": "Thanks to Paul Wighton for curating this dataset",
+  "Authors": [
+    "Katyucia de Macedo Rodrigues",
+    "Emma Ben-Avi",
+    "Danielle D. Sliva",
+    "Myong-sun Choe",
+    "Marie Drottar",
+    "Ruopeng Wang",
+    "Bruce Fischl",
+    "Patricia E. Grant",
+    "Lilla Z\u00f6llei"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004776.v1.0.0",
+  "Funding": [
+    "1K99HD061485-01A1",
+    "R00HD061485-03",
+    "3R01HD093578-03S1",
+    "R01HD085813"
+  ],
+  "HowToAcknowledge": "de Macedo Rodrigues, K., Ben-Avi, E., Sliva, D.D., Choe, M.S., Drottar, M., Wang, R., Fischl, B., Grant, P.E. and Z\u00f6llei, L., 2015. A FreeSurfer-compliant consistent manual segmentation of infant brains spanning the 0\u20132 year age range. Frontiers in human neuroscience, 9, p.21. doi.org/10.3389/fnhum.2015.00021",
+  "License": "CC0",
+  "Name": "Infant FreeSurfer test subject (CNYBCH)",
+  "ReferencesAndLinks": [
+    "https://surfer.nmr.mgh.harvard.edu/fswiki/infantFS",
+    "doi.org/10.3389/fnhum.2015.00021",
+    "doi.org/10.1016/j.neuroimage.2020.116946"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,29 @@
+{
+  "Name": "PREDYS",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Elisa Gavard",
+    "Valerie Chanoine",
+    "Franziska Geringswald",
+    "Julien Sein",
+    "Bruno Nazarian",
+    "Jean-Luc Anton",
+    "Eddy Cavalli",
+    "Johannes Ziegler"
+  ],
+  "Acknowledgements": "The authors wish to thank Yufei Tan for her help for MRI acquisition for all the 50 subjects, and Leonardo Pinto Arata for his help with the R code for the LMM analysis. The authors also wish to thank all participants for their valuable contributions to this study.",
+  "HowToAcknowledge": "say here how you would like to be acknowledged",
+  "Funding": [
+    "This research has been supported by the French National Research Agency, Grant ANR-18-CE28-0006 DYSuccess (Pi: Cavalli, E), the Institute of Convergence ILCB (ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02). The work that led to this publication has also been supported by AMPIRIC, a center of excellence on research in education and teacher training. Brain imaging was performed in the Center IRM-INT (UMR 7289, AMU-CNRS), platform member of France Life Imaging network (grant ANR-11-INBS-0006). The Centre de Calcul Intensif d'Aix-Marseille is gratefully acknowledged for providing access to its high-performance computing resources."
+  ],
+  "ReferencesAndLinks": [
+    "a data paper",
+    "a resource to be cited when using the data"
+  ],
+  "EthicsApprovals": [
+    "The experiment was conducted in accordance with the Declaration of Helsinki and received ethical approval (filed under Id 2017-A03614-49 from the regional ethical committee, Comit\u00e9 de Protection des Personnes Sud M\u00e9diterran\u00e9e I)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005341.v1.0.0",
+  "DatasetType": "study"
+}

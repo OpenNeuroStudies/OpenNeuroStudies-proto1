@@ -1,0 +1,13 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Visuomotor Rotation Learning and Reward-based motor learning",
+  "Authors": [
+    "Jason Gallivan",
+    "Corson Areshenkoff",
+    "Anouk de Brouwer",
+    "Dan Gale"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005598.v1.0.0",
+  "DatasetType": "study"
+}

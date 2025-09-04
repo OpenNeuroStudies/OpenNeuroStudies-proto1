@@ -1,0 +1,24 @@
+{
+  "Name": "PenaltyKik.02",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Kelsey McDonald",
+    "William Broderick",
+    "Scott Huettel",
+    "John Pearson"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003345.v1.0.2",
+  "License": "CC0",
+  "Acknowledgements": "We are thankful to the staff at Duke\u2019s Brain Imaging Analysis Center (BIAC) for assistance with data collection as well as NIH support (S10 OD 021480) for BIAC\u2019s super computing cluster. The GPU used for this research was donated by the NVIDIA Corporation. We are incredibly grateful to Shariq Iqbal for helpful discussions and key analysis insights. We also thank Dianna Amasino and Sam Dore for early data collection. Research reported in this publication was supported by a BD2K Career Development Award (K01-ES-025442) to J.M.P., an NIMH R01-108627 to S.H., and a National Science Foundation Graduate Research Fellowship under NSF GRFP DGE-1644868 and a Duke Dean\u2019s Graduate Fellowship to K.M.",
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/s41467-019-09789-4#Abs1",
+    "https://academic.oup.com/scan/article/15/4/383/5831854"
+  ],
+  "HowToAcknowledge": "As needed, please feel free to cite McDonald et al., 2019 (for computational modeling of behavior) or McDonald et al., 2020 for the fMRI analysis manuscript.",
+  "Funding": [
+    "BD2K Career Development Award (K01-ES-025442)",
+    "NIMH R01-108627",
+    "NSF GRFP DGE-1644868"
+  ],
+  "DatasetType": "study"
+}

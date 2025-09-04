@@ -1,0 +1,16 @@
+{
+  "Name": "A Probability Distribution over Latent Causes, in the Orbitofrontal Cortex",
+  "License": "",
+  "Authors": [
+    "Chan, S.C.Y., Niv, Y., & Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/a-probability-distribution-over-latent-causes-in-the-orbitofrontal-cortex.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001847.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

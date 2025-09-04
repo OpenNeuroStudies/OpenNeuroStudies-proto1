@@ -1,0 +1,11 @@
+{
+  "Name": "Dissociable neural mechanisms track evidence accumulation for selection of attention versus action",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Shenhav, A., Straccia, M.A., Musslick, S., Cohen, J.D., & Botvinick, M.M."
+  ],
+  "ReferencesAndLinks": [
+    "https://static1.squarespace.com/static/56e19a6d04426223be32a8b9/t/5b3382370e2e72c0a5bc11a4/1530102328055/Shenhav_et_al-2018-Nature_Communications.pdf"
+  ],
+  "DatasetType": "study"
+}

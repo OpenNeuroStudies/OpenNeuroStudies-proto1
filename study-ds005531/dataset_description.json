@@ -1,0 +1,28 @@
+{
+  "Name": "Narrative Movie fMRI Dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Hiroto Q. Yamaguchi",
+    "Naoko Koide-Majima",
+    "Rieko Kubo",
+    "Tomoya Nakai",
+    "Shinji Nishimoto"
+  ],
+  "Acknowledgements": "The authors express their gratitude to Yuko Nakagi, Takuya Matsuyama, Yu Takagi, Naoto Ichikawa and Atsushi Yokoi.",
+  "HowToAcknowledge": "TBA",
+  "Funding": [
+    "MEXT|JSPS KAKENHI JP18H05522",
+    "MEXT|JSPS KAKENHI JP23K20019",
+    "MEXT|JSPS KAKENHI JP24H00619",
+    "JST ERATO JPMJER1801"
+  ],
+  "ReferencesAndLinks": [
+    "Yuko\u00a0Nakagi,\u00a0Takuya\u00a0Matsuyama,\u00a0Naoko\u00a0Koide-Majima,\u00a0Hiroto\u00a0Yamaguchi,\u00a0Rieko\u00a0Kubo,\u00a0Shinji\u00a0Nishimoto,\u00a0and Yu\u00a0Takagi. The Brain Tells a Story: Unveiling Distinct Representations of Semantic Content in Speech, Objects, and Stories in the Human Brain with Large Language Models. BioRxiv\u00a0(2024): 2024-02. https://doi.org/10.1101/2024.02.06.579077"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005531.v1.0.0",
+  "EthicsApprovals": [
+    "The ethics and safety committees of the National Institute of Information and Communications Technology approved the experimental protocol."
+  ],
+  "DatasetType": "study"
+}

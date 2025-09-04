@@ -1,0 +1,13 @@
+{
+  "Name": "ScanTrain",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Arielle Tambini",
+    "Jacob Miller",
+    "Anastasia Kiyonaga",
+    "Mark D'Esposito"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003659.v2.0.0"
+}

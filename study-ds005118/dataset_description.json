@@ -1,0 +1,18 @@
+{
+  "Name": "Weill Cornell Medicine Multi-echo (WCM-ME) Dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Charles J. Lynch",
+    "Conor Liston"
+  ],
+  "HowToAcknowledge": "When using this data, please cite Lynch et al. 2020 Cell Reports",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "https://pubmed.ncbi.nlm.nih.gov/33357444/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005118.v1.0.0",
+  "DatasetType": "study"
+}

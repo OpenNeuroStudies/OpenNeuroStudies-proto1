@@ -1,0 +1,16 @@
+{
+  "Name": "Value generalization in human avoidance learning",
+  "BIDSVersion": "1.10.1",
+  "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/",
+  "Authors": [
+    "Agnes Norbury",
+    "Ben Seymour"
+  ],
+  "Funding": [
+    "The Wellcome Trust"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetType": "study"
+}

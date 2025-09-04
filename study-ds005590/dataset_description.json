@@ -1,0 +1,75 @@
+{
+  "Name": "[18F]SF51, a Novel 18F-labeled PET Radioligand for Translocator Protein 18kDa (TSPO) in Brain, Works Well in Monkeys but Fails in Humans",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Xuefeng Yan",
+    "Fabrice G. Simeon",
+    "Jeih-San Liow",
+    "Cheryl L. Morse",
+    "Susovan Jana",
+    "Jose A. Montero Santamaria",
+    "Madeline Jenkins",
+    "Sami S. Zoghbi",
+    "Victor W. Pike",
+    "Robert B. Innis",
+    "Paolo Zanotti-Fregnara"
+  ],
+  "Acknowledgements": "The authors thank the NIH Clinical Center PET Department and the clinical staff of the Molecular Imaging Branch of the NIMH for help in completing the studies, and Ioline D. Henter (NIMH) for invaluable editorial assistance.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "ZIAMH002852",
+    "ZIAMH002793"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the National Institutes of Health (NIH) Combined Neurosciences Institutional Review Board (protocol number: 000674; ClinicalTrials.gov identifier: NCT05564429), in accordance with the Declaration of Helsinki. All participants provided written informed consent prior to enrollment in the study."
+  ],
+  "ReferencesAndLinks": [
+    "1. Notter T, Coughlin JM, Sawa A, et al. Reconceptualization of translocator protein as a biomarker of neuroinflammation in psychiatry. Mol Psychiatry 2018; 23: 36-47.",
+    "2. Lee JW, Nam H and Yu SW. Systematic analysis of translocator protein 18 kDa (TSPO) ligands on toll-like receptors-mediated pro-inflammatory responses in microglia and astrocytes. Exp Neurobiol 2016; 25: 262-268.",
+    "3. Kim S, Kim N, Park S, et al. Tanycytic TSPO inhibition induces lipophagy to regulate lipid metabolism and improve energy balance. Autophagy 2020; 16: 1200-1220.",
+    "4. Rupprecht R, Wetzel CH, Dorostkar M, et al. Translocator protein (18kDa) TSPO: a new diagnostic or therapeutic target for stress-related disorders? Mol Psychiatry 2022; 27: 2918-2926. ",
+    "5.\tWerry EL, Bright FM, Piguet O, et al. Recent developments in TSPO PET imaging as a biomarker of neuroinflammation in neurodegenerative disorders. Int J Mol Sci 2019; 20: 3161.",
+    "6.\tZinnhardt B, M\u00fcther M, Roll W, et al. TSPO imaging-guided characterization of the immunosuppressive myeloid tumor microenvironment in patients with malignant glioma. Neuro Oncol 2020; 22: 1030-1043.",
+    "7.\tQuach S, Holzgreve A, Kaiser L, et al. TSPO PET signal using [(18)F]GE180 is associated with survival in recurrent gliomas. Eur J Nucl Med Mol Imaging 2023; 50: 859-869.",
+    "8.\tNutma E, Gebro E, Marzin MC, et al. Activated microglia do not increase 18\u2009kDa translocator protein (TSPO) expression in the multiple sclerosis brain. Glia 2021; 69: 2447-2458.",
+    "9.\tOwen DR, Narayan N, Wells L, et al. Pro-inflammatory activation of primary microglia and macrophages increases 18\u2009kDa translocator protein expression in rodents but not humans. J Cereb Blood Flow Metab 2017; 37: 2679-2690.",
+    "10.\tNutma E, Fancy N, Weinert M, et al. Translocator protein is a marker of activated microglia in rodent models but not human neurodegenerative diseases. Nat Commun 2023; 14: 5247.",
+    "11.\tKreisl WC, Kim MJ, Coughlin JM, et al. PET imaging of neuroinflammation in neurological disorders. Lancet Neurol 2020; 19: 940-950.",
+    "12.\tZanotti-Fregonara P, Zhang Y, Jenko KJ, et al. Synthesis and evaluation of translocator 18 kDa protein (TSPO) positron emission tomography (PET) radioligands with low binding sensitivity to human single nucleotide polymorphism rs6971. ACS Chem Neurosci 2014; 5: 963-971.",
+    "13.\tIkawa M, Lohith TG, Shrestha S, et al. 11C-ER176, a radioligand for 18-kDa translocator protein, has adequate sensitivity to robustly image all three affinity genotypes in human brain. J Nucl Med 2017; 58: 320-325.",
+    "14.\tFujita M, Kobayashi M, Ikawa M, et al. Comparison of four (11)C-labeled PET ligands to quantify translocator protein 18 kDa (TSPO) in human brain: (R)-PK11195, PBR28, DPA-713, and ER176-based on recent publications that measured specific-to-non-displaceable ratios. EJNMMI Res 2017; 7: 84.",
+    "15.\tOwen DR, Yeo AJ, Gunn RN, et al. An 18-kDa translocator protein (TSPO) polymorphism explains differences in binding affinity of the PET radioligand PBR28. J Cereb Blood Flow Metab 2012; 32: 1-5.",
+    "16.\tYan X, Sim\u00e9on FG, Liow JS, et al. In vivo evaluation of a novel (18)F-labeled PET radioligand for translocator protein 18 kDa (TSPO) in monkey brain. Eur J Nucl Med Mol Imaging 2023; 50: 2962-2970.",
+    "17.\tLee JH, Liow JS, Paul S, et al. PET quantification of brain O-GlcNAcase with [(18)F]LSN3316612 in healthy human volunteers. EJNMMI Res 2020; 10: 20.",
+    "18.\tZoghbi SS, Shetty HU, Ichise M, et al. PET imaging of the dopamine transporter with 18F-FECNT: a polar radiometabolite confounds brain radioligand measurements. J Nucl Med 2006; 47: 520-527.",
+    "19.\tGandelman MS, Baldwin RM, Zoghbi SS, et al. Evaluation of ultrafiltration for the free-fraction determination of single photon emission computed tomography (SPECT) radiotracers: beta-CIT, IBF, and iomazenil. J Pharm Sci 1994; 83: 1014-1019.",
+    "20.\tZanotti-Fregonara P, Lammertsma AA and Innis RB. Suggested pathway to assess radiation safety of \u00b9\u2078F-labeled PET tracers for first-in-human studies. Eur J Nucl Med Mol Imaging 2013; 40: 1781-1783.",
+    "21.\tZanotti-Fregonara P, Lammertsma AA and Innis RB. (11)C dosimetry scans should be abandoned. J Nucl Med 2021; 62: 158-159.",
+    "22.\tKobayashi M, Jiang T, Telu S, et al. (11)C-DPA-713 has much greater specific binding to translocator protein 18\u2009kDa (TSPO) in human brain than (11)C-( R)-PK11195. J Cereb Blood Flow Metab 2018; 322.\tKobayashi M, Jiang T, Telu S, et al. (11)C-DPA-713 has much greater specific binding to translocator protein 18\u2009kDa (TSPO) in human brain than (11)C-( R)-PK11195. J Cereb Blood Flow Metab 2018; 38: 393-403.8: 393-403.",
+    "23.\tZanotti-Fregonara P, Barth VN, Liow JS, et al. Evaluation in vitro and in animals of a new 11C-labeled PET radioligand for metabotropic glutamate receptors 1 in brain. Eur J Nucl Med Mol Imaging 2013; 40: 245-253.",
+    "24.\tZanotti-Fregonara P, Barth VN, Zoghbi SS, et al. 11C-LY2428703, a positron emission tomographic radioligand for the metabotropic glutamate receptor 1, is unsuitable for imaging in monkey and human brains. EJNMMI Res 2013; 3: 47.",
+    "25.\tKreisl WC, Lyoo CH, McGwier M, et al. In vivo radioligand binding to translocator protein correlates with severity of Alzheimer's disease. Brain 2013; 136: 2228-2238.",
+    "26.\tTerry GE, Hirvonen J, Liow JS, et al. Imaging and quantitation of cannabinoid CB1 receptors in human and monkey brains using (18)F-labeled inverse agonist radioligands. J Nucl Med 2010; 51: 112-120.",
+    "27.\tLee JH, Sim\u00e9on FG, Liow JS, et al. In vivo evaluation of 6 analogs of (11)C-ER176 as candidate (18)F-labeled radioligands for 18-kDa translocator protein. J Nucl Med 2022; 63: 1252-1258.",
+    "28.\tZanotti-Fregonara P, Pascual B, Rizzo G, et al. Head-to-head comparison of (11)C-PBR28 and (18)F-GE180 for quantification of the translocator protein in the human brain. J Nucl Med 2018; 59: 1260-1266.",
+    "29.\tZanotti-Fregonara P, Pascual B, Rostomily RC, et al. Anatomy of (18)F-GE180, a failed radioligand for the TSPO protein. Eur J Nucl Med Mol Imaging 2020; 47: 2233-2236.",
+    "30.\tHadjikhani N, Albrecht DS, Mainero C, et al. Extra-axial inflammatory signal in parameninges in migraine with visual aura. Ann Neurol 2020; 87: 939-949."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005590.v1.0.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

@@ -1,0 +1,19 @@
+{
+  "ReferencesAndLinks": [
+    "Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE Transactions on Biomedical Engineering 51(6):1034-1043, 2004."
+  ],
+  "Authors": [
+    "Gerwin Schalk",
+    "Dennis J McFarland",
+    "Thilo Hinterberger",
+    "Niels Birbaumer",
+    "Jonathan R Wolpaw"
+  ],
+  "Name": "EEG Motor Movement/Imagery Dataset",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "HowToAcknowledge": "When using this resource, please cite the original publication:\n\nSchalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE Transactions on Biomedical Engineering 51(6):1034-1043, 2004.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004362.v1.0.0",
+  "DatasetType": "study"
+}

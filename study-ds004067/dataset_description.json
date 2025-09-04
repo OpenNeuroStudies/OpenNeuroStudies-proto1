@@ -1,0 +1,19 @@
+{
+  "Name": "Moral conviction and metacognitive ability shape multiple stages of information processing",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yoder, Keith J",
+    "Decety, Jean"
+  ],
+  "Acknowledgements": "The authors acknowledge the University of Chicago Grossman Ceneter for Qualitative Biology and Human Behavior.",
+  "Funding": [
+    "Seed grant from Grossman Center for Quantitative Biology and Human Behavior (JD)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.17605/OSF.IO/8KPEF"
+  ],
+  "HowToAcknowledge": "Yoder, K.J. & Decety, J. Moral conviction and metacognitive ability shape multiple states of information processing. Cortex.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004067.v1.0.1",
+  "DatasetType": "study"
+}

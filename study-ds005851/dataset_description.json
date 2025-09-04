@@ -1,0 +1,29 @@
+{
+  "Name": "Processed MPM qMRI aging data",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Martina F. Callaghan",
+    "Christophe Phillips"
+  ],
+  "Acknowledgements": "Elaine Anderson, Marinella Cappelletti, Rumana Chowdhury, Joern Diedirchsen, Thomas H. B. Fitzgerald, and Peter Smittenaar as part of multiple cognitive neuroimaging studies performed at the Wellcome Centre for Human Neuroimaging",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1016/j.neurobiolaging.2014.02.008",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neurobiolaging.2014.02.008",
+    "Callaghan et al., Neurobiology of Aging, 2014."
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "SPM",
+      "Version": "8"
+    },
+    {
+      "Name": "VBQ",
+      "Version": "original"
+    }
+  ],
+  "Licence": "CC BY",
+  "Description": "BEP011 + BEP038",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005851.v1.0.0",
+  "License": "CC0"
+}

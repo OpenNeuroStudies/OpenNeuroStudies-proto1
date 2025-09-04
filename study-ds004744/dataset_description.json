@@ -1,0 +1,10 @@
+{
+  "Name": "White matter tract and peaks",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "keke"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004744.v1.0.0",
+  "License": "CC0"
+}

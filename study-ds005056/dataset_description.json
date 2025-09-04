@@ -1,0 +1,33 @@
+{
+  "Name": "Dataset2",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Guangyu Zhou",
+    "Gregory Lane",
+    "Thorsten Kahnt",
+    "Christina Zelano"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "National Institutes of Health (NIDCD, https://www.nidcd.nih.gov/) grants R01-DC-016364 and R01-DC-018539 to C.Z.",
+    "Intramural Research Program at the National Institute on Drug Abuse (ZIA DA000642 to T.K.)."
+  ],
+  "EthicsApprovals": [
+    "Northwestern Institutional Review Board"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "Age": "Age in years",
+  "Gender": "Gender. F-Female; M-Male",
+  "DOB": "Date of Birth",
+  "Handness": "handness",
+  "Freesurfer_ITV": "total intracranial volume calculated using freesurfer",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005056.v1.0.0"
+}

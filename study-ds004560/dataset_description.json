@@ -1,0 +1,20 @@
+{
+  "Name": "The Phantom of Bern: repeated scans of two volunteers with eight different combinations of MR sequence parameters",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "M. Rebsamen",
+    "D. Romascano",
+    "M. Capiglioni",
+    "R. Wiest",
+    "P. Radojewski",
+    "C. Rummel"
+  ],
+  "Acknowledgements": "",
+  "Funding": [
+    "Swiss National Science Foundation: grants 204593 (ScanOMetrics) and CRSII5_180365 (The Swiss-First Study)"
+  ],
+  "HowToAcknowledge": "If you use these data, please also cite the original paper:\n\nM. Rebsamen, M. Capiglioni, R. Hoepner, A. Salmen, R. Wiest, P. Radojewski, C. Rummel. Growing importance of brain morphometry analysis in the clinical routine: The hidden impact of MR sequence parameters. Journal of Neuroradiology, 2023.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004560.v1.0.1",
+  "DatasetType": "study"
+}

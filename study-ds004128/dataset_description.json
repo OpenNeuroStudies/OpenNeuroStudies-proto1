@@ -1,0 +1,18 @@
+{
+  "Name": "Neural representations of others' traits predict social decisions",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Kenji Kobayashi",
+    "Joseph W. Kable",
+    "Ming Hsu",
+    "Adrianna C. Jenkins"
+  ],
+  "HowToAcknowledge": "Cite: https://www.pnas.org/doi/10.1073/pnas.2116944119",
+  "ReferencesAndLinks": [
+    "https://www.pnas.org/doi/10.1073/pnas.2116944119",
+    "Kobayashi, Kable, Hsu, & Jenkins. (2022). Neural representations of others' traits predict social decisions. PNAS."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004128.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

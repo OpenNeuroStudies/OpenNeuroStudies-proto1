@@ -1,0 +1,25 @@
+{
+  "Name": "SUDMEX_CONN: The Mexican dataset of cocaine use disorder patients.",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eduardo A. Garza-Villarreal",
+    "Jorge Julio Gonzalez Olvera",
+    "Thania Balducci",
+    "Diego Angeles Valdez",
+    "Alely Valencia",
+    "Jalil Rasgado"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "1. Garza-Villarreal, E. A., M. M. Chakravarty, B. Hansen, S. F. Eskildsen, G. A. Devenyi, D. Castillo-Padilla, T. Balducci, et al. 2017. \u201cThe Effect of Crack Cocaine Addiction and Age on the Microstructure and Morphology of the Human Striatum and Thalamus Using Shape Analysis and Fast Diffusion Kurtosis Imaging.\u201d Translational Psychiatry 7 (5): e1122\u2013e1122.\n\n2. Rasgado-Toledo, Jalil, Apurva Shah, Madhura Ingalhalikar, and Eduardo A. Garza-Villarreal. 2020. \u201cNeurite Orientation Dispersion and Density Imaging in Cocaine Use Disorder.\u201d Addiction Medicine. medRxiv. https://doi.org/10.1101/2020.10.28.20221911.",
+  "Funding": [
+    "CONACYT-FOSISS project No. 0201493 ",
+    "CONACYT-C\u00e1tedras project No. 2358948"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/tp201792"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003346.v1.1.1",
+  "Acknowledgements": "We would like to thank Ernesto Reyes Zamorano and Isabel Espinoza Luna for their assistance. We also thank the Laboratorio Nacional deVisualizaci\u00f3n Cient\u00edfica Avanzada (LAVIS) for the use of their computer cluster and the Laboratorio Nacional de Imagenolog\u00eda por Resonancia Magn\u00e9tica (LANIREM). Thanks also to Francisco J.Pellicer Graham, Margarita L\u00f3pez-Titla, Aline Leduc, Erik Morelos-Santana, Lya Paas, Daniela Casillas, Sarael Alcauter, Luis Concha and Bernd Foerster. We also thank Rocio Estrada Ordo\u00f1ez and Isabel Lizarindari Espinosa Luna at the Unidad de Atenci\u00f3n Toxicologica Xochimilco for alltheir help and effort. Finally, we thank the study participants for their cooperationand patience. This project was funded by CONACYT-FOSISS project No. 0201493 and CONACYT-C\u00e1tedras project No. 2358948.",
+  "DatasetType": "study"
+}

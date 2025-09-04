@@ -1,0 +1,14 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Cognitive maps for novel inference",
+  "Authors": [
+    "Mona M. Garvert",
+    "Tankred Saanum",
+    "Eric Schulz",
+    "Nicolas W. Schuck",
+    "Christian F. Doeller"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004360.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Inter-individual deep image reconstruction",
+  "License": "CC0",
+  "Authors": [
+    "Jun Kai Ho",
+    "Tomoyasu Horikawa",
+    "Kei Majima",
+    "Yukiyasu Kamitani"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Japan Society for the Promotion of Science (JSPS KAKENHI), Grant Number JP20H05705 and 20H05954",
+    "New Energy and Industrial Technology Development Organization (NEDO), Grant Number JPNP20006",
+    "Japan Science and Technology Agency (JST CREST), Grant Number JPMJCR18A5 and JPMJCR22P3"
+  ],
+  "ReferencesAndLinks": [
+    "Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruction, bioRxiv. https://www.biorxiv.org/content/10.1101/2021.12.31.474501v1",
+    "Ho, J. K., Horikawa, T., Majima, K., Cheng, F., & Kamitani, Y. (2023). Inter-individual deep image reconstruction via hierarchical neural code conversion. NeuroImage, 271, 120007. https://doi.org/10.1016/j.neuroimage.2023.120007"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003993.v1.1.1",
+  "BIDSVersion": "1.10.1",
+  "EthicsApprovals": [
+    "the Ethics Committee of Advanced Telecommunications Research Institute International, Approval No. 106"
+  ],
+  "DatasetType": "study"
+}

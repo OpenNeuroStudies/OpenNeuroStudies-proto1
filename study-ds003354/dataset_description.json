@@ -1,0 +1,12 @@
+{
+  "Name": "Effective Connectivity of Empathy and Theory of Mind in Individuals with High Psychopathic Traits",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Mikkel Sch\u00f6ttner",
+    "Andreas Jansen"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003354.v1.0.0",
+  "InstitutionAddress": "deleted_by_bidsonym",
+  "DatasetType": "study"
+}

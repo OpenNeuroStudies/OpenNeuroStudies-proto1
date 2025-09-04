@@ -1,0 +1,28 @@
+{
+  "Name": "Precision imaging of individual human brains during deep brain stimulation (open-DBS)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jianxun Ren",
+    " Changqing Jiang",
+    "Wei Zhang",
+    "Louisa Dahmani",
+    "Lunhao Shen",
+    "Feng Zhang",
+    "Shenshen Li",
+    "Changgeng He",
+    "Yilin Yin",
+    "Xiaoxuan Fu",
+    "Jianting Huang",
+    "Yi Guo",
+    "Yiming Liu",
+    "Shujun Xu",
+    "Fangang Meng",
+    "Jianguo Zhang",
+    "Danhong Wang",
+    "Luming Li",
+    "Hesheng Liu"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005849.v2.0.1",
+  "DatasetType": "study"
+}

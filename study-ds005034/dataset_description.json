@@ -1,0 +1,16 @@
+{
+  "Name": "The effect of theta tACS on working memory",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "Authors": [
+    "Yuri G. Pavlov",
+    "Dauren Kasanov"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005034.v1.0.1",
+  "HowToAcknowledge": "https://doi.org/10.1101/2024.03.20.585954",
+  "DatasetType": "study"
+}

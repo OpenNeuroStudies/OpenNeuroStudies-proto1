@@ -1,0 +1,13 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Learning the statistics of pain",
+  "Authors": [
+    "Flavia Mancini",
+    "Suyi Zhang",
+    "Ben Seymour"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003836.v1.0.0",
+  "DatasetType": "study"
+}

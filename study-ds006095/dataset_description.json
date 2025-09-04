@@ -1,0 +1,37 @@
+{
+  "Name": "Mind in Motion Older Adults Walking Over Uneven Terrain",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Chang Liu",
+    "Erika M. Pliner",
+    "Jacob S. Salminen",
+    "Ryan Downey",
+    "Jungyun Hwang",
+    "Akraprava Roy",
+    "Ryland Swearinger",
+    "Natalie Richer",
+    "Chris J. Hass",
+    "David J. Clark",
+    "Todd M. Manini",
+    "Yenisel Cruz-Almeida",
+    "Rachael D. Seidler",
+    "Daniel P. Ferris"
+  ],
+  "Funding": [
+    "This study was supported by the National Institute of Health (U01AG061389)."
+  ],
+  "Acknowledgements": "Thank you to all undergraduate students who worked on Mind in Motion Project in Human Neuromechanics Lab",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006095.v1.0.0",
+  "DatasetType": "study"
+}

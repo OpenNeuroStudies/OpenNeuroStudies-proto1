@@ -1,0 +1,12 @@
+{
+  "Name": "Sherlock_Merlin",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Zadbood, A., Chen, J., Leong, Y.C., Norman, K.A., & Hasson, U."
+  ],
+  "Funding": "National Institutes of Health (1R01MH112357-01 and 1R01MH112566-01)",
+  "ReferencesAndLinks": [
+    "https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhx202/4080827/How-We-Transmit-Memories-to-Other-Brains"
+  ],
+  "DatasetType": "study"
+}

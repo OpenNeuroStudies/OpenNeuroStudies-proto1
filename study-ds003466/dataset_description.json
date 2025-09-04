@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "We thank Vinai Roopchansingh and John Andrew Derbyshire for the fMRI sequence used here. We thank Natasha Topolski for support of human volunteer scanning.",
+  "Authors": [
+    "Jiajia Yang",
+    "Peter J. Molfese",
+    "Yinghua Yu",
+    "Daniel A. Handwerker",
+    "Gang Chen",
+    "Paul A. Taylor",
+    "Yoshimichi Ejima",
+    "Jinglong Wu",
+    "Peter A. Bandettini"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003466.v1.1.1",
+  "Funding": [],
+  "Corresponding Author": "Jiajia Yang,\nAssistant Professor,\nGraduate School of Interdisciplinary Science and Engineering in Health Systems\nOkayama University, Okayama, Japan\n3-1-1 Tsushima-Naka, Kita-ku, Okayama 700-8530, Japan\nTel: 81-86-251-8053  Fax: 81-86-251-8266\nEmail: yang@okayama-u.ac.jp",
+  "HowToAcknowledge": "Please cite this paper: \nYang J, Molfese PJ, Yu Y, Handwerker DA, Chen G, Taylor PA, Ejima Y, Wu J, Bandettini PA (2021): Different activation signatures in the primary sensorimotor and higher-level regions for haptic three-dimensional curved surface exploration. NeuroImage\nhttps://www.sciencedirect.com/science/article/pii/S1053811921000318 ",
+  "License": "CC0",
+  "Name": "Haptic three-dimensional curved surface exploration fMRI dataset",
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S1053811921000318 "
+  ],
+  "DatasetType": "study"
+}

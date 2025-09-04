@@ -1,0 +1,45 @@
+{
+  "Name": "Sustaining wakefulness: Brainstem connectivity in human consciousness",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Edlow B. L.",
+    "Olchanyi M. D.",
+    "Freeman H. J.",
+    "Li J.",
+    "Maffei C.",
+    "Snider S. B.",
+    "Zollei L.",
+    "Eugenio Iglesias J.",
+    "Augustinack J.",
+    "Bodien Y. G.",
+    "Haynes R. L",
+    "Greve D. N.",
+    "Diamond B. R.",
+    "Stevens A.",
+    "Giacino J. T.",
+    "Destrieux C.",
+    "van der Kouwe A.",
+    "Brown E. N.",
+    "Folkerth R. D.",
+    "Fischl B.",
+    "Kinney H. C."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004640.v1.0.4",
+  "License": "CC0",
+  "HowToAcknowledge": "Edlow, B. et al. Data from: Sustaining wakefulness: Brainstem connectivity in human consciousness. OpenNeuro https://openneuro.org/datasets/ds003917, doi:10.71891/openneuro.ds003917.v1.0.0 (2023).",
+  "Acknowledgements": "We dedicate this work in memoriam to Marty Samuels, MD, the Miriam Sydney Joseph Distinguished Professor of Neurology at Harvard Medical School and Founding Chair of the Department of Neurology at Brigham and Women\u2019s Hospital. Dr. Samuels mentored generations of neurologists, neuroimagers, and neuropathologists, of which we were fortunate to be a part.  Dr. Samuels was an avid and insightful student and teacher of neuroanatomy and neuropathology of human consciousness, from whom we learned much. He was an early supporter of the histologic-radiology correlation studies performed here, for which we are grateful. We are grateful to the families for the brain donation of their loved ones, and to the individuals who donated their own brains for this study to advance medical science. We also thank Bruce Rosen, Merit Cudkowicz, and Jonathan Rosand for their support of this work.  We thank Michelle Siciliano for assistance with processing of human brain specimens and Kathryn Regan at Horus Scientific for assistance with immunostaining.  We thank Kimberly Main Knoper for artwork used in the connectograms. ",
+  "ReferencesAndLinks": [
+    "https://surfer.nmr.mgh.harvard.edu",
+    "https://histopath.nmr.mgh.harvard.edu",
+    "https://datadryad.org/stash/share/aJ713eXY12ND56bzOBejVG2jmOFCD2CKxdSJsYWEHkw",
+    "https://github.com/ComaRecoveryLab/Network-based_Autopsy",
+    "https://github.com/ComaRecoveryLab/Subcortical_DMN_Functional_Connectivity"
+  ],
+  "Funding": [
+    "This work was supported by the National Institutes of Health (NIH) Director\u2019s Office (DP2HD101400), NIH National Institute for Neurological Disorders and Stroke (R21NS109627, K23NS094538, U01NS086625, R01NS0525851, R21NS072652, R01NS070963, R01NS083534, UH3NS095554, U24NS10059103, R01NS105820), NIH National Institute for Biomedical Imaging and Bioengineering (P41EB030006, R01EB023281, R01EB006758, R21EB018907, R01EB019956), NIH National Institute of Child Health and Human Development R01HD102616, R21HD095338), NIH National Institute on Deafness and Other Communication Disorders (R21DC015888), NIH National Institute on Aging (R21AG082082, R01AG064027, R01AG008122, R01AG016495, R01AG070988), NIH National Institute on Mental Health (UM1MH130981, R01MH123195, R01MH121885, RF1MH123195), BRAIN Initiative Cell Census Network (U01MH117023 and UM1MH130981), James S. McDonnell Foundation, American Academy of Neurology/American Brain Foundation, Center for Integration of Medicine and Innovative Technology (Boston, MA), Rappaport Foundation, Tiny Blue Dot Foundation, American SIDS Institute, and Chen Institute MGH Research Scholar Award. Additional support was provided by the NIH Blueprint for Neuroscience Research (U01MH093765), part of the multi-institutional Human Connectome Project. This research was also made possible by the resources provided by National Institutes of Health P41RR014075 and shared instrumentation grants S10RR023401, S10RR019307, and S10RR023043.  Much of the computation resources required for this research was performed on computational hardware generously provided by the Massachusetts Life Sciences Center (https://www.masslifesciences.com/)."
+  ],
+  "EthicsApprovals": [
+    "Written informed consent for brain donation was obtained postmortem from family surrogate decision\u2013makers, in accordance with a research protocol approved by the Institutional Review Board at Mass General Brigham.  "
+  ],
+  "DatasetType": "study"
+}

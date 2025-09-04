@@ -1,0 +1,42 @@
+{
+  "Name": "A Multi-Sequence MRI Dataset for AI-Driven Brain Tumor Analysis Applications",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Hiwa Omer Hassan",
+    "Bashdar Abdalrahman Mohammed",
+    "Mahabad Abdalaziz Salih",
+    "Shnawa Muhedin Hama Sur",
+    "Sina Saman Ahmed",
+    "Rasti Hassan Mohammed"
+  ],
+  "Acknowledgements": "We extend sincere appreciation to the medical and administrative teams at Asia International Hospital, Hiwa Hospital, and the University of Human Development for their essential support and collaboration throughout data collection and approval processes.",
+  "HowToAcknowledge": "Please cite our dataset and related publication: Hassan et al., 'Multi-Sequence MRI Dataset for AI-Driven Brain Tumor Analysis Applications'.",
+  "GeneratedBy": [
+    {
+      "Name": "",
+      "Version": "",
+      "Description": ""
+    }
+  ],
+  "Funding": [],
+  "EthicsApprovals": [
+    "Approved by the Ethical Committee of Halabja University (Reference No. 02 2025/7, Approval Period: 2 February 2025 \u2013 2 February 2026)"
+  ],
+  "ReferencesAndLinks": [
+    "[1] H. O. Hassan, B. A. Mohammed, M. A. Salih, S. M. Hama Sur, S. S. Ahmed, and R. H. Mohammed, 'Multi-Sequence MRI Dataset for AI-Driven Brain Tumor Analysis Applications,' OpenNeuro, Version 1.0.0, Jun. 2025. [Online]. Available: https://openneuro.org/datasets/ds006318/versions/1.0.0",
+    "[2] P. A. Abdalla, B. A. Mohammed, and A. M. Saeed, 'The impact of image augmentation techniques of MRI patients in deep transfer learning networks for brain tumor detection,' Journal of Electrical Systems and Information Technology, vol. 10, no. 1, p. 51, 2023.",
+    "[3] X. Liu and Z. Wang, 'Deep learning in medical image classification from MRI-based brain tumor images,' in 2024 IEEE 6th International Conference on Power, Intelligent Computing and Systems (ICPICS), 2024: IEEE, pp. 840\u2013844.",
+    "[4] P. A. Abdalla, A. M. Qadir, O. J. Rashid, K. M. H. Rawf, A. O. Abdulrahman, and B. A. Mohammed, 'Deep transfer learning networks for brain tumor detection: the effect of MRI patient image augmentation methods.'",
+    "[5] J. Amin, M. A. Anjum, N. Gul, M. Sharif, and S. Kadry, 'Clinically acquired new challenging dataset for brain SOL segmentation: AJBDS-2023,' Data in Brief, vol. 52, p. 109915, 2024."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006318.v2.0.0",
+  "SourceDatasets": [
+    {
+      "URL": "",
+      "DOI": ""
+    }
+  ]
+}

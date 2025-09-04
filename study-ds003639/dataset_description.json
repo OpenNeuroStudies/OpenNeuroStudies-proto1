@@ -1,0 +1,11 @@
+{
+  "Name": "In-scanner head motion and structural covariance networks",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Heath R Pardoe",
+    "Samantha P Martin"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003639.v1.0.0"
+}

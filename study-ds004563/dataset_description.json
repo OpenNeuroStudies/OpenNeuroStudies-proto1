@@ -1,0 +1,14 @@
+{
+  "Name": "Vicarious touch: overlapping neural patterns between seeing and feeling touch",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Sophie Smit",
+    "Denise Moerel",
+    "Regine Zopf",
+    "Anina N Rich"
+  ],
+  "HowToAcknowledge": "Smit, S., Moerel, D., Zopf, R., & Rich, A. N. (2023). Vicarious touch: overlapping neural patterns between seeing and feeling touch. bioRxiv (2023). https://doi.org/10.1101/2022.06.21.497107",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004563.v1.0.1",
+  "DatasetType": "study"
+}

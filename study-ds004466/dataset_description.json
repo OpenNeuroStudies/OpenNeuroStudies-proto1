@@ -1,0 +1,30 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Chris Racey",
+    "Charlotte Rae",
+    "Ivor Simpson",
+    "Oscar Bowen-Hill",
+    "Mathilde Bauer",
+    "Julia Simner",
+    "Christina Kampoureli",
+    "Jamie Ward"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004466.v1.0.3",
+  "Funding": [
+    "No funding declared"
+  ],
+  "HowToAcknowledge": "Racey, C., Kampoureli, C., Bowen-Hill, O. et al. An Open Science MRI Database of over 100 Synaesthetic Brains and Accompanying Deep Phenotypic Information. Sci Data 10, 766 (2023). https://doi.org/10.1038/s41597-023-02664-4",
+  "License": "CC0",
+  "Name": "Mapping the Connectome of Synaesthesia: An Open Access MRI Dataset",
+  "ReferencesAndLinks": [
+    "https://osf.io/ycqgd/ (pre-registration, surveys, associated data)",
+    "https://academic.oup.com/cercor/article/34/11/bhae446/7901211 (main analysis)",
+    "https://www.nature.com/articles/s41597-023-02664-4 (data descriptor paper)"
+  ],
+  "EthicsApprovals": [
+    "Brighton and Sussex Medical School (BSMS) Research Governance and Ethics Committee"
+  ],
+  "DatasetType": "study"
+}

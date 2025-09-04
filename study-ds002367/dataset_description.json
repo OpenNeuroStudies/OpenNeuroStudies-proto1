@@ -1,0 +1,17 @@
+{
+  "Name": "OHBM abstract 2020",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Deni Kurban",
+    "Renzo Huber",
+    "Gilad Liberman",
+    "Dimo Ivanov",
+    "Sri Kashyap",
+    "Debora Niekaemper",
+    "Benedikt Poser"
+  ],
+  "Acknowledgements": "These data are acquired with the freiendly support of Scannexus. Deni and Benedikt are supported from the NWO VID 016.178.052, Renzois supported by VENI 016.198.032\n\n",
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002367.v1.0.0",
+  "DatasetType": "study"
+}

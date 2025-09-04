@@ -1,0 +1,35 @@
+{
+  "Name": "A PET Molecular Imaging Brain Atlas of Cyclooxygenase-1 (Kim 2021)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Doug Greve",
+    "Paul Wighton",
+    "Melanie Ganz",
+    "Martin N\u00f8rgaard",
+    "Paolo Zanotti-Fregonara",
+    "Cyril Pernet",
+    "Anthony Galassi",
+    "Adam Thomas",
+    "Nafiseh Ghazanfari",
+    "Jeih-San Liow",
+    "Granville Matheson",
+    "Gitte Knudsen",
+    "Robert Innis"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "petsurfer",
+      "Version": "freesurfer-linux-centos7_x86_64-7.3.2-20220804-6354275"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds004230.v2.3.1",
+      "URL": "https://openneuro.org/datasets/ds004230/versions/2.3.1",
+      "Version": "2.3.1"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004401.v1.3.0"
+}

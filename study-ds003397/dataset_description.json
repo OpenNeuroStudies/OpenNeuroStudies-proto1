@@ -1,0 +1,32 @@
+{
+  "Acknowledgements": "This dataset was acquired at Monash Biomedical Imaging, Monash University Australia",
+  "Authors": [
+    "Sharna D Jamadar",
+    "Emma X Liang",
+    "Phillip GD Ward",
+    "Alexandra Carey",
+    "Richard McIntyre",
+    "Zhaolin Chen",
+    "Shenjun Zhong",
+    "Gary F Egan"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003397.v1.1.1",
+  "Funding": [
+    "Australian Research Council (ARC) Linkage Project (LP170100494) that includes financial support from Siemens Healthineers",
+    "ARC Centre of Excellence for Integrative Brain Function (CE140100007)",
+    "ARC Discovery Early Career Researcher Award (DE150100406)",
+    "National Health and Medical Research Council Fellowship (APP1174164)"
+  ],
+  "HowToAcknowledge": "Jamadar, Liang, Zhong, Ward, Carey, McIntyre, Chen, Egan (2021). Monash DaCRA fPET-fMRI: A DAtaset for Comparison of Radiotracer Administration for high temporal resolution functional FDG-PET. bioRXiv, https://doi.org/10.1101/2021.08.02.454708",
+  "License": "CC0",
+  "Name": "Monash DaCRA-fPET-fMRI",
+  "ReferencesAndLinks": [
+    "Jamadar, Ward, Li, Sforazzini, Baran, Chen, Egan (2019). Simultaneous task-based BOLD-fMRI and [18-F] FDG functional PET for measurement of neuronal metabolism in the human visual cortex. NeuroImage 189, 258-266. doi:10.1016/j.neuroimage.2019.01.003",
+    "Jamadar, Ward, Carey, McIntyre, Parkes, Sasan, Fallon, Orchard, Li, Chen, Egan (2019). Radiotracer Administration for High Temporal Resolution Positron Emission Tomography of the Human Brain: Application to FDG-fPET. Journal of Visualized Experiments, 152. doi: 10.3791/60259"
+  ],
+  "EthicsApprovals": [
+    "All methods were reviewed by the Monash University Human Research Ethics Committee, in accordance with the Australian National Statement on Ethical Conduct in Human Research (2007). Administration of ionising radiation was approved by the Monash Health Principal Medical Physicist, in accordance with the Australian Radiation Protection and Nuclear Safety Agency Code of Practice (2005)."
+  ],
+  "DatasetType": "study"
+}

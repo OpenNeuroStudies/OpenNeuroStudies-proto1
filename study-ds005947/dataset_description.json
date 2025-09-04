@@ -1,0 +1,17 @@
+{
+  "Name": "Repulsion of hippocampal representations driven by distinct internal beliefs.",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Guo Wanjia",
+    "Subin Han",
+    "Brice Kuhl"
+  ],
+  "Acknowledgements": "BIDS conversion was performed using dcm2niix and dicom2bids.",
+  "ReferencesAndLinks": [],
+  "License": "CC0",
+  "Funding": [
+    "This work was supported by NIH-NINDS 2R01NS089729 to B.A.K. and by NIH-NINDS F31NS126016 to G.W."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005947.v1.0.0",
+  "DatasetType": "study"
+}

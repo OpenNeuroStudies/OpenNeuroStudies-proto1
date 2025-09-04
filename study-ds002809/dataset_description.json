@@ -1,0 +1,14 @@
+{
+  "Name": "VaryingISI-TwoVisualPathways",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jiaxin Li",
+    "Bingbing Guo",
+    "Lin Cui",
+    "Hong Huang",
+    "Ming Meng"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002809.v1.0.1",
+  "DatasetType": "study"
+}

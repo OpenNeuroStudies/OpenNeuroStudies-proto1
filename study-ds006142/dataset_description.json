@@ -1,0 +1,11 @@
+{
+  "Name": "Essex EEG Movie Memory dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Ana Matran-Fernandez",
+    "Sebastian Halder"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006142.v1.0.2"
+}

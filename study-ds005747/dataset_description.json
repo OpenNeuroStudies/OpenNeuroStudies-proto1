@@ -1,0 +1,42 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Jiahe Zhang",
+    "Danlei Chen",
+    "Philip Deming",
+    "Tara Srirangarajan",
+    "Jordan Theriault",
+    "Philip A. Kragel",
+    "Ludger Hartley",
+    "Kent M. Lee",
+    "Kieran McVeigh",
+    "Tor D. Wager",
+    "Lawrence L. Wald",
+    "Ajay B. Satpute",
+    "Karen S. Quigley",
+    "Susan Whitfield-Gabrieli",
+    "Lisa Feldman Barrett",
+    "Marta Bianciardi"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005747.v1.2.1",
+  "Funding": [
+    "NCI U01 CA193632",
+    "R01 AG071173",
+    "R01 MH109464",
+    "R01 MH113234",
+    "NIDCD R21 DC015888",
+    "NIBIB K01 EB019474",
+    "NIA R01 AG063982",
+    "NSF BCS 1947972",
+    "ARI W911NF-16-1-019",
+    "Unlikely Collaborators Foundation"
+  ],
+  "HowToAcknowledge": "Please cite: Zhang et al. (2025). \"Cortical and subcortical mapping of the allostatic-interoceptive system in the human brain using 7 Tesla fMRI.\" bioRxiv.",
+  "License": "CC0",
+  "Name": "7T fMRI Resting-state Dataset",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2023.07.20.548178"
+  ],
+  "DatasetType": "study"
+}

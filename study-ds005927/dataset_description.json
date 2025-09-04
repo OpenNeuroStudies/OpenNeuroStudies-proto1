@@ -1,0 +1,24 @@
+{
+  "Name": "Flow2-Chekin2025",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kernel"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1162/imag_a_00475",
+  "EthicsApprovals": [
+    "Advarra  IRB (#Pro00074416)"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Kernel Portal",
+      "Version": "2025.01.24"
+    }
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1162/imag_a_00475",
+    "Chekin, Y., Decker, D., Dehghani, H., Dubois, J., Field, R. M., Gopalakrishnan, V., Koch, E. M., Lerner, G., Aghajan, Z. M., Miller, N., Olvera, I., Patel, M. J., Perdue, K. L., Schmidt, J., & Szczepanski, V. (2025). A compact time domain diffuse optical tomography system for cortical neuroimaging. Imaging Neuroscience."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005927.v1.0.0"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "NumberlineMarking",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Frank J. Kanayet  ",
+    "Andrew Mattarella-Micke  ",
+    "Peter J. Kohler",
+    "Anthony M. Norcia",
+    "Bruce D. McCandliss",
+    "James L. McClelland"
+  ],
+  "Acknowledgements": "We thank Daniel Ansari and Stephan Vogel for providing unpublished behavioral data and methodological details from Vogel et al. (2013). We would also like to thank Anthony Wagner for his help during the design phase of the study and Russell Poldrack for consultations on the analysis of the fMRI data. Finally, we thank Robert Dougherty and the Staff of the Stanford Center for Neurobiological Imaging for detailed consultations on the analysis of our fMRI data.",
+  "ReferencesAndLinks": [
+    "http://www.mitpressjournals.org/doi/full/10.1162/jocn_a_01199"
+  ],
+  "HowToAcknowledge": "Kanayet FJ, Mattarella-Micke A, Kohler PJ, Norcia AM, McCandliss BD, McClelland JL (2018) Distinct Representations of Magnitude and Spatial Position within Parietal Cortex during Number\u2013Space Mapping. Journal of Cognitive Neuroscience 30:200-218.",
+  "Funding": [
+    "This work was supported in part by grant SNI-SG1-16 from the Stanford Neurosciences Institute."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001299.v1.0.0",
+  "DatasetType": "study"
+}

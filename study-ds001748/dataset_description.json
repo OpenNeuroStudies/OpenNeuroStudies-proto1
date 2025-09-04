@@ -1,0 +1,19 @@
+{
+  "Name": "Differentiation of functional networks during long-term memory retrieval in children and adolescents",
+  "License": "These data are made available under the Creative Commons BY-SA 4.0 International License.",
+  "Authors": [
+    "Samuel Fynes-Clinton",
+    "Lars Marstaller",
+    "Hana Burianov\u00e1"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite: Fynes-Clinton, S., Marstaller, L., Burianov\u00e1, H. (2019). Differentiation of functional networks during long-term memory retrieval in children and adolescents. NeuroImage, 191, 93-103. https://doi.org/10.1016/j.neuroimage.2019.01.065",
+  "Funding": "This work was funded by the Discovery Early Career Researcher Award (DECRA) from the Australian Research Council awarded to Hana Burianov\u00e1 (DE130101290). LM is supported by the European Union Horizon 2020 research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 663830.",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2019.01.065",
+    "https://neurovault.org/collections/MFCNFLGC/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001748.v1.0.4",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

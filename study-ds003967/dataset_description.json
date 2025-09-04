@@ -1,0 +1,27 @@
+{
+  "Name": "7TAMIbrain",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Olivier Girard",
+    "Ludovic de Rochefort",
+    "Maxime Guye",
+    "Jean-Philippe Ranjeva",
+    "Arnaud Le Troter"
+  ],
+  "ReferencesAndLinks": [
+    "Gilles Brun, Benoit Testud, Olivier M. Girard, Pierre Lehmann, Ludovic de Rochefort, Pierre Besson, Aur\u00e9lien Massire, Ben Ridley, Nadine Girard, Maxime Guye, Jean-Philippe Ranjeva, Arnaud Le Troter, European Journal Neuroscience, EJN 2021, in revision. Automatic segmentation of Deep Grey Nuclei using a high-resolution 7T MRI Atlas - quantification of T1 values in healthy volunteers"
+  ],
+  "Acknowledgements": "The authors thank Dr Tobias Kober (Siemens Healthcare) for helpful discussions about the T1 mapping methodology with the MP2RAGE sequence. The authors thank Prof. Dr. Van Gool (Computer Vision Laboratory, ETH Z\u00fcrich) for providing access to the electronic Morel Atlas.",
+  "Funding": [
+    "The Excellence Initiative of Aix-Marseille University - A*MIDEX",
+    "The French \u201cInvestissements d\u2019Avenir programme\u201d (grant ANR-11-EQPX-0001)",
+    "The France Life Imaging network (grant ANR-11-INBS-0006)",
+    "The Neuromarseille Institute (A*MIDEX)"
+  ],
+  "EthicsApprovals": [
+    "Participants provided informed consent in compliance with the ethical requirements of the Declaration of Helsinki and the protocol was approved by the Local Human Research Ethics Committee (Comit\u00e9 de Protection des Personnes sud M\u00e9diterran\u00e9e 2)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003967.v1.0.0"
+}

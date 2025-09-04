@@ -1,0 +1,32 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Component processes of word reading in adults and children",
+  "ReferencesAndLinks": [
+    "Booth, J. R., Burman, D. D., Van Santen, F. W., Harasaki, Y., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2001). The development of specialized brain systems in reading and oral-language. Child Neuropsychology, 7(3), 119\u2013141. https://doi.org/10.1076/chin.7.3.119.8740",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2002). Modality independence of word comprehension. Human Brain Mapping, 16(4), 251\u2013261. https://doi.org/10.1002/hbm.10054",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2002). Functional anatomy of intra- and cross-modal lexical tasks. NeuroImage, 16(1), 7\u201322. https://doi.org/10.1006/nimg.2002.1081",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2003). Relation between brain activation and lexical performance. Human Brain Mapping, 19(3), 155\u2013169. https://doi.org/10.1002/hbm.10111",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Lei, Z., Choy, J., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2003). Modality-specific and -independent developmental differences in the neural substrate for lexical processing. Journal of Neurolinguistics, 16(4\u20135), 383\u2013405. https://doi.org/10.1016/S0911-6044(03)00019-8",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Gitelman, D. R., Parrish, T. B., & Mesulam, M. M. (2004). Development of brain mechanisms for processing orthographic and phonologic representations. Journal of Cognitive Neuroscience, 16(7), 1234\u20131249. https://doi.org/10.1162/0898929041920496",
+    "Bitan, T., Booth, J. R., Choy, J., Burman, D. D., Gitelman, D. R., & Mesulam, M. M. (2005). Shifts of effective connectivity within a language network during rhyming and spelling. Journal of Neuroscience, 25(22), 5397\u20135403. https://doi.org/10.1523/JNEUROSCI.0864-05.2005",
+    "Bitan, T., Burman, D. D., Lu, D., Cone, N. E., Gitelman, D. R., Mesulam, M. M., & Booth, J. R. (2006). Weaker top-down modulation from the left inferior frontal gyrus in children. NeuroImage, 33(3), 991\u2013998. https://doi.org/10.1016/j.neuroimage.2006.07.007",
+    "Blumenfeld, H. K., Booth, J. R., & Burman, D. D. (2006). Differential prefrontal-temporal neural correlates of semantic processing in children. Brain and Language, 99(3), 226\u2013235. https://doi.org/10.1016/j.bandl.2005.07.004",
+    "Booth, J. R., Wood, L., Lu, D., Houk, J. C., & Bitan, T. (2007). The role of the basal ganglia and cerebellum in language processing. Brain Research, 1133(1), 136\u2013144. https://doi.org/10.1016/j.brainres.2006.11.074"
+  ],
+  "HowToAcknowledge": "Please cite this dataset and the two related articles for use of this dataset:\n\nLytle MN Burman DD, & Booth JR (2021). Component processes of word reading in adults and children. OpenNeuro. 10.18112/openneuro.ds003459\n\nBooth JR, Burman DD, Meyer JR, Gitelman DR, Parrish TB & Mesulam MM (2002). Modality independence of word comprehension. Human Brain Mapping, 16, 251-261.\n\nBooth JR, Burman DD, Meyer JR, Gitelman DR, Parrish TB & Mesulam MM (2002). Functional anatomy of intra- and cross-modal lexical tasks. Neuroimage, 16, 7-22.\n",
+  "Funding": [
+    "Northwestern University, Volwiler Research Fund, General Electric Company"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Douglas D. Burman",
+    "Darren R. Gitelman",
+    "Marisa N. Lytle",
+    "Marsel M. Mesulam",
+    "Joel R. Meyer Jr.",
+    "Todd R. Parrish"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003459.v1.0.2",
+  "DatasetType": "study"
+}

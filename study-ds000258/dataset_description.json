@@ -1,0 +1,21 @@
+{
+  "Name": "Multi-echo Cambridge",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jonathan Power",
+    "Valerie Voon",
+    "Prantik Kundu",
+    "Suyash Bhogawar",
+    "Peter Bandettini",
+    "Alex Martin"
+  ],
+  "Funding": [
+    "Supported by grants ZIAMH002920 (A.M.), NCT01031407 (A.M.) and the Sackler Institute for Developmental Psychobiology (J.P.)."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.jonathanpower.net/paper-multiecho.html"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds000258.v1.0.1",
+  "DatasetType": "study"
+}

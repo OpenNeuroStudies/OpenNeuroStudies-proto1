@@ -1,0 +1,17 @@
+{
+  "Name": "Multiband Multi-Echo Imaging of Simultaneous Oxygenation and Flow Timeseries for Resting State Connectivity",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Alexander D. Cohen",
+    "Andrew S. Nencka",
+    "R. Marc Lebel",
+    "Yang Wang"
+  ],
+  "Acknowledgements": "This work was partially supported by a grant from the Daniel M. Soref Charitable Trust. We thank Ajit Shankaranarayanan and Matt Middione from GE Healthcare for providing source code of the GE multiband sequence.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000216.",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333818/"
+  ],
+  "DatasetType": "study"
+}

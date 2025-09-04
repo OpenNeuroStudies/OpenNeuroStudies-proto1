@@ -1,0 +1,14 @@
+{
+  "Name": "An fMRI dataset for testing semantic language decoders",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jerry Tang",
+    "Amanda LeBel",
+    "Shailee Jain",
+    "Alexander G. Huth"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "This work was supported by the National Institute on Deafness and Other Communication Disorders, Whitehall Foundation, Alfred P. Sloan Foundation, Burroughs Wellcome Fund.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004510.v1.1.0",
+  "DatasetType": "study"
+}

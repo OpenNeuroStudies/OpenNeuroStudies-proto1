@@ -1,0 +1,24 @@
+{
+  "id": "HEAD",
+  "Name": "Physiological Contribution in Spontaneous Oscillations: An Approximate Quality - Assurance Index for Resting-State fMRI Signals",
+  "License": "PDDL",
+  "Authors": [
+    "Hsu AL",
+    "Chou KH",
+    "Chao YP",
+    "Fan HY",
+    "Wu CW",
+    "Chen JH"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This study was supported in part by Ministry of Science and Technology (MOST 104- 2321-B-002-040, MOST 103-2320-B-008-001, and MOST 104-2221-E-008-123), Veterans General Hospitals University System of Taiwan Joint Research Program (VGHUST103-G1-4-3), the Chang Gung Memorial Hospital (BMRPC78) and Chang Gung University Research Project (UERPD2D0081)."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4752279/"
+  ],
+  "DatasetDOI": "",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

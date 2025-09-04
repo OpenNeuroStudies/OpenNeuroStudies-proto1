@@ -1,0 +1,14 @@
+{
+  "Name": "MEGMEM",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Benjamin J. Griffiths",
+    "Mar\u00eda Carmen Mart\u00edn-Buro",
+    "Bernhard Staresina",
+    "Simon Hanslmayr"
+  ],
+  "HowToAcknowledge": "When making use of this data, please cite the associated publication [https://www.biorxiv.org/content/10.1101/2020.01.22.915330v3]",
+  "DatasetDOI": "10.18112/openneuro.ds003694.v1.0.0"
+}

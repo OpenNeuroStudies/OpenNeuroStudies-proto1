@@ -1,0 +1,13 @@
+{
+  "Authors": [
+    "Christoffer Hatlestad-Hall",
+    "Trine Waage Rygvold",
+    "Stein Andersson"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "HowToAcknowledge": "Reference to:\nHatlestad-Hall, C., Rygvold, T. W., & Andersson, S. (2022). BIDS-structured resting-state electroencephalography (EEG) data extracted from an experimental paradigm. Data in Brief, 45, 108647. https://doi.org/10.1016/j.dib.2022.108647",
+  "License": "CC0",
+  "Name": "SRM Resting-state EEG",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003775.v1.2.1"
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "An fMRI dataset during sequential color qualia similarity judgments",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Takahiro Hirao",
+    "Mitsuhiro Miyamae",
+    "Daisuke Matsuyoshi",
+    "Ryuto Inoue",
+    "Yuhei Takado",
+    "Takayuki Obata",
+    "Makoto Higuchi",
+    "Naotsugu Tsuchiya",
+    "Makiko Yamada"
+  ],
+  "Funding": [
+    "20H05710",
+    "20H05711",
+    "23H04830",
+    "23H04833",
+    "22H01108",
+    "22K18265",
+    "JPMJMS2295-01",
+    "JPMJMS2295-02",
+    "JPMJCR23P4",
+    "JPMXS0120330644"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005684.v1.0.0",
+  "EthicsApprovals": []
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Mapping neuroinflammation in vivo with diffusion-MRI in rats given a systemic lipopolysaccharide challenge",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eugene Kim",
+    "Ines Carreira Figueiredo",
+    "Camilla Simmons",
+    "Karen Randall",
+    "Loreto Rojo Gonzalez",
+    "Tobias Wood",
+    "Brigida Ranieri",
+    "Paula Sureda-Gibert",
+    "Carmine Pariante",
+    "NIMA Consortium",
+    "Ofer Pasternak",
+    "Flavio Dell\u2019Acqua",
+    "Federico Turkheimer",
+    "Diana Cash"
+  ],
+  "Acknowledgements": "",
+  "HowToAsknowledge": "",
+  "Funding": [
+    "Wellcome Trust (Grant number: 104025/Z/14/Z)"
+  ],
+  "EthicApprovals": "All animal experiments were performed in accordance with the UK Animal (Scientific Procedures) Act 1986 and King's College London institutional ethical guidelines",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004305.v1.0.3",
+  "DatasetType": "study"
+}

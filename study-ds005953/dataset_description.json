@@ -1,0 +1,20 @@
+{
+  "Name": "iEEG_visual",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jonathan Winawer",
+    "Dora Hermes"
+  ],
+  "Funding": [
+    "This research has received funding from the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH111417"
+  ],
+  "ReferencesAndLinks": [
+    "Hermes D, Miller KJ, Wandell BA, Winawer J (2015). Stimulus dependence of gamma oscillations in human visual cortex. Cerebral Cortex 25(9):2951-9.",
+    "Hermes D, Nguyen M, Winawer J. (2017). Neuronal synchrony and the relation between the BOLD response and the local field potential. PLOS Biology 15(7)"
+  ],
+  "Acknowledgements": "This dataset was made available with the support of the Netherlands Organization for Scientific Research www.nwo.nl under award number 016.VENI.178.048 to Dora Hermes and the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH111417 to Natalia Petridou and Jonathan Winawer. The ECoG data collection was facilitated by the Stanford Human Intracranial Cognitive Electrophysiology Program (SHICEP).",
+  "HowToAcknowledge": "If you use this data as a part of any publications, please use the following citation:\n[1] Hermes D, Miller KJ, Wandell BA, Winawer J (2015). Stimulus dependence of gamma oscillations in human visual cortex. Cerebral Cortex 25(9):2951-9. https://doi.org/10.1093/cercor/bhu091\n[2] Hermes D, Nguyen M, Winawer J. (2017). Neuronal synchrony and the relation between the BOLD response and the local field potential. PLOS Biology 15(7). https://doi.org/10.1371/journal.pbio.2001461",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005953.v1.0.0",
+  "DatasetType": "study"
+}

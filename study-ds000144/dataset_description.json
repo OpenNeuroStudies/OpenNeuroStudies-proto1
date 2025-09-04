@@ -1,0 +1,21 @@
+{
+  "Name": "Preschool Anxiety Disorders",
+  "BIDSVersion": "1.10.1",
+  "License": "CCO",
+  "Authors": [
+    "Kimberly L. H. Carpenter",
+    "Adrian Angold",
+    "Nan-Kuei Chen",
+    "William E. Copeland",
+    "Pooja Gaur",
+    "Kevin Pelphrey",
+    "Allen W. Song",
+    "Helen L. Egger"
+  ],
+  "InstitutionName": "Duke University",
+  "Acknowledgements": "The authors would like to thank Drs. E. Jane Costello, Lauren Franz, and Guillermo Sapiro, all of Duke University, for their thoughtful feedback on this manuscript and many fruitful discussions concerning this data. We would also like to thank our study coordinators, Kristen Caldwell and Brian Small, and our interviewing team: Alice Bartram, Andrew Blonde, Carmen Bondy, Jason Chavarria, Priscilla Mpasi, Adrienne Pearson, Kirsten Robb, Alex Vann, and Lucy Zhang. Finally, we are especially grateful to the families who participated in this study.",
+  "HowToAcknowldege": "This data was obtained from the OpenfMRI database. Its accession number is ds000144 ",
+  "Funding": "This work was supported by National Institutes of Mental Health (http://www.nimh.nih.gov/) grant R01-MH-081025 and a National Alliance for Research in Schizophrenia and Affective Disorders Young Investigator Award (http://bbrfoundation.org/) awarded to HLE, National Institute of Mental Health (http://www.nimh.nih.gov/) grant R01-MH-075766 awarded to AA, and National Institute for Neurological Disorders and Stroke (http://www.ninds.nih.gov/) grant R01-NS074045 awarded to NC.",
+  "ReferenceAndLinks": "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0116854",
+  "DatasetType": "study"
+}

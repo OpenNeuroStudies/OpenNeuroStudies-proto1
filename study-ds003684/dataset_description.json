@@ -1,0 +1,20 @@
+{
+  "Name": "Finger sequence planning",
+  "Authors": [
+    "Giacomo Ariani",
+    "J Andrew Pruszynski",
+    "J\u00f6rn Diedrichsen"
+  ],
+  "HowToAcknowledge": "If you use these data, please cite the appropriate manuscripts.",
+  "Funding": [
+    "NSERC Discovery Grant (RGPIN-2016-04890)",
+    "Canada First Research Excellence Fund (BrainsCAN)"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003684.v1.0.0",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2020.12.17.423254v3\\"
+  ],
+  "DatasetType": "study"
+}

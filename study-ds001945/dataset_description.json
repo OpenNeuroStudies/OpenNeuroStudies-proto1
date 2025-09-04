@@ -1,0 +1,24 @@
+{
+  "ReferencesAndLinks": [
+    "Mouse lemur template and atlas created from this dataset: https://www.nitrc.org/projects/mouselemuratlas; Additional information on this dataset can be found in the following papers: Nadkarni, N. A, Bougacha, S., Garin, C., Dhenain, M., & Picq, J. L. (2018). Digital templates and brain atlas dataset for the mouse lemur primate. Data in Brief, 21 11781185. doi:10.1016/j.dib.2018.10.067"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001945.v1.0.0",
+  "Acknowledgements": "",
+  "Funding": [
+    "France-Alzheimer Association",
+    "Plan Alzheimer Foundation",
+    "French Public Investment Bank\u2019s \u201cROMANE\u201d program"
+  ],
+  "Name": "MouseLemurAtlas_MRIraw",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Nadkarni, N. A.",
+    "Bougacha, S.",
+    "Garin, C.",
+    "Picq, J. L.",
+    "Dhenain, M."
+  ],
+  "HowToAcknowledge": "The following publication should be cited when using this dataset: Nadkarni, N. A., Bougacha, S., Garin, C., Dhenain, M., & Picq, J. L. (2019). A 3D population-based brain atlas of the mouse lemur primate with examples of applications in aging studies and comparative anatomy. Neuroimage, 185, 85-95. doi:10.1016/j.neuroimage.2018.10.010",
+  "DatasetType": "study"
+}

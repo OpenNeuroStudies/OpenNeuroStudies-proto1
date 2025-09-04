@@ -1,0 +1,30 @@
+{
+  "Name": "The Reading Brain Project L1 Adults",
+  "License": "CC0",
+  "Authors": [
+    "Ping Li",
+    "Chun-Ting Hsu",
+    "Ben Schloss",
+    "Anya Yu",
+    "Lindsey Ma",
+    "Marissa Scotto",
+    "Friederike Seyfried",
+    "Chanyuan Gu"
+  ],
+  "Acknowledgements": "We would like to acknowledge the generous support from the National Science Foundation through the NCS program (#1633817, #1533625), and members of the Brain, Language, and Computation Lab who have contributed to this project in the past in various capacities: Roy Clariana and Bonnie Meyer (Co-PIs), Jake Follmer, Chih-ting Chang, Jennifer Legault, Jing Yang, Shin-Yi Fang (former graduate students or postdocs), Olivia Barnum (lab manager), Rose Yuratovac (former lab manager), and Tanner Quiggle, Shara Chopra  and Ahmed Yumna (former undergraduate students). We also thank the Center for NMR Research of Penn State Milton S. Hershey Medical Center that has enabled the smooth collection of data reported here (Emma Cartisano, YunQing Li, Sebastian Rupprecht, Chris Sica,  Qing X. Yang, Jeff Vesek, and Jian-li Wang).",
+  "HowToAcknowledge": "When using the data, please cite the following 'This data was obtained from the OpenNeuro database.' Please also cite the following references: Li & Clariana (2019) and Follmer et al. (2018) -- see full references below.",
+  "Funding": [
+    "This project was supported by the National Science Foundation as part of the Integrative Strategies for Understanding Neural and Cognitive Systems (NCS) program (#BCS-1533625)."
+  ],
+  "ReferencesAndLinks": [
+    "Please cite the following papers when using this data:",
+    "Li, P., & Clariana, R. (2019) Reading comprehension in L1 and L2: An integrative appraoch. Journal of Neurolinguistics, 50, 94-105.(https://doi.org/10.1016/j.jneuroling.2018.03.005)",
+    " Follmer, J., Fang, S., Clariana, R., Meyer, B., & Li, P (2018). What predicts adult readers' understanding of STEM texts? Reading and Writing, 31, 185-214.(https://doi.org/10.1007/s11145-017-9781-x)",
+    "Hsu, C.-T., Clariana, R., Schloss, B., & Li, P. (2019). Neurocognitive signatures of naturalistic reading of scientific texts: a fixation-related fMRI study. Scientific Reports, 9(1), 1-16. (https://doi.org/10.1038/s41598-019-47176-7)",
+    "Please refer to the website for more detailed information of the project:",
+    "http://blclab.org/reading_brain"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003974.v3.0.0",
+  "DatasetType": "study"
+}

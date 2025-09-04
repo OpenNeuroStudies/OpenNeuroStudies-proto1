@@ -1,0 +1,22 @@
+{
+  "Name": "Test",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Avijit Chowdhury"
+  ],
+  "Acknowledgements": "Nil",
+  "HowToAcknowledge": "NA",
+  "Funding": [
+    "Pilot"
+  ],
+  "EthicsApprovals": [
+    "Harvard"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/001012092119281"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003714.v1.0.1",
+  "HEDVersion": "7.1.1"
+}

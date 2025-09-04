@@ -1,0 +1,26 @@
+{
+  "Name": "Electrical stimulation of temporal and limbic circuitry produces distinct responses in human ventral temporal cortex",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Harvey Huang",
+    "Nicholas M Gregg",
+    "Gabriela Ojeda Valencia",
+    "Benjamin H Brinkmann",
+    "Brian N Lundstrom",
+    "Gregory A Worrell",
+    "Kai J Miller",
+    "Dora Hermes"
+  ],
+  "Acknowledgements": "Cindy Nelson, Karla Crockett",
+  "HowToAcknowledge": "This dataset is part of the paper on 'Electrical stimulation of temporal and limbic circuitry produces distinct responses in human ventral temporal cortex' by H Huang, NM Gregg, G Ojeda Valencia, BH Brinkmann, BN Lundstrom, GA Worrell, KJ Miller, and D Hermes. This project is funded by the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH122258 to Dora Hermes (Mayo Clinic) and by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number T32GM065841 to the Medical Scientist Training Program at Mayo Clinic. The data was collected by Harvey Huang (Mayo Clinic), Dora Hermes (Mayo Clinic), Nick Gregg (Mayo Clinic), Brian Lundstrom (Mayo Clinic) and Cindy Nelson (Mayo Clinic). The BIDS formatting was performed by Harvey Huang (Mayo Clinic), Dora Hermes (Mayo Clinic) and Gabriela Ojeda Valencia (Mayo Clinic). The iEEG data collection was facilitated by Gregory Worrell and Kai J. Miller (Mayo Clinic)",
+  "Funding": [
+    "R01 MH122258 CRCNS: Processing speed in the human connectome across the lifespan",
+    "T32 GM065841: Medical Scientist Training Program at Mayo Clinic"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2022.07.06.498994"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004457.v1.0.1",
+  "DatasetType": "study"
+}

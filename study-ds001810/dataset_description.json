@@ -1,0 +1,22 @@
+{
+  "Name": "EEG study of the attentional blink; before, during, and after transcranial Direct Current Stimulation (tDCS)",
+  "License": "CC0",
+  "Authors": [
+    "Leon C. Reteig",
+    "Lionel A. Newman",
+    "K. Richard Ridderinkhof",
+    "Heleen A. Slagter"
+  ],
+  "Acknowledgements": "Daphne Box and Esther van der Giessen for assistance with data collection",
+  "HowToAcknowledge": "Please cite this paper: [FIXME] PUBLICATION LINK HERE",
+  "Funding": [
+    "NWO Research Talent Grant 406-12-079"
+  ],
+  "ReferencesAndLinks": [
+    "1. Noury, N., Hipp, J. F., & Siegel, M. (2016). Physiological processes non-linearly affect electrophysiological recordings during transcranial electric stimulation. NeuroImage. http://doi.org/10.1016/j.neuroimage.2016.03.065",
+    "2. Gebodh, N., Esmaeilpour, Z., Adair, D., Chelette, K., Dmochowski, J., Woods, A. J., \u2026 Bikson, M. (2019). Inherent physiological artifacts in EEG during tDCS. NeuroImage, 185(September 2018), 408\u2013424. http://doi.org/10.1016/j.neuroimage.2018.10.025"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001810.v1.1.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

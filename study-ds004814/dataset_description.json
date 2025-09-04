@@ -1,0 +1,29 @@
+{
+  "Name": "High-res gradient echo EPI and 3D GRASE data of auditory cortex",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Michelle Moerel",
+    "Essa Yacoub"
+  ],
+  "Acknowledgments": "We thank An T. Vu, Federico De Martino, and Sebastian Schmitter for help in collecting the dataset.",
+  "HowToAcknowledge": "Please cite as Moerel, et al. (2018): https://doi.org/10.1016/j.neuroimage.2017.03.063 ",
+  "Funding": [
+    "NWO Rubicon grant 446-12-010",
+    "NIH grant P41 EB015894",
+    "NIH grant P30 NS076408",
+    "NIH grant S10 RR026783",
+    "the WM KECK Foundation"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "https://doi.org/10.1016/j.neuroimage.2017.03.063 ",
+    "https://doi.org/10.1523/JNEUROSCI.3576-17.2018 ",
+    "https://doi.org/10.1038/s41598-019-41965-w"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004814.v1.0.0",
+  "EthicsApprovals": [
+    "The experimental procedures were approved by the Institutional Review Board (IRB) for human subject research at the University of Minnesota."
+  ],
+  "DatasetType": "study"
+}

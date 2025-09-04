@@ -1,0 +1,39 @@
+{
+  "Acknowledgements": "This project was supported by the Office of Research and Economic Development at Florida International University. We would like to thank Andrea Roman for her help with MRI sequence design and acquisition, Raquel Rodriguez for her help with data acquisition, Ulises Ley for his help annotating Stranger Things clips, Erica Musser for her guidance and assistance in setting up and acquiring physiological data, and Jenna Silva-Rosas for help with scheduling MRI data collection. Additional thanks to the FIU Instructional & Research Computing Center (http://ircc.fiu.edu) for providing the computing resources that contributed to the research results reported within this paper. Special thanks to Dr. Essa Yacoub and the University of Minnesota Center for Magnetic Resonance Research (CMRR) for graciously providing access to the multiband EPI sequence used for data acquisition.",
+  "Authors": [
+    "Katherine L. Bottenhorn",
+    "Taylor Salo",
+    "Julio A. Peraza",
+    "Michael C. Riedel",
+    "Jessica S. Flannery",
+    "Adam Kimbler",
+    "Alfredo Toll",
+    "Diego Suarez",
+    "Francis M. Cruz",
+    "Israel Zagales",
+    "Nayade Caldes",
+    "Olivia Dolan",
+    "Ruth Zagales",
+    "Matthew T. Sutherland",
+    "Robert W. Laird",
+    "Angela R. Laird"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds002278.v2.0.0",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "IRB-19-0226-AM02"
+  ],
+  "HowToAcknowledge": "Please cite the preprint (https://doi.org/10.1101/2024.04.16.589598) when using this dataset.",
+  "License": "CC0",
+  "Name": "Dense Investigation of Variability of Affect (DIVA)",
+  "ReferencesAndLinks": [
+    "https://nbclab.github.io/projects/diva",
+    "https://github.com/NBCLab/localizer-task",
+    "https://github.com/NBCLab/film-viewing-task",
+    "https://github.com/NBCLab/probabilistic-selection-task",
+    "https://github.com/NBCLab/eirt-task",
+    "https://github.com/NBCLab/sorpf-task",
+    "https://github.com/NBCLab/arithmetic-task"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "A  dataset  recorded  during  development  of a  tempo-based  brain-computer  music  interface",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Ian Daly",
+    "Nicoletta Nicolaou",
+    "Duncan Williams",
+    "Faustina Hwang",
+    "Alexis Kirke",
+    "Eduardo Miranda",
+    "Slawomir J. Nasuto"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002720.v1.0.1",
+  "DatasetType": "study"
+}

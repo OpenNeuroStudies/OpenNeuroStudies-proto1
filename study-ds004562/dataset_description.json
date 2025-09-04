@@ -1,0 +1,22 @@
+{
+  "Name": "MVPA for motor adaptation",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Youngjo Song",
+    "Wooree Shin",
+    "Pyeongsoo Kim",
+    "Jaeseung Jeong"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004562.v1.0.4",
+  "License": "CC0",
+  "Funding": [
+    "KAIST-funded Global Singularity Research Program",
+    "Bio & Medical Technology Development Program of the National Research Foundation (NRF) and Korean government (MSIT) [NRF2019M3E5D2A01066265]",
+    "Pilot Project for Commercialization of Police Technology Public Research through the Commercializations Promotion Agency for R&D Outcomes funded by the National Police Agency and the Ministry of Science, ICT & Future Planning (Grant no: 1711174175)"
+  ],
+  "HowToAcknowledge": "Song Y, Shin W, Kim P and Jeong J (2023) Neural representations for multi-context visuomotor adaptation and the impact of common representation on multi-task performance: a multivariate decoding approach. Front. Hum. Neurosci. 17:1221944. doi: 10.3389/fnhum.2023.1221944",
+  "EthicsApprovals": [
+    "All participants provided written informed consent, and the Institutional Review Board of the Korea Advanced Institute of Science and Technology approved the study (approval number: KH2019-164)."
+  ],
+  "DatasetType": "study"
+}

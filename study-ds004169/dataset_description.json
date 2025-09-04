@@ -1,0 +1,28 @@
+{
+  "Authors": [
+    "Strike, Lachlan T.",
+    "Blokland, Gabriella A.M.",
+    "Hansell, Narelle K.",
+    "Martin, Nicholas G.",
+    "Toga, Arthur W.",
+    "Thompson, Paul M.",
+    "de Zubicaray, Greig I.",
+    "McMahon, Katie L.",
+    "Wright, Margaret J."
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "National Institute of Child Health and Human Development (R01 HD050735),",
+    "National Health and Medical Research Council (486682, 1009064)"
+  ],
+  "License": "CC0",
+  "Name": "Queensland Twin IMaging (QTIM)",
+  "Acknowledgements": "We are forever grateful to the twins and siblings for their willingness to participate in our studies. We thank Marlene Grace and Ann Eldridge for participant recruitment; Kerrie McAloney for study co-ordination; Kori Johnson, Aaron Quiggle, Natalie Garden, Matthew Meredith, Peter Hobden, Kate Borg, Aiman Al Najjar and Anita Burns for data acquisition; David Butler and Daniel Park for IT support.",
+  "ReferencesAndLinks": [],
+  "HowToAcknowledge": "For T1w data, please cite: Strike L. T., Hansell N. K., Couvy-Duchesne B., Thompson P. M., de Zubicaray G. I., McMahon K. L., Wright M. J. Genetic Complexity of Cortical Structure: Differences in Genetic and Environmental Factors Influencing Cortical Surface Area and Thickness. Cereb Cortex. 2019 Mar 1;29(3):952-962. https://doi.org/10.1093/cercor/bhy002\n\nFor n-back task data, please cite: Blokland, G. A., McMahon, K. L., Thompson, P. M., Martin, N. G., de Zubicaray, G. I., & Wright, M. J. (2011). Heritability of working memory brain activation. The Journal of neuroscience : the official journal of the Society for Neuroscience, 31(30), 10882-10890. https://doi.org/10.1523/JNEUROSCI.5334-10.2011\n\nFor rest data, please cite: Sinclair, B., Hansell, N. K., Blokland, G. A., Martin, N. G., Thompson, P. M., Breakspear, M., de Zubicaray, G. I., Wright, M. J., & McMahon, K. L. (2015). Heritability of the network architecture of intrinsic brain functional connectivity. NeuroImage, 121, 243-252. https://doi.org/10.1016/j.neuroimage.2015.07.048",
+  "EthicsApprovals": [
+    "Written, informed consent was obtained from all participants, including a parent or guardian for those aged under 18 years, and the study was approved by the Human Research Ethics Committee at the QIMR Berghofer Medical Research Institute (Ref#P701)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004169.v1.0.0",
+  "DatasetType": "study"
+}

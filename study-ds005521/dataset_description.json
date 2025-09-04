@@ -1,0 +1,20 @@
+{
+  "Name": "Macaque Color, Contrast, and Spatial Frequency Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Spencer Loggia",
+    "Stuart Duffield",
+    "Kurt Braunlich",
+    "Bevil Conway"
+  ],
+  "CuratedBy": [
+    "Arshitha Basavaraj",
+    "Dustin Moraczewski"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.1673-23.2024"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005521.v1.0.0"
+}

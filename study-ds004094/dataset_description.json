@@ -1,0 +1,27 @@
+{
+  "Acknowledgements": "The authors thank Susannah Cox, Jillian Perez, and Ata Karagoz for their assistance in collecting the data and for helpful discussions.",
+  "Authors": [
+    "Athula Pudhiyidath",
+    "Neal W Morton",
+    "Rodrigo Viveros Duran",
+    "Anna C. Schapiro",
+    "Ida Momennejad",
+    "Demitrius M. Hinojosa-Rowland",
+    "Robert J. Molitor",
+    "Alison R. Preston"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004094.v1.0.1",
+  "Funding": [
+    "National Institute of Mental Health Grant R01MH100121"
+  ],
+  "HowToAcknowledge": "Cite the paper (see README for details)",
+  "License": "CC0",
+  "Name": "Effects of temporal community structure learning on reasoning decisions",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2021.10.12.462707",
+    "https://doi.org/10.5281/zenodo.4793426",
+    "https://doi.org/10.1162/jocn_a_01864"
+  ],
+  "DatasetType": "study"
+}

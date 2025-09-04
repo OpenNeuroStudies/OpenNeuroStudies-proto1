@@ -1,0 +1,22 @@
+{
+  "Name": "Can we have a second helping? A replication study on the neurobiological mechanisms underlying self-control",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Van der Laan, L.N.",
+    "Scholz, C.",
+    "Poldrack, R.A.",
+    "De Ridder, D.T.D.",
+    "Smidts, A."
+  ],
+  "Acknowledgements": "We would like to acknowledge the generous support from the National Sciences Foundation (NWO) through the Pilot Replication program (# 401.16.023). Further, we would like to acknowledge Nadine van der Waal and Timo Matzen who helped with the data acquisition.",
+  "HowToAcknowledge": "When using data, please cite the following: 'This data was obtained from the OpenNeuro database.' Please also cite the following references: Scholz et al. (in prep) -- see full reference below.",
+  "Funding": [
+    "This work is part of the research programme Pilot Replication with project number 401.16.023, which is (partly) financed by the Dutch Research Council (NWO)"
+  ],
+  "ReferencesAndLinks": [
+    "Please cite the following papers when using this data: Scholz, C., Chan, H.Y., Poldrack, R.A., De Ridder, D.T.D., Smidts, A., Van der Laan, L.N. (in preparation) Can we have a second helping? A replication study on the neurobiological mechanisms underlying self-control. Preregistration file of the study: https://osf.io/qnpjm"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds002643.v1.1.0",
+  "DatasetType": "study"
+}

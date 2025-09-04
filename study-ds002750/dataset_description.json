@@ -1,0 +1,10 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "YanDataBIDS",
+  "Authors": [
+    "Chao-Gan Yan"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002750.v1.0.1",
+  "DatasetType": "study"
+}

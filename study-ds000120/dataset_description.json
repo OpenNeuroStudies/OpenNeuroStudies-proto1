@@ -1,0 +1,20 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Developmental changes in brain function underlying the influence of reward processing on inhibitory control (Slot Reward)",
+  "Description": "Adolescence is a period marked by changes in motivational and cognitive brain systems. However, the development of the interactions between reward and cognitive control processing are just beginning to be understood. Using event-related functional neuroimaging and an incentive modulated antisaccade task, we compared blood-oxygen level dependent activity underlying motivated response inhibition in children, adolescents, and adults.",
+  "License": "PDDL",
+  "Authors": [
+    "Aarthi Padmanabhana",
+    "Charles F. Geier",
+    "Sarah J. Ordaz",
+    "Theresa Teslovich",
+    "Beatriz Luna"
+  ],
+  "Acknowledgements": "This study was supported by National Institute of Mental Health Grant MH080243.",
+  "HowToAcknowledge": "",
+  "Funding": "This study was supported by National Institute of Mental Health Grant MH080243.",
+  "ReferencesAndLinks": [
+    "http://www.sciencedirect.com/science/article/pii/S1878929311000612"
+  ],
+  "DatasetType": "study"
+}

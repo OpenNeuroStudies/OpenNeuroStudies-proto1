@@ -1,0 +1,14 @@
+{
+  "Name": "CEREBRuM: a 3T MRI segmentation tool",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Michele Svanera",
+    "Lars Muckli"
+  ],
+  "Funding": [
+    "This project has received funding from the European Union\u2019s Horizon 2020 Programme for Research and Innovation under the Specific Grant Agreement No. 785907 (Human Brain Project SGA2) awarded to Lars Muckli."
+  ],
+  "License": "CC0",
+  "DatasetDOI": "mockDOI",
+  "DatasetType": "study"
+}

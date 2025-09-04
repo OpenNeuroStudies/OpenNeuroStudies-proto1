@@ -1,0 +1,22 @@
+{
+  "Acknowledgements": "We thank Julia P\u00f6schko and Thomas Zussner for their help with data collection and Marcel Jud for his assistance in setting up the experiment. ",
+  "Authors": [
+    "Simon M. Ceh",
+    "Sonja Annerer-Walcher",
+    "Karl Koschutnig",
+    "Christof K\u00f6rner",
+    "Mathias Benedek"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003176.v2.0.0",
+  "Funding": [
+    "Austrian Science Fund (FWF): P29801-B27"
+  ],
+  "HowToAcknowledge": "please note that the article is currently under review. for further information, please contact the corresponding author Mathias Benedek (mathias.benedek@uni-graz.at).",
+  "License": "CC0",
+  "Name": "Neurophysiological indicators of internal attention: An fMRI\u2013eye-tracking coregistration study",
+  "ReferencesAndLinks": [
+    "https://osf.io/74vnq"
+  ],
+  "DatasetType": "study"
+}

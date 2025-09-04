@@ -1,0 +1,27 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Ye Wu",
+    "Xiaoming Liu",
+    "Yunzhi Huang",
+    "Tao Zhou",
+    "Fan Zhang"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004910.v1.0.1",
+  "Funding": [
+    "National Key R.D Program of China (Nos. 2023YFE0118600 and 2023YFF1204800)",
+    "National Natural Science Foundation of China (Nos. 62201265, 62371107, 62101365, 62172228)",
+    "Natural Science Foundation of Hubei Province of China (No. 2021CFB442)"
+  ],
+  "HowToAcknowledge": "This dataset was obtained from the OpenNeuro database.",
+  "License": "CC0",
+  "Name": "An open relaxation-diffusion MRI dataset in neurosurgical studies",
+  "ReferencesAndLinks": [
+    "https://dryewu.github.io"
+  ],
+  "EthicsApprovals": [
+    "All participants provided written informed consent before participation and signed informed consent regarding publishing their data. The Research Ethics Committee, Faculty of Medicine in Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, China approved the study protocols."
+  ],
+  "DatasetType": "study"
+}

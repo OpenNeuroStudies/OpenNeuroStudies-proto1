@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "Pleaser refer to README",
+  "Authors": [
+    "Yiming Xiao",
+    "Jonathan C. Lau",
+    "Taylor Anderson",
+    "Jordan DeKraker",
+    "D. Louis Collins",
+    "Terry M. Peters",
+    "Ali R. Khan"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002016.v1.0.0",
+  "Funding": [
+    "BrainsCAN",
+    "Canadian Institutes of Health Research"
+  ],
+  "HowToAcknowledge": "Please refer to README",
+  "License": "Pleaes refer to README",
+  "Name": "BigBrainMRICoreg",
+  "ReferencesAndLinks": [
+    "BigBrainMRICoreg",
+    "Pleaes refer to README for the relevant publications"
+  ],
+  "DatasetType": "study"
+}

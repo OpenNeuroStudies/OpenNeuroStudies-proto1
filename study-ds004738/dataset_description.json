@@ -1,0 +1,20 @@
+{
+  "Acknowledgements": "We thank Georg Bahners for his help with building the phantom and Pia Hartmann and Luisa Spallek for their assistance during recordings. EF gratefully acknowledges support by the Volkswagen Foundation (Lichtenberg program 89387). BHB gratefully acknowledges support by the Prof. Dr. Klaus Thiemann Foundation (Parkinson Fellowship 2022). RL gratefully acknowledges support by the Berlin Institute of Health (Clincian Scientist Programm 2021 2024).",
+  "Authors": [
+    "Bahne H. Bahners",
+    "Roxanne Lofredi",
+    "Tilmann Sander",
+    "Alfons Schnitzler",
+    "Andrea A. Kuhn",
+    "Esther Florin"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Funding": [
+    "Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation), Project ID 424778381, TRR 295."
+  ],
+  "HowToAcknowledge": "Please acknowledge the authors and cite the following reference: Bahne H Bahners, Roxanne Lofredi, Tilmann Sander, Alfons Schnitzler, Andrea A Kuhn, Esther Florin. Deep brain stimulation device-specific artefacts in MEG recordings. doi: tba",
+  "Name": "sfb_meg_phantom (B04/C01)",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004738.v1.0.1",
+  "License": "CC0"
+}

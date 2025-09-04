@@ -1,0 +1,36 @@
+{
+  "Acknowledgements": "We would like to thank the following people: Mario Mendoza, Craig Stark, Rongwen Tain, Bailey Tranquada-Torres, Rob Woodry, Nikki Hatamian, Pantea Mozayeni, Candice Taylor, B. Peng, P.J.C. Peng, Simone K\u00fchn and colleagues, Magdalena Mart\u00ednez-Garc\u00eda, Susana Carmona, Scott Grafton, Javier Gonzalez-Castillo and Peter Bandettini.",
+  "Authors": [
+    "Laura Pritschet",
+    "Caitlin M. Taylor",
+    "Daniela Cossio",
+    "Joshua Faskowitz",
+    "Tyler Santander",
+    "Daniel A. Handwerker",
+    "Hannah Grotzinger",
+    "Evan Layher",
+    "Elizabeth R. Chrastil",
+    "Emily G. Jacobs"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005299.v1.0.0",
+  "Funding": [
+    "NIH AG063843; EGJ",
+    "NIH F99AG07979; LP",
+    "ReproGrants; HG, EGJ, ERC",
+    "UC Academic Senate; EGJ",
+    "UC Irvine Campus Funds; ERC",
+    "UC Irvine Campus Funds (ERC)",
+    "Intramural Research Program of the National Institute of Mental Health (annual report ZIAMH002783); J.F. & D.A.H",
+    "Ann S. Bowers Women's Brain Health Initiative (EGJ, CT)",
+    "NIH T32 AG00096-40; DC"
+  ],
+  "HowToAcknowledge": "When using this data, please cite: \nPritschet, L., Taylor, C. M., Cossio, D., Faskowitz, J., Santander, T., Handwerker, D. A., ... & Jacobs, E. G. (2023). Neuroanatomical changes observed over the course of a human pregnancy. bioRxiv, 2023-12 ",
+  "License": "CC0",
+  "Name": "Maternal Brain Project",
+  "ReferencesAndLinks": [
+    "https://wbhi.ucsb.edu/",
+    "https://www.biorxiv.org/content/10.1101/2023.12.14.571688v2"
+  ],
+  "DatasetType": "study"
+}

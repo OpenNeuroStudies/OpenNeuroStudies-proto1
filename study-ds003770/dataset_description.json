@@ -1,0 +1,21 @@
+{
+  "Name": "Depression Treatment by Medial Prefrontal Real-Time fMRI Neurofeedback",
+  "License": "CC0",
+  "Authors": [
+    "Bezmaternykh DD",
+    "Melnikov ME",
+    "Savelov AA",
+    "Petrovskii ED"
+  ],
+  "Acknowledgements": "Mark Shtark, Kira Natarova.",
+  "Funding": [
+    "The study was supported by Russian Science Foundation grant \u2116 16-15-00183."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003770.v1.2.1",
+  "HowToAcknowledge": "Please cite:\nMel\u2019nikov, M.Y., Bezmaternykh, D.D., Savelov, A.A. et al. Real-time fMRI neurofeedback compared to cognitive behavioral therapy in a pilot study for the treatment of mild and moderate depression. Eur Arch Psychiatry Clin Neurosci (2022).\nhttps://doi.org/10.1007/s00406-022-01462-0",
+  "ReferencesAndLinks": [
+    "https://link.springer.com/article/10.1007/s00406-022-01462-0#citeas"
+  ],
+  "DatasetType": "study"
+}

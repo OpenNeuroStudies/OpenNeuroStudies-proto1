@@ -1,0 +1,32 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Amy Kartar",
+    "Toru Horinouchi",
+    "Bal\u00e1zs \u00d6rzsik",
+    "Brittany Anderson",
+    "Lottie Hall",
+    "Duncan Bailey",
+    "Sarah Samuel",
+    "Nati Beltran",
+    "Samira Bouyagoub",
+    "Chris Racey",
+    "Yoko Nagai",
+    "Iris Asllani",
+    "Hugo Critchley",
+    "Alessandro Colasanti"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005365.v1.0.1",
+  "Funding": [
+    "No funding declared"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Neurobiological substrates of Altered State of Consciousness Induced by High Ventilation Breathwork",
+  "ReferencesAndLinks": [],
+  "EthicsApprovals": [
+    "Brighton and Sussex Medical School (BSMS) Research Governance and Ethics Committee"
+  ],
+  "DatasetType": "study"
+}

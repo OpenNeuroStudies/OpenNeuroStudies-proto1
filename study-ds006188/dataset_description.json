@@ -1,0 +1,69 @@
+{
+  "Name": "PAFIN: PennLINC AFfective INstability- ASLPrep Derivatives",
+  "Authors": [
+    "Juliette B. H. Brook",
+    "Taylor Salo",
+    "Audrey C. Luo",
+    "Joelle Bagautdinova",
+    "Sage Rush",
+    "Aaron F. Alexander-Bloch",
+    "Erica B. Baller",
+    "Monica E. Calkins",
+    "Matt Cieslak",
+    "Elena C. Cooper",
+    "John A. Detre",
+    "Mark A. Elliot",
+    "Damien A. Fair",
+    "Phoebe Freedman",
+    "Philip R. Gehrman",
+    "Ruben C. Gur",
+    "Raquel E. Gur",
+    "Arno Klein",
+    "Nina Laney",
+    "Timothy O. Laumann",
+    "Kahini Mehta",
+    "Kathleen Merikangas",
+    "Michael Milham",
+    "Jonathan A. Mitchell",
+    "Tyler M. Moore",
+    "Steven M. Nelson",
+    "Kosha Ruparel",
+    "Brooke L. Sevchik",
+    "Sheila Shanmugan",
+    "Haochang Shou",
+    "Manuel Taso",
+    "Lauren K. White",
+    "Daniel H. Wolf",
+    "M. Dylan Tisdall",
+    "David R. Roalf",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "ASLPrep derivatives for the PAFIN dataset.",
+  "GeneratedBy": [
+    {
+      "Name": "ASLPrep",
+      "Version": "0.7.5",
+      "CodeURL": "https://github.com/PennLINC/aslprep/archive/0.7.5.tar.gz"
+    },
+    {
+      "Name": "fMRIPrep",
+      "Version": "24.1.1",
+      "CodeURL": "https://github.com/nipreps/fmriprep/archive/24.1.1.tar.gz"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds006131"
+    }
+  ],
+  "DatasetLinks": {
+    "raw": "https://openneuro.org/datasets/ds006131",
+    "fmriprep": "https://openneuro.org/datasets/ds006185",
+    "templateflow": "https://github.com/templateflow/templateflow"
+  },
+  "HowToAcknowledge": "Please cite our paper and include the generated citation boilerplate within the Methods section of the text.",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006188.v1.0.0"
+}

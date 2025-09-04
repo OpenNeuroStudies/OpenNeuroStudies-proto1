@@ -1,0 +1,40 @@
+{
+  "Name": "NOD-MEG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Guohao Zhang",
+    "Ming Zhou",
+    "Shaohua Tang",
+    "Shuyi Zhen",
+    "Zheng Li",
+    "Zonglei Zhen"
+  ],
+  "Acknowledgements": "This research was supported by Beijing Natural Science Foundation (L247010), National Natural Science Foundation of China (62433015, 31771251) and STI 2030-Major Projects of the Ministry of Science and Technology of China (2021ZD0200407). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication.",
+  "HowToAcknowledge": "Please cite this paper.TODO: add doi",
+  "Funding": [
+    "Beijing Natural Science Foundation (#L247010)",
+    "National Natural Science Foundation of China (#62433015, #31771251)",
+    "STI 2030-436 Major Projects of the Ministry of Science and Technology of China437 (#2021ZD0200407)"
+  ],
+  "EthicsApprovals": [
+    "name: Beijing Normal University",
+    "number: ICBIR_A_0111_001_02"
+  ],
+  "ReferencesAndLinks": [
+    "NOD-fMRI: doi:10.18112/openneuro.ds004496.v2.1.2"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005810.v1.0.6",
+  "GeneratedBy": [
+    {
+      "Name": "mne",
+      "Version": "1.7.1"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds004496.v1.2.2"
+    }
+  ]
+}

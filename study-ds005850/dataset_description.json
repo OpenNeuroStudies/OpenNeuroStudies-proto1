@@ -1,0 +1,25 @@
+{
+  "Name": "Spoken narrative comprehension in Chinese",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lanfang Liu",
+    "Jiahao Jiang",
+    "Guosheng Ding",
+    "Hehui Li"
+  ],
+  "Acknowledgments": "We thank Sihe Feng for preparing the BIDS dataset",
+  "HowToAcknowledge": "Please cite:  Liu Lanfang, Jiang Jiahao, Li Hehui, Ding Guosheng (2024) Tripartite organization of brain state dynamics underlying spoken narrative comprehension. eLife ",
+  "Funding": [
+    "This work was supported by grants from the National Natural Science Foundation of China (NSFC: 32471100, 31900802 ), Guangdong Basic and Applied Basic Research Foundation (2024A1515030046)"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.7554/eLife.99997.1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005850.v1.0.0",
+  "Acknowledgements": "We appreciate Sihe Feng for organizing the data. ",
+  "EthicsApprovals": [
+    "This research was approved by the Reviewer Board of Beijing Normal University in China (ICBIR_A_0002_009)"
+  ],
+  "DatasetType": "study"
+}

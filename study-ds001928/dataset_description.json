@@ -1,0 +1,23 @@
+{
+  "Name": "Functional Connectivity of Music-Induced Analgesia in Fibromyalgia",
+  "BIDSVersion": "1.10.1",
+  "ReferencesAndLinks": [
+    "Pando-Naude et al., 2019: Functional Connectivity of Music-Induced Analgesia in Fibromyalgia"
+  ],
+  "HowToAcknowledge": "Please cite the paper",
+  "License": "CC0",
+  "Acknowledgements": "Luis Concha, Juan J. Ortiz, Juan I. Romero Romo, Micah Allen.",
+  "Funding": "The Funding for Neurology Research, The Augustinus Fonden, Danish Basic Research Foundation, Ulla and Mogens Folmer Andersen Foundation, The Institute of Neurobiology UNAM",
+  "Authors": [
+    "Eduardo A. Garza-Villarreal",
+    "Victor Pando-Naude",
+    "Fernando A. Barrios",
+    "Peter Vuust",
+    "Lene Vase",
+    "Elvira Brattico",
+    "Erick H. Pasaye",
+    "Sarael Alcauter"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001928.v1.1.0",
+  "DatasetType": "study"
+}

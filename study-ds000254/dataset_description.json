@@ -1,0 +1,13 @@
+{
+  "Name": "Multiband Multi-Echo Simultaneous ASL/BOLD for task-induced functional MRI",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Alexander D. Cohen",
+    "Andrew S. Nencka",
+    "Yang Wang"
+  ],
+  "Acknowledgments": "The authors thank Marc Lebel, PhD for assistance with the ASL portion of the pulse sequence, and Ajit Shankaranarayanan, PhD and Matthew J. Middione, PhD from GE Healthcare for providing the source code of the GE multiband sequence.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000254",
+  "Funding": "This work was supported by a Daniel M. Soref Charitable Trust Grant (to YW)",
+  "DatasetType": "study"
+}

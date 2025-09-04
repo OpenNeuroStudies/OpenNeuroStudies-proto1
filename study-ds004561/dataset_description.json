@@ -1,0 +1,12 @@
+{
+  "Name": "Illusion of Agency over Electrically-Actuated Movements",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "John Veillette",
+    "Pedro Lopes",
+    "Howard Nusbaum"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004561.v1.0.0",
+  "License": "CC0"
+}

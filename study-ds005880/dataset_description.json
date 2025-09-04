@@ -1,0 +1,26 @@
+{
+  "Name": "BIDS Dataset for the Diminished Seventh Chord",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Chen-Gia Tsai",
+    "Ling-Yao Chien",
+    "Joshua Oon Soo Goh"
+  ],
+  "Corresponding author": [
+    "Please send correspondence to Chen-Gia Tsai, Ph.D.",
+    "Graduate Institute of Musicology, National Taiwan University, No.1, Sec. 4, Roosevelt Road, Taipei, 106, Taiwan. (R.O.C.)",
+    "Email: tsaichengia@ntu.edu.tw"
+  ],
+  "Acknowledgements": "We gratefully acknowledge the technical and facility support provided by the Imaging Center for Integrated Body, Mind, and Culture Research at National Taiwan University. Special thanks to Yi-Fan Fu for her assistance with data collection and to Jing-Yu Chuang for her contributions to data analysis. We also extend our gratitude to all the participants who took part in this study.",
+  "HowToAcknowledge": "Please cite this dataset as: Tsai, C.G., Chien, L.Y., & Goh, JOS. (2025). BIDS Dataset for the Diminished Seventh Chord. DOI: 10.18112/openneuro.ds005880.v1.0.0",
+  "Funding": [
+    "MOST 110-2410-H-002-210 from Ministry of Science and Technology, Taiwan",
+    "NSC 112-2410-H-002 -071 from Ministry of Science and Technology, Taiwan"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005880.v1.0.2",
+  "EthicsApprovals": [
+    "All participants gave informed written consent to the protocol of the study, which was approved by the Institutional Review Board of National Taiwan University (202007HM031). Our research was performed in accordance with relevant guidelines/regulations and with the Declaration of Helsinki."
+  ],
+  "DatasetType": "study"
+}

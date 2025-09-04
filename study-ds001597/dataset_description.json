@@ -1,0 +1,17 @@
+{
+  "Name": "multiFingerRSA",
+  "License": "Creative Commons CC0 1.0",
+  "Authors": [
+    "Patrick Beukema",
+    "Timothy Verstynen"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NSF Career Award 1351748, Pennsylvania Department of Health Formula Award SAP4100062201, Multimodal Neuroimaging Training Program NIH T90 DA022761"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001597.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,54 @@
+{
+  "Name": "InclusionStudy",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "DataLicense": "PDDL",
+  "Authors": [
+    "Meryem A. Y\u00fccel",
+    "Jessica E. Anderson",
+    "De'Ja Rogers",
+    "Parisa Hajirahimi",
+    "Parya Farzam",
+    "Yuanyuan Gao",
+    "Rini I. Kaplan",
+    "Emily J. Braun",
+    "Nishaat Mukadam",
+    "Sudan Duwadi",
+    "Laura Carlton",
+    "David Beeler",
+    "Lindsay K. Butler",
+    "Erin Carpenter",
+    "Jaimie Girnis",
+    "John Wilson",
+    "Vaibhav Tripathi",
+    "Yiwen Zhang",
+    "Bettina Sorger",
+    "Alexander von L\u00fchmann",
+    "David C. Somers",
+    "Alice Cronin-Golomb",
+    "Swathi Kiran",
+    "Terry D. Ellis",
+    "David A. Boas"
+  ],
+  "Acknowledgements": "This research was supported by Meta Reality Labs (formerly Facebook Technologies, LLC) as part of the Engineering Approaches to Responsible Neural Interface Design Initiative (MAY). We would also like to acknowledge NIH U01EB0239856 (MAY, DB, SK, DS, ACG, TDE), NSF Research Traineeship Program (DGE-1633516) (EC), the Netherlands Organization for Scientific Research (NWiOd i-VGrant VI.Vidi.191.210) (BS), and the German Federal Ministry of Education and Research (BIFOLD24B) (AvL). We thank the NIRx team for their valuable support in guiding us on source power correction and helping us locate the relevant information in the acquired data.",
+  "Funding": [
+    "Meta Reality Labs (formerly Facebook Technologies, LLC)",
+    "NIH U01EB0239856",
+    "NSF Research Traineeship Program (DGE-1633516)",
+    "NWiOd i-VGrant VI.Vidi.191.210",
+    "German Federal Ministry of Education and Research (BIFOLD24B)"
+  ],
+  "EthicsApprovals": [
+    "Boston University Charles River Campus (CRC) IRB. Functional Near-Infrared Spectroscopy of the Brain: 4502"
+  ],
+  "ReferencesAndLinks": [
+    "https://openneuro.org/datasets/ds005928"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Custom"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006377.v1.0.0"
+}

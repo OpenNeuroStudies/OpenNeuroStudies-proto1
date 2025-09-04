@@ -1,0 +1,19 @@
+{
+  "Name": "phfMRI_Control_Tasks",
+  "License": "CC0",
+  "Authors": [
+    "Jessica-Lily Harvey",
+    "Lysia Demetriou",
+    "John McGonigle",
+    "Matthew B. Wall"
+  ],
+  "Acknowledgements": "Imanova centre for Imaging Sciences, Hammersmith Hospital, London, UK",
+  "HowToAcknowledge": "",
+  "Funding": "No particular funding",
+  "ReferencesAndLinks": [
+    "Preprint on biorXiv here: https://www.biorxiv.org/content/early/2017/12/14/233783"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001344.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

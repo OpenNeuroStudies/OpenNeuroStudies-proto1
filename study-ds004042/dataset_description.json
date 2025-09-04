@@ -1,0 +1,18 @@
+{
+  "Name": "FilmFestival",
+  "DatasetType": "study",
+  "Authors": [
+    "Hongmi Lee",
+    "Janice Chen",
+    "Uri Hasson"
+  ],
+  "HowToAcknowledge": "Please cite these articles:\n\"Lee, H. & Chen, J. (2022a). Predicting memory from the network structure of naturalistic events. Nature Communications, 13, 4235\"\n\"Lee, H. & Chen, J. (2022b). A generalized cortical activity pattern at internally-generated mental context boundaries during unguided narrative recall. eLife, 11, e73693\"\n\"Lee, H., Chen, J., & Hasson, U. (2022). A functional neuroimaging dataset acquired during naturalistic movie watching and narrated recall of a series of short cinematic films. Data in Brief, 108788\"",
+  "ReferencesAndLinks": [
+    "Lee, H. & Chen, J. (2022a). Predicting memory from the network structure of naturalistic events. Nature Communications, 13, 4235",
+    "Lee, H. & Chen, J. (2022b). A generalized cortical activity pattern at internally-generated mental context boundaries during unguided narrative recall. eLife, 11, e73693",
+    "Lee, H., Chen, J., & Hasson, U. (2022). A functional neuroimaging dataset acquired during naturalistic movie watching and narrated recall of a series of short cinematic films. Data in Brief, 108788"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004042.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0"
+}

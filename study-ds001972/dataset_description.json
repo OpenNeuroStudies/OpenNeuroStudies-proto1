@@ -1,0 +1,15 @@
+{
+  "Name": "SVNDL anatomical data",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Peter J. Kohler",
+    "Anthony M. Norcia"
+  ],
+  "HowToAcknowledge": "Please cite this paper: xxx",
+  "ReferencesAndLinks": [
+    "xxx",
+    "Kohler PJ, Cottereau, BR, Norcia, AM (2019). Image segmentation Based on Relative Motion and Relative Disparity Cues in topographically organized Areas of Human Visual Cortex. Scientific Reports. https://doi.org/10.1038/s41598-019-45036-y"
+  ],
+  "Funding": "This research was supported by National Institutes of Health grant EY018775 awarded to AMN.",
+  "DatasetType": "study"
+}

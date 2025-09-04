@@ -1,0 +1,23 @@
+{
+  "Name": "Experience Sampling in Resting State",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sepehr Mortaheb",
+    "Laurens Van Calster",
+    "Federico Raimondo",
+    "Manousos A. Klados",
+    "Paradeisios Alexandros Boulakis",
+    "Kleio Georgoula",
+    "Steve Majerus",
+    "Dimitri Van De Ville",
+    "Athena Demertzi"
+  ],
+  "HowToAcknowledge": "Cite: https://direct.mit.edu/jocn/article/29/1/95/28621/Fluctuations-of-Attentional-Networks-and-Default",
+  "ReferencesAndLinks": [
+    "https://direct.mit.edu/jocn/article/29/1/95/28621/Fluctuations-of-Attentional-Networks-and-Default",
+    "Van Calster, Laurens, et al., Fluctuations of attentional networks and default mode network during the resting state reflect variations in cognitive states: evidence from a novel resting-state experience sampling method., Journal of Cognitive Neuroscience 29.1 (2017): 95-113."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004134.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

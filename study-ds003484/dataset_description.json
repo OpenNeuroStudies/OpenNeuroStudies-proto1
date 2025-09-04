@@ -1,0 +1,25 @@
+{
+  "Name": "Foraging in competitive and hazardous environments",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Brian Silston",
+    "Toby Wise",
+    "Song Qi",
+    "Xin Sui",
+    "Peter Dayan",
+    "Dean Mobbs"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "fmriprep",
+      "Version": "1.4.1"
+    },
+    {
+      "Name": "Custom Python scripts",
+      "Description": "Univariate and RSA analyses conducted using custom python scripts"
+    }
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003484.v1.0.0",
+  "License": "CC0"
+}

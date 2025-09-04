@@ -1,0 +1,21 @@
+{
+  "Name": "Whole-brain background-suppressed pCASL MRI with 1D-accelerated 3D RARE Stack-Of-Spirals Readout- Dataset 2",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Marta Vidorreta",
+    "Ze Wang",
+    "Yulin V. Chang",
+    "Maria A. Fernandez-Seara",
+    "John A. Detre"
+  ],
+  "Acknowledgements": "Tiejun Zhao",
+  "HowToAcknowledge": "We  are  grateful  to  Tiejun  Zhao  from  Siemens  Healthcare  for  his  valuable  help  in  the  implementation of the online reconstruction algorithm of the sequence for the Siemens platform.\n\nThis data was obtained from the OpenfMRI database. Its accession number is ds000235.",
+  "Funding": [
+    "NIH grants no. P41EB015893 and MH080729",
+    "NSFC grant no. 81471644",
+    "Hangzhou Innovation Seed Fund"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000235.v2.0.1",
+  "DatasetType": "study"
+}

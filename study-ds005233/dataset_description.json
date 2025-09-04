@@ -1,0 +1,27 @@
+{
+  "Name": "Bat rsfMRI",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Stuart D. Washington, PhD",
+    "Kyle Shattuck",
+    "Jan Steckel",
+    "Herbert Peremans",
+    "Elisabeth Jonckers",
+    "Rukun Hinz",
+    "Tom Venneman",
+    "Monica Van den Berg",
+    "Lisbeth Van Ruijssevelt",
+    "Thomas Verellen",
+    "Dominique L. Pritchett",
+    "Jan Scholliers",
+    "Sayuan Liang",
+    "Paul C. Wang",
+    "Marleen Verhoye",
+    "Karl-Heinz Esser",
+    "Annemie Van der Linden",
+    "Georgios A. Keliris"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005233.v1.0.2",
+  "License": "CC0"
+}

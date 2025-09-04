@@ -1,0 +1,18 @@
+{
+  "Name": "Brainstem fMRI signaling of surprise across different types of deviant stimuli",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Audrey Mazancieux",
+    "Franck Mauconduit",
+    "Alexis Amadon",
+    "Jan Willem de Gee",
+    "Tobias Donner",
+    "Florent Meyniel"
+  ],
+  "EthicsApprovals": [
+    "French national ethics committee (Comit\u00e9 de Protection des Personnes Ile de France 3, approval #2018-A03195-50)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004808.v1.0.0"
+}

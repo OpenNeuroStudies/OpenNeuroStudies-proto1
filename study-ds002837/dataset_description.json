@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "Drs Fred Dick, Tessa Dekker, Joe Devlin and the rest of BUCNI; Various interns and RAs who have roamed through the LAB lab.",
+  "Authors": [
+    "Sarah Aliko",
+    "Jiawen Huang",
+    "Florin Gheorghiu",
+    "Stefanie Meliss",
+    "Jeremy I Skipper"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002837.v2.0.0",
+  "Funding": [
+    "LIDo BBSRC",
+    "EPSRC EP/M026965/1"
+  ],
+  "HowToAcknowledge": "Please cite: \n\nAliko, S., Huang, J., Gheorghiu, F., Meliss, S., & Skipper, J. I. (2020). A naturalistic neuroimaging database for understanding the brain using ecological stimuli. Scientific Data, 7(1), 347.\n\nhttps://www.nature.com/articles/s41597-020-00680-2",
+  "License": "CC0",
+  "Name": "Naturalistic Neuroimaging Database",
+  "ReferencesAndLinks": [
+    "http://naturalistic-neuroimaging-database.org/",
+    "https://github.com/lab-lab/nndb",
+    "https://www.nature.com/articles/s41597-020-00680-2"
+  ],
+  "DatasetType": "study"
+}

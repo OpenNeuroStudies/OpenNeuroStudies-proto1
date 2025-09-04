@@ -1,0 +1,22 @@
+{
+  "Name": "Audio Cartography",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://scholarsbank.uoregon.edu/xmlui/handle/1794/25122",
+    "https://doi.org/10.7264/3b49-tr85",
+    "https://pqdtopen.proquest.com/pubnum/13420194.html",
+    "https://scholarsbank.uoregon.edu/xmlui/handle/1794/24538"
+  ],
+  "Funding": [
+    "National Science Foundation (NSF) Doctoral Dissertation Research Improvement (DDRI) Grant #1634086",
+    "University of Oregon (UO) Lewis Family Endowment"
+  ],
+  "HowToAcknowledge": "Data were obtained from the OpenNeuro database (https://openneuro.org/) with the accession number ds001415.  The data are a product of dissertation research at the University of Oregon funded in part by NSF DDRI 1634086 and the Lewis Family Endowment.",
+  "Acknowledgements": "Special thanks to Amy Lobben for her advising and support that guided the dissertation research which produced this data set, and to Jolinda Smith and the Robert and Beverly Lewis Center for Neuroimaging for their assistance with planning and conducting data collection.  This work benefited from access to the University of Oregon high performance computer, Talapas.  This work was conducted in accordance with a protocol approved by the Institutional Review Board at the University of Oregon.",
+  "Authors": [
+    "Brittell, M"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001415.v1.0.0",
+  "DatasetType": "study"
+}

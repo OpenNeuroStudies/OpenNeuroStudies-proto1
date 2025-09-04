@@ -1,0 +1,23 @@
+{
+  "Name": "EEG data during three near-threshold visual detection tasks: a no-cue task, a noninformative cue task (50% validity), and an informative cue task (100% validity)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Mar\u00eda Melc\u00f3n",
+    "Enrique Stern",
+    "Lydia Arana",
+    "Almudena Capilla"
+  ],
+  "Acknowledgements": "We are grateful to all participants of the database",
+  "HowToAcknowledge": "Please cite",
+  "Funding": [
+    "Ministerio de Ciencia, Innovaci\u00f3n y Universidades / Agencia Estatal de Investigaci\u00f3n, Spain / FEDER, UE (MCIU/AEI/FEDER, UE), Grant/ Award Number: PGC2018-100682- B-I00 and PID2019-111335GA-I00; Ministerio de Ciencia e Innovaci\u00f3n / Agencia Estatal de Investigaci\u00f3n, Spain / FEDER, UE (MCIN/AEI/ 10.13039/501100011033 /FEDER, UE), Grant/Award Number: PID2021- 125841NB-I00; Comunidad de Madrid. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript",
+    "Ministerio de Ciencia e Innovaci\u00f3n / Agencia Estatal de Investigaci\u00f3n, Spain / FEDER, UE (MCIN/AEI/10.13039/501100011033 /FEDER,UE), Grant/Award Number: PID2021-125841NB-I00; Comunidad de Madrid"
+  ],
+  "ReferencesAndLinks": [
+    "Melc\u00f3n, M., Stern, E., Kessel, D., Arana, L., Poch, C., Campo, P., and Capilla, A. (2024). Perception of near-threshold visual stimuli is influenced by prestimulus alphaband amplitude but not by alpha phase. Psychophysiology 61, e14525. https://doi.org/10.1111/psyp.14525.",
+    "https://doi.org/..."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006171.v1.0.0",
+  "DatasetType": "study"
+}

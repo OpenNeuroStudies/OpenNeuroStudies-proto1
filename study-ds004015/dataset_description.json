@@ -1,0 +1,17 @@
+{
+  "Name": "Attended speaker paradigm (cEEGrid data)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Bjoern Holtze",
+    "Marc Rosenkranz",
+    "Manuela Jaeger",
+    "Stefan Debener",
+    "Bojana Mirkovic"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3389/fnins.2022.869426"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004015.v1.0.2",
+  "DatasetType": "study"
+}

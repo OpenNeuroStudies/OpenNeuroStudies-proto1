@@ -1,0 +1,19 @@
+{
+  "Name": "TEST1",
+  "License": "CC0",
+  "Authors": [
+    "AR"
+  ],
+  "Acknowledgements": "AR",
+  "HowToAcknowledge": "AR",
+  "Funding": [
+    "interceptor"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "Interceptor"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002743.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

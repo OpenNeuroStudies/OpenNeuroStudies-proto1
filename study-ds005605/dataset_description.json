@@ -1,0 +1,71 @@
+{
+  "Name": "Positron Emission Tomography Quantification in rodents of Cyclooxygenase-2 (COX-2), a Potential Biomarker of Neuroinflammation",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Xuefeng Yan",
+    "Martin Noergaard",
+    "Cheryl L. Morse",
+    "Jeih-San Liow",
+    "Jinsoo Hong",
+    "Douglas Greve",
+    "Sanjay Telu",
+    "Min-Jeong Kim",
+    "Jose A. Montero Santamaria",
+    "Anthony Galassi",
+    "Ningping Feng",
+    "Sarah K. Williams Avram",
+    "Ted B. Usdin",
+    "Shawn Wu",
+    "Andrea Zhang",
+    "Lester S. Manly",
+    "Madeline Jenkins",
+    "Maia Van Buskirk",
+    "Adrian Lee",
+    "Sami S. Zoghbi",
+    "Victor W. Pike",
+    "Paolo Zanotti-Fregonara",
+    "Robert B. Innis"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "ZIAMH002852",
+    "ZIAMH002793"
+  ],
+  "EthicsApprovals": [
+    "Animal studies adhered strictly to the National Institute of Mental Health Animal Care and Use Committee guidelines and conformed to the Institute of Medicine\u2019s recommendations for laboratory animal care standards. "
+  ],
+  "ReferencesAndLinks": [
+    "1.\tKenou BV, Manly LS, Rubovits SB, et al. Cyclooxygenases as potential PET imaging biomarkers to explore neuroinflammation in dementia. J Nucl Med. 2022;63:53s-59s.",
+    "2.\tHoozemans JJ, Rozemuller AJ, van Haastert ES, Veerhuis R, Eikelenboom P. Cyclooxygenase-1 and -2 in the different stages of Alzheimers disease pathology. Curr Pharm Des. 2008;14:1419-1427.",
+    "3.\tShrestha S, Kim MJ, Eldridge M, et al. PET measurement of cyclooxygenase-2 using a novel radioligand: upregulation in primate neuroinflammation and first-in-human study. J Neuroinflammation. 2020;17:140.",
+    "4.\tYamagata K, Andreasson KI, Kaufmann WE, Barnes CA, Worley PF. Expression of a mitogen-inducible cyclooxygenase in brain neurons: regulation by synaptic activity and glucocorticoids. Neuron. 1993;11:371-386.",
+    "5.\tCortes-Salva MY, Shrestha S, Singh P, et al. 2-(4-Methylsulfonylphenyl)pyrimidines as prospective radioligands for imaging cyclooxygenase-2 with PET-synthesis, triage, and radiolabeling. Molecules. 2018;23:2850.",
+    "6.\tKoo TK, Li MY. A guideline for selecting and reporting intraclass correlation coefficients for reliability research. J Chiropr Med. 2016;6:155-163.",
+    "7.\tN\u00f8rgaard M, Beliveau V, Ganz M, et al. A high-resolution in vivo atlas of the human brain's benzodiazepine binding site of GABA(A) receptors. Neuroimage. 2021;232:117878.",
+    "8.\tGreve DN, Svarer C, Fisher PM, et al. Cortical surface-based analysis reduces bias and variance in kinetic modeling of brain PET data. Neuroimage. 2014;92:225-236.",
+    "9.\tGreve DN, Salat DH, Bowen SL, et al. Different partial volume correction methods lead to different conclusions: An (18)F-FDG-PET study of aging. Neuroimage. 2016;132:334-343.",
+    "10.\tOl\u00e1h O, N\u00e9meth I, T\u00f3th-Sz\u0171ki V, Bari F, Domoki F. Regional differences in the neuronal expression of cyclooxygenase-2 (COX-2) in the newborn pig brain. Acta Histochem Cytochem. 2012;45:187-192.",
+    "11.\tBreder CD, Dewitt D, Kraig RP. Characterization of inducible cyclooxygenase in rat brain. J Comp Neurol. 1995;355:296-315.",
+    "12.\tYang H, Chen C. Cyclooxygenase-2 in synaptic signaling. Curr Pharm Des. 2008;14:1443-1451.",
+    "13.\tSalinas CA, Searle GE, Gunn RN. The simplified reference tissue model: model assumption violations and their impact on binding potential. J Cereb Blood Flow Metab. 2015;35:304-311.",
+    "14.\tKreisl WC, Kim MJ, Coughlin JM, Henter ID, Owen DR, Innis RB. PET imaging of neuroinflammation in neurological disorders. Lancet Neurol. 2020;19:940-950."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005605.v1.1.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

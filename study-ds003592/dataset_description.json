@@ -1,0 +1,22 @@
+{
+  "Name": "Neurocognitive aging data release with behavioral, structural, and multi-echo functional MRI measures",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "R. Nathan Spreng",
+    "Roni Setton",
+    "Udi Alter",
+    "Benjamin N. Cassidy",
+    "Bri Darboh",
+    "Elizabeth DuPre",
+    "Karin Kantarovich",
+    "Amber W. Lockrow",
+    "Laetitia Mwilambwe-Tshilobo",
+    "Wen-Ming Luh",
+    "Prantik Kundu",
+    "Gary R. Turner"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003592.v1.0.13",
+  "ReferencesAndLinks": [],
+  "DatasetType": "study"
+}

@@ -1,0 +1,25 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Response inhibition and selective attention in adults and children with and without ADHD",
+  "ReferencesAndLinks": [
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Lei, Z., Trommer, B. L., Davenport, N. D., Li, W., Parrish, T. B., Gitelman, D. R., & Mesulam, M. M. (2005). Larger deficits in brain networks for response inhibition than for visual selective attention in attention deficit hyperactivity disorder (ADHD). Journal of Child Psychology and Psychiatry and Allied Disciplines, 46(1), 94\u2013111.",
+    "Booth, J. R., Burman, D. D., Meyer, J. R., Lei, Z., Trommer, B. L., Davenport, N. D., Li, W., Parrish, T. B., Gitelman, D. R., & Mesulam, M. M. (2003). Neural development of selective attention and response inhibition. NeuroImage, 20(2), 737\u2013751."
+  ],
+  "HowToAcknowledge": "Please cite this dataset and the accompanying data descriptor when using this dataset: \n\nLytle MN, Burman DD, & Booth JR (2021). Response inhibition and selective attention in adults and children with and without ADHD. OpenNeuro. 10.18112/openneuro.ds003500\n\nLytle MN, Burman DD & Booth JR (under review). A neuroimaging dataset on response inhibition and selective attention in adults and children with and without ADHD. Data in Brief.\n",
+  "Funding": [
+    "Northwestern University, Volwiler Research Fund, General Electric Company"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Douglas D. Burman",
+    "Darren R. Gitelman",
+    "Marisa N. Lytle",
+    "Marsel M. Mesulam",
+    "Joel R. Meyer Jr.",
+    "Todd R. Parrish",
+    "Barbara Trommer"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003500.v1.2.0",
+  "DatasetType": "study"
+}

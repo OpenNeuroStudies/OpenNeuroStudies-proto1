@@ -1,0 +1,22 @@
+{
+  "Name": "Consensus-seeking and conflict-resolving: an fMRI study on college couples\u2019 shopping interaction",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "HanShin Jo",
+    "Chiu-Yueh Chen",
+    "Der-Yow Chen",
+    "Ming-Heng Weng",
+    "Chun-Chia Kung"
+  ],
+  "Acknowledgements": "This work is supported by MOST 105-2420-H-006-002-MY2. We thank Mind Research and Imaging Center (MRIC) at National Cheng Kung University for consultation and instrument availability.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "",
+  "DatasetType": "study"
+}

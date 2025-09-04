@@ -1,0 +1,24 @@
+{
+  "ReferencesAndLinks": [
+    "Perronnet, Lorraine, L Anatole, Marsel Mano, Maureen Clerc, Fabien Lotte, and Christian Barillot. 2018. \u201cLearning 2-in-1\u202f: Towards Integrated EEG-FMRI-Neurofeedback.\u201d BioRxiv, no. 397729. https://doi.org/10.1101/397729."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002338.v2.0.1",
+  "Funding": [
+    "This work was supported by the French Natinal Research Agency under the reference ANR-10-LABX-07-01"
+  ],
+  "Name": "A multi-modal human neuroimaging dataset for data integration: simultaneous EEG and fMRI acquisition during a motor imagery neurofeedback task: XP2",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Giulia Lioi",
+    "Claire Cury",
+    "Lorraine Perronnet",
+    "Marsel Mano",
+    "Elise Bannier",
+    "Anatole Lecuyer",
+    "Christian Barillot"
+  ],
+  "Acknowledgments": "MRI data acquisition was supported by the Neurinfo MRI research facility at the University Hospital of Rennes, which is granted by the European Union and the French Gouvernment.",
+  "HowToAcknowledge": "",
+  "DatasetType": "study"
+}

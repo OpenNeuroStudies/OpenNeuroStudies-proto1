@@ -1,0 +1,25 @@
+{
+  "Name": "PES - Pandemic Emergency Scenario",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Tasos Papastylianou",
+    "Rodrigo Ramele",
+    "Luca Citi",
+    "Caterina Cinel",
+    "Riccardo Poli"
+  ],
+  "Acknowledgements": "This research was supported by the Defence Science and Technology Laboratory (Dstl) on behalf of the UK Ministry of Defence (MOD) via funding from US/UK DoD Bilateral Academic Research Initiative (BARI). ",
+  "License": "CC0",
+  "EthicsApprovals": [
+    "The study complied at all times with the Declaration of Helsinki ethical guidelines for research involving human subjects; formal ethical approval was granted by the Ministry of Defence Research Ethics Committee MoDREC - Application No: 983/MoDREC/19 first approved on 5th September 2019, with revisions (ver. 3) approved on the 3rd of June 2021."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.essex.ac.uk/research-projects/adaptive-joint-cognitive-systems",
+    "https://www.defense.gov/News/Releases/Release/Article/1644263/dod-announces-bari-award-for-us-uk-collaboration-on-human-machine-teaming/"
+  ],
+  "Funding": [
+    "UK Ministry of Defence (MOD) via funding from US/UK DoD BARI"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004477.v1.0.2"
+}

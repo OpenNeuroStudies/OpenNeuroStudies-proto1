@@ -1,0 +1,36 @@
+{
+  "Name": "neuroCOVID MRI dWI and fMRI with reversal learning ",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "cite: ",
+  "SourceDatasets": [
+    {
+      "DOI": "",
+      "Version": "1.0"
+    }
+  ],
+  "HEDVersion": "",
+  "Funding": [
+    "ANID FONDECYT 11140535",
+    "ANID FONDECYT 1181295",
+    "ANID FONDECYT 1211227",
+    "ANID FONDEQUIP EQM150076",
+    "UNIVERSIDAD DEL DESARROLLO",
+    "CLINICA ALEMANA DE SANTIAGO"
+  ],
+  "Authors": [
+    "Alejandra Figueroa-Vargas",
+    "Leonie Kausel",
+    "Mar\u00eda Paz Mart\u00ednez-Molina",
+    "Francisco Zamorano",
+    "Ximena Stecher",
+    "Patricia Soto-Icaza",
+    "Pablo Billeke"
+  ],
+  "ReferencesAndLinks": [
+    "..."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005364.v1.0.0"
+}

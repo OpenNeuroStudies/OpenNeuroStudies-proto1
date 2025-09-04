@@ -1,0 +1,11 @@
+{
+  "Name": "Correcting False Memories: The Effect of Mnemonic Generalization on Original Memory Traces",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Nathan M. Muncy",
+    "C. Brock Kirwan"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002242.v1.0.0",
+  "DatasetType": "study"
+}

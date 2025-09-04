@@ -1,0 +1,26 @@
+{
+  "Name": "Utilizing Amide Proton Transfer Technique to Characterise Diffuse Gliomas Based on WHO 2021 Classification of CNS Tumors",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Elena Filimonova",
+    "Anton Pashkov",
+    "Norayr Borisov",
+    "Anton Kalinovsky",
+    "Jamil Rzaev"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004717.v1.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2bids",
+      "Version": "3.0.1",
+      "Description": "Used to convert and organize dicoms into BIDS"
+    },
+    {
+      "Name": "pydeface",
+      "Version": "2.0.2",
+      "Description": "Used to de-face anatomical scans"
+    }
+  ],
+  "License": "CC0"
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "MRI Lab Graz: Two weeks Running Reduces Depressive Symptoms and Increases Hippocampal Volume in Young Adults",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Andreas Fink",
+    "Karl Koschutnig",
+    "Thomas Zussner",
+    "Corinna M. Perchtold-Stefan",
+    "Christian Rominger",
+    "Ilona Papousek"
+  ],
+  "Acknowledgements": "The authors wish to thank Katharina Lenz, Michaela Lingenhel, Anna Mayr, Theresa Rumpl, Melanie Saceric and Laura Sammer for their great engagement in realizing the running interventions and in collecting the data.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Expense allowance for participating in the MRI sessions was provided by the Faculty of Natural Sciences of the University of Graz.)"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the authorized ethics committee of the University of Graz."
+  ],
+  "ReferencesAndLinks": [
+    "The bidscoin was used for bringing the mridata into the bids-format.",
+    "https://github.com/Donders-Institute/bidscoin"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003419.v1.0.0",
+  "DatasetType": "study"
+}

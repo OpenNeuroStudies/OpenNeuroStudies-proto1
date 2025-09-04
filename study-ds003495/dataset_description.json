@@ -1,0 +1,11 @@
+{
+  "Name": "dStreamUpgrade",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lukas Snoek",
+    "Steven Scholte"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003495.v1.0.0",
+  "DatasetType": "study"
+}

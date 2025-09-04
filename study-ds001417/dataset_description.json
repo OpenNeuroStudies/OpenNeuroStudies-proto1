@@ -1,0 +1,18 @@
+{
+  "Name": "CAT snacks functional plasticity",
+  "License": "CC0",
+  "Authors": [
+    "Rotem Botvinik-Nezer",
+    "Tom Salomon",
+    "Tom Schonberg"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "https://doi.org/10.1093/cercor/bhz132",
+  "Funding": [
+    "Israel Science Foundation (ISF) grant no. 1798/15 granted to Tom Schonberg"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001417.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

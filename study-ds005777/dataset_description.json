@@ -1,0 +1,33 @@
+{
+  "Name": "Electrical_Morphine_Placebo_2018",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Peng, Ke",
+    "Y\u00fccel, Meryem",
+    "Steele, Sarah",
+    "Bittner, Edward",
+    "Aasted, Christopher",
+    "Hoeft, Mark",
+    "Lee, Arielle",
+    "George, Edward",
+    "Boas, David",
+    "Becerra, Lino",
+    "Borsook, David"
+  ],
+  "Acknowledgements": "This work was supported by the National Institutes of Health (NIH), the National Institute of General Medical Sciences (NIGMS) under grants NIH-NIGMS 1-R01-GM104986, 1-R01-GM122405, and the Mayday Fund, New York. We thank all participants and clinical staff who contributed to this study.",
+  "HowToAcknowledge": "Peng, K., Y\u00fccel, M.A., Steele, S.C., Bittner, E.A., Aasted, C.M., Hoeft, M.A., Lee, A., George, E.E., Boas, D.A., Becerra, L., & Borsook, D. (2018). Morphine attenuates fNIRS signal associated with painful stimuli in the medial frontopolar cortex (medial BA 10). Frontiers in Human Neuroscience, 12, 394. https://doi.org/10.3389/fnhum.2018.00394",
+  "Funding": [
+    "NIH-NIGMS 1-R01-GM104986",
+    "NIH-NIGMS 1-R01-GM122405",
+    "The Mayday Fund, New York"
+  ],
+  "EthicsApprovals": [
+    "Massachusetts General Hospital IRB"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3389/fnhum.2018.00394"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005777.v1.0.1",
+  "DatasetType": "study"
+}

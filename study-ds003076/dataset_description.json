@@ -1,0 +1,20 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Brain Correlates of Deductive Reasoning in Adults",
+  "ReferencesAndLinks": [
+    "Prado J, Mutreja R, & Booth JR (2012). Fractionating the Neural Substrates of Transitive REasoning: Task-Dependent Contributions of Spatial and Verbal Representations. Cerebral Cortex, 23, 499-507."
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset:\n\nLytle MN, Prado J & Booth JR (2020). Brain correlates of deductive reasoning in adults. OpenNeuro. 10.18112/openneuro.ds003076\n\nLytle MN , Prado J & Booth JR (2020). A neuroimaging dataset of deductive reasoning in school-aged children. Data in Brief, 33, 106405.",
+  "Funding": [
+    "This research was supported by HD059177 from the National Institute of Child Health and Human Development to James R. Booth."
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Marisa N. Lytle",
+    "Rachna Mutreja",
+    "J\u00e9r\u00f4me Prado"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003076.v1.0.1",
+  "DatasetType": "study"
+}

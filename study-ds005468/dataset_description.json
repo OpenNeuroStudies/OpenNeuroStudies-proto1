@@ -1,0 +1,20 @@
+{
+  "Name": "Coordinated Representations for Naturalistic Memory Encoding and Retrieval in Hippocampal Neural Subspaces",
+  "License": "CC0",
+  "Authors": [
+    "Dasom Kwon",
+    "Jungwoo Kim",
+    "Seng Bum Michael Yoo",
+    "Won Mok Shim"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005468.v1.0.2",
+  "Funding": [
+    "IBS-R015-D1",
+    "RS-2023-00211018",
+    "S-2023-0794-000",
+    "RS-2024-00348130",
+    "24-360-05-KB-2-1-04"
+  ],
+  "DatasetType": "study"
+}

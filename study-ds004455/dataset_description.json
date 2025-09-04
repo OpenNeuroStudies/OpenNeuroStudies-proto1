@@ -1,0 +1,14 @@
+{
+  "Name": "magic_carpet",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Carolina Feher da Silva",
+    "Gaia Lombardi",
+    "Micah Edelson",
+    "Todd A. Hare"
+  ],
+  "DatasetType": "study",
+  "HowToAcknowledge": "Please cite our preprint at https://doi.org/10.1101/2022.11.04.515162 or the published version of this paper",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004455.v1.1.0"
+}

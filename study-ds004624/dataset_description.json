@@ -1,0 +1,26 @@
+{
+  "Name": "Intracranial recordings using BCI2000 and the CorTec BrainInterchange",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "F. Mivalt",
+    "F. Lampert",
+    "M.A. van den Boom",
+    "P. Brunner",
+    "J. Kim",
+    "Andrea Duque-lopez",
+    "M. Krakorova",
+    "V. Kremen",
+    "D. Hermes",
+    "G.A. Worrell",
+    "K. J. Miller"
+  ],
+  "Funding": [
+    "NIH U01NS128612"
+  ],
+  "EthicsApprovals": [
+    "IACUC A00001713"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004624.v2.0.0",
+  "DatasetType": "study"
+}

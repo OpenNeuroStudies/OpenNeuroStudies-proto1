@@ -1,0 +1,23 @@
+{
+  "Name": "Parkinson's disease, functional connectivity, and cognition",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Korey P. Wylie",
+    "Benzi M. Kluger",
+    "Luis D. Medina",
+    "Samantha K. Holden",
+    "Eugene Kronberg",
+    "Jason R. Tregellas",
+    "Isabelle Buard"
+  ],
+  "Acknowledgements": "The authors wish to thank Christine Martin, Sarah Rogers, and Abigail Simpson for their help with participant recruitment and neurophysiological testing administration.",
+  "Funding": [
+    "NIH Grant 1K02NS080885-01A1",
+    "NIH Grant 1R21NS093266-01A1",
+    "NIH Grant K01 AT009894-01",
+    "Michael J. Fox Foundation for Parkinson's Research Grant Number 10879"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004392.v1.0.0"
+}

@@ -1,0 +1,35 @@
+{
+  "Name": "Brain Correlates of Math Development",
+  "License": "CC0",
+  "Authors": [
+    "Ilaria Berteletti",
+    "John Binzak",
+    "Ozlem Ece Demir-Lira",
+    "Marisa Lytle",
+    "Rachna Mutreja",
+    "J\u00e9r\u00f4me Prado",
+    "Macarena Suarez Pellicioni",
+    "Jessica Wise Younger",
+    "James R. Booth"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite: \nSuarez-Pellicioni M, Lytle M, Younger JW, Booth JR. (2019). A longitudinal neuroimaging dataset on arithmetic processing in 8- to 16-year old children. Scientific Data. volume 6, Article number: 190040",
+  "Funding": [
+    "This research was supported by HD059177 and HD093547 from the National Institute of Child Health and Human Development to James R. Booth."
+  ],
+  "ReferencesAndLinks": [
+    "Demir E, Prado J & Booth JR (2016). Neural correlates of math gains vary depending on parental socio-economic status (SES). Frontiers in Psychology, 7, 892.",
+    "Demir E, Prado J & Booth JR (2015). Parental socioeconomic status and the neural basis of arithmetic: Differential relations to verbal and visuo-spatial representations. Developmental Science, 18, 799-814. (PMCID: PMC4522207)",
+    "Berteletti I & Booth JR (2015). Perceiving fingers in single-digit arithmetic problems. Frontiers in Psychology, 6, 226. (PMCID: PMC4360562)",
+    "Berteletti I, Man G & Booth JR (2015). How number line estimation skills relate to neural activations in single digit subtraction problems. Neuroimage, 107, 198-206. (PMCID: PMC4300271).",
+    "Prado J, Mutreja R, Booth JR (2014). Developmental dissociation in the neural responses to simple multiplication and subtraction problems. Developmental Science, 17, 537-552. (PMCID: PMC4122319)",
+    "Berteletti I, Prado J & Booth JR (2014). Children with mathematical learning disability fail in recruiting verbal and numerical brain regions when solving simple multiplication problems. Cortex, 57, 143\u2013155. (PMCID: PMC4108534)",
+    "Demir E, Prado J & Booth JR (2014). The differential role of spatial and verbal working memory in the neural basis of arithmetic. Developmental Neuropsychology, 39, 440-458. (PMCID: PMC4142562)",
+    "Suarez-Pellicioni M, Booth JR. (2018). Fluency in symbolic arithmetic refines the approximate number system in parietal cortex. Hum Brain Mapp. 00:1\u201316.",
+    "Su\u00e1rez-Pellicioni, M., Prado, J. & Booth, J. (2018). Lack of improvement in multiplication is associated with reverting from verbal retrieval to numerical operations. Neuroimage 183, 859\u201387",
+    "Demir, E., Suarez-Pellicioni, M., Bonzak, J. & Booth, J. R. Attitudes towards math differentially related to neural basis of multiplication depending on skill. Learn. Disabil. Q."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001486.v1.3.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "The generality of self-control",
+  "License": "PDDL",
+  "Authors": [
+    "Jessica Cohen",
+    "Russell A. Poldrack"
+  ],
+  "Acknowledgements": "This research was supported by a Ruth L. Kirschstein Pre-Doctoral National Research Service Award from the National Institute of Drug Abuse (5F31 DA024534) and by grants from the National Institute of Mental Health (5R24 MH072697), the McDonnell Foundation, and the Delia Martin Foundation.",
+  "HowToAcknowledge": "",
+  "Funding": "This research was supported by a Ruth L. Kirschstein Pre-Doctoral National Research Service Award from the National Institute of Drug Abuse (5F31 DA024534) and by grants from the National Institute of Mental Health (5R24 MH072697), the McDonnell Foundation, and the Delia Martin Foundation.",
+  "ReferencesAndLinks": [
+    "http://gradworks.umi.com/34/01/3401764.html",
+    "https://openfmri.org/media/ds000009/ds009_methods_0_CchSZHn.pdf"
+  ],
+  "DatasetDOI": "",
+  "Description": "This study examined four different forms of self-control in a single context to determine whether multiple forms were related in a single sample of healthy adults. Participants performed four different tasks within a single scanning session.",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

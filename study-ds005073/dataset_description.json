@@ -1,0 +1,17 @@
+{
+  "Name": "The Neural Basis of Visual Shape Completion in Schizophrenia and Bipolar Disorder",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Brian P Keane",
+    "Bart Krekelberg",
+    "Ravi Mill",
+    "Steven M Silverstein",
+    "Judy L Thompson",
+    "Megan R Serody",
+    "Deanna M Barch",
+    "Michael W Cole"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005073.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,28 @@
+{
+  "Acknowledgements": "We thank Damien Fair, Steven Nelson, Julia Moser, and our other collaborators at the University of Minnesota for developing and sharing the multi-echo BOLD protocol we used in this dataset. We thank Andrew Van for his contributions to the protocol as well. We also thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel, as well as Yaroslav O. Halchenko, for developing the ReproIn naming convention, which we used to organize scans and curate the dataset.",
+  "Authors": [
+    "Taylor Salo",
+    "M. Dylan Tisdall",
+    "Lia Brodrick",
+    "Adam Czernuszenko",
+    "David R. Roalf",
+    "Sage Rush-Goebel",
+    "Nicholas Wellman",
+    "Matthew Cieslak",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005250.v1.1.5",
+  "DatasetType": "study",
+  "EthicsApprovals": [
+    "IRB 844353"
+  ],
+  "Funding": [
+    "AE Foundation",
+    "Penn-CHOP Lifespan Brain Institute",
+    "NIMH R01MH113550"
+  ],
+  "HowToAcknowledge": "Please reference the OpenNeuro dataset identifier.",
+  "License": "CC0",
+  "Name": "Single-echo/multi-echo comparison pilot"
+}

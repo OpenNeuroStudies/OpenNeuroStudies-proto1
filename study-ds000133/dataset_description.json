@@ -1,0 +1,16 @@
+{
+  "Name": "Modafinil alters intrinsic functional connectivity of the right posterior insula: a pharmacological resting state fMRI study",
+  "Description": "Modafinil is employed for the treatment of narcolepsy and has also been, off-label, used to treat cognitive dysfunction in neuropsychiatric disorders.  In a previous study, we have reported that single dose administration of modafinil in healthy young subjects enhances fluid reasoning and affects resting state activity in the Fronto Parietal Control (FPC) and Dorsal Attention (DAN) networks. No changes were found in the Salience Network (SN), a surprising result as the network is involved in the modulation of emotional and fluid reasoning.  The insula is crucial hub of the SN and functionally divided in anterior and posterior subregions. Using a seed-based approach, we have now analyzed effects of modafinil on the functional connectivity (FC) of insular subregions. Analysis of FC with resting state fMRI (rs-FMRI) revealed increased FC between the right posterior insula and the putamen, the superior frontal gyrus and the anterior cingulate cortex in the modafinil-treated group.Modafinil is considered a putative cognitive enhancer. The rs-fMRI modifications that we have found are consistent with the drug cognitive enhancing properties and indicate subregional targets of action.",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Nicoletta Cera",
+    "Armando Tartaro",
+    "Stefano L. Sensi"
+  ],
+  "Funding": "SLS is supported by funds from the Italian Department of Education [Fondo per gli Investimenti della Ricerca di Base (FIRB) 2003; Programmi di Ricerca di Rilevante Interesse nazionale (PRIN) 2008]. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "ReferencesAndLinks": [
+    "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107145"
+  ],
+  "DatasetType": "study"
+}

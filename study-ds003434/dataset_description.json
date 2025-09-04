@@ -1,0 +1,25 @@
+{
+  "Name": "newbi4fmri2020 Main Experiment",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jody Culham",
+    "Kevin Stubbs",
+    "Ethan Jackson",
+    "Rebekka Lagace Cusiac"
+  ],
+  "Acknowledgements": "Thank you to Rainer Goebel and Brain Innovation for supporting this dataset in BrainVoyager EDU: https://www.brainvoyager.com/products/brainvoyageredu.html",
+  "HowToAcknowledge": "Any utilizations should acknowledge the Canada First Research Excellence Fund \"BrainsCAN\" grant to Western University and cite www.newbi4fmri.com",
+  "Funding": [
+    "Canada First Research Excellence Fund \"BrainsCAN\" grant to Western University",
+    "Western University internal funds for Jody Culham"
+  ],
+  "EthicsApprovals": [
+    "Western University Health Sciences Research Ethics Board (protocol #13507/4603)"
+  ],
+  "ReferencesAndLinks": [
+    "www.newbi4fmri.com"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003434.v1.0.1"
+}

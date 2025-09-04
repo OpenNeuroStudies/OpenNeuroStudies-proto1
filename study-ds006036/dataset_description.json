@@ -1,0 +1,38 @@
+{
+  "Name": "A complementary dataset of open-eyes EEG recordings in a photo-stimulation setting from: Alzheimer's disease, Frontotemporal dementia and Healthy subjects",
+  "License": "CC0",
+  "Authors": [
+    "Aimilia Ntetska",
+    "Andreas Miltiadous",
+    "Alexandros T. Tzallas",
+    "Katerina D. Tzimourta",
+    "Theodora Afrantou",
+    "Panagiotis Ioannidis",
+    "Dimitrios G. Tsalikakis",
+    "Nikolaos Grigoriadis",
+    "Pantelis Angelidis",
+    "Konstantinos Sakkas",
+    "Emmanouil D. Oikonomou",
+    "Nikolaos Giannakeas",
+    "Markos G. Tsipouras"
+  ],
+  "ReferencesAndLinks": [
+    "https://openneuro.org/datasets/ds004504",
+    "Miltiadous, A., Tzimourta, K. D., Afrantou, T., Ioannidis, P., Grigoriadis, N., Tsalikakis, D. G., Angelidis, P., Tsipouras, M. G., Glavas, E., Giannakeas, N., & Tzallas, A. T. (2023). A Dataset of Scalp EEG Recordings of Alzheimer\u2019s Disease, Frontotemporal Dementia and Healthy Subjects from Routine EEG. Data, 8(6), 95. doi: 10.3390/data8060095",
+    "Miltiadous, A., Gionanidis, E., Tzimourta, K. D., Giannakeas, N., & Tzallas, A. T. (2023). DICE-net: A Novel Convolution-Transformer Architecture for Alzheimer Detection in EEG Signals. IEEE Access, 1\u20131. doi: 10.1109/ACCESS.2023.3294618"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006036.v1.0.5",
+  "HowToAcknowledge": "Please cite this dataset, and the complementary data descriptor paper with doi: https://doi.org/10.3390/data10050064",
+  "EthicsApprovals": [
+    "The study was conducted in accordance with the Declaration of Helsinki and approved by the Scientific and Ethics Committee of AHEPA University Hospital, Aristotle University of Thessaloniki, under protocol number 142/12-04-2023."
+  ],
+  "DatasetType": "study"
+}

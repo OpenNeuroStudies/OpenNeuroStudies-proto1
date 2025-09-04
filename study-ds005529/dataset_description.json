@@ -1,0 +1,41 @@
+{
+  "Name": "DP-pCASL data (CBF, ATT, BBB kw) from 186 cognitively normal participants (8-92 years).",
+  "Authors": [
+    "Xingfeng Shao",
+    "Qinyang Shou",
+    "Kimberly Felix",
+    "Brandon Ojogho",
+    "Xuejuan Jiang",
+    "Brian T Gold",
+    "Megan M Herting",
+    "Eric L Goldwaser",
+    "Peter Kochunov",
+    "L Elliot Hong",
+    "Ioannis Pappas",
+    "Meredith Braskie",
+    "Hosung Kim",
+    "Steven Cen",
+    "Kay Jann",
+    "Danny JJ Wang"
+  ],
+  "HowToAcknowledge": "Please consider citing the following paper if you think the data is useful: Shao et al., Age-Related Decline in Blood-Brain Barrier Function is More Pronounced in Males than Females in Parietal and Temporal Regions eLife 13:RP96155",
+  "Funding": [
+    "National Institute of Health (NIH) R01-NS134712",
+    "National Institute of Health (NIH) UH3-NS100614",
+    "National Institute of Health (NIH) S10-OD025312",
+    "National Institute of Health (NIH) R01-NS114382",
+    "National Institute of Health (NIH) R01-EB028297",
+    "National Institute of Health (NIH) R21-EY028721",
+    "National Institute of Health (NIH) RF1-NS122028",
+    "National Institute of Health (NIH) R01-AG068055",
+    "National Institute of Health (NIH) P30- AG072946",
+    "National Institute of Health (NIH) R01-MH116948",
+    "National Institute of Health (NIH) RF1-NS114628"
+  ],
+  "/Anat folder": "T1w.nii files can be found in foler sub-xxx/anat/",
+  "/BBB_data folder": "ATT.nii: arterial transit time map (unit: ms), CBF.nii: cerebral blood flow map (unit: ml/100g/min), kw.nii: water exchange rate map (unit: min-1), age_gender.mat: age in years, gender 0 for female and 1 for male, ICV.mat:  Intracranial Volume (unit: mm#), race.mat: 1 for white/Caucasian, 2 for Latinx, 3 for African American, 4 for Asian",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005529.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "The neural dynamics associated with computational complexity",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Juan Pablo Franco",
+    "Peter Bossaerts",
+    "Carsten Murawski"
+  ],
+  "Acknowledgements": "The authors would like to acknowledge Rebecca Glarin and Scott Kolbe for their assistance in the planning and successful execution of the MRI scans.",
+  "HowToAcknowledge": "Please cite this paper: https://www.biorxiv.org/content/10.1101/2022.01.05.475102v1",
+  "Funding": [
+    "JPF was supported by a University of Melbourne Graduate Research Scholarship from the Faculty of Business and Economics. PB acknowledges financial support through a R@MAP Chair from the University of Melbourne."
+  ],
+  "EthicsApprovals": [
+    "The experimental protocol was approved by the University of Melbourne Human Research Ethics Committee (Ethics ID 1749616.3)."
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/g4h7y/",
+    "https://www.biorxiv.org/content/10.1101/2022.01.05.475102v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005427.v1.1.1"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Ear-EEG Sleep Monitoring 2019 (EESM19)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kaare B. Mikkelsen",
+    "Preben Kidmose",
+    "Yousef Rezaei Tabar"
+  ],
+  "InstitutionName": "Aarhus University",
+  "InstitutionalDepartmentName": "Department of Engineering",
+  "InstitutionAddress": "Finlandsgade 22, 8200, Aarhus N",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005185.v1.0.2"
+}

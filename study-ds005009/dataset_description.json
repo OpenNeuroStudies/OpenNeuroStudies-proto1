@@ -1,0 +1,18 @@
+{
+  "Name": "Simultaneous cortical, subcortical, and brainstem mapping of sensory activation",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Neha A Reddy",
+    "Rebecca G Clements",
+    "Molly G Bright"
+  ],
+  "HowToAcknowledge": "Please cite this paper: Neha A. Reddy, Rebecca G. Clements, Jonathan C. W. Brooks, Molly G. Bright (2024) Simultaneous cortical, subcortical, and brainstem mapping of sensory activation; bioRxiv 2024.04.11.589099; doi: https://doi.org/10.1101/2024.04.11.589099",
+  "Funding": [
+    "NIH Funded Training Program T32EB025766 (NAR)",
+    "NSF GRFP Award DGE-2234667 (RGC)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005009.v1.0.0",
+  "Acknowledgements": "Jonathan CW Brooks; Center for Translational Imaging at Northwestern University",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Fear in the mind's eye: the neural correlates of differential fear acquisision to imagined conditioned stimuli",
+  "ReferenceAndLink": [
+    "tbd"
+  ],
+  "Authors": [
+    "Lauryn Burleigh",
+    "Steven Greening"
+  ],
+  "Funding": [
+    "A Louisiana Board of Regents Research Vompetitiveness Subprogram grant and an NSERC Discovery Grant (S.G.G.) "
+  ],
+  "HowToAcknowledge": "tbd",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004393.v1.0.4",
+  "DatasetType": "study"
+}

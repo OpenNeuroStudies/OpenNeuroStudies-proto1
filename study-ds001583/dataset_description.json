@@ -1,0 +1,19 @@
+{
+  "Name": "ProStop",
+  "License": "",
+  "Authors": [
+    "Kyle Dunovan",
+    "Brighid Lynch",
+    "Tara Molesworth",
+    "Timothy Verstynen"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "This research was funded by the Pennsylvania State Department of Health Formula Award SAP4100062201 and by the Army Research Laboratory under Cooperative Agreement Number W911NF-10-2-002. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Army Research Laboratory or the US Government. The US Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any \ncopyright notation herein.",
+  "ReferencesAndLinks": [
+    "\u201cCompeting basal-ganglia pathways determine the difference between stopping and deciding not to go.\u201d K. Dunovan, B. Lynch, T. Molesworth, T. Verstynen. eLife. (2015). pii: 08723 "
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001583.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,35 @@
+{
+  "Acknowledgements": "The authors acknowledge Winnie Orchard and Irene Graafsma from Monash Biomedical Imaging for their assistance in acquiring data.",
+  "Authors": [
+    "Sharna Jamadar",
+    "Shenjun Zhong",
+    "Phillip Ward",
+    "Alexandra Carey",
+    "Richard McIntyre",
+    "Alex Fornito",
+    "Malin Premaratne",
+    "N Jon Shah",
+    "Kieran O\u2019Brien",
+    "Daniel Stab",
+    "Zhaolin Chen",
+    "Gary Egan"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003382.v1.5.0",
+  "Funding": [
+    "Australian Research Council (ARC) Linkage Project (LP170100494) that includes financial support from Siemens Healthineers.",
+    "ARC Centre of Excellence for Integrative Brain Function (CE140100007).",
+    "ARC Discovery Early Career Researcher Award (DE150100406)",
+    "National Health and Medical Research Council Fellowship (APP1174164)."
+  ],
+  "HowToAcknowledge": "Cite the papers: \n[1] Jamadar, S. D., Ward, P. G., Li, S., Sforazzini, F., Baran, J., Chen, Z., & Egan, G. F. (2019). Simultaneous task-based BOLD-fMRI and [18-F] FDG functional PET for measurement of neuronal metabolism in the human visual cortex. Neuroimage, 189, 258-266.  \n[2] Jamadar, S. D., Zhong, S., Carey, A., McIntyre, R., Ward, P. G., Fornito, A., ... & Egan, G. F. (2021). Task-evoked simultaneous FDG-PET and fMRI data for measurement of neural metabolism in the human visual cortex. Scientific Data, 8(1), 1-9.\nConsider including the following message 'This data was obtained from the OpenNeuro database.'",
+  "License": "CC0",
+  "Name": "Monash vis-fPET-fMRI",
+  "ReferencesAndLinks": [
+    "Shenpeng Li, Sharna D. Jamadar, Phillip G.D. Ward, Malin Premaratne, Gary F. Egan, Zhaolin Chen*, (2020) Analysis of continuous infusion functional PET (fPET) in the human brain, NeuroImage",
+    "Viswanath P. Sudarshan, Gary F Egan, Zhaolin Chen, Suyash P. Awate. (2020) Joint MRI-PET image reconstruction using a joint dictionary, Medical Imaging Analysis.",
+    "Zhaolin Chen, Francesco Sforazzini, Jakub Baran, N. Jon Shah, Gary F. Egan, (2019) MR-PET motion correction based on multi-contrast MR image registration. Human Brain Mapping.",
+    "Jakub Baran, Zhaolin Chen, Francesco Sforazzini, Nicholas Ferris, Sharna Jamadar, Ben Schmitt, David Faul, Nadim Jon Shah, Marian Cholewa, Gary F. Egan, (2018) Accurate hybrid template\u2013based and MR-based attenuation correction using UTE images for simultaneous PET/MR brain imaging applications, BMC Medical Imaging"
+  ],
+  "DatasetType": "study"
+}

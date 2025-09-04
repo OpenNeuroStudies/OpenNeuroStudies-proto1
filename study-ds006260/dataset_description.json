@@ -1,0 +1,32 @@
+{
+  "Authors": [
+    "C\u00e9sar E. Corona-Gonz\u00e1lez",
+    "Claudia Rebeca De Stefano-Ramos",
+    "Juan Pablo Rosado-A\u00edza",
+    "David I. Ibarra-Zarate",
+    "Fabiola R. G\u00f3mez-Vel\u00e1zquez",
+    "Luz Mar\u00eda Alonso-Valerdi"
+  ],
+  "Name": "Dataset of psychophysiological data from children with learning difficulties who strengthen reading and math skills through assistive technology",
+  "License": "CC0",
+  "ReferencesAndLinks": [],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "10.2"
+    }
+  ],
+  "Acknowledgements": "The authors are grateful to the company Smartick for granting free access to the online method for learning.",
+  "EthicsApprovals": [
+    "April 28, 2023: Neuroscience Institute of University of Guadalajara Ethics Committee (Reference: ET122022-356)",
+    "September 02, 2022: ISRCTN (Reference: ISRCTN14013636)"
+  ],
+  "Funding": [
+    "Tecnologico de Monterrey",
+    "CONAHCYT (894658)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006260.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Extensive topographic remapping and functional sharpening in the adult rat visual pathway upon first visual experience",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Joana Carvalho",
+    "Francisca F Fernandes",
+    "Noam Shemesh"
+  ],
+  "HowToAcknowledge": "Please cite this preprint: ",
+  "Funding": [
+    "We would like to thank Rita Gil and Federico Severo for setting up the Visual deprivation room. This study was funded by the European Research Council (ERC) (agreement No. 679058), as well as by the European Union Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101032056.  The funding organization had no role in the design, conduct, analysis, or publication of this research.  The authors acknowledge the vivarium of the Champalimaud Centre for the Unknown, a facility of CONGENTO which is a research infrastructure co-financed by Lisboa Regional Operational Programme (Lisboa 2020), under the PORTUGAL 2020 Partnership Agreement through the European Regional Development Fund (ERDF) and Fundacao para a Ciencia e Tecnologia (Portugal), project LISBOA-01-0145-FEDER-022170."
+  ],
+  "EthicApprovals": "All animal studies were approved by the competent institutional and national authorities, and performed according to European Directive 2010/63.",
+  "ReferenceAndLinks": [
+    "Please cite this preprint:  Joana Carvalho, Francisca F. Fernandes, Noam Shemesh, 2022. Extensive topographic remapping and functional sharpening in the adult rat visual pathway upon first visual experience. bioRxiv doi:https://doi.org/10.1101/2022.06.20.496863",
+    "https://www.biorxiv.org/content/10.1101/2022.06.20.496863v1"
+  ],
+  "EthicsApprovals": [
+    "All animal studies were approved by the competent institutional and national authorities, and performed according to European Directive 2010/63."
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2022.06.20.496863v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004509.v1.0.0",
+  "DatasetType": "study"
+}

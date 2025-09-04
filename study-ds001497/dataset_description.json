@@ -1,0 +1,19 @@
+{
+  "Name": "Long-term Memory (LTM) for famous Faces, Places, and common Objects",
+  "License": "CC0",
+  "Authors": [
+    "Lewis-Peacock, J",
+    "Postle, BR",
+    "Cox, CR",
+    "Rogers, TT"
+  ],
+  "Acknowledgements": "This work was supported by NIH grant MH064498 (B.R.P.). The authors would like to thank Sean Polyn for his helpful suggestions and stimuli, and Ken Norman and his group at Princeton for providing insightful feedback on our analyses.",
+  "HowToAcknowledge": "Cite this paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2699183/",
+  "Funding": [
+    "NIH grant MH064498 (B.R.P.)"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001497.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

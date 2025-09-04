@@ -1,0 +1,62 @@
+{
+  "Name": "3D Mapping of Neurofibrillary Tangle Burden in the Human Medial Temporal Lobe",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Paul A. Yushkevich",
+    "M\u00f3nica Mu\u00f1oz L\u00f3pez",
+    "Maria Mercedes I\u00f1iguez de Onzo\u00f1o Martin",
+    "Ranjit Ittyerah",
+    "Sydney Lim",
+    "Sadhana Ravikumar",
+    "Madigan L. Bedard",
+    "Stephen Pickup",
+    "Weixia Liu",
+    "Jiancong Wang",
+    "Ling Yu Hung",
+    "Jade Lasserve",
+    "Nicolas Vergnet",
+    "Long Xie",
+    "Mengjin Dong",
+    "Salena Cui",
+    "Lauren McCollum",
+    "John L. Robinson",
+    "Theresa Schuck",
+    "Robin de Flores",
+    "Murray Grossman",
+    "M. Dylan Tisdall",
+    "Karthik Prabhakaran",
+    "Gabor Mizsei",
+    "Sandhitsu R. Das",
+    "Emilio Artacho-P\u00e9rula",
+    "Mar\u00eda del Mar Arroyo Jim\u00e9nez",
+    "Mar\u00eda Pilar Marcos Rabal",
+    "Francisco Javier Molina Romero",
+    "Sandra Cebada S\u00e1nchez",
+    "Jos\u00e9 Carlos Delgado Gonz\u00e1lez",
+    "Carlos de la Rosa-Prieto",
+    "Marta C\u00f3rcoles Parada",
+    "Edward B. Lee",
+    "John Q. Trojanowski",
+    "Daniel T. Ohm",
+    "Laura E.M. Wisse",
+    "David A. Wolk",
+    "David J. Irwin",
+    "Ricardo Insausti"
+  ],
+  "HowToAcknowledge": "Please cite https://www.biorxiv.org/content/10.1101/2021.01.15.421909v1",
+  "Funding": [
+    "NIH grant R01 AG056014",
+    "NIH grant P30 AG010124",
+    "NIH grant R01 EB017255"
+  ],
+  "EthicsApprovals": [
+    "University of Pennsylvania IRB (Exempt)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003417.v1.0.1",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2021.01.15.421909v1"
+  ],
+  "Acknowledgements": "We gratefully acknowledge the generosity and altruism of the brain donors and their families. We thank the members of the brain banks at the University of Pennsylvania Center for Neurodegenerative Disease Research and at the University of Castilla La Mancha at Albacete for their contributions to this research."
+}

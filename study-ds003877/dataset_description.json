@@ -1,0 +1,27 @@
+{
+  "Name": "BrainMorphometry_DiminishedGrowth_BEANstudy_2021",
+  "License": "CC0",
+  "Authors": [
+    "Ted Turesky",
+    "Talat Shama",
+    "Shahriah Hafiz Kakon",
+    "Rashidul Haque",
+    "Nazrul Islam",
+    "Amala Someshwar",
+    "Borjan Gagoski",
+    "William Petri",
+    "Charles Nelson",
+    "Nadine Gaab"
+  ],
+  "Acknowledgements": "We are grateful to the families who participated in the study, the staff at The International Centre for Diarrhoeal Disease Research who undertook and completed data collection, and Uma Nayak and Rachel Kwon for organizing the non-MRI measures. Finally, we thank the Harvard Catalyst Biostatistical Consulting program for guidance on reporting mediations.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Funding for this work was provided by research grants from the Bill & Melinda Gates Foundation to CA Nelson [OPP1111625] and WA Petri [OPP1017093], from the Henske Foundation to WA Petri, from NIAID (R01 AI043596-17) to WA Petri, and from the Harvard Brain Initiative Transitions Program to TK Turesky."
+  ],
+  "ReferencesAndLinks": [
+    "Ted K. Turesky, Talat Shama, Shahria Hafiz Kakon, Rashidul Haque, Nazrul Islam, Amala Someshwar, Borjan Gagoski, William A. Petri, Charles A. Nelson, Nadine Gaab (2021) Brain Morphometry and Diminished Physical Growth in Bangladeshi Children Growing up in Extreme Poverty: a Longitudinal Study, Developmental Cognitive Neuroscience, 101029. doi.org/10.1016/j.dcn.2021.101029"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003877.v1.1.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

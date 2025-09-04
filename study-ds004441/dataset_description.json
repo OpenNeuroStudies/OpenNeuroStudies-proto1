@@ -1,0 +1,18 @@
+{
+  "Name": "Rat_diffusion_STZ",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yujian Diao",
+    "Ileana O Jelescu"
+  ],
+  "Acknowledgements": "Please acknowledge the CIBM Center for Biomedical Imaging, a Swiss research center of excellence founded and supported by Lausanne University Hospital (CHUV), University of Lausanne (UNIL) Ecole Polytechnique Federale de Lausanne (EPFL), University of Geneva (UNIGE) and Geneva University Hospitals (HUG)",
+  "HowToAcknowledge": "Please cite the following articles: \n\nCatarina Tristao Pereira, Yujian Diao, Ting Yin, Analina R da Silva, Bernard Lanz, Katarzyna Pierzchala Carole Poitry-Yamate and Ileana O Jelescu, Synchronous nonmonotonic changes in functional connectivity and white matter integrity in a rat model of sporadic Alzheimers disease. NeuroImage 225 (2021) 117498. https://doi.org/10.1016/j.neuroimage.2020.117498; \n\nYujian Diao and Ileana O Jelescu, Parameter estimation for WMTI-Watson model of white matter using encoder\u2013decoder recurrent neural network. Magn Reson Med, 2023;89(3):1193-1206. https://doi.org/10.1002/mrm.29495.",
+  "ReferencesAndLinks": [
+    "https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29495",
+    "https://doi.org/10.1016/j.neuroimage.2020.117498",
+    "https://openneuro.org/datasets/ds003520"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004441.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Shared neural codes for visual and semantic information about familiar faces in a common representational space",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Matteo Visconti di Oleggio Castello",
+    "James V. Haxby",
+    "M. Ida Gobbini"
+  ],
+  "Acknowledgements": "We thank Terry Sackett and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav Halchenko for preparing the BIDS dataset.",
+  "HowToAcknowledge": "If you use this dataset or the code, please cite the paper: Visconti di Oleggio Castello, M., Haxby, J.V., & Gobbini, M.I. (2021). Shared neural codes for visual and semantic information about familiar faces in a common representational space. Proceedings of the National Academy of Sciences. https://doi.org/10.1073/pnas.2110474118\n\nIf you use the Grand Budapest Hotel data, please cite the paper: Visconti di Oleggio Castello, M., Chauhan, V., Jiahui, G., & Gobbini, M. I. (2020). An fMRI dataset in response to \"The Grand Budapest Hotel\", a socially-rich, naturalistic movie. Scientific Data, 7(1), 1-9 https://doi.org/10.1038/s41597-020-00735-4\n",
+  "DatasetDOI": "10.18112/openneuro.ds003834.v1.0.2",
+  "Funding": [
+    "NSF grant #1835200"
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://github.com/mvdoc/identity-decoding/",
+    "https://osf.io/ehygz/",
+    "https://doi.org/10.1073/pnas.2110474118"
+  ],
+  "DatasetType": "study"
+}

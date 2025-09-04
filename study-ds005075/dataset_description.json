@@ -1,0 +1,31 @@
+{
+  "Name": "Simultaneous Brain and Spinal Cord at rest: an fMRI dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Caroline Landelle",
+    "Nawal Kinany",
+    "Benjamin De Leener",
+    "Nicholas D. Murphy",
+    "Ovidiu Lungu",
+    "V\u00e9ronique Marchand-Pauvert",
+    "Dimitri Van De Ville",
+    "Julien Doyon"
+  ],
+  "Acknowledgements": "We thank David Costa, Ronaldo Lopez and Soheil Mollamohseni Quichani for their help in data acquisition and all participants who were recruited for this study",
+  "HowToAcknowledge": "Please cite this paper: XXX",
+  "Funding": [
+    "Fonds de Recherche du Qu\u00e9bec\u2014Sant\u00e9 (FRQ-S)",
+    "Canadian Institutes of Health Research (CIHR)",
+    "Fondation Courtois",
+    "Natural Sciences and Engineering Research Council of Canada (NSERC, Grant No. 248074)",
+    "Brain Canada Platform (Grant No. 255934)",
+    "Healthy Brain for Healthy Lives (HBHL, Grant No. 2473633)"
+  ],
+  "EthicsApprovals": [
+    "The experiment was approved by the local ethics committee (MUCH REB 2019-4626)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005075.v1.0.1",
+  "HEDVersion": ""
+}

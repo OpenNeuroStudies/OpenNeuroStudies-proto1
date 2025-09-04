@@ -1,0 +1,35 @@
+{
+  "Name": "Gloups_MEG",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "DatasetType": "study",
+  "Authors": [
+    "Snezana Todorovic",
+    "Elin Runnqvist",
+    "Valerie Chanoine",
+    "Jean-Michel Badier"
+  ],
+  "Acknowledgements": "MEG data acquisition was performed in the MEG Centre (Timone Hospital, Marseille, France)",
+  "Funding": [
+    "This research has been supported by funding from the Institute of Convergence ILCB (France 2030, ANR-16-CONV-0002) and the Excellence Initiative of Aix-Marseille University A*MIDEX (ANR-11-IDEX-0001-02)"
+  ],
+  "ReferencesAndLinks": [
+    "a data paper",
+    "a resource to be cited when using the data"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005261.v3.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "MNE-BIDS",
+      "Version": "0.14",
+      "Description": "MNE-BIDS is a Python package that allows you to read and write BIDS-compatible datasets with the help of MNE-Python."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds005261.v2.0.0",
+      "URL": "https://openneuro.org/datasets/ds005261",
+      "Version": "2.0.0"
+    }
+  ]
+}

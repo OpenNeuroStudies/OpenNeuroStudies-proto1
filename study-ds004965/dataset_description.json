@@ -1,0 +1,28 @@
+{
+  "Name": "Truecrime",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "4.2.1",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Corinna Perchtold-Stefan",
+    "Christian Rominger",
+    "Karl Koschutnig",
+    "Andreas Fink"
+  ],
+  "Acknowledgements": "No acknowledgements",
+  "Funding": [
+    "Country of Styria, 2022 Call \u201cUnconventional Science\u201d, P11928"
+  ],
+  "EthicsApprovals": [
+    "University of Graz, Austria, GZ. 39/4/63 ex 2022/23"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004965.v1.0.1"
+}

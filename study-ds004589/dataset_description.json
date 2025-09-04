@@ -1,0 +1,13 @@
+{
+  "Name": "fMRI Investigations of Individual Differences on Memory Activation for Faces and Words: The Effects of Handedness and Phenomenal Experience",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Loriana Goulding",
+    "Austin Schmidt",
+    "Isaac Hamm",
+    "C. Brock Kirwan"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004589.v1.0.0",
+  "DatasetType": "study"
+}

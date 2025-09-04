@@ -1,0 +1,15 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Distinct brain systems mediate the effects of nociceptive input and self-regulation on pain",
+  "Authors": [
+    "Choong-Wan Woo",
+    "Mathieu Roy",
+    "Jason T. Buhle",
+    "Tor D. Wager"
+  ],
+  "License": "PDDL",
+  "Acknowledgements": "Thanks to Asa Pingree and Namema Amendi for help with data collection.",
+  "Funding": "This work was funded by R01 DA027794 and R01 MH076136 (TDW), by a Fulbright Graduate Study Fellowship to CW, and by a post-doctoral scholarship from the Canadian Institutes of Health Research grant (CIHR) to MR. Matlab code implementing all analyses is available at http://wagerlab.colorado.edu/tools.",
+  "HowToAcknowledge": "In addition to any citation requirements in the dataset summary please use the following to cite this dataset: 'This data was obtained from the OpenfMRI database. Its accession number is ds000140.'",
+  "DatasetType": "study"
+}

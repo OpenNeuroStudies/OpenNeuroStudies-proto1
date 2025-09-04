@@ -1,0 +1,18 @@
+{
+  "Name": "CCD",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jiefeng Jiang",
+    "Shao-Fang Wang",
+    "Wanjia Guo",
+    "Corey Fernandez",
+    "Anthony D. Wagner"
+  ],
+  "Funding": "NIH F32AG056080, R21AG058111",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002169.v1.0.0",
+  "DatasetType": "study"
+}

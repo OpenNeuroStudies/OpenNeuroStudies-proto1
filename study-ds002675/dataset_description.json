@@ -1,0 +1,19 @@
+{
+  "Name": "The language network reemerges during recovery from severe traumatic brain injury",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Brian J. Coffey",
+    "Zachary D. Threlkeld",
+    "Andrea S. Foulkes",
+    "Yelena G. Bodien",
+    "Brian L. Edlow"
+  ],
+  "HowToAcknowledge": "",
+  "Acknowledgements": "We thank the nursing staff of the Massachusetts General Hospital Neurosciences ICU, Multidisciplinary ICU, and Surgical ICU.  We also thank the Massachusetts General Hospital MRI technologists for assistance with data acquisition.  We are grateful to the patients and families involved in this study for their participation and support.",
+  "ReferencesAndLinks": [
+    "Coffey BJ., Threlkeld ZD, Bodien YB, Edlow BL. The language network reemerges during recovery from severe traumatic brain injury. medRxiv 2020.01.10.20017004; doi: https://doi.org/10.1101/2020.01.10.20017004 "
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002675.v1.0.0",
+  "DatasetType": "study"
+}

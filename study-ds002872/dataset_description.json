@@ -1,0 +1,26 @@
+{
+  "Name": "Aging",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Caroline Landelle",
+    "Jean-Luc Anton",
+    "Bruno Nazarian",
+    "Julien Sein",
+    "Ali Gharbi",
+    "Olivier Felician",
+    "Anne Kavounoudias"
+  ],
+  "Licence": "CC0",
+  "Aknowlegments": "Centre IRM - INT - UMR CNRS-AMU 7289",
+  "HowToAcknowledge": "bottle of wine",
+  "Funding": [
+    "ANR12-JSH2-0005-01- Project: MULTISENSE",
+    "ICN PhD Program, ANR-11-IDEX-0001-02"
+  ],
+  "ReferencesAndLinks": [
+    "None"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002872.v1.3.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

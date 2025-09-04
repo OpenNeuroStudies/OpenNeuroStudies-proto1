@@ -1,0 +1,30 @@
+{
+  "Acknowledgements": "We thank Domenica Klank and her team of medical technical assistants at the Max Planck Institute for Cognitive and Neuroscience in Leipzig for their help with participant handling, booking and general assistance while scanning. We thank R\u00fcdiger Stirnberg and Tony St\u00f6cker from DZNE in Bonn for sharing, optimizing, and supporting us with the 3D-EPI VASO sequence used here.",
+  "Authors": [
+    "Sebastian Dresbach",
+    "Laurentius (Renzo) Huber",
+    "Omer Faruk Gulban",
+    "Alessandra Pizzuti",
+    "Robert Trampel",
+    "Dimo Ivanov",
+    "Nikolaus Weiskopf",
+    "Rainer Goebel"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004943.v1.0.2",
+  "Funding": [
+    "RG is partly funded by the European Research Council Grant ERC-2010-AdG269853 and Human Brain Project Grant FP7-ICT-2013-FET-F/604102",
+    "OFG is funded by Brain Innovation",
+    "NW has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP7/2007-2013) / ERC grant agreement n\u00b0 616905; from the European Union's Horizon 2020 research and innovation programme under the grant agreement No 681094; from the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) \u2013 project no. 347592254 (WE 5046/4-2); from the Federal Ministry of Education and Research (BMBF) under support code 01ED2210",
+    "AP is funded by the EU-project H2020-860563 euSNN and Brain Innovation",
+    "Renzo Huber was supported by the NIMH Intramural Research Program (#ZIAMH002783) and by NWO VENI project 016.Veni.198.032 during this project"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Characterisation of laminar and vascular spatiotemporal dynamics of CBV and BOLD signals using VASO and ME-GRE at 7T in humans",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "DatasetType": "study"
+}

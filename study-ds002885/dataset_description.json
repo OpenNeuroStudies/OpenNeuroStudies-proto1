@@ -1,0 +1,20 @@
+{
+  "Acknowledgements": "EF gratefully acknowledges support by the Volkswagen Foundation (Lichtenberg program 89387). The Wellcome Centre for Human Neuroimaging is supported by core funding from the Wellcome (203147/Z/16/Z). We thank David Bradbury, Peter Aston, Alphonso Reid and Daniel Bates for technical assistance with the phantom recording. The authors would like to thank Johannes Pfeifer, Jan Hirschmann, and Markus Butz for their critical review of the manuscript and fruitful discussions.",
+  "Authors": [
+    "Ahmet Levent Kandemir",
+    "Vladimir Litvak",
+    "Esther Florin"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "Volkswagen Foundation (Lichtenberg program 89387)"
+  ],
+  "HowToAcknowledge": "Please acknowledge the authors and cite the following reference: Ahmet Levent Kandemir, Vladimir Litvak, Esther Florin, The comparative performance of DBS artefact rejection methods for MEG recordings, NeuroImage, 2020, 117057, ISSN 1053-8119, https://doi.org/10.1016/j.neuroimage.2020.117057.",
+  "License": "CC0",
+  "Name": "DBS Phantom Recordings",
+  "ReferencesAndLinks": [
+    "Kandemir, A.L., Litvak, V., Florin, E., 2020. The comparative performance of DBS artefact rejection methods for MEG recordings, NeuroImage, 2020, https://doi.org/10.1016/j.neuroimage.2020.117057."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002885.v1.0.1",
+  "DatasetType": "study"
+}

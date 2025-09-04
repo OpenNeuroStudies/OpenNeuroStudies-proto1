@@ -1,0 +1,29 @@
+{
+  "Name": "Shared and differential default-mode related patterns of activity in an autobiographical, a self-referential and an attentional task",
+  "License": "",
+  "Authors": [
+    "Paola Fuentes-Claramonte",
+    "Marta Martin-Subero",
+    "Pilar Salgado-Pineda",
+    "Silvia Alonso-Lana",
+    "Ana Moreno-Alcazar",
+    "Isabel Argila-Plaza",
+    "Aniol Santo-Angles",
+    "Anton Albajes-Eizagirre",
+    "Maria Anguera-Camos",
+    "Antoni Capdevila",
+    "Salvador Sarro",
+    "Peter J. McKenna",
+    "Edith Pomarol-Clotet",
+    "Raymond Salvador"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite Fuentes-Claramonte, P., Martin-Subero, M., Salgado-Pineda, P., Alonso-Lana, S., Moreno-Alcazar, A., Argila-Plaza, I., Santo-Angles, A., Albajes-Eizagirre, A., Anguera-Camos, M., Capdevila, A., Sarro, S., McKenna, P.J., Pomarol-Clotet, E., Salvador, R. (2018) Shared and differential default-mode related patterns of activity in an autobiographical, a self-referential and an attentional task. PLOS ONE",
+  "Funding": "This work was supported by the CIBERSAM and the Catalonian Government (2014-SGR-1573 to FIDMAG). Also by a grant from the Plan Nacional de I+D+i 2013-2016: Juan de la Cierva-formacion contract (FJCI-2015-25278 to PF-C). And by the Instituto de Salud Carlos III, co-funded by European Union (ERDF/ESF, Investing in your future): Miguel Servet Research contracts (CPII13/00018 to RS and MS10/00596 to EP-C), Rio Hortega contract (CM15/00024 to MM-S), PFIS contract (FI16/00311 to AA-E) and Research Project Grants (PI14/01151 to RS, PI14/01148 to EP-C and PI14/01691 to PM).",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001618.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

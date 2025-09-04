@@ -1,0 +1,24 @@
+{
+  "Name": "Item and spatial pattern separation",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Zsuzsanna Nemecz",
+    "Attila Keresztes"
+  ],
+  "Acknowledgements": "We thank Eszter Somogyi, Vir\u00e1g Anna Varga, Hunor Kis, and Bod\u00f3cs D\u00f3ra for their assistance in data collection, and Istv\u00e1n Homolya for his work in creating the MRI sequences. ",
+  "HowToAcknowledge": "Preprint DOI to be added",
+  "Funding": [
+    "Hungarian National Research, Development and Innovation Office (FK128648)",
+    "HUN-REN (grant 0708-21 515 AT)"
+  ],
+  "EthicsApprovals": [
+    " Ethical Committee of the Medical Research Council, Hungary (ethics approval number: OGY\u00c9I/28291-2/2020)"
+  ],
+  "ReferencesAndLinks": [
+    "OSF Link to be added",
+    "https://www.attilakeresztes.com/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005559.v1.0.1"
+}

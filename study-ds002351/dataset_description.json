@@ -1,0 +1,20 @@
+{
+  "Name": "Transposition confusability during visual word recognition",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jeahong Kim",
+    "Jeyoung Jung",
+    "Kichun Nam"
+  ],
+  "Acknowledgements": "The authors thank to all participants.",
+  "Funding": [
+    "Ministry of Science and ICT), Korea, Grant 2019-2017-0-01630"
+  ],
+  "ReferencesAndLinks": [
+    "-",
+    "-"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002351.v1.0.1",
+  "DatasetType": "study"
+}

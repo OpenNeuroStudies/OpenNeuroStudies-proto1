@@ -1,0 +1,11 @@
+{
+  "Name": "CommCon",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Halle R. Dimsdale-Zucker",
+    "Christopher Baldassano"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004663.v1.0.5"
+}

@@ -1,0 +1,25 @@
+{
+  "Authors": [
+    "Brennan Terhune-Cotter",
+    "Phillip J. Holcomb",
+    "Katherine J. Midgley",
+    "Sofia E. Ortega",
+    "Emily M. Akers",
+    "Karen Emmorey"
+  ],
+  "Name": "Flankers-NEAR",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005866.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "In silico discovery of representational relationships across visual cortex",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Alessandro T. Gifford",
+    "Maya A. Jastrz\u0119bowska",
+    "Johannes J.D. Singer",
+    "Radoslaw M. Cichy"
+  ],
+  "HowToAcknowledge": "Gifford AT, Jastrz\u0119bowska MA, Singer JJD, Cichy RM. 2025. In silico discovery of representational relationships across visual cortex. Nature Human Behavior. DOI: https://doi.org/10.1038/s41562-025-02252-z",
+  "EthicsApprovals": [
+    "Procedures were approved by the ethical committee of the Department of Education and Psychology at Freie Universit\u00e4t Berlin and were in accordance with the Declaration of Helsinki."
+  ],
+  "ReferencesAndLinks": [
+    "Paper: https://doi.org/10.1038/s41562-025-02252-z",
+    "Code: https://github.com/gifale95/RNC"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005503.v1.1.7"
+}

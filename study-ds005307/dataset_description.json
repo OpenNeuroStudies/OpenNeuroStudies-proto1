@@ -1,0 +1,21 @@
+{
+  "Name": "Laser-evoked potentials in the human spinal cord and cortex",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Birgit Nierula",
+    "Tilman Stephani",
+    "Emma Bailey",
+    "Merve Kaptan",
+    "Lisa-Marie Pohle",
+    "Ulrike Horn",
+    "Andre Mouraux",
+    "Burkhard Maess",
+    "Arno Villringer",
+    "Gabriel Curio",
+    "Vadim Nikulin",
+    "Falk Eippert"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005307.v1.0.1",
+  "License": "CC0"
+}

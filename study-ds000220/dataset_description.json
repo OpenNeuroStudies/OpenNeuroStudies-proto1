@@ -1,0 +1,22 @@
+{
+  "Name": "Cost Analysis TBI",
+  "License": "CC0",
+  "Authors": [
+    "Roy, A.",
+    "Bernier, R. A.",
+    "Wang, J.",
+    "Benson, M.",
+    "French, J.",
+    "Good, D.",
+    "Hillary, F.G."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite the following references if you use these data: 'Roy, A., Bernier, R. A., Wang, J., Benson, M., French, J., Good, D., & Hillary, F.G. The evolution of cost-efficiency in neural networks during recovery from traumatic brain injury. PLOS ONE (2017).' Also, pleases include the following: 'This data was obtained from the OpenfMRI database. Its accession number is ds000220' ",
+  "Funding": "This research was supported by the Social Sciences Research Institute at the Pennsylvania State University, University Park, PA-16801 and CTSI funding via the NIH",
+  "ReferencesAndLinks": [
+    "http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170541"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000220.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

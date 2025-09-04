@@ -1,0 +1,13 @@
+{
+  "Name": "Confidence in Equal and Unequal Variance Settings",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Matan Mazor",
+    "Chudi gong",
+    "Stephen M. Fleming"
+  ],
+  "Acknowledgements": "The Wellcome Centre for Human Neuroimaging is supported by core funding from the Wellcome Trust (203147/Z/16/Z). SMF is supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (206648/Z/17/Z).",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004081.v1.0.0",
+  "License": "CC0"
+}

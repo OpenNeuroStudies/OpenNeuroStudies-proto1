@@ -1,0 +1,31 @@
+{
+  "Name": "SoCal Kinesia and Incentivization for Parkinson's Disease (SKIP): Incentivized Reaching",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Neil M. Dundon",
+    "Elizabeth Rizor",
+    "Joanne Stasiak",
+    "Jingyi Wang",
+    "Kiana Sabugo",
+    "Christina Villaneuva",
+    "Parker Barandon",
+    "Andreea C. Bostan",
+    "Regina Lapate",
+    "Scott T. Grafton"
+  ],
+  "HowToAcknowledge": "Please cite the following: Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: task-based function. bioRxiv, 2024-06.",
+  "Funding": [
+    "SKIP was funded in whole by Aligning Science Across Parkinson\u2019s ASAP-020-519 through the Michael J. Fox Foundation for Parkinson\u2019s Research (MJFF)"
+  ],
+  "EthicsApprovals": [
+    "UC Santa Barbara Human Subject's Committee protocol # 41-24-0102",
+    "(Highres_FC only): UC Santa Barbara Human Subject's Committee protocol # 42-22-0712 and USC's Human Research Protection Program protocol # HS-22-00008"
+  ],
+  "ReferencesAndLinks": [
+    "www.socalkinesia.org",
+    "https://parkinsonsroadmap.org/#"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005263.v1.0.0",
+  "DatasetType": "study"
+}

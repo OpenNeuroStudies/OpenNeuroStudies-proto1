@@ -1,0 +1,12 @@
+{
+  "Name": "Differences in Chemo-signaling Compound-Evoked Brain Activity in Male and Female Young Adults: A Pilot Study in the Role of Sexual Dimorphism in Olfactory Chemo-Signaling",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Nathan M. Muncy",
+    "C. Brock Kirwan",
+    "Jonathan J. Wisco"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003606.v1.0.0",
+  "DatasetType": "study"
+}

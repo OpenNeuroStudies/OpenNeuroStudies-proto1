@@ -1,0 +1,20 @@
+{
+  "Name": "Real-time EEG feedback on alpha power lateralization leads to behavioral improvements in a covert attention task",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Christoph Schneider",
+    "Michael Pereira",
+    "Luca Tonin",
+    "Jose del R. Millan"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds002034.v1.0.3",
+  "Funding": [
+    "No external funding sources"
+  ],
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors and cite the paper specified under 'ReferenceAndLinks'. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "ReferencesAndLinks": [
+    "Schneider, C., Pereira, M., Tonin, L. et al. Brain Topogr (2019). https://doi.org/10.1007/s10548-019-00725-9"
+  ],
+  "DatasetType": "study"
+}

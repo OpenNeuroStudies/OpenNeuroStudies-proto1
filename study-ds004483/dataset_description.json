@@ -1,0 +1,21 @@
+{
+  "Name": "ABSeqMEG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Samuel Planton*",
+    "Fosca Al Roumi*",
+    "Liping Wang",
+    "Stanislas Dehaene"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite our preprint at https://www.biorxiv.org/content/10.1101/2022.10.15.512361v1 or the published version of this paper",
+  "Funding": [
+    "European Research Council (ERC, https://erc.europa.eu/) grant to S.D. (NeuroSyntax, ID: 695403)."
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004483.v1.0.0",
+  "License": "CC0"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Evidence Accumulation in Value-Based decisions",
+  "License": "CC0",
+  "Authors": [
+    "Andrea Pisauro",
+    "Elsa Fouragnan",
+    "C Retzler",
+    "M Philiastides"
+  ],
+  "Acknowledgements": "We thank Karen Mullinger for assistance with data collection and Philippe Schyns, Lawrence Barsalou, Joachim Gross and Robin Ince for useful comments on earlier versions of the manuscript",
+  "HowToAcknowledge": "cite the paper:10.1038/ncomms15808",
+  "Funding": [
+    "This work was supported by the Biotechnology and Biological Sciences Research Council (BBSRC; grant BB/J015393/2 to M.G.P.) and the Economic and Social Research Council(ESRC; grant ES/L012995/1 to M.G.P.)."
+  ],
+  "ReferencesAndLinks": [
+    "DOI:10.1038/ncomms15808",
+    "Neural correlates of evidence accumulation during value-based decisions revealed via simultaneous EEG-fMRI"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002734.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

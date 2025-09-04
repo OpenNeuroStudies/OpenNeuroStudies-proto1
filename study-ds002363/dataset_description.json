@@ -1,0 +1,15 @@
+{
+  "Name": "Repetition of Computer Security Warnings Results in Differential Repetition Suppression Effects as Revealed with Functional MRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Brock Kirwan",
+    "Daniel Bjornn",
+    "Bonnie Anderson",
+    "Anthony Vance",
+    "David Eargle",
+    "Jeffrey Jenkins"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002363.v1.1.1",
+  "DatasetType": "study"
+}

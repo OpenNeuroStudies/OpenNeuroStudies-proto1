@@ -1,0 +1,26 @@
+{
+  "Name": "Optogenetic functional magnetic resonance imaging reveals therapeutic feedforward circuits of the subthalamic nucleus deep brain stimulation in the hemi-parkinsonian rat",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yuhui Li",
+    "Sung-Ho Lee",
+    "Chunxiu Yu",
+    "Li-Ming Hsu",
+    "Tzu-Wen W. Wang",
+    "Khoa Do",
+    "Hyeon-Joong Kim",
+    "Yen-Yu Ian Shih",
+    "Warren M. Grill"
+  ],
+  "Acknowledgements": "Y.L., S.L., C.Y., Y.I.S. and W.M.G. designed the experiment, Y.L., S.L., T.W.W., K.D. and H. K. performed the research, Y. L. and S.L. analyzed the data, Y.L., S.L., Y.I.S and W.M.G prepared the manuscript.",
+  "HowToAsknowledge": "",
+  "Funding": [
+    "NIH R37 NS040894",
+    "NIH R01 NS091236"
+  ],
+  "EthicApprovals": "Approved by the University of North Carolina Institutional Animal Care and Use Committee",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004913.v1.0.0",
+  "DatasetType": "study"
+}

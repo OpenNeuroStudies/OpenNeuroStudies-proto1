@@ -1,0 +1,19 @@
+{
+  "Name": "Motor Imagery vs Rest - Low-Cost EEG System",
+  "License": "CC0",
+  "Authors": [
+    "Victoria Peterson",
+    "Catalina Maria Galvan",
+    "Hugo Sacha Hernadez",
+    "Ruben Spies"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "@article{peterson2020feasibility, title={A feasibility study of a complete low-cost consumer-grade brain-computer interface system}, author={Peterson, Victoria and Galv{'a}n, Catalina and Hern{'a}ndez, Hugo and Spies, Ruben}, journal={Heliyon}, volume={6}, number={3}, pages={e03425}, year={2020}, publisher={Elsevier} }",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S240584402030270X"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003810.v2.0.2",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

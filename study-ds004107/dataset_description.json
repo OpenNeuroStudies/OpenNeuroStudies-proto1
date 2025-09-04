@@ -1,0 +1,32 @@
+{
+  "Name": "MIND DATA",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "M.P. Weisend",
+    "F.M. Hanlon",
+    "R. Montano",
+    "S.P. Ahlfors",
+    "A.C. Leuthold",
+    "D. Pantazis",
+    "J.C. Mosher",
+    "A.P. Georgopoulos",
+    "M.S. Hamalainen",
+    "C.J. Aine"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite: \n\nM.P. Weisend, F.M. Hanlon, R. Monta\u00f1o, S.P. Ahlfors, A.C. Leuthold, D. Pantazis, J.C. Mosher, A.P. Georgopoulos, M.S. H\u00e4m\u00e4l\u00e4inen, C.J. Aine,, V. (2007). Paving the way for cross-site pooling of magnetoencephalography (MEG) data. International Congress Series, Volume 1300, Pages 615-618,.\n\n",
+  "Funding": [
+    "This work was supported by U.S. DOE Award Number DE-FG02-99ER62764 to The MIND Institute",
+    "NIBIB grant R01-EB002010",
+    "by The Center for Functional Neuromaging Technologies (NIH grant P41-RR14075)",
+    "and by Los Alamos National Security",
+    "LLC",
+    "for the NNSA of the U.S. DOE under contract DE-AC52-06NA25396."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.ics.2006.12.095"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004107.v1.0.0"
+}

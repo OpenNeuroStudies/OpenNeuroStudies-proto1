@@ -1,0 +1,20 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Name": "Visual imagery and false memory for pictures",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5207728/"
+  ],
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000203",
+  "Acknowledgements": "This work was supported by a Miguel Servet contract (CP09/00292) and a grant PI10/02479 from the Instituto de Salud Carlos III \u2013 Subdirecci\u00f3n General de Evaluaci\u00f3n y Fomento de la Investigaci\u00f3n Sanitaria \u2013 co-funded by Fondo Europeo de Desarrollo Regional (FEDER), both to GB; a grant PRRMAB-A2011-19251 from the Sardinia Region to SS; and a contract PTA2011-4983-I from the Ministerio de Ciencia e Innovaci\u00f3n, Spain to CS-O.  The study was also supported by the Centro de Investigaci\u00f3n Biom\u00e9dica en Red de Salud Mental (CIBERSAM), Instituto de Salud Carlos III.",
+  "Authors": [
+    "Christian Stephan-Otto",
+    "Sara Siddi",
+    "Carl Senior",
+    "Daniel Mu\u00f1oz-Samons",
+    "Susana Ochoa",
+    "Ana Mar\u00eda S\u00e1nchez Laforga",
+    "Gildas Br\u00e9bion"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Name": "Individual differences in frontoparietal plasticity in humans",
+  "Authors": [
+    "Austin L. Boroshok",
+    "Anne T. Park",
+    "Panagiotis Fotiadis",
+    "Gerardo H. Velasquez",
+    "Ursula A. Tooley",
+    "Katrina R. Simon",
+    "Jasmine C.P. Forde",
+    "Lourdes M. Delgado Reyes",
+    "M. Dylan Tisdall",
+    "Dani S. Bassett",
+    "Emily A. Cooper",
+    "Allyson P. Mackey"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003849.v1.0.0"
+}

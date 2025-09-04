@@ -1,0 +1,25 @@
+{
+  "Name": "Psychosocial adversity and inhibitory control: an fMRI study of children growing up in extreme poverty",
+  "License": "CC0",
+  "Authors": [
+    "Zoya Surani",
+    "Ted Turesky",
+    "Eileen Sullivan",
+    "Talat Shama",
+    "Rashidul Haque",
+    "Nazrul Islam",
+    "Shahriah Hafiz Kakon",
+    "Xi Yu",
+    "William Petri",
+    "Charles Nelson",
+    "Nadine Gaab"
+  ],
+  "Acknowledgements": "We are grateful to all the children and caregivers who participated in the Bangladesh Early Adversity Neuroimaging Project and to our dedicated lab staff in Dhaka. We thank the NINSH facility, Dr. Kazi Deen Mohammad, and radiology technicians Mehdi and Samad for accommodating our research. We are extremely appreciative of Amala Someshwar, Akshar Patel, Rachel Kwon, and Sarala Tiwari, for their coordination and management of the study. This work was supported by research grants from the Bill & Melinda Gates Foundation to CA Nelson [OPP1111625] and WA Petri [OPP1017093], from the Henske Foundation to WA Petri, from NIAID to WA Petri (R01 AI043596-17), from the Harvard Brain Initiative Transitions Program to TK Turesky, and from the Harvard College Research Program to ZS Surani.",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005504.v1.0.0",
+  "HowToAcknowledge": "Cite OpenNeuro's DOI",
+  "ReferencesAndLinks": [
+    "Zoya Surani, Ted K. Turesky, Eileen Sullivan, Talat Shama, Rashidul Haque, Nazrul Islam, Shahria Hafiz Kakon, Xi Yu, William A Petri, Charles Nelson, Nadine Gaab (2024) Examining the relationship between psychosocial adversity and inhibitory control: an fMRI study of children growing up in extreme poverty. Journal of Experimental Child Psychology."
+  ],
+  "DatasetType": "study"
+}

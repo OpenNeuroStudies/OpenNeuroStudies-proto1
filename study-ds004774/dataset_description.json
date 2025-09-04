@@ -1,0 +1,31 @@
+{
+  "Name": "Automatic Evoked Response Detection (ER-Detect) dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "M.A. van den Boom",
+    "N.M. Gregg",
+    "G.O. Valencia",
+    "B.N. Lundstrom",
+    "K.J. Miller",
+    "D. van Blooijs",
+    "G.J.M. Huiskamp",
+    "F.S.S. Leijten",
+    "G.A. Worrell",
+    "D. Hermes"
+  ],
+  "Acknowledgements": "We thank Jaap van der Aar and Sam Buchl for their help in curating the data. For their contributions and help in collecting the data, we thank Cindy Nelson and Karla Crocket at the Mayo Clinic and the SEIN-UMCU RESPect database group at the UMC Utrecht (C.J.J. van Asch, L. van de Berg, S. Blok, M.D. Bourez, K.P.J. Braun, J.W. Dankbaar, C.H. Ferrier, T.A. Gebbink, P.H. Gosselaar, M.G.G. Hobbelink, F.W.A. Hoefnagels, N.E.C. van Klink, M.A. van \u2018t Klooster, G.A.P. de Kort, M.H.M. Mantione, A. Muhlebner, J.M. Ophorst, R. van Regteren, P.C. van Rijen, S.M.A. van der Salm, E.V. Schaft, M.M.J. van Schooneveld, H. Smeding, D. Sun, A. Velders, M.J.E. van Zandvoort, G.J.M. Zijlmans, E. Zuidhoek and J. Zwemmer).",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NIMH R01MH122258",
+    "Epilepsy Foundation of the Netherlands/Dutch Epilepsy Foundation, NEF17-07"
+  ],
+  "ReferencesAndLinks": [
+    "see HowToAcknowledge"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Institutional Review Board of Mayo Clinic (Rochester, MN, USA) and the Medical Ethical Committee from the University Medical Center Utrecht (The Netherlands)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004774.v1.0.0",
+  "DatasetType": "study"
+}

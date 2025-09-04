@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Richard Huskey",
+    "Justin Robert Keene",
+    "Shelby Wilcox",
+    "Xuanjun (Jason) Gong",
+    "Robyn Adams",
+    "Christina J. Najera"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "Miller Research Award from the School of Communication at The Ohio State University"
+  ],
+  "HowToAcknowledge": "Please cite paper Huskey et al. (2020), this papar is currently in preparation",
+  "License": "CC0",
+  "Name": "Brain Dynamics During Flow Experiences",
+  "ReferencesAndLinks": [
+    "Huskey, R., Keene, J. R., Wilcox, S., Gong, X., Adams, R., & Najera, C., J. (in preparation). Flexible and Modular Brain Network Dynamics Characterize Flow Experiences During Media Use: A Mechanistic Inquiry Into Content Dynamics and Well-Being.",
+    "code please refer to https://github.com/cogcommscience-lab/flow-dynamic",
+    "the experimental task is a naturalistic game playing please refer to https://github.com/cogcommscience-lab/asteroid_impact",
+    "OSF please refer to https://osf.io/bxvhr/?view_only=86851ec1f80a4a9e8198d43c8a50d738"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003358.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "Authors": [
+    "Christian Roming",
+    "Karl Koschutnig",
+    "Andreas Fink",
+    "..."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds002878.v2.0.0",
+  "Funding": [
+    "No Funding"
+  ],
+  "License": "CC0",
+  "Name": "Creative desicion making in soccer ",
+  "ReferencesAndLinks": [
+    "Fink, A., Bay, J. U., Koschutnig, K., Prettenthaler, K., Rominger, C., Benedek, M., Memmert, D. (2019). Brain and soccer: Functional patterns of brain activity during the generation of creative moves in real soccer decision-making situations. Human Brain Mapping, 40, 755\u2013764. doi:10.1002/hbm.24408 ",
+    "Fink, A., Rominger, C., Benedek, M., Perchtold, C. M., Papousek, I., Weiss, E. M., Memmert, D. (2018). EEG alpha activity during imagining creative moves in soccer decision-making situations. Neuropsychologia, 118\u2013124. doi:10.1016/j.neuropsychologia.2018.04.025",
+    "Memmert, D., H\u00fcttermann, S., & Orliczek, J. (2013). Decide like Lionel Messi! The impact of regulatory focus on divergent thinking in sports. Journal of Applied Social Psychology, 43, 2163\u20132167. doi:10.1111/jasp.12159  "
+  ],
+  "DatasetType": "study"
+}

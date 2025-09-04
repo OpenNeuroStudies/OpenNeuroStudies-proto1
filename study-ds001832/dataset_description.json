@@ -1,0 +1,16 @@
+{
+  "Name": "Resting State - TMS",
+  "BIDSVersion": "1.10.1",
+  "ReferencesAndLinks": [
+    "Alkhasli et al., 2019: Modulation of fronto-striatal functional connectivity using transcranial magnetic stimulation"
+  ],
+  "Authors": [
+    "Alkhasli, Isabel",
+    "Sakreida, Katrin",
+    "Mottaghy, Felix M.",
+    "Binkofski, Ferdinand"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001832.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

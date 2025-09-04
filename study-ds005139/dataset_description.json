@@ -1,0 +1,17 @@
+{
+  "Name": "SCNU-Mandarin-Cantonese-dataset",
+  "License": "CC0",
+  "Authors": [
+    "Binke Yuan",
+    "Junjie Yang"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005139.v1.0.7",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Evidence supporting a time-limited hippocampal role in retrieving autobiographical memories",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Adrian W. Gilmore",
+    "Alina Quach",
+    "Sarah E. Kalinowski",
+    "Estefan\u00eda I. Gonzalez-Araya",
+    "Stephen J Gotts",
+    "Daniel L. Schacter",
+    "Alex Martin"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003511.v1.1.1",
+  "DatasetType": "study"
+}

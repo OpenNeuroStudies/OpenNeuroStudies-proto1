@@ -1,0 +1,14 @@
+{
+  "Name": "Unilateral Glaucoma 3T dMRI",
+  "License": "",
+  "Authors": [
+    "Nathaniel P Miller, Yao Liu, Roman Krivochenitser, Bas Rokers"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001743.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

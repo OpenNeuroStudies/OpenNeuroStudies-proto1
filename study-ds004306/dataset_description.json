@@ -1,0 +1,26 @@
+{
+  "Name": "EEG Semantic Imagination and Perception Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Holly Wilson",
+    "Mohammad Golbabaee",
+    "Michael Proulx",
+    "Eamonn O'Neill"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "EPSRC"
+  ],
+  "EthicsApprovals": [
+    "PREC"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004306.v1.0.2"
+}

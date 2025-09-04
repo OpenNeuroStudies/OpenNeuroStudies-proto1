@@ -1,0 +1,25 @@
+{
+  "Name": "A high-density diffuse optical tomography dataset of naturalistic viewing",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004569.v1.0.0",
+  "HEDVersion": "",
+  "Funding": [],
+  "Authors": [
+    "Arefeh Sherafati*",
+    "Aahana Bajracharya*",
+    "Michael S. Jones",
+    "Emma Speh",
+    "Monalisa Munsi",
+    "Chen Hao Lin",
+    "Andrew K. Fishell",
+    "Tamara Hershey",
+    "Adam Eggebrecht",
+    "Joseph P. Culver",
+    "Jonathan E. Peelle"
+  ],
+  "ReferencesAndLinks": []
+}

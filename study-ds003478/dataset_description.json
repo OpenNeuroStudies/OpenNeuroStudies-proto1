@@ -1,0 +1,13 @@
+{
+  "Name": "EEG: Depression rest",
+  "ReferencesAndLinks": [
+    "PMID: 31149639"
+  ],
+  "Authors": [
+    "James F Cavanagh  jcavanagh@unm.edu"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003478.v1.1.0",
+  "DatasetType": "study"
+}

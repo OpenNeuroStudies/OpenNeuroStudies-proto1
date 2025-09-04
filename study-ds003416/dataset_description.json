@@ -1,0 +1,46 @@
+{
+  "Name": "MASiVar: Multisite, Multiscanner, and Multisubject Acquisitions for Studying Variability in Diffusion Weighted Magnetic Resonance Imaging",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Leon Y. Cai",
+    "Qi Yang",
+    "Praitayini Kanakaraj",
+    "Vishwesh Nath",
+    "Allen T. Newton",
+    "Heidi A. Edmonson",
+    "Jeffrey Luci",
+    "Benjamin N. Conrad",
+    "Gavin R. Price",
+    "Colin B. Hansen",
+    "Cailey I. Kerley",
+    "Karthik Ramadass",
+    "Fang-Cheng Yeh",
+    "Hakmook Kang",
+    "Eleftherios Garyfallidis",
+    "Maxime Descoteaux",
+    "Francois Rheault",
+    "Kurt G. Schilling",
+    "Bennett A. Landman"
+  ],
+  "Acknowledgements": "The authors thank E. Brian Welch for his help with image acquisition and study design, Zachary J. Williams for his statistical insight, and the reviewers for their thoughtful and critical feedback in improving this manuscript. This work was conducted in part using the resources of the Advanced Computing Center for Research and Education at Vanderbilt University, Nashville, Tennessee.",
+  "HowToAcknowledge": "Please cite the included reference.",
+  "Funding": [
+    "NIH 5R01EB017230",
+    "NIH 5T32EB001628",
+    "NIH 5T32GM007347",
+    "NIH 1UL1RR024975",
+    "NSF 1452485",
+    "NSF 1660816",
+    "NSF 1750213"
+  ],
+  "EthicsApprovals": [
+    "All images were acquired only after informed consent under supervision of the project Institutional Review Board."
+  ],
+  "ReferencesAndLinks": [
+    "Leon Y. Cai, Qi Yang, Praitayini Kanakaraj, Vishwesh Nath, Allen T. Newton, Heidi A. Edmonson, Jeffrey Luci, Benjamin N. Conrad, Gavin R. Price, Colin B. Hansen, Cailey I. Kerley, Karthik Ramadass, Fang-Cheng Yeh, Hakmook Kang, Eleftherios Garyfallidis, Maxime Descoteaux, Francois Rheault, Kurt G. Schilling, and Bennett A. Landman. MASiVar: Multisite, Multiscanner, and Multisubject Acquisitions for Studying Variability in Diffusion Weighted Magnetic Resonance Imaging. Magnetic Resonance in Medicine, 2021.",
+    "https://doi.org/10.1002/mrm.28926"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003416.v2.0.2"
+}

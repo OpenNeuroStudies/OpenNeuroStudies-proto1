@@ -1,0 +1,26 @@
+{
+  "Name": "Indiv Diffs ReadingSkill",
+  "License": "PDDL",
+  "Authors": [
+    "Johns CL",
+    "Jahn AA",
+    "Jones HR",
+    "Kush DK",
+    "Molfese PJ",
+    "Van Dyke JA",
+    "Magnuson JS",
+    "Tabor W",
+    "Mencl WE",
+    "Shankweiler DP",
+    "Braze D"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "A link to this dataset will be provided once it is published.",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "Johns, C. L., Jahn, A. A., Jones, H. R., Molfese, P. J., Van Dyke, J. A., Magnuson, J. S., Tabor, W., Mencl, W. E., Kush, D., Shankweiler, D. P., & Braze, D. (2018). Performance differences on reading skill measures are related to differences in cortical grey matter structure in young adults. Language, Cognition and Neuroscience, to appear(10), 1275-1295. doi:10.1080/23273798.2018.1476727"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001365.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

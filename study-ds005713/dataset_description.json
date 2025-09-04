@@ -1,0 +1,17 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "A large-scale dataset of pre- and post-surgical MRI data in patients with chronic trigeminal neuralgia",
+  "Authors": [
+    "Elena Filimonova",
+    "Anton Pashkov",
+    "Azniv Martirosyan",
+    "Galina Moisak",
+    "Jamil Rzaev"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005713.v1.0.1",
+  "License": "CC0",
+  "EthicsApprovals": [
+    "All patients and healthy controls provided written informed consent to participate in the study, in accordance with the Declaration of Helsinki. Ethics approval for the research protocol was given by local ethic committee of Federal Center of Neurosurgery dated 25.05.21 (protocol # 7). "
+  ],
+  "DatasetType": "study"
+}

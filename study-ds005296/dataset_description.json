@@ -1,0 +1,23 @@
+{
+  "Authors": [
+    "Karen Emmorey",
+    "Emily M. Akers",
+    "Katherine J. Midgley",
+    "Phillip J. Holcomb"
+  ],
+  "Name": "Sentence semantic and syntactic violations",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005296.v1.0.0",
+  "DatasetType": "study"
+}

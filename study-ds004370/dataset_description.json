@@ -1,0 +1,26 @@
+{
+  "Name": "PRIOS",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "van Blooijs D",
+    "Blok S",
+    "Huiskamp GJM",
+    "Leijten FSS"
+  ],
+  "Acknowledgements": "persons to acknowledge",
+  "HowToAcknowledge": "D. van Blooijs, S. Blok, G.J.M. Huiskamp, P. van Eijsden, H.G.E. Meijer, F.S.S. Leijten The effect of propofol on local effective brain networks (submitted).",
+  "Funding": [
+    "EpilepsieNL #17-07",
+    "EpilepsieNL #19-12",
+    "NIH RO1MH122258"
+  ],
+  "ReferencesAndLinks": [
+    "see HowToAcknowledge"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004370.v1.0.2",
+  "EthicsApprovals": [
+    "This study was approved by the Medical Ethics Committee in the UMC Utrecht, the Netherlands"
+  ],
+  "DatasetType": "study"
+}

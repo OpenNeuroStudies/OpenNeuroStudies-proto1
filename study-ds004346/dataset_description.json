@@ -1,0 +1,16 @@
+{
+  "Name": "FLUX: A pipeline for MEG analysis",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Oscar Ferrante",
+    "Ling Liu",
+    "Tamas Minarik",
+    "Urszula Gorska",
+    "Tara Ghafari",
+    "Huan Luo",
+    "Ole Jensen"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004346.v1.0.8",
+  "License": "CC0"
+}

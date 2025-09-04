@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Xitong Chen",
+    "Stephanie Leach",
+    "Juniper Hollis",
+    "Dillan Cellier",
+    "Kai Hwang"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005600.v1.1.0",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "GoogleSheetId": "1i_fV47G2Qs129fs9Q_ew67fx01Y6ibBy7y2b1AFwJ_I",
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "Thalamocortical contributions to hierarchical cognitive control",
+  "ReferencesAndLinks": [],
+  "DatasetType": "study"
+}

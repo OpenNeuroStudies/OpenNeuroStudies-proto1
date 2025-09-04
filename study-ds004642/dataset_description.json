@@ -1,0 +1,24 @@
+{
+  "Name": "Intraoperative recordings of medianus stimulation with low and high impedance ECoG",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Vasileios Dimakopoulos",
+    "Marian Neidert",
+    "Johannes Sarnthein"
+  ],
+  "Acknowledgements": "We acknowledge a grant awarded by the Swiss National Science Foundation (funded by the SNSF 204651 to JS) and a scholarship awarded by the Alexander S. Onassis Public Benefit Foundation (to VD). The funders had no role in the design or analysis of the study",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1016/j.clinph.2023.07.002",
+  "Funding": [
+    "Swiss National Science Foundation, SNSF 204651",
+    "Alexander S. Onassis Public Benefit Foundation Scholarship"
+  ],
+  "EthicsApprovals": [
+    "Kantonale Ethikkommision PB-2017-00094"
+  ],
+  "ReferencesAndLinks": [
+    "Vasileios Dimakopoulos, Marian C. Neidert, Johannes Sarnthein, Low impedance electrodes improve detection of high frequency oscillations in the intracranial EEG, Clinical Neurophysiology, 2023"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004642.v1.0.1"
+}

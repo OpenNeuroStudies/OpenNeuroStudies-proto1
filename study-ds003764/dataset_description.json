@@ -1,0 +1,24 @@
+{
+  "Name": "Functional magnetic resonance imaging data for the neural dynamics underlying the acquisition of distinct auditory categories",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Zhenzhong Gan",
+    "Suiping Wang",
+    "Gangyi Feng"
+  ],
+  "Acknowledgements": "This work was supported by grants from the General Research Fund (Grant/Award Numbers 14619518 and 14614221 to Gangyi Feng) by the Research Grants Council of Hong Kong and National Natural Science Foundation of China (Grant/Award Number: 32171051 to Suiping Wang).",
+  "HowToAcknowledge": "Please cite this paper: \nhttps://doi.org/10.1016/j.dib.2023.108972\nand this one\nhttps://doi.org/10.1101/2021.01.25.428107\n",
+  "Funding": [
+    "General Research Fund (Grant/Award Numbers 14619518 and 14614221 to Gangyi Feng) by the Research Grants Council of Hong Kong",
+    "National Natural Science Foundation of China (Grant/Award Number: 32171051 to Suiping Wang)"
+  ],
+  "EthicsApprovals": [
+    "South China Normal University Institutional Review Board",
+    "The Joint Chinese University of Hong Kong \u2013 New Territories East Cluster Clinical Research Ethics Committee (The Joint CUHK-NTEC CREC)"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003764.v1.0.5",
+  "HEDVersion": " "
+}

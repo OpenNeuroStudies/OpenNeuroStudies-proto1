@@ -1,0 +1,22 @@
+{
+  "Authors": [
+    "James Kragel",
+    "Joel Voss"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Funding": [
+    "This research was funded by the National Institute Of Neurological Disorders and Stroke under Award Number R01NS113804"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "7018a7700",
+      "Description": "data2bids converter",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "License": "CC0",
+  "Name": "TSS_iEEG",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006065.v1.0.0"
+}

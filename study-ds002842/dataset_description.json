@@ -1,0 +1,17 @@
+{
+  "Name": "L2_SENTENCES",
+  "Description": "This study investigated processing of conventional metaphorical vs literal sentences during silent reading in L2 speakers (proficient speakers of German whose native language is Italian). The corresponding data for L1 (native) speakers can be found in the dataset L1_STORIES_SENTENCES, which contains data on sentence reading that are perfectly comparable to the L2 speakers data, and data on story reading, which can only be explored in L1 (native) speakers as no such task was performed by L2 speakers. L2_SENTENCES: L2 speakers were asked to read sentences silently for comprehension and no response was required. Occasional comprehension questions required yes/no answers to make sure participants were engaging in the the task. Therefore the only task performed is silent reading. The study was divided in two consecutive runs or scanning sessions. After scanning, L2 speakers' knowledge of the metaphors was tested and individual unknown metaphors for individual participants (reported under phenotype) were excluded from the analyses.",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Francesca M M Citron",
+    "Nora Michaelis",
+    "Adele E Goldberg"
+  ],
+  "Acknowledgements": "fMRI data acquisition and the appointment of Nora Michaelis were funded by an Einstein Visiting Fellowship awarded to Professor Adele Goldberg. Data analysis was funded by the Psychology Department, Lancaster University, UK.",
+  "ReferencesAndLinks": [
+    "Citron, F.M.M., Michaelis, N., & Goldberg, A.E. (2020). Metaphorical language processing and amygdala activation in L1 and L2. Neuropsychologia, 140, 107381. Doi: 10.1016/j.neuropsychologia.2020.107381"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002842.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Prediction Error VR (reach-to-touch)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lukas Gehrke",
+    "Sezen Akman",
+    "Albert Chen",
+    "Pedro Lopes",
+    "Klaus Gramann"
+  ],
+  "Acknowledgements": "We thank Avinash Singh, Tim Chen and C.-T. Lin from the Univsersity of Sydney (New South Wales, Australia) for their help developing the task.",
+  "HowToAcknowledge": "Please cite: Lukas Gehrke, Sezen Akman, Albert Chen, Pedro Lopes, Klaus Gramann (2021, March 1). Prediction Error: A reach-to-touch Mobile Brain/Body Imaging Dataset. https://doi.org/10.17605/OSF.IO/X7HNM",
+  "ReferencesAndLinks": [
+    "Detecting Visuo-Haptic Mismatches in Virtual Reality using the Prediction Error Negativity of Event-Related Brain Potentials. Lukas Gehrke, Sezen Akman, Pedro Lopes, Albert Chen, Avinash Kumar Singh, Hsiang-Ting Chen, Chin-Teng Lin and Klaus Gramann | In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI \u201919). ACM, New York, NY, USA, Paper 427, 11 pages. DOI: https://doi.org/10.1145/3290605.3300657"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003552.v1.1.0",
+  "EthicsApprovals": [
+    "GR_10_20180603"
+  ],
+  "DatasetType": "study"
+}

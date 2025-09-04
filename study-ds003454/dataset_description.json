@@ -1,0 +1,17 @@
+{
+  "Name": "Individual Differences in Fluid Reasoning and RAPM-like Problem Solving",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Andrea Stocco",
+    "Chantel S. Prat",
+    "Lauren K. Graham"
+  ],
+  "Acknowledgements": "The authors thank Justin Abernethy for his invaluable help in collecting the data, Jim Treyens for his careful comments on the manuscript, and the late Buzz Hunt for his helpful critiques on early versions of our manuscript.",
+  "Funding": [
+    "UW Royalty Research Fund award to Andrea Stocco",
+    "Bezos Family Foundation award to Lauren K. Graham"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003454.v1.0.1",
+  "DatasetType": "study"
+}

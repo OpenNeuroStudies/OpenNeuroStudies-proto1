@@ -1,0 +1,27 @@
+{
+  "Name": "Mouse_opto_DRN",
+  "License": "CC0",
+  "Authors": [
+    "Joanes Grandjean",
+    "Alberto Corcoba",
+    "Martin C. Kahn",
+    "A. Louise Upton",
+    "Evan S. Deneris",
+    "Erich Seifritz",
+    "Fritjof Helmchen",
+    "Edward O. Mann",
+    "Markus Rudin",
+    "Bechara J. Saab"
+  ],
+  "Acknowledgements": "We are grateful to Gr\u00e9goire Vernaz, Ridouane Achargui, Dr. Aileen Schr\u00f6ter, Dr. Mark Augath, Hansj\u00f6rg Kasper, Marco Tedaldi, Martin Wieckhorst, Stefan Giger, Dr. Roland Kr\u00fcppel and Dr. Simon Musall for technical assistance and valuable discussions. ",
+  "HowToAcknowledge": "Please cite this paper: \nA brain-wide functional map of the serotonergic responses to acute stress and fluoxetine\nGrandjean et al. \nNATURE COMMUNICATIONS|(2019) 10:350\nhttps://doi.org/10.1038/s41467-018-08256-w",
+  "Funding": [
+    "Swiss National Science Foundation SNF PZ00P3_148114/1-141202, 310030-141202, 310030-160310",
+    "University of Zurich FK-13-048",
+    "Brain and Behavior Research Foundation 19213"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001541.v1.1.3",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

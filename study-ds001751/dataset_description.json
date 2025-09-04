@@ -1,0 +1,18 @@
+{
+  "Name": "Context-dependent cognitive control | Flanker task",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Bart Aben",
+    "Cristian Buc Calderon",
+    "Laurens Van der Cruyssen",
+    "Doerte Picksak",
+    "Eva Van den Bussche",
+    "Tom Verguts"
+  ],
+  "ReferencesAndLinks": [
+    "Aben, B., Buc Calderon, C., Cruyssen, L. Van Der, Picksak, D., Bussche, E. Van Den, & Verguts, T. (2019). Context-dependent modulation of cognitive control involves different temporal pro fi les of fronto-parietal activity. NeuroImage, 189, 755\ufffd762"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds001751.v1.0.2",
+  "License": "CC0",
+  "DatasetType": "study"
+}

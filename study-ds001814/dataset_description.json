@@ -1,0 +1,24 @@
+{
+  "Name": "Neuroanatomical correlates of approach-avoidance conflict (fMRI)",
+  "License": "CC0",
+  "Authors": [
+    "Samuel Zorowitz",
+    "Alexander P Rockhill",
+    "Kristen K Kellard",
+    "Katherine E Link",
+    "Todd Herrington",
+    "Diego A Pizzagalli",
+    "Alik S Widge",
+    "Thilo Deckersbach",
+    "Darin D Dougherty"
+  ],
+  "Acknowledgements": "We thank Mark Helfant for program management and coordination throughout the DARPA SUBNETS effort.",
+  "HowToAcknowledge": "Zorowitz S, Rockhill AP, Link K, Herrington T, Pizzagalli DA, Dougherty DD, Widge AS, Deckersbach T (2019). The Neural Basis of Decision Conflict: A Model Based Analysis. Submitted.",
+  "Funding": [
+    "This research was sponsored by the U.S. Army Research Office and Defense Advanced Research Projects Agency under Cooperative Agreement Number W911NF-14-2-0045. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the funding sources. Cluster computing resources made possible by Instrumentation Grants 1S10RR023401, 1S10RR019307, and 1S10RR023043. DAP was partially supported by R37 MH068376 and R01 MH101521. KKE was partially supported by NIH National Institute of Neurological Disorders and Stroke (NINDS) Training Program in Recovery and Restoration of CNS Health and Function (T32 NS100663-01)."
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001814.v1.0.7",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Effects of a seven-week running intervention with moderate intensity on the volume of the hippocampus and depressive symptoms in young men from the general population. ",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Patick Klepits",
+    "Karl Koschutnig",
+    "Thomas Zussner",
+    "Andreas Fink"
+  ],
+  "Acknowledgements": "no acknowledgements",
+  "HowToAcknowledge": "I do not know",
+  "Funding": [
+    "This Project was funded by the NAWI Scolorship of the University of Graz"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the authorized ethics committee of the University of Graz."
+  ],
+  "ReferencesAndLinks": [
+    "The bidscoin was used for bringing the mridata into the bids-format.",
+    "https://github.com/Donders-Institute/bidscoin"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004937.v1.0.1",
+  "DatasetType": "study"
+}

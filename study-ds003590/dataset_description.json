@@ -1,0 +1,35 @@
+{
+  "Name": "Robust joint registration of multiple stains  and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Adria Casamitjana",
+    "Marco Lorenzi",
+    "Sebastiano Ferraris",
+    "Lo\u00efc Peter",
+    "Marc Modat",
+    "Allison Stevens",
+    "Bruce Fischl",
+    "Eugenio Iglesias"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003590.v1.0.2",
+  "HowToAcknowledge": "Casamitjana, Adri\u00e0, et al. \"Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas.\" arXiv preprint arXiv:2104.14873 (2021).",
+  "Funding": [
+    "This work was primarily funded by the European Research Council (Starting Grant 677697, project \\BUNGEE-TOOLS\").",
+    "EPSRC-funded UCL Centre for Doctoral Training in Medical Imaging (EP/L016478/1) 985 and Doctoral Training Grant (EP/M506448/1).",
+    "BRAIN Initiative (1RF1MH123195- 01, U01MH117023),",
+    "Biomedical Imaging and Bioengineering 990 (P41EB015896, 1R01EB023281, R01EB006758, R21EB018907, R01EB019956, P41EB030006)",
+    "National Institute on Aging (1R01AG070988-01, 1R56AG064027, 1R01AG064027, 5R01AG008122, R01AG016495)",
+    "National Institute of Men995 tal Health (R01 MH123195, R01 MH121885, 1RF1MH123195)",
+    "National Institute for Neurological Disorders and Stroke (R01NS0525851, R21NS072652, R01NS070963, R01NS083534, 5U01NS086625,5U24NS10059103, R01NS105820)",
+    "Shared Instrumentation Grants 1S10RR023401, 1S10RR019307, and 1S10RR023043.",
+    "NIH Blueprint for Neuroscience Research (5U01-MH093765), part 1005 of the multi-institutional Human Connectome Project.",
+    "Wellcome/EPSRC Centre for Medical En1015 gineering [WT203148/Z/16/Z; NS/A000049/1]",
+    "Alzheimer's Research UK (ARUK-IRG2019A-003)",
+    "NIH (1RF1MH123195-01, 1R01AG070988-01)"
+  ],
+  "ReferencesAndLinks": [
+    "Code: https://github.com/acasamitjana/3dhirest"
+  ]
+}

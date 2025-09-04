@@ -1,0 +1,25 @@
+{
+  "Name": "Confidence in Detection and Discrimination",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Matan Mazor",
+    "Karl J. Friston",
+    "Stephen M. Fleming"
+  ],
+  "Acknowledgements": "We thank Maayan Keshev, Dan Bang, Madeleine Scott, Peter Zeidman, Nad\u00e8ge Corbin, Tim Tierney, Emma Holmes, Max Rollwage, Roni Maimon, Rani Moran, Noam Mazor and the FIL imaging team for their help in different stages of this project. The Wellcome Centre for Human Neuroimaging is supported by core funding from the Wellcome Trust (203147/Z/16/Z). SMF is supported by a Sir Henry Dale Fellowship jointly funded by the Wellcome Trust and the Royal Society (206648/Z/17/Z).",
+  "HowToAcknowledge": "Please cite this paper: https://elifesciences.org/articles/53900",
+  "Funding": [
+    "Wellcome Trust (203147/Z/16/Z)",
+    "Wellcome Trust and Royal Society (206648/Z/17/Z)"
+  ],
+  "EthicsApprovals": [
+    "Human subjects: Participants gave their informed consent to take part in the experiment. The experiment was approved by the UCL ethics committee (approval numbers 8231/001 and 1260/003)."
+  ],
+  "ReferencesAndLinks": [
+    "https://elifesciences.org/articles/53900",
+    "Mazor, M., Friston, K. J., & Fleming, S. M. (2020). Distinct neural contributions to metacognition for detecting, but not discriminating visual stimuli. ELife, 9, e53900."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003669.v1.0.0"
+}

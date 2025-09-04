@@ -1,0 +1,30 @@
+{
+  "Name": "Electrical_Thermal_FingerTapping_2015",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Y\u00fccel, Meryem",
+    "Selb, Juliette",
+    "Aasted, Christopher",
+    "Petkov, Mihayl",
+    "Borsook, David",
+    "Boas, David",
+    "Becerra, Lino"
+  ],
+  "Acknowledgements": "This work was supported by the National Institutes of Health (NIH), the National Institute of General Medical Sciences (NIGMS) under grants NIH-NIGMS 1-R01-GM104986, 1-R01-GM122405, and the Mayday Fund, New York. We thank all participants and research staff involved in this study.",
+  "HowToAcknowledge": "Y\u00fccel, M.A., Aasted, C.M., Petkov, M.P., Borsook, D., Boas, D.A., & Becerra, L. (2015). Specificity of hemodynamic brain responses to painful stimuli: a functional near-infrared spectroscopy study. Scientific Reports, 5, 9469. https://doi.org/10.1038/srep09469. Also see: Y\u00fccel, M.A., Selb, J., Aasted, C.M., Petkov, M.P., Becerra, L., Borsook, D., & Boas, D.A. (2015). Short separation regression improves statistical significance and better localizes the hemodynamic response obtained by near-infrared spectroscopy for tasks with differing autonomic responses. Neurophotonics, 2(3), 035005. https://doi.org/10.1117/1.NPh.2.3.035005",
+  "Funding": [
+    "NIH-NIGMS 1-R01-GM104986",
+    "NIH-NIGMS 1-R01-GM122405",
+    "The Mayday Fund, New York"
+  ],
+  "EthicsApprovals": [
+    "Massachusetts General Hospital IRB"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/srep09469",
+    "https://doi.org/10.1117/1.NPh.2.3.035005"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005776.v1.0.1",
+  "DatasetType": "study"
+}

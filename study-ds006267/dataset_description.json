@@ -1,0 +1,32 @@
+{
+  "Name": "The NIMH Intramural Longitudinal Study of the Endocrine and Neurobiological Events Accompanying Puberty dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Katherine M. Cole",
+    "Shau-Ming Wei",
+    "Pedro E. Martinez",
+    "Tuong-Vi Nguyen",
+    "Michael D. Gregory",
+    "J. Shane Kippenhan",
+    "Philip D. Kohn",
+    "Steven J. Soldin",
+    "Lynnette K. Nieman",
+    "Jack A. Yanovski",
+    "Peter J. Schmidt",
+    "Karen F. Berman"
+  ],
+  "Acknowledgements": "Special thanks to NIMH Data Science and Sharing Team for help in BIDS formatting this dataset.",
+  "Curators": [
+    "Eric Earl",
+    "Dustin Moraczewski",
+    "Ashley Ptinis"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://pubmed.ncbi.nlm.nih.gov/33771694",
+  "ReferencesAndLinks": [
+    "https://pubmed.ncbi.nlm.nih.gov/33771694",
+    "https://doi.org/10.1016/j.neuroimage.2021.117970"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006267.v1.0.0",
+  "DatasetType": "study"
+}

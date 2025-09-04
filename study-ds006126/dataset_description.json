@@ -1,0 +1,35 @@
+{
+  "Name": "TDCS Modulation of Visual Cortex in Motor Imagery",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Anthony Mensah",
+    "Gleb Perevoznyuk",
+    "Artyom Batov",
+    "Aleksandra S. Pleskovskaya"
+  ],
+  "InstitutionName": "National Research University, Higher School of Economics",
+  "Funding": [
+    "Insitute for Cognitive Neuroscience - Higher School of Economics"
+  ],
+  "ReferencesAndLinks": [
+    "https://example.com/publication"
+  ],
+  "License": "CC0",
+  "GeneratedBy": [
+    {
+      "Name": "mne-bids",
+      "Version": "0.6.0",
+      "Container": {
+        "Type": "docker",
+        "Tag": "repronim/reproin:0.6.0"
+      }
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "Gimme": "https://example.com/source_dataset"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006126.v1.0.0"
+}

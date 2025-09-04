@@ -1,0 +1,16 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Block design food and nonfood picture viewing task",
+  "Description": "Thirty female subjects performed a passive viewing task with blocks of food and nonfood images. More procedures can be found in the publication. ",
+  "License": "PDDL",
+  "Authors": [
+    "Paul A. M. Smeets",
+    "Floor M. Kroese",
+    "Catherine Evers",
+    "D. T. D. de Ridder"
+  ],
+  "ReferencesAndLinks": [
+    "http://www.ncbi.nlm.nih.gov/pubmed/23578759"
+  ],
+  "DatasetType": "study"
+}

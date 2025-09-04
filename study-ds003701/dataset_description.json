@@ -1,0 +1,29 @@
+{
+  "Acknowledgements": "The Cole Neurocognition Lab (https://www.colelab.org/) for designing the study and collecting the dataset. Stephen J. Hanson, Catherine Hanson, and Gregg Ferencz at RUBIC for help collecting the data.",
+  "Authors": [
+    "Takuya Ito",
+    "Emily Winfield",
+    "Nicole Lalta",
+    "Kaustubh R. Kulkarni",
+    "Douglas H. Schultz",
+    "Ravi D. Mill",
+    "Richard H. Chen",
+    "Levi Solomyak",
+    "Michael W. Cole"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003701.v1.0.1",
+  "Funding": [
+    "We acknowledge support by the US National Institutes of Health under awards K99-R00 MH096801, R01 AG055556, and R01 MH109520."
+  ],
+  "HowToAcknowledge": "Cite: Ito, T., Kulkarni, K.R., Schultz, D.H., Mill, R.D., Chen, R.H., Solomyak, L.I., Cole, M.W., 2017. Cognitive task information is transferred between brain regions via resting-state network topology. Nature Communications. https://doi.org/10.1038/s41467-017-01000-w",
+  "License": "CC0",
+  "Name": "Concrete Permuted Rule Operations",
+  "ReferencesAndLinks": [
+    "Ito, T., Kulkarni, K.R., Schultz, D.H., Mill, R.D., Chen, R.H., Solomyak, L.I., Cole, M.W., 2017. Cognitive task information is transferred between brain regions via resting-state network topology. Nature Communications. https://doi.org/10.1038/s41467-017-01000-w",
+    "Schultz, Douglas H., Takuya Ito, Levi I. Solomyak, Richard H. Chen, Ravi D. Mill, Alan Anticevic, and Michael W. Cole. (2019). \u201cGlobal Connectivity of the Fronto-Parietal Cognitive Control Network Is Related to Depression Symptoms in the General Population.\u201d Network Neuroscience 3 (1): 107\u201323. doi:10.1162/netna00056.",
+    "Cocuzza, Carrisa V., Takuya Ito, Douglas Schultz, Danielle S. Bassett, and Michael W. Cole. (2020). \u201cFlexible Coordinator and Switcher Hubs for Adaptive Task Control.\u201d The Journal of Neuroscience 40 (36): 6949\u201368. doi:10.1523/JNEUROSCI.2559-19.2020.",
+    "Ito, Takuya, Guangyu Robert Yang, Patryk Laurent, Douglas H. Schultz, and Michael W. Cole. (2020). \u201cConstructing Neural Network Models from Brain Data Reveals Representational Transformations Underlying Adaptive Behavior.\u201d BioRxiv, December. doi:10.1101/2020.12.24.424353."
+  ],
+  "DatasetType": "study"
+}

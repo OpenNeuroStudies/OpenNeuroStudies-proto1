@@ -1,0 +1,19 @@
+{
+  "Name": "Voluntary Task Switching Reward",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Joseph M. Orr",
+    "Marie T. Banich"
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.3758/s13415-019-00689-0"
+  ],
+  "HowToAcknowledge": "Please cite this paper: \nOrr, J. M., Imburgio, M. J., Bernard, J. A., & Banich, M. T. (2019). Striatal-frontal network activation during voluntary task selection under conditions of monetary reward. Cognitive, Affective, & Behavioral Neuroscience. https://doi.org/10.3758/s13415-019-00689-0",
+  "Funding": [
+    "National Institute of Mental Health grant P50-079485",
+    "National Institute on Drug Abuse Grant F32DA034412"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001619.v1.0.1",
+  "DatasetType": "study"
+}

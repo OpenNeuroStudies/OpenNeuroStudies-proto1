@@ -1,0 +1,18 @@
+{
+  "Authors": [
+    "Martin Rouy",
+    "Matthieu Roger",
+    "Dorian Goueytes",
+    "Michael Pereira",
+    "Paul Roux",
+    "Nathan Faivre"
+  ],
+  "Name": "Meta-rdk: Raw EEG data",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004367.v1.0.2",
+  "DatasetType": "study"
+}

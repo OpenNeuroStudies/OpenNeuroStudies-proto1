@@ -1,0 +1,16 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and Ian Ballard in any publications.",
+  "Name": "Magnitude Effect",
+  "Authors": [
+    "Ian Ballard",
+    "Bokyung Kim",
+    "Anthony Liatsis",
+    "G\u00f6khan Aydogan",
+    "Jonathan D. Cohen",
+    "Samuel M. McClure"
+  ],
+  "Funding": "NIA grant R01 031310 (JDC) and NSF grant 1358507 (SMM)",
+  "HowToAcknowledge": "Please cite Ballard, I.C, Kim, B., Liatsis, A., G\u00f6khan , A. Cohen, J.D., McClure, S.M. More is meaningful: The magnitude effect in intertemporal choice depends on self-control. Psychological Science.This data was obtained from the OpenfMRI database. Its accession number is ds000223",
+  "DatasetType": "study"
+}

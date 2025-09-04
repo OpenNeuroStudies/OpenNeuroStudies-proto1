@@ -1,0 +1,21 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "vocal task",
+  "Funding": [
+    "Conacyt (IE252-120295 and 181508)",
+    "UNAM-DGAPA (I1202811 and IN212811)."
+  ],
+  "Authors": [
+    "Arafat Angulo-Perkins",
+    "Luis Concha"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003146.v1.0.1",
+  "License": "CC0",
+  "Acknowledgements": "We are grateful to all the volunteers who made this study possible. We also thank P\u00e9zel Flores for helping us to select, evaluate and record all the vocal stimuli; Daniel Ram\u00edrez Pe\u00f1a for his valuable help with the validation and preprocessing of all the acoustic stimuli; Edgar Morales Ram\u00edrez for his permanent technical assistance; Leopoldo Gonz\u00e1lez-Santos, Erick Pasaye, Juan Ort\u00edz-Retana and the support team from the Magnetic Resonance Unit (UNAM, Juriquilla), for technical assistance; and Dorothy Pless for proof-reading and editing our manuscript. Finally, we thank the authorities of the Music Conservatory \u201cJos\u00e9 Guadalupe Vel\u00e1zquez\u201d, the Quer\u00e9taro School of Violin Making, and the Quer\u00e9taro Fine Arts Institute for their help with the recruitment of musicians. The authors declare no competing financial interests.",
+  "HowToAcknowledge": "Angulo-Perkins A, Concha L (2019) Discerning the functional networks behind processing of music and speech through human vocalizations. PLoS ONE 14(10): e0222796. https://doi.org/10.1371/journal.pone.0222796",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1371/journal.pone.0222796",
+    "http://personal.inb.unam.mx/lconcha/"
+  ],
+  "DatasetType": "study"
+}

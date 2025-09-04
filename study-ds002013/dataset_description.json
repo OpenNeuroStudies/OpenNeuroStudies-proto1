@@ -1,0 +1,17 @@
+{
+  "Name": "StimDisc",
+  "Authors": [
+    "Jakob Heinzle (data acquisition)",
+    "Kai Goergen (data curation)",
+    "Joram Soch (BIDS conversion)"
+  ],
+  "ReferencesAndLinks": [
+    "Heinzle J, Kahnt T, Haynes JD (2011): Topographically specific functional connectivity between visual field maps in the human brain. NeuroImage, vol. 56, pp. 1426-1436; DOI: 10.1016/j.neuroimage.2011.02.077.",
+    "Soch J, Allefeld C, Haynes JD (2019): Inverse Transformed Encoding Models - a solution to the problem of correlated trial-by-trial parameter estimates in fMRI decoding. NeuroImage, vol. 209, art. 116449, pp. 1-19; DOI: 10.1016/j.neuroimage.2019.116449.",
+    "Soch J, Haynes JD (2022): Searchlight-based trial-wise fMRI decoding in the presence of trial-by-trial correlations. Poster presented at OHBM 2022, Glasgow, June 2022; URL: https://github.com/JoramSoch/OHBM_2022/blob/main/Posters/OHBM_2022_Poster_A_ITEM.pdf."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds002013.v1.0.3",
+  "License": "CC0",
+  "DatasetType": "study"
+}

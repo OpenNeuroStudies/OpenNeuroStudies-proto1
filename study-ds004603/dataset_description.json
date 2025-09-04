@@ -1,0 +1,14 @@
+{
+  "Name": "Visual Attribute-Specific Contextual Trajectory Paradigm",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Benjamin Lowe (ben.lowe@mq.edu.au)",
+    "Jonathan Robinson (jonathan.robinson@monash.edu)",
+    "Naohide Yamamoto (naohide.yamamoto@qut.edu.au)",
+    "Hinze Hogendoorn (hinze.hogendoorn@qut.edu.au)",
+    "Patrick Johnston (dr.pat.johnston@icloud.com)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004603.v1.1.0",
+  "License": "CC0"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "BOLD Verb Generation",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Saloni Krishnan",
+    "Kate Watkins"
+  ],
+  "Acknowledgements": "Please see paper",
+  "HowToAcknowledge": "Please cite this paper: TBD",
+  "Funding": [
+    "Medical Research Council MR/P024149/1"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Medical Sciences Interdivisional Research Ethics Committee at the University of Oxford (R55835/RE002)"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/k5bfs/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003145.v1.0.2"
+}

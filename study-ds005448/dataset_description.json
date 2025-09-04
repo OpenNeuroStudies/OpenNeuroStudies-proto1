@@ -1,0 +1,28 @@
+{
+  "Name": "STReEF",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jelsma S.B.",
+    "Zijlmans M.",
+    "Heijink I.B.",
+    "Hoefnagels F.W.A.",
+    "Raemakers M",
+    "Bourez-Swart M.D.",
+    "Otte W.M",
+    "van Blooijs D.",
+    "van Klink N.E.C."
+  ],
+  "Acknowledgements": "We thank the SEIN-UMCU RESPect database group (C.J.J. van Asch, L. van de Berg, S. Blok, M.D. Bourez, K.P.J. Braun, J.W. Dankbaar, C.H. Ferrier, T.A. Gebbink, P.H. Gosselaar, R. van Griethuysen, M.G.G. Hobbelink, F.W.A. Hoefnagels, N.E.C. van Klink, M.A. van \u2018t Klooster, G.A.P. deKort, M.H.M. Mantione, A. Muhlebner, J.M. Ophorst, P.C. van Rijen, S.M.A. van der Salm, E.V. Schaft, M.M.J. van Schooneveld, H. Smeding, D. Sun, A. Velders, M.J.E. van Zandvoort, G.J.M. Zijlmans, E. Zuidhoek and J. Zwemmer) for their contributions and help in collecting the data.",
+  "HowToAcknowledge": "Jelsma S.B. et al 2024, Structural and effective brain connectivity in focal epilepsy",
+  "Funding": [
+    "EpilepsieNL 23-06",
+    "ERC starting grant #803880",
+    "MING foundation"
+  ],
+  "ReferencesAndLinks": [
+    "see HowToAcknowledge"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005448.v1.0.0",
+  "DatasetType": "study"
+}

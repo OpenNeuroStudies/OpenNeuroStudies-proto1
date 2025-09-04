@@ -1,0 +1,18 @@
+{
+  "Authors": [
+    "SUN, Rui",
+    "Ven WONG, Goon Fui",
+    "GAO, Jungling"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Funding": [
+    "Faculty Research Fund of Faculty of Education in HKU"
+  ],
+  "Name": "The Effect of Buddhism Derived Loving Kindness Meditation on Modulating EEG: Long-term and Short-term Effect",
+  "License": "CC0",
+  "EthicsApprovals": [
+    "The University of Hong Kong Human Research Ethics Committee approved the project, Reference Number: EA210145."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003816.v1.0.1"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Emotion and Development Branch Phenotyping and DTI (2012-2017)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Cameron C. McKay",
+    "Brooke Scheinberg",
+    "Ellie P. Xu",
+    "Katharina Kircanski",
+    "Daniel S. Pine",
+    "Melissa A. Brotman",
+    "Ellen Leibenluft",
+    "Julia O. Linke"
+  ],
+  "Acknowledgements": "This research was supported by the NIMH Intramural Research Program.",
+  "HowToAcknowledge": "Please cite this dataset using the appropriate OpenNeuro DOI.",
+  "Funding": [
+    "ZIAMH002786",
+    "ZIAMH002778",
+    "ZIAMH002781"
+  ],
+  "EthicsApprovals": [
+    "NIH Clinical Study Protocols NCT02531893 (Psychological Treatments for Youth With Severe Irritability) and NCT00025935 (Studies of Brain Function and Course of Illness in Pediatric Bipolar Disorder)."
+  ],
+  "ReferencesAndLinks": [
+    "For additional information about this dataset and associated code, please refer to our study GitHub repository: https://github.com/nimh-dsst/DTI-Phenotyping"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004605.v1.0.1"
+}

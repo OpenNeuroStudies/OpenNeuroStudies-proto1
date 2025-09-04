@@ -1,0 +1,14 @@
+{
+  "Name": "MB-EPI-comparison",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lukas Snoek",
+    "Tinka Beemstermboer",
+    "H. Steven Scholte"
+  ],
+  "Acknowledgements": "We thank the Spinoza Centre's scanning assistants for executing the study.",
+  "HowToAcknowledge": "Please cite this dataset using the corresponding DOI",
+  "DatasetDOI": "10.18112/openneuro.ds002603.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,27 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "This dataset is made available under the Public Domain Dedication and License v1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike Community Norms (http://www.opendatacommons.org/norms/odc-by-sa/); in particular, while not legally required, we hope that all users of the data will cite at least one of the associated publications associated with these data and acknowledge the OpenfMRI project and National Institute on Aging(RO1AG025340; PI: M.Mather), JSPS KAKENHI (16H03750, 15K21062: PI: T.Ueno), JSPS KAKENHI (16H05959, 16KT0002, 16H02053; PI:M.Sakaki) and European Commission (CIG618600; PI:M.Sakaki) in any publication.",
+  "Name": "Examining effects of arousal on responses to salient and non-salient stimuli in younger and older adults",
+  "ReferencesAndLinks": [
+    "Lee, Greening, Ueno, Clewett, Ponzio, Sakaki, & Mather (2018) in Nature Human Behavior",
+    "Mather, M., Yoo, H. J., Clewett, D. V., Lee, T. H., Greening, S. G., Ponzio, A., Min, J., & Thayer, J. F. (2017). Higher locus coeruleus MRI contrast is associated with lower parasympathetic influence over heart rate variability. NeuroImage, 150, 329-335.  ",
+    "Yoo, H. J., Thayer, J. F., Greening, S., Lee, T. H., Ponzio, A., Min, J., Sakaki, M., Nga, L., Mather, M., & Koenig, J. (2017). Brain structural concomitants of resting state heart rate variability in the young and old\u2014Evidence from two independent samples. Brain Structure and Function.",
+    "https://osf.io/zw8aj/",
+    "Clewett, D., Lee, T.H., Greening, S., Ponzio, A., Margalit, E., & Mather, M. (2016). Neuromelanin marks the spot: Identifying a locus coeruleus biomarker of cognitive reserve in healthy aging. Neurobiology of Aging, 37, 117-126."
+  ],
+  "Authors": [
+    "Tae-Ho Lee",
+    "Steven Greening",
+    "Taiji Ueno",
+    "David Clewett",
+    "Allison Ponzio",
+    "Michiko Sakaki",
+    "Mara Mather"
+  ],
+  "Funding": [
+    "National Institute on Aging(RO1AG025340; PI: M.Mather), JSPS KAKENHI (16H03750, 15K21062: PI: T.Ueno), JSPS KAKENHI (16H05959, 16KT0002, 16H02053; PI:M.Sakaki) and European Commission (CIG618600; PI:M.Sakaki) "
+  ],
+  "HowToAcknowledge": "For functional imaging results, please cite:\n\nLee, Greening, Ueno, Clewett, Ponzio, Sakaki, & Mather (2018). Arousal increases neural gain via the locus coeruleus-norepinephrine system in younger adults but not in older adults. Nature Human Behavior\n\nFor locus coeruleus neuromelanin imaging please cite:\n\nClewett, D., Lee, T.H., Greening, S., Ponzio, A., Margalit, E., & Mather, M. (2016). Neuromelanin marks the spot: Identifying a locus coeruleus biomarker of cognitive reserve in healthy aging. Neurobiology of Aging, 37, 117-126.\n\nMather, M., Yoo, H. J., Clewett, D. V., Lee, T. H., Greening, S. G., Ponzio, A., Min, J., & Thayer, J. F. (2017). Higher locus coeruleus MRI contrast is associated with lower parasympathetic influence over heart rate variability. NeuroImage, 150, 329-335.\n\nFor structural relationships with heart rate variability data please cite:\n\nMather, M., Yoo, H. J., Clewett, D. V., Lee, T. H., Greening, S. G., Ponzio, A., Min, J., & Thayer, J. F. (2017). Higher locus coeruleus MRI contrast is associated with lower parasympathetic influence over heart rate variability. NeuroImage, 150, 329-335.\n\nYoo, H. J., Thayer, J. F., Greening, S., Lee, T. H., Ponzio, A., Min, J., Sakaki, M., Nga, L., Mather, M., & Koenig, J. (2017). Brain structural concomitants of resting state heart rate variability in the young and old\u2014Evidence from two independent samples. Brain Structure and Function.",
+  "DatasetDOI": "10.18112/openneuro.ds001242.v1.0.0",
+  "DatasetType": "study"
+}

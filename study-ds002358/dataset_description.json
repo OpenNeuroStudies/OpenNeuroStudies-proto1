@@ -1,0 +1,15 @@
+{
+  "Name": "columnar Finger representations",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Renzo Huber",
+    "Emily Finn",
+    "et al.",
+    "Ben Poser",
+    "Peter Bandettini"
+  ],
+  "Acknowledgements": "These Data are acquired at NIH in SFIM/FMRIF on a SIEMENS 7T MAGENTOIM scanner.\n\n",
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002358.v1.0.0",
+  "DatasetType": "study"
+}

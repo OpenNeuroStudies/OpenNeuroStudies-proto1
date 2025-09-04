@@ -1,0 +1,13 @@
+{
+  "Name": "EEG: Visual Working Memory in Acute TBI",
+  "ReferencesAndLinks": [
+    "  "
+  ],
+  "Authors": [
+    "James F Cavanagh"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003523.v1.1.0",
+  "DatasetType": "study"
+}

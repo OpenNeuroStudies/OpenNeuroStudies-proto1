@@ -1,0 +1,19 @@
+{
+  "Name": "Body Motor",
+  "License": "CC0",
+  "Authors": [
+    "Schellekens, W.",
+    "Bakker, C.",
+    "Ramsey, N.F.",
+    "Petridou, N."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This work was supported by the National Institute of Mental Health of the National Institutes of Health under award number RO1MH111417"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003972.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

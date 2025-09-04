@@ -1,0 +1,27 @@
+{
+  "Name": "A behavioral, clinical and brain imaging dataset with focus on emotion regulation of females with fibromyalgia",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Thania Balducci",
+    "Jalil Rasgado-Toledo",
+    "Alely Valencia",
+    "Maria-Jose van Tol",
+    "Andre Aleman",
+    "Eduardo A. Garza-Villarreal"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Cite this database, the preprint and paper and under works.",
+  "Funding": [
+    "CONACYT"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/zenodo.6554870"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004144.v1.0.2",
+  "Acknowledgements": "Xochitl Duque, Psychology Department of the Instituto Nacional de Psiquiatria, and the Mexican Foundation for Fibromyalgia for their help recruiting. ",
+  "EthicsApprovals": [
+    "Research Ethics Committee of the Instituto Nacional de Psiquiatria"
+  ],
+  "DatasetType": "study"
+}

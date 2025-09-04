@@ -1,0 +1,13 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Reinforcement-Learning Generalization",
+  "Authors": [
+    "Jason Gallivan",
+    "Corson Areshenkoff",
+    "Anouk de Brouwer",
+    "Dan Gale"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005230.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

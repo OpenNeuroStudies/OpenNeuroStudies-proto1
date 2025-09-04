@@ -1,0 +1,19 @@
+{
+  "ReferencesAndLinks": [
+    "Abdelhack, M., & Kamitani, Y. (2018). Sharpening of Hierarchical Visual Feature Representations of Blurred Images. ENeuro, 5(3), ENEURO.0443-17.2018. https://doi.org/10.1523/ENEURO.0443-17.2018"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003661.v1.0.0",
+  "Funding": [
+    "This research was supported by grants from JSPS KAKENHI grant numbers JP15H05920 and JP15H05710; ImPACT Program of Council for Science, Technology and Innovation (Cabinet Office, Government of Japan); the New Energy and Industrial Technology Development Organization (NEDO); and Japanese Government Scholarship (MEXT)."
+  ],
+  "Name": "Sharpening of Hierarchical Visual Feature Representations of Blurred Images",
+  "License": "CC0",
+  "Authors": [
+    "Mohamed Abdelhack",
+    "Yukiyasu Kamitani"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Acknowledgements": "We thank Tomoyasu Horikawa, Kei Majima, Mitsuaki Tsukamoto, and Shuntaro Aoki for help with data collection and analysis. This study was conducted using the MRI scanner and related facilities of Kokoro Research Center, Kyoto University.",
+  "HowToAcknowledge": "",
+  "DatasetType": "study"
+}

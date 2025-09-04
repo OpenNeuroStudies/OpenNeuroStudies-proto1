@@ -1,0 +1,27 @@
+{
+  "Name": "Evaluation of microglia activation related markers following a clinical course of TBS: a non-human primate study",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Lucero Aceves-Serrano",
+    "Jason L Neva",
+    "Jonathan Munro",
+    "Irene M Vavasour",
+    "Martin Parent",
+    "Lara Boyd",
+    "Doris J Doudet"
+  ],
+  "Acknowledgements": "We thank the UBC/TRIUMF PET program staff for their contribution to this work: this study would not have been possible without Carolyn English to run the HRRT scanner and the radiochemists at TRIUMF to synthesize the tracer. We also thank the staff at the UBC MRI Research Centre. Special thanks are due to Julian Kaye and the UBC Animal Care Facilities personnel for their animals' outstanding care.",
+  "HowToAcknowledge": "PLOS ONE. 2024; ",
+  "Funding": [
+    "BRAIN CANADA [F14-02712]"
+  ],
+  "EthicsApprovals": [
+    "All non-human primates (NHP) experiments were conducted ethically following the guidelines and regulations from the Canadian federal government on animal welfare and were approved by the Committee on Animal Care at the University of British Columbia. "
+  ],
+  "ReferencesAndLinks": [
+    "Aceves-Serrano L, Sossi V, Doudet DJ. Comparison of Invasive and Non-invasive Estimation of [11C]PBR28 Binding in Non-human Primates. Mol Imaging Biol. 2021. doi:10.1007/s11307-021-01661-6"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005093.v1.0.2"
+}

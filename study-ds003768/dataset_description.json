@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "We would like to express special thanks to Dr. Thomas Beck and Dr. Josef Pfeuffer, Siemens AG, Healthcare Sector for providing us with the Advanced fMRI package WIP package. We would also like to thank Jack W. Williams and Youyou Yu for their help during the experiment. Data analysis were conducted using the computing resources provided by the Institute for Computational and Data Sciences at the Pennsylvania State University (https://icds.psu.edu).",
+  "Authors": [
+    "Yameng Gu",
+    "Feng Han",
+    "Lucas E. Sainburg",
+    "Margeaux M. Schade",
+    "Orfeu M. Buxton",
+    "Jeff H. Duyn",
+    "Xiao Liu"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003768.v1.0.0",
+  "Funding": [
+    "National Institutes of Health Pathway to Independence Award K99/R00 (5R00NS092996-03)",
+    "Brain Initiative Award (1RF1MH123247-01)",
+    "National Institutes of Health R01 Award (1R01NS113889-01A1)"
+  ],
+  "HowToAcknowledge": "Please cite the paper",
+  "License": "CC0",
+  "Name": "Simultaneous EEG and fMRI signals during sleep from humans",
+  "ReferencesAndLinks": [
+    "An orderly sequence of autonomic and neural events at transient arousal changes, Yameng Gu, Feng Han, Lucas E. Sainburg, Margeaux M. Schade, Orfeu M. Buxton, Jeff H. Duyn, Xiao Liu, bioRxiv, 2021"
+  ],
+  "DatasetType": "study"
+}

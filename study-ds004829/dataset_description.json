@@ -1,0 +1,28 @@
+{
+  "Name": "Concurrent response and action effect representations across the somatomotor cortices during novel task preparation.",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Ana F. Palenciano",
+    "Carlos Gonz\u00e1lez-Garc\u00eda",
+    "Jan de Houwer",
+    "Baptist Lieefoghe",
+    "Marcel Brass"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Founding": [
+    "",
+    ""
+  ],
+  "EthicsApprovals": [
+    "",
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004829.v1.0.1"
+}

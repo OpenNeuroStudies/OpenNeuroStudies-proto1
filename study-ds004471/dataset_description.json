@@ -1,0 +1,29 @@
+{
+  "Name": "London Heath Sciences Center Parkinson's Disease Dataset (LHSCPD)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Mohamad Abbass",
+    "Greydon Gilmore",
+    "Alaa Taha",
+    "Ryan Chevalier",
+    "Magdalena Jach",
+    "Terry M. Peters",
+    "Ali R. Khan",
+    "Jonathan C. Lau"
+  ],
+  "Acknowledgements": "We would like to acknowledge the efforts of all the students and trainees who created, maintained, and participated in neuroanatomy workshops and tutorials which established the foundations of the AFIDs framework. Additionally, all staff involved in patient recruitment and imaging of the LHSCPD dataset.",
+  "License": "CC0",
+  "HowToAcknowledge": "If using neuroimaging or AFIDs data please cite:\n\n Taha, A. et al. Magnetic resonance imaging datasets with anatomical fiducials for quality control and registration. bioRxiv 2022.11.21.516173 (2022) doi:10.1101/2022.11.21.516173 \n\nand \n\nAbbass, M. et al. Application of the anatomical fiducials framework to a clinical dataset of patients with Parkinson\u2019s disease. Brain Struct. Funct. 227, 393\u2013405 (2022)",
+  "EthicsApprovals": [
+    "Human Subject Research Ethics Board (HSREB) office at the University of Western Ontario (REB# 109045)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004471.v1.0.1",
+  "Funding": [
+    "Canada Research Chairs program #950-231964",
+    "Research start-up funding through the Department of Clinical Neurological Sciences at University of Western Ontario",
+    "Canada First Research Excellence Fund, and Brain Canada",
+    "NSERC Discovery Grant #6639",
+    "Canada Foundation for Innovation (CFI) John R. Evans Leaders Fund Project #37427"
+  ],
+  "DatasetType": "study"
+}

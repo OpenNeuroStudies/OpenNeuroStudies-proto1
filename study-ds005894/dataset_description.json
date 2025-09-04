@@ -1,0 +1,18 @@
+{
+  "Name": "MoL fmri dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jiawen Huang",
+    "Akshay Manglik",
+    "Nick Dutra",
+    "Taylor Chamberlain",
+    "Hannah Tarder-Stoll",
+    "Robert Ajemian",
+    "Qiong Zhang",
+    "Kenneth A. Norman",
+    "Christopher Baldassano"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005894.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Deception_data",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Makowski, Dominique",
+    "Pham, Tam",
+    "Lau, Zen Juen"
+  ],
+  "Acknowledgements": "Special thanks to An-Shu Te for helping with formatting this dataset in BIDS",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004511.v1.0.2",
+  "KeyWords": [
+    "Electroencephalography",
+    "Deception",
+    "Decision making",
+    "Cognitive Control",
+    "Resting state"
+  ]
+}

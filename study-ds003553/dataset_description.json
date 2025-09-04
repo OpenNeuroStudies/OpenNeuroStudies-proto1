@@ -1,0 +1,24 @@
+{
+  "Name": "Visser, Scholte & Kindt (2011) Journal of Neuroscience",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Renee M Visser",
+    "H Steven Scholte",
+    "Merel Kindt"
+  ],
+  "Acknowledgements": "We thank B. Molenkamp and M. Spaan for technical assistance",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1523/JNEUROSCI.2178-11.2011",
+  "Funding": [
+    "This work was supported by a Vici grant (M. Kindt, #45307-006) from the Netherlands Organization for Scientific Research."
+  ],
+  "EthicsApprovals": [
+    "Procedures were executed in compliance with relevant laws and institutional guidelines and were approved by the local ethics committee (University of Amsterdam, The Netherlands; 2010-CP-1246)."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.2178-11.2011",
+    "Visser, R. M., Scholte, H. S., and Kindt, M. (2011). Associative Learning Increases Trial-by-Trial Similarity of BOLD-MRI Patterns. The Journal of Neuroscience, 31(33), 12021 12028. https://doi.org/10.1523/jneurosci.2178-11.2011"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003553.v1.0.0"
+}

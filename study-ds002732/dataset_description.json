@@ -1,0 +1,24 @@
+{
+  "Name": "",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Nora C. Heinzelmann",
+    "Susanna C. Weber",
+    "Philippe N. Tobler"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002732.v1.0.0",
+  "DatasetType": "study"
+}

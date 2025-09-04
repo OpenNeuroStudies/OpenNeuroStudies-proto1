@@ -1,0 +1,23 @@
+{
+  "Name": "Single-pulse TMS fMRI",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Niharika Gajawelli",
+    "Cameron Glick",
+    "Yinming Sun",
+    "Faizan Badami",
+    "Amit Etkin",
+    "Manish Saggar"
+  ],
+  "Acknowledgements": "Special thanks to members of Etkin Lab, Brain Dynamics Lab, and Alto Neuroscience",
+  "EthicsApprovals": [
+    "Stanford IRB-31244"
+  ],
+  "ReferencesAndLinks": [
+    "https://braindynamicslab.github.io/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005498.v2.0.0",
+  "HowToAcknowledge": "Please cite the data and include a cite to the data paper:\n\nGlick C., Gajawelli N., Sun Y., Badami F., Saggar M. Etkin A. 2024. Concurrent single-pulse (sp) TMS/fMRI to reveal the causal connectome in healthy and patient populations: Single-pulse TMS fMRI. https://doi.org/10.18112/openneuro.ds005498.v1.1.0\n\nGlick C., Gajawelli N., Sun Y., Badami F., Saggar M. Etkin A. 2024. bioRxiv. Concurrent single-pulse (sp) TMS/fMRI to reveal the causal connectome in healthy and patient populations: Single-pulse TMS fMRI. https://doi.org/10.1101/2024.09.25.614833"
+}

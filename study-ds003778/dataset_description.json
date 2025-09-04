@@ -1,0 +1,12 @@
+{
+  "Name": "Adaptive memory distortions are predicted by feature representations in parietal cortex",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Yufei Zhao",
+    "Avi Chanales",
+    "Brice Kuhl"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003778.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

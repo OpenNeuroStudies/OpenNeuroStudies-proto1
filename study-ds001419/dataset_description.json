@@ -1,0 +1,37 @@
+{
+  "Name": "thoughtExperiment",
+  "License": "CC0",
+  "Authors": [
+    "Martin Wegrzyn",
+    "Joana Aust",
+    "Larissa Barnstorf",
+    "Magdalena Gippert",
+    "Mareike Harms",
+    "Antonia Hautum",
+    "Shanna Heidel",
+    "Friederike Herold",
+    "Sarah M. Hommel",
+    "Anna-Katharina Knigge",
+    "Dominik Neu",
+    "Diana Peters",
+    "Marius Schaefer",
+    "Julia Schneider",
+    "Ria Vormbrock",
+    "Sabrina M. Zimmer",
+    "Friedrich G. Woermann",
+    "Kirsten Labudda"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1371/journal.pone.0204338"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001419.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "ReferenceAndLinks": [
+    "Thought experiment: Decoding cognitive processes from the fMRI data of one individual",
+    "10.1101/341594"
+  ],
+  "DatasetType": "study"
+}

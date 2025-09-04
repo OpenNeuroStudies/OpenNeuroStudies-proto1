@@ -1,0 +1,27 @@
+{
+  "Name": "A naturalistic fMRI dataset in response to public speaking",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Bolong Wang",
+    "XuanXuan Zhang",
+    "Xiangzhen Kong"
+  ],
+  "DatasetType": "study",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005920.v1.0.6",
+  "License": "CC0",
+  "Acknowledgements": "This study was supported by the STI 2030-Major Projects (2021ZD0200409), National Natural Science Foundation of China (32171031), and Information Technology Center of Zhejiang University.",
+  "EthicsApprovals": [
+    "Institutional Review Board of Zhejiang University (No. 2023053)"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "DPARSFA",
+      "Version": "v8.1"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "Description": "This dataset is original and does not derive from any existing source datasets."
+    }
+  ]
+}

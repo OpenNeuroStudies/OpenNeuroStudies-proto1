@@ -1,0 +1,15 @@
+{
+  "Name": "interictal iEEG during slow-wave sleep with HFO markings",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Fedele T",
+    "Krayenb\u00fchl N",
+    "Hilfiker P",
+    "Adam Li",
+    "Sarnthein J."
+  ],
+  "Acknowledgements": "Adam Li (github: adam2392) converted the dataset from the original format into BIDS. He used mne-bids to do so, and uses the dataset to validate mne-hfo, a Python open-source implementation of HFO detection algorithms. See 10.5281/zenodo.4485036.",
+  "DatasetDOI": "10.18112/openneuro.ds003498.v1.0.1",
+  "License": "CC0"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "The FreeSurfer Maintenance Dataset",
+  "Authors": [
+    "Douglas N. Greve",
+    "Bruce Fischl"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004958.v1.0.0",
+  "Funding": [
+    "R01EB023281"
+  ],
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://surfer.nmr.mgh.harvard.edu/fswiki/FsmData",
+    "https://freesurfer.net/",
+    "https://surfer.nmr.mgh.harvard.edu/fswiki/MiDeFace",
+    "https://github.com/pwighton/fsm2bids/"
+  ],
+  "DatasetType": "study"
+}

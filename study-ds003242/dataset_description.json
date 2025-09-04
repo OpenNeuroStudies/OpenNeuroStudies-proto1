@@ -1,0 +1,23 @@
+{
+  "Name": "MRI data during a Cue Induced Craving task following food fasting, social isolation and baseline (within-subject design)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Livia Tomova",
+    "Kimberly L. Wang",
+    "Todd Thompson",
+    "Gillian A. Matthews",
+    "Kay M. Tye",
+    "Rebecca Saxe"
+  ],
+  "Acknowledgements": "We thank the Athinoula A. Martinos Imaging Center at the McGovern Institute for Brain Research at MIT, Katherine Sottilare, Molly Humphreys, James Huettig, Rania Ezzo, Javier Weddington, Joachim Kennedy, Michelle Hung and Isabel Nichoson for help with data collection. We also thank Diana Tamir, Judith Mildner, Hilary Richardson, Shari Liu, Emrah Duzel, Nancy Kanwisher and Daniel Nettle for advice and discussion and we thank Akhil Gupta for his help making this dataset publicly available.",
+  "HowToAcknowledge": "Please cite the following paper when acknowledging use of this dataset: [Paper currently revised and resubmitted]",
+  "Funding": [
+    "We gratefully acknowledge support of this project by a SFARI Explorer Grant from the Simons Foundation (#597310 to R.S.), a MINT grant from the McGovern Institute (#1496911to R.S.), an NIH Pioneer Award (#DP1-AT009925 to K.T.), a Max Kade Foundation fellowship (to L.T.), an Erwin Schroedinger Fellowship by the Austrian Science Fund (# J4326-B25 to L.T.) and an NIH shared instrumentation grant (#1S10OD021569-01). RS participated in the Center for Brains, Minds and Machines (CBMM), funded by a NSF STC award (CCF-1231216)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003242.v1.0.0",
+  "ReferencesAndLinks": [
+    "[to be added]"
+  ],
+  "DatasetType": "study"
+}

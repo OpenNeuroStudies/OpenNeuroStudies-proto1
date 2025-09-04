@@ -1,0 +1,23 @@
+{
+  "Name": "Probing hippocampal stimulation in experimental temporal lobe epilepsy with functional MRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Niels Schwaderlapp",
+    "Enya Paschen",
+    "Pierre LeVan",
+    "Dominik von Elverfeldt",
+    "Carola A. Haas"
+  ],
+  "Acknowledgements": "Core Facility Preclinical Imaging Research Center (AMIRCF; DFG RIsources N\u00b0 RI_00052)",
+  "HowToAsknowledge": "",
+  "Funding": [
+    "DFG, HA 1443/10-1",
+    "LE 3437/2-1",
+    "BrainLinks-BrainTools Center"
+  ],
+  "EthicApprovals": "All animal procedures were carried out under the guidelines of the European Community\u2019s Council Directive (2010/63/EU) and were approved by theregional council (Regierungspr\u00e4sidium Freiburg, G-19/04)",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004959.v1.0.0",
+  "DatasetType": "study"
+}

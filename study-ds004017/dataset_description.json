@@ -1,0 +1,24 @@
+{
+  "Name": "Embodied Learning for Literacy EEG",
+  "ReferencesAndLinks": [
+    "https://github.com/MovementAndNeuroscience/B-D_EEG_Child"
+  ],
+  "Authors": [
+    "Linn Damsgaard",
+    "Marta Topor",
+    "Anne-Mette Veber Nielsen",
+    "Anne K\u00e6r Gejl",
+    "Anne Sofie B\u00f8gh Malling",
+    " Mark Schram Christensen",
+    "Rasmus Ahmt Hansen",
+    " S\u00f8ren Kildahl",
+    "Jacob Wienecke"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "n/a"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004017.v1.0.3",
+  "DatasetType": "study"
+}

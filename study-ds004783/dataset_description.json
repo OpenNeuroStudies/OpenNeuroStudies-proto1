@@ -1,0 +1,20 @@
+{
+  "Name": "Functional MRI dataset for evaluating brain synchrony among dance spectators",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Williams, A L",
+    "Vicary, S",
+    "Orgs, G"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "The dance video shown in the scanner is available at https://research.gold.ac.uk/id/eprint/34238/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004783.v1.0.1",
+  "DatasetType": "study"
+}

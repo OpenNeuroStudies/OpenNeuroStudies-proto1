@@ -1,0 +1,11 @@
+{
+  "Name": "Neuroimaging evidence for network sampling theory of human intelligence",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Adam Hampshire",
+    "Eyal Soreq"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003148.v1.0.1"
+}

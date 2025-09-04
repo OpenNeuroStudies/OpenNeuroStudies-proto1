@@ -1,0 +1,20 @@
+{
+  "Name": "Multi-resolution 7T fMRI data on the representation of visual orientation",
+  "License": "PDDL",
+  "Authors": [
+    "Michael Hanke",
+    "Stefan Pollmann",
+    "Oliver Speck",
+    "Renat Yakupov",
+    "Ayan Sengupta"
+  ],
+  "Acknowledgments": "Only open-source research software was employed in this study. We thank their respective authors for making it publicly available. Please follow good scientific practice by citing the associated data descriptor: Sengupta et al. (2016), Data in Brief",
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S2352340917302056?via%3Dihub"
+  ],
+  "Description": "This dataset consists of empirical ultra high-field fMRI data recorded at four spatial resolutions (0.8 mm, 1.4 mm, 2 mm, and 3 mm isotropic voxel size) for orientation decoding in visual cortex \u2014 in order to test hypotheses on the strength and spatial scale of orientation discriminating signals. This is an extension of the studyforrest project. All seven participants previously volunteered for the audio-only and the audio-visual Forrest Gump study. The dataset is compliant with the BIDS data description standard (http://bids.neuroimaging.io).  A detailed description can be found in: Sengupta, A., Yakupov, R., Speck, O., Pollmann, S., Hanke, M. Ultra High-Field (7 Tesla) multi-resolution fMRI data on the representation of visual orientation. Data in Brief (submitted) For more information about the project visit: http://studyforrest.org",
+  "Funding": "This research was supported by a grant from the German Research Foundation (DFG) awarded to S. Pollmann and O. Speck (DFG PO 548/15-1). This research was, in part, also supported by the German Federal Ministry of Education and Research (BMBF) as part of a US-German collaboration in computational neuroscience (CRCNS), co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1112; NSF 1129855). Work on the data-sharing technology employed for this research was supported by US-German CRCNS project, co-funded by the BMBF and the US National Science Foundation (BMBF 01GQ1411; NSF 1429999).",
+  "OpenFMRIAccessionNumber": "ds0113c",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

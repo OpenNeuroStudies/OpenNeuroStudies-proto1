@@ -1,0 +1,19 @@
+{
+  "Name": "Mouse_rest_psilocybin",
+  "License": "CC0",
+  "Authors": [
+    "Joanes Grandjean",
+    "David Buehlmann",
+    "Michaela Buerge",
+    "Hannes Sigrist",
+    "Erich Seifritz",
+    "Franz X. Vollenweider",
+    "Christopher R. Pryce",
+    "Markus Rudin"
+  ],
+  "HowToAcknowledge": "Please cite this paper:\nPsilocybin exerts distinct effects on resting state networks associated with serotonin and dopamine in mice\nJoanes Grandjean, David Buehlmann, Michaela Buerge, Hannes Sigrist, Erich Seifritz, Franz X Vollenweider, Christopher R Pryce, Markus Rudin\ndoi: https://doi.org/10.1101/751255",
+  "Funding": "This research was supported by a fellowship grant for JG from the Swiss Foundation for Excellence and Talent in Biomedical Research (to CRP and MR), and by project grants 31003A-141137 (to CRP and ES) and 310030-160310 (to MR) from the Swiss National Science Foundation.",
+  "DatasetDOI": "10.18112/openneuro.ds001725.v1.1.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

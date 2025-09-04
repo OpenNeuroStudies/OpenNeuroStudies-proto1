@@ -1,0 +1,23 @@
+{
+  "ReferencesAndLinks": [
+    "https://github.com/gaffreylab/EEG-Microstate-Analysis-Tutorial/tree/main",
+    "https://link.springer.com/article/10.1007/s10548-024-01043-5"
+  ],
+  "Authors": [
+    "Armen Bagdasarov",
+    "Michael S. Gaffrey"
+  ],
+  "Name": "Gaffrey Lab Infant Microstates Reliability",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004635.v3.1.0",
+  "HowToAcknowledge": "Bagdasarov, A., Brunet, D., Michel, C. M., & Gaffrey, M. S. (2024). Microstate Analysis of continuous infant EEG: Tutorial and Reliability. Brain Topography, 1-18.",
+  "Funding": [
+    "Charles Lafitte Foundation"
+  ],
+  "EthicsApprovals": [
+    "All research was approved by the Duke University Health System Institutional Review Board."
+  ],
+  "DatasetType": "study"
+}

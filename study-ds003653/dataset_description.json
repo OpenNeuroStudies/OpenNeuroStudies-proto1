@@ -1,0 +1,42 @@
+{
+  "Acknowledgements": "We thank thank participants for taking part in this research study. We also thank Dr. Mary L. Phillips for fruitful discussions of the study design",
+  "Authors": [
+    "Anna Manelis, Ph.D.",
+    "David A.A. Baranger, Ph.D.",
+    "Skye Satz, B.S.",
+    "Rachel Ragozzino, M.A.",
+    "Satish Iyengar, Ph.D.",
+    "Holly A. Swartz, M.D.",
+    "Yaroslav O. Halchenko, Ph.D."
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "National Institute of Mental Health R01MH114870 (PI: Manelis)",
+    "National Institute of Biomedical Imaging and Bioengineering P41EB019936 (PI: Kennedy)"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the  University of Pittsburgh IRB. Protocol number STUDY19090330."
+  ],
+  "HowToAcknowledge": "To cite the dataset use: Anna Manelis, Ph.D., David A.A. Baranger, Ph.D., Skye Satz, B.S., Rachel Ragozzino, M.A., Satish Iyengar, Ph.D., Holly A. Swartz, M.D., Yaroslav O. Halchenko, Ph.D. Cortical myelin measured by the T1w/T2w ratio in individuals with depressive disorders and healthy controls.\n \nTo cite the associated paper use: Baranger D, Halchenko YO, Satz S, Ragozzino R, Iyengar S, Swartz HA, Manelis A. 2021. Aberrant levels of cortical myelin distinguish individuals with unipolar depression from healthy controls, DOI: 10.1101/2021.02.25.21252472v2",
+  "License": "CC0",
+  "Name": "Cortical myelin measured by the T1w/T2w ratio in individuals with depressive disorders and healthy controls ",
+  "ReferencesAndLinks": [
+    "https://www.medrxiv.org/content/10.1101/2021.02.25.21252472v2"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "heudiconv/reproin",
+      "Version": "0.5.4",
+      "Container": {
+        "Type": "singularity",
+        "Url": "https://github.com/ReproNim/containers/blob/master/images/repronim/repronim-reproin--0.5.4.sing"
+      }
+    },
+    {
+      "Name": "dcm2niix",
+      "Version": "v1.0.20190410  (JP2:OpenJPEG) GCC6.3.0"
+    }
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003653.v1.0.0",
+  "DatasetType": "study"
+}

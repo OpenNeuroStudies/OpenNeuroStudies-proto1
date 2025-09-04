@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "We would like to thank Somaia Saba, Hana Ro, and Michelle Hung for their assistance with stimuli creation and data collection. Thank you to Ev Fedorenko, Shari Liu, and Nancy Kanwisher for helpful feedback on the manuscript. Thank you to Steve Shannon and Atsushi Takahashi at the Athinoula A. Martinos Imaging Center at MIT. Finally, thank you to our participants for making this research possible.",
+  "Authors": [
+    "Halie Olson",
+    "Emily Chen",
+    "Kirsten Lydic",
+    "Rebecca Saxe"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004467.v1.0.0",
+  "Funding": [
+    "This research was supported by the Simons Foundation Autism Research Initiative via the Simons Center for the Social Brain at MIT and the NSF Graduate Research Fellowship Program (#1745302 to HO)."
+  ],
+  "HowToAcknowledge": " Please cite the following paper when acknowledging use of this dataset: (will fill in once published! for now, check out the preprint on biorxiv: https://www.biorxiv.org/content/10.1101/2023.01.30.526344v1)",
+  "License": "CC0",
+  "Name": "MRI data from 20 adults in response to videos of dialogue and monologue from Sesame Street",
+  "ReferencesAndLinks": [
+    "TODO"
+  ],
+  "EthicsApprovals": [
+    "This protocol was approved by the MIT Committee on the Use of Humans as Experimental Subjects."
+  ],
+  "DatasetType": "study"
+}

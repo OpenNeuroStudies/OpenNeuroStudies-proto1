@@ -1,0 +1,23 @@
+{
+  "Name": "reinstatement_fidelity",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Benjamin J. Griffiths",
+    "Stephen D. Mayhew",
+    "Karen J. Mullinger",
+    "Jo\ufffdo Jorge",
+    "Ian Charest",
+    "Maria Wimber",
+    "Simon Hanslmayr"
+  ],
+  "HowToAcknowledge": "If you use/reference this dataset in your publications, please cite the original paper 'Alpha/beta power decreases track the fidelity of stimulus-specific information', DOI https://doi.org/10.1101/633107 and the dataset DOI",
+  "Funding": [
+    "ERC Consolidator Grant Number 647954"
+  ],
+  "ReferencesAndLinks": [
+    "http://www.memorybham.com/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002000.v1.0.0",
+  "DatasetType": "study"
+}

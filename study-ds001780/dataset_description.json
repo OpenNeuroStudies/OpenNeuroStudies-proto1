@@ -1,0 +1,5 @@
+{
+  "Name": "SC MRI dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

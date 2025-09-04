@@ -1,0 +1,26 @@
+{
+  "Name": "Mirror Neuron Study",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "DatasetType": "study",
+  "Authors": [
+    "Xinge Li",
+    "Manon A. Krol",
+    "Sahar Jahani",
+    "David A. Boas",
+    "Helen Tager-Flusberg",
+    "Meryem A. Y\u00fccel"
+  ],
+  "Acknowledgements": "This work was supported by the National Institutes of Health (P41EB015896, P01-HD064653, NICHD-PO1 HD 64653). We also thank Guozhen Dong for her help during the set-up of the experiments.",
+  "HowToAcknowledge": "Li, X., Krol, M.A., Jahani, S., Boas, D.A., Tager-Flusberg, H., & Y\u00fccel, M.A. (2020). Brain correlates of motor complexity during observed and executed actions. Scientific Reports, 10, 10965. https://doi.org/10.1038/s41598-020-67327-5",
+  "Funding": [
+    "National Institutes of Health (P41EB015896, P01-HD064653, NICHD-PO1 HD 64653)"
+  ],
+  "EthicsApprovals": [
+    "Boston University IRB (Protocol # if available)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/s41598-020-67327-5"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005935.v1.0.0"
+}

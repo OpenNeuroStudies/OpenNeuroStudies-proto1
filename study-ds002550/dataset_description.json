@@ -1,0 +1,24 @@
+{
+  "Name": "Differential brain mechanisms of selection and maintenance of information during working memory (MEG data)",
+  "License": "CC0",
+  "Authors": [
+    "Romain Quentin",
+    "Jean-Remi King",
+    "Etienne Sallard",
+    "Nathan Fishman",
+    "Ryan Thompson",
+    "Ethan Buch",
+    "Leonardo Cohen"
+  ],
+  "Acknowledgements": "The intramural NINDS, DIR, NIH as well as the NIMH MEG and FMRIF facilities on the NIH campus in Bethesda (MD) contributed to this research. This project received funding from the FYSSEN foundation, the Bettencourt Schueller Foundation and the Philippe Foundation. We thank Dr. R. Coppola and Dr. T. Holroyd for their help in managing the NIH MEG facility",
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "Funding": [
+    "NINDS/HCPS",
+    "FYSSEN foundation",
+    "Bettencourt Schueller Foundation"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds002550.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

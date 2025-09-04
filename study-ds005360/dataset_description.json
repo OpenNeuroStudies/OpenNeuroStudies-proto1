@@ -1,0 +1,31 @@
+{
+  "Name": "Hormone Health Study (HHS)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Elizabeth J. Rizor",
+    "Viktoriya Babenko",
+    "Neil M. Dundon",
+    "Renee Beverly-Aylwin",
+    "Alexandra Stump",
+    "Margaret Hayes",
+    "Luna Herschenfeld-Catalan",
+    "Emily G. Jacobs",
+    "Scott T. Grafton"
+  ],
+  "HowToAcknowledge": "Please cite the following: \n\nBabenko, V. (2023). Dynamic Allostatic Modulation During Appraisal, Cognitive Challenge, and Across the Menstrual Cycle (Order No. 30246092). Available from Dissertations & Theses @ University of California; ProQuest Dissertations & Theses A&I; Publicly Available Content Database. (2810870047). https://www.proquest.com/dissertations-theses/dynamic-allostatic-modulation-during-appraisal/docview/2810870047/se-2\n\nRizor, E. J., Babenko, V., Dundon, N. M., Beverly-Aylwin, R., Stump, A., Hayes, M., Herschenfeld-Catalan, L., Jacobs, E. G., & Grafton, S. T. (2024). Menstrual cycle-driven hormone concentrations co-fluctuate with white and gray matter architecture changes across the whole brain. Human Brain Mapping, 45(11), e26785. https://doi.org/10.1002/hbm.26785",
+  "Funding": [
+    "The research was supported by the Institute for Collaborative Biotechnologies under Cooperative Agreement W911NF\u201119\u20112\u20110026 and contract W911NF-19-D-0001 from the Army Research Office. The content of the information does not necessarily reflect the position or the policy of the Government and no official endorsement should be inferred.",
+    "For blood sample processing, the Endocrine Technologies Core (ETC) at Oregon National Primate Research Center (ONPRC) is supported (in part) by NIH grant P51 OD011092 for operation of the Oregon National Primate Research Center. Research reported in this publication was supported by the Office of the Director, National Institutes Of Health of the National Institutes of Health under Award Number S10OD026701."
+  ],
+  "EthicsApprovals": [
+    "UC Santa Barbara Human Subject's Committee protocol # 40-22-0249"
+  ],
+  "ReferencesAndLinks": [
+    "http://dx.doi.org/10.1002/hbm.26785",
+    "https://escholarship.org/content/qt4ng6r46m/qt4ng6r46m.pdf"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005360.v1.0.1",
+  "Acknowledgements": "The authors thank Jan Martin and Frederik Bernd Lund at the Institute of Radiology, University Hospital Erlangen, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Erlangen, Germany for providing software code for the gradient tensor waveforms. We would also like to thank Mario Mendoza for MRI assistance, as well as Drs. Laura Pritschet, Shuying Yu, Caitlin Taylor, and Tyler Santander for advising on study procedures. ",
+  "DatasetType": "study"
+}

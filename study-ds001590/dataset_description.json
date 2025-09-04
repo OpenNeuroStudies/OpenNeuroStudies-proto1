@@ -1,0 +1,16 @@
+{
+  "Name": "Feature Discrimination",
+  "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/); \nin particular, while not legally required, we hope that all users \nof the data will acknowledge the OpenfMRI project and Ian Ballard in any publications.",
+  "Authors": [
+    "Ian C. Ballard",
+    "Anthony D. Wagner",
+    "Samuel M. McClure"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite Ballard, I.C, Wagner, A.D., McClure, S.M. Hippocampal Pattern Separation Supports Reinforcement Learning.",
+  "Funding": "NSF GRFP (ICB), NSF IGERT (ICB) and Stanford Innovation Grants (ICB)",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001590.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

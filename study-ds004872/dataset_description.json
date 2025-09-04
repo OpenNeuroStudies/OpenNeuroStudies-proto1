@@ -1,0 +1,46 @@
+{
+  "Name": "Emo-FilM Annotations",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "3.7.4",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    },
+    {
+      "Name": "dicom2nifti",
+      "Version": "2.4.8",
+      "CodeURL": "https://github.com/icometrix/dicom2nifti"
+    },
+    {
+      "Name": "phys2bids",
+      "Version": "2.8.0",
+      "CodeURL": "https://github.com/physiopy/phys2bids"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Elenor Morgenroth",
+    "Stefano Moia",
+    "Laura Vilaclara",
+    "Raphael Fournier",
+    "Michal Muszynski",
+    "Maria Ploumitsakou",
+    "Marina Almato Bellavista",
+    "Patrik Vuilleumier",
+    "Dimitri Van De Ville"
+  ],
+  "HowToAcknowledge": "Morgenroth, E., Moia, S., Vilaclara, L., Fournier, R., Muszynski, M., Ploumitsakou, M., Almato-Bellavista, M., Vuilleumier, P., Van De Ville, D. Emo-FilM: A multimodal dataset for affective neuroscience using naturalistic stimuli. (2024) https://doi.org/10.31234/osf.io/qzdbu",
+  "Funding": [
+    "This work was supported by Swiss National Science Foundation Sinergia grant CRSII5_180319"
+  ],
+  "EthicsApprovals": [
+    "Ethical approval was given by the Geneva Cantonal Commission for Ethics in Research under the study reference 2018-02006."
+  ],
+  "ReferencesAndLinks": [
+    "To be completed",
+    "https://github.com/Donders-Institute/bidscoin"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004872.v1.0.3"
+}

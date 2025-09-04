@@ -1,0 +1,28 @@
+{
+  "Acknowledgements": "This research was supported by a Key Program of National Natural Science Foundation of China 62236001 (ZZ) and a General Program of National Natural Science Foundation of China 31771251 (ZZ). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the article for publication. We also appriciate Xiayu Chen, Yajie Zhang, Guangyu Deng, Junyi Wang and other lab colleagues for asistance in data collecting and software maintaining.",
+  "Authors": [
+    "Zhengxin Gong",
+    "Ming Zhou",
+    "Yuxuan Dai",
+    "Yushan Wen",
+    "Youyi Liu",
+    "Zonglei Zhen"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004496.v2.1.2",
+  "Funding": [
+    "Key Program of National Natural Science Foundation of China (#62236001)",
+    "General Program of National Natural Science Foundation of China (#31771251)"
+  ],
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "CC0",
+  "Name": "A large-scale fMRI dataset for the visual processing of naturalistic scenes",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ],
+  "EthicsApprovals": [
+    "approval number: ICBIR_A_0111_001_02"
+  ],
+  "DatasetType": "study"
+}

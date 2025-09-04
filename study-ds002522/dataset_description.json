@@ -1,0 +1,19 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Contrast Response Functions",
+  "Authors": [
+    "Tamar Kolodny",
+    "Michael-Paul Schallmo",
+    "Scott O. Murray"
+  ],
+  "Funding": [
+    "R01 MH106520"
+  ],
+  "HowToAcknowledge": "When using the dataset, please cite the paper in the ReferencesAndLinks.",
+  "ReferencesAndLinks": [
+    "Kolodny, T., Schallmo, M-P., Gerdts, J., Bernier, R.A., & Murray, S.O. (in press). Response Dissociation in hierarchical cortical circuits: a unique feature of autism spectrum disorder. Journal of Neuroscience. DOI: https://doi.org/10.1523/JNEUROSCI.2376-19.2020"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002522.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "100 runs at 3T",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Javier Gonzalez-Castillo",
+    "Ziad S. Saad",
+    "Daniel A. Handwerker",
+    "Souheil J. Inati",
+    "Noah Brenowitz",
+    "Peter A. Bandettini"
+  ],
+  "Funding": "NIMH Intramural Research Program",
+  "ReferencesAndLinks": [
+    "Javier Gonzalez-Castillo, Ziad S. Saad, Daniel A. Handwerker, Souheil J. Inati, Noah Brenowitz, and Peter A. Bandettini Whole-brain, time-locked activation with simple tasks revealed using massive averaging and model-free analysis PNAS 2012 109 (14) 5487-5492; doi:10.1073/pnas.1121049109"
+  ],
+  "License": "CC BY",
+  "DatasetType": "study"
+}

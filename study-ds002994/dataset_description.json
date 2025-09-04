@@ -1,0 +1,25 @@
+{
+  "Name": "fribblesFMRI_object-value-construction",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Gabriel Pelletier",
+    "Nadav Aridan",
+    "Lesley K Fellows",
+    "Tom Schonberg"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "",
+    "",
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002994.v1.0.1",
+  "DatasetType": "study"
+}

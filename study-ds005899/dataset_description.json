@@ -1,0 +1,12 @@
+{
+  "Name": "ADHD Dualcontrol Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Zhiyao Gao",
+    "Vinod Menon",
+    "Weidong Cai"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005899.v1.0.2"
+}

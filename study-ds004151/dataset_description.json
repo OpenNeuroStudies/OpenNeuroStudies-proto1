@@ -1,0 +1,21 @@
+{
+  "Name": "Effect of obesity on inhibitory control in preadolescents during stop-signal \ntask. An event-related potentials study",
+  "ReferencesAndLinks": [
+    "doi: 10.1016/j.ijpsycho.2021.04.003."
+  ],
+  "Authors": [
+    "Graciela C. Alatorre-Cruz",
+    "Heather Downs",
+    "Darcy Hagood",
+    "Seth T. Sorensen",
+    "D. Keith Williams",
+    "Linda Larson-Prior"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "This research was supported by USDA/Agricultural Research Service Project 6026-51000-012-06S"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004151.v1.0.0",
+  "DatasetType": "study"
+}

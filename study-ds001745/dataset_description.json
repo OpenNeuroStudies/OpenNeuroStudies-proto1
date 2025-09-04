@@ -1,0 +1,17 @@
+{
+  "Name": "A neural signature of contextually mediated intentional forgetting",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Manning, J.R.",
+    "Hulbert, J.C.",
+    "Williams, J.",
+    "Piloto, L.",
+    "Sahakyan, L.",
+    "Norman, K.A."
+  ],
+  "ReferencesAndLinks": [
+    "http://compmemweb.princeton.edu/wp/wp-content/uploads/2016/11/a-neural-signature-of-contextually-mediated-intentional-forgetting.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001745.v1.1.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "EEG, pupillometry, ECG and photoplethysmography, and behavioral data in the digit span task and rest",
+  "ReferencesAndLinks": [
+    "Pavlov, Y. G., Kasanov, D., Kosachenko, A. I., Kotyusov, A. I., & Busch, N. A. (2022). Pupillometry and electroencephalography in the digit span task. Scientific Data, 9(1), 325. https://doi.org/10.1038/s41597-022-01414-2",
+    "Pavlov, Y. G., Gashkova, A. S., Kasanov, D., Kosachenko, A. I., Kotyusov, A. I., & Kotchoubey, B. (2023). Task-evoked pulse wave amplitude tracks cognitive load. Scientific Reports, 13(1), 1\u201310. https://doi.org/10.1038/s41598-023-48917-5",
+    "Kosachenko, A. I., Kasanov, D., Kotyusov, A. I., & Pavlov, Y. G. (2023). EEG and pupillometric signatures of working memory overload. Psychophysiology, n/a(n/a), e14275. https://doi.org/10.1111/psyp.14275"
+  ],
+  "Authors": [
+    "Yuri G. Pavlov",
+    "Dauren Kasanov",
+    "Alexandra I. Kosachenko",
+    "Alexander I. Kotyusov"
+  ],
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003838.v1.0.6",
+  "HowToAcknowledge": "https://doi.org/10.1038/s41597-022-01414-2",
+  "DatasetType": "study"
+}

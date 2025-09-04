@@ -1,0 +1,16 @@
+{
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/029603"
+  ],
+  "Funding": "ERC (261352)",
+  "Name": "Adjudicating between face-coding models with individual-face fMRI responses",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Johan D Carlin",
+    "Nikolaus Kriegeskorte"
+  ],
+  "Acknowledgments": "",
+  "HowToAcknowledge": "Please cite associated manuscript (in press, PLOS Computational Biology); This data was obtained from the OpenfMRI database. Its accession number is ds000232.",
+  "DatasetType": "study"
+}

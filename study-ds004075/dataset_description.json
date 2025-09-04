@@ -1,0 +1,17 @@
+{
+  "Name": "what_are_we_talking_about",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Adam Boncz",
+    "Brigitta Toth",
+    "Istv\u00e1n Winkler"
+  ],
+  "Funding": [
+    "Hungarian Academy of Sciences, grant LP2012-36/2012 (IW)",
+    "National Research, Development and Innovation Office, Hungary, grant K132642 (IW)",
+    "National Research, Development and Innovation Office, Hungary, grant PD123790 (BT)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004075.v1.0.0"
+}

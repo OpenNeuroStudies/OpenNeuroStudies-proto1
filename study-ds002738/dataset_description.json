@@ -1,0 +1,18 @@
+{
+  "Name": "rewardBeast",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "G. Elliott Wimmer",
+    "Jamie Li",
+    "Krzysztof Jacek Gorgolewski",
+    "Russell A. Poldrack"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/158964",
+    "https://github.com/gewimmer-neuro/reward_learning_js"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Please cite https://doi.org/10.1101/158964",
+  "DatasetDOI": "10.18112/openneuro.ds002738.v1.0.2",
+  "DatasetType": "study"
+}

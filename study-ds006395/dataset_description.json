@@ -1,0 +1,38 @@
+{
+  "Name": "Upper limb dystonia, cervical dystonia and healthy controls dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Danilo Donizete de Faria",
+    "Artur Jos\u00e9 Marques Paulo",
+    "Joselisa P\u00e9res Queiroz de Paiva",
+    "Anderson Winkler",
+    "Vanderci Borges",
+    "Sonia Maria Azevedo Silva",
+    "Henrique Ballalai",
+    "Patricia de Carvalho Aguiar"
+  ],
+  "Acknowledgments": "We thank FAPESP, CNPq and CAPES foundation for the support, and all participating center of the study: Hospital Israelita Albert Einstein, the Universidade Federal de S\u00e3o Paulo, and the Hospital Servidor P\u00fablico Estadual. We also thank all participants of our study.",
+  "HowToAcknowledge": "Please cite this paper (link will be added after acceptance by the journal)",
+  "Funding": [
+    " FAPESP (grant 2021/14108-4), CNPq (grant: 402982/2021-5), CAPES (grant: 88887.518334/2020-00)"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the Institutional Review Boards of all participating centers (Hospital Israelita Albert Einstein, Hospital do Servidor P\u00fablico Estadual, and Universidade Federal de S\u00e3o Paulo), and all subjects provided written informed consent prior to participation."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006395.v1.0.5",
+  "GeneratedBy": [
+    {
+      "Name": "pydeface",
+      "Version": "2.0.2",
+      "Description": "Used to de-identify anatomical T1w images.",
+      "CodeURL": "https://github.com/poldracklab/pydeface"
+    },
+    {
+      "Name": "E-Prime",
+      "Version": "2.0",
+      "Description": "Used to generate the experimental design and timing of the finger-tapping task."
+    }
+  ]
+}

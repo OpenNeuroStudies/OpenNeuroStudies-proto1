@@ -1,0 +1,20 @@
+{
+  "Name": "Resting State Perfusion in Healthy Aging",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Alvaro Galiano",
+    "Reyes Garcia de Eulate",
+    "Marta Vidorreta",
+    "Miriam Recio",
+    "Mario Riverol",
+    "Jos\u00e9 L. Zubieta",
+    "Maria A. Fernandez-Seara PhD"
+  ],
+  "HowToAcknowledge": "",
+  "Funding": [
+    "MSAF2014-56330-R"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000240.v2.0.0",
+  "DatasetType": "study"
+}

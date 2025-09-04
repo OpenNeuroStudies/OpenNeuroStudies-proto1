@@ -1,0 +1,20 @@
+{
+  "Name": "LIGHT Hypnotherapy",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "DatasetType": "study",
+  "Authors": [
+    "anonymous"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "10.2"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006437.v1.1.0"
+}

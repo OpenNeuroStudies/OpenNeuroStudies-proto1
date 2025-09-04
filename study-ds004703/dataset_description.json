@@ -1,0 +1,14 @@
+{
+  "Name": "sEEG Passive listening to natural speech",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Anna Mai",
+    "Stephanie Ries",
+    "Sharona Ben-Haim",
+    "Jerry Shih",
+    "Timothy Gentner"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004703.v1.1.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

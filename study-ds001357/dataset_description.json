@@ -1,0 +1,17 @@
+{
+  "Name": "NameFacePriming",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Amado Catarina",
+    "Kov\u00e1cs Petra",
+    "Mayer Rebecca",
+    "Ambrus G. G\u00e9za",
+    "Trapp Sabrina",
+    "Kov\u00e1cs Gyula"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "In addition to any citation requirements in the dataset summary please use the following to cite this dataset: 'This data was obtained from the OpenfMRI database. Its accession number is ds001357.'",
+  "Funding": "This work was supported by a Deutsche Forschungsgemeinschaft Grant (KO 3918/5-1).",
+  "DatasetType": "study"
+}

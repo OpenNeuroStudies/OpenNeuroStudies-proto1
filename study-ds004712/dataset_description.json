@@ -1,0 +1,28 @@
+{
+  "Name": "ON-Harmony: A resource for development and comparison of multi-modal brain 3T MRI harmonisation approaches",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "S. Warrington",
+    "A. Torchi",
+    "O. Mougin",
+    "A. Ntata",
+    "J. Campbell",
+    "M. Craig",
+    "F. Alfaro-Almagro",
+    "K.L. Miller",
+    "P.S. Morgan",
+    "M. Jenkinson",
+    "S.N. Sotiropoulos"
+  ],
+  "HowToAcknowledge": "Please cite this paper: Warrington, et al. (2025), A multi-site, multi-modal travelling-heads resource for brain MRI harmonisation, Scientific Data",
+  "Funding": [
+    "ERC Consolidator grant (101000969 to S.N.S.)"
+  ],
+  "EthicsApprovals": [
+    "For phase B, all data have been acquired under University of Nottingham Research ethics FMHS-452-0122 (S.N.S. PI), also approved by University of Oxford Medical Sciences Research Ethics Committee (R79669/RE001).",
+    "For phase A, Nottingham data: FMHS-36-1220-03 and H14082014/47. Oxford data: technical development approved by the Oxford University Clinical Trials and Research Governance office."
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004712.v2.0.1"
+}

@@ -1,0 +1,38 @@
+{
+  "Name": "DTI readouts for designing a preclinical stem-cell therapy trial in experimental stroke",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Joshua GOBE",
+    "Chrystelle PO",
+    "Chlo\u00e9 DUMOT",
+    "Radu BOLBOS",
+    "Matthieu CHOURROUT",
+    "Marl\u00e8ne WIART",
+    "Fabien CHAUVEAU"
+  ],
+  "Acknowledgements": "Data acquired at the multimodal imaging platform CERMEP (Lyon, France).",
+  "HowToAsknowledge": "Publications that use this dataset should cite the associated publication (full reference mentioned in the readme file, doi: 10.1038/s41598-022-08713-z).",
+  "Funding": [
+    "ANR18-CE19-0003",
+    "ANR16-RHUS-0009",
+    "Hospices Civils de Lyon"
+  ],
+  "EthicApprovals": "APAFIS#4688-2016032514131943, institutional ethics commitee C2EA-42",
+  "ReferenceAndLinks": "doi:10.1038/s41598-022-08713-z",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004632.v1.0.3",
+  "GeneratedBy": [
+    {
+      "Name": "FSL ; ANTs ",
+      "Version": "v3.0.18 ; 2.1.0"
+    }
+  ],
+  "EthicsApprovals": [
+    "Agreement number APAFIS#4688-2016032514131943 from local committee CELYNE-CNREEA (C2EA-42)"
+  ],
+  "HowToAcknowledge": "Please mention dataset DOI and associated publication: Dumot C, et al. Neurofunctional and neuroimaging readouts for designing a preclinical stem-cell therapy trial in experimental stroke. Sci Rep. 2022;12(1):4700. doi:10.1038/s41598-022-08713-z",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41598-022-08713-z"
+  ]
+}

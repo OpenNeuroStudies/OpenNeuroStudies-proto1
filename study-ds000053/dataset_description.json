@@ -1,0 +1,23 @@
+{
+  "Name": "Training of loss aversion modulates neural sensitivity toward potential gains",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Mei-Yen Chen",
+    "Corey N. White",
+    "Nathan Giles",
+    "Albert Elumn",
+    "Sagar Parikh",
+    "Ungi Kim",
+    "W. Todd Maddox",
+    "Russell A. Poldrack"
+  ],
+  "Acknowledgements": "This work was supported by a James S. McDonnell Foundation grant to R. A. P. and the Taiwanese National Graduate Scholarship to M.-Y. C.",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "",
+  "DatasetType": "study"
+}

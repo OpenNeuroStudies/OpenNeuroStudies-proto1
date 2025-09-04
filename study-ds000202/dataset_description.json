@@ -1,0 +1,16 @@
+{
+  "Name": "The heterogeneity in retrieved relations between the personality trait 'Harm avoidance' and gray matter volumes due to variations in the VBM and ROI labeling processing settings",
+  "Summary": "In this study we tested the heterogeneity in obtained correlations between gray matter morphology and the personality trait 'Harm Avoidance' (HA).",
+  "BIDSVersion": "1.10.1",
+  "License": "Not Specified",
+  "Authors": [
+    "Peter Van Schuerbeek",
+    "Chris Baeken",
+    "Johan De Mey"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "DatasetDOI": "",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "PROBE iEEG",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Philippe DOMENECH",
+    "Sylvain RHEIMS",
+    "Etienne KOECHLIN"
+  ],
+  "Acknowledgements": "We thank Valentin Wyart and Jan Drugowitsch for their help.",
+  "Funding": [
+    "European Research Council Grant ERC-AdG #250106",
+    "IHU CESAME program \u201cInvestissements d\u2019Avenir\u201d ANR-10-IBHU-0003"
+  ],
+  "EthicsApprovals": [
+    "The study (DSI-SEEG protocol, NCT02869698) was approved by the Institutional Review Board (ANSM #2009-A00239-48) and National French science ethic committee (CPP 09-CHUG-12, #0907)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002844.v1.0.0",
+  "DatasetType": "study"
+}

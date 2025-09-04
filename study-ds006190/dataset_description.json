@@ -1,0 +1,105 @@
+{
+  "Name": "PAFIN: PennLINC AFfective INstability- TEDANA Derivatives",
+  "Authors": [
+    "Juliette B. H. Brook",
+    "Taylor Salo",
+    "Audrey C. Luo",
+    "Joelle Bagautdinova",
+    "Sage Rush",
+    "Aaron F. Alexander-Bloch",
+    "Erica B. Baller",
+    "Monica E. Calkins",
+    "Matt Cieslak",
+    "Elena C. Cooper",
+    "John A. Detre",
+    "Mark A. Elliot",
+    "Damien A. Fair",
+    "Phoebe Freedman",
+    "Philip R. Gehrman",
+    "Ruben C. Gur",
+    "Raquel E. Gur",
+    "Arno Klein",
+    "Nina Laney",
+    "Timothy O. Laumann",
+    "Kahini Mehta",
+    "Kathleen Merikangas",
+    "Michael Milham",
+    "Jonathan A. Mitchell",
+    "Tyler M. Moore",
+    "Steven M. Nelson",
+    "Kosha Ruparel",
+    "Brooke L. Sevchik",
+    "Sheila Shanmugan",
+    "Haochang Shou",
+    "Manuel Taso",
+    "Lauren K. White",
+    "Daniel H. Wolf",
+    "M. Dylan Tisdall",
+    "David R. Roalf",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "TEDANA derivatives for the PAFIN dataset.",
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/ME-ICA/tedana",
+      "Command": "tedana_workflow(data=['/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_dir-AP_run-01_echo-1_part-mag_desc-preproc_bold.nii.gz', '/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_dir-AP_run-01_echo-2_part-mag_desc-preproc_bold.nii.gz', '/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_dir-AP_run-01_echo-3_part-mag_desc-preproc_bold.nii.gz', '/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_dir-AP_run-01_echo-4_part-mag_desc-preproc_bold.nii.gz', '/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_dir-AP_run-01_echo-5_part-mag_desc-preproc_bold.nii.gz'], tes=[14.200000000000001, 38.93, 63.66, 88.39, 113.12], out_dir=/cbica/projects/pafin/derivatives/tedana/sub-24699/ses-1/func, mask=/cbica/projects/pafin/derivatives/fmriprep/sub-24699/ses-1/func/sub-24699_ses-1_task-bao_dir-AP_run-01_part-mag_desc-brain_mask.nii.gz, convention=bids, prefix=sub-24699_ses-1_task-bao_dir-AP_run-01_, masktype=['dropout'], fittype=curvefit, combmode=t2s, tree=minimal, external_regressors=None, ica_method=fastica, n_robust_runs=30, tedpca=aic, fixed_seed=42, maxit=500, maxrestart=10, tedort=True, gscontrol=['mir'], no_reports=False, png_cmap=coolwarm, verbose=False, low_mem=False, debug=False, quiet=False, overwrite=False, t2smap=None, mixm=/cbica/comp_space/pafin/tedana_temp/sub-24699_ses-1_task-bao_run-01_part-mag_space-MNI152NLin6Asym_res-2_desc-melodic_mixing.tsv)",
+      "Description": "A denoising pipeline for the identification and removal of non-BOLD noise from multi-echo fMRI data.",
+      "Name": "tedana",
+      "Node": {
+        "Machine": "x86_64",
+        "Name": "2117ga002",
+        "Processor": "x86_64",
+        "Release": "3.10.0-1160.83.1.el7.x86_64",
+        "System": "Linux",
+        "Version": "#1 SMP Wed Jan 25 16:41:43 UTC 2023"
+      },
+      "Python": "3.11.11 | packaged by conda-forge | (main, Mar  3 2025, 20:43:55) [GCC 13.3.0]",
+      "Python_Libraries": {
+        "bokeh": "3.5.2",
+        "mapca": "0.0.5",
+        "matplotlib": "3.10.1",
+        "nibabel": "5.2.1",
+        "nilearn": "0.10.4",
+        "numpy": "2.0.1",
+        "pandas": "2.2.2",
+        "robustica": "0.1.4",
+        "scikit-learn": "1.5.2",
+        "scipy": "1.14.1",
+        "threadpoolctl": "3.5.0",
+        "tqdm": "4.67.1"
+      },
+      "Version": "24.0.2"
+    },
+    {
+      "Name": "fMRIPost-AROMA",
+      "Version": "0.0.10",
+      "CodeURL": "https://github.com/nipreps/fmripost_aroma/archive/0.0.10.tar.gz"
+    },
+    {
+      "Name": "fMRIPrep",
+      "Version": "24.1.1",
+      "CodeURL": "https://github.com/nipreps/fmriprep/archive/24.1.1.tar.gz"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds006189"
+    },
+    {
+      "URL": "https://openneuro.org/datasets/ds006185"
+    },
+    {
+      "URL": "https://openneuro.org/datasets/ds006131"
+    }
+  ],
+  "License": "CC0",
+  "DatasetLinks": {
+    "raw": "https://openneuro.org/datasets/ds006131",
+    "templateflow": "https://github.com/templateflow/templateflow",
+    "fmriprep": "https://openneuro.org/datasets/ds006185",
+    "aroma": "https://openneuro.org/datasets/ds006189"
+  },
+  "DatasetDOI": "doi:10.18112/openneuro.ds006190.v1.0.0"
+}

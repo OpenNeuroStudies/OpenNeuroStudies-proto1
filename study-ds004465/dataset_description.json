@@ -1,0 +1,26 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "Gianina Ungurean",
+    "Mehdi Behroozi",
+    "Leonard B\u00f6ger",
+    "Xavier Helluy",
+    "Paul-Antoine Libourel",
+    "Onur G\u00fcnt\u00fcrk\u00fcn",
+    "Niels C. Rattenborg"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004465.v1.0.0",
+  "Funding": [
+    "Max Planck Society",
+    "Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) \u2013 Projektnummer 316803389 \u2013 SFB 1280",
+    "AVIAN MIND, ERC-2020-ADG, LS5, GA No. 101021354"
+  ],
+  "HowToAcknowledge": "Please cite the paper , Ungurean G., Behroozi M., et al., Wide-spread brain activation and reduced CSF flow during avian REM sleep.",
+  "License": "CC0",
+  "Name": "functional MRI of sleeping pigeons",
+  "ReferencesAndLinks": [
+    "Wide-spread brain activation and reduced CSF flow during avian REM sleep"
+  ],
+  "DatasetType": "study"
+}

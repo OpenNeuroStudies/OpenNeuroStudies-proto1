@@ -1,0 +1,27 @@
+{
+  "Name": "CARLA: Adjusted common average referencing for cortico-cortical evoked potential data",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Harvey Huang",
+    "Gabriela Ojeda Valencia",
+    "Nicholas M Gregg",
+    "Gamaleldin M Osman",
+    "Morgan N Montoya",
+    "Gregory A Worrell",
+    "Kai J Miller",
+    "Dora Hermes"
+  ],
+  "Acknowledgements": "Cindy Nelson, Karla Crockett",
+  "HowToAcknowledge": "This dataset is part of the paper on 'CARLA: Adjusted common average referencing for cortico-cortical evoked potential data' by H Huang, G Ojeda Valencia, NM Gregg, GM Osman, MN Montoya, GA Worrell, KJ Miller, and D Hermes. This project is funded by the National Institute Of Mental Health of the National Institutes of Health under Award Number R01MH122258 to Dora Hermes (Mayo Clinic), by the National Institute of General Medical Sciences of the National Institutes of Health under Award Number T32GM145408 to the Medical Scientist Training Program at Mayo Clinic, and by the American Epilepsy Society under award number 937450 to Harvey Huang (Mayo Clinic). The project was also supported by the Mayo Clinic DERIVE Office and the Mayo Clinic Center for Biomedical Discovery. The data were collected by Harvey Huang (Mayo Clinic), Dora Hermes (Mayo Clinic), Nicholas M. Gregg (Mayo Clinic), Gamaleldin M. Osman (UTHealth Houston), and Cindy Nelson (Mayo Clinic). The BIDS formatting was performed by Harvey Huang (Mayo Clinic), Dora Hermes (Mayo Clinic), Gabriela Ojeda Valencia (Mayo Clinic), and Morgan Montoya (Mayo Clinic). The iEEG data collection was facilitated by Gregory A. Worrell (Mayo Clinic) and Kai J. Miller (Mayo Clinic)",
+  "Funding": [
+    "R01 MH122258 CRCNS: Processing speed in the human connectome across the lifespan",
+    "T32 GM145408: Medical Scientist Training Program at Mayo Clinic",
+    "937450: AES Predoctoral Research Fellowship"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.48550/arXiv.2310.00185"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004977.v1.2.0",
+  "DatasetType": "study"
+}

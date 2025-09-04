@@ -1,0 +1,27 @@
+{
+  "Name": "Heart rate and insula activity increase in response to music in individuals with high interoceptive sensitivity",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Toru Maekawa",
+    "Takafumi Sasaoka",
+    "Toshio Inui",
+    "Alan S. R. Fermin",
+    "Shigeto Yamawaki"
+  ],
+  "Acknowledgments": "The authors are grateful to T. Tomita, H. Matsuura, and N. Miura for their assistance with data collection.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Moonshot Research and Development Program, Japan Science and Technology Agency (JPMJMS2296) to SY",
+    "Center of Innovation Program, Japan Science and Technology Agency (JPMJCE1311, PMJCA2208) to TS",
+    "Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science (20K20423) to TI"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004894.v1.0.0",
+  "EthicsApprovals": [
+    "The study was approved by the research ethics committee of Hiroshima University (approval number: E-965)."
+  ],
+  "DatasetType": "study"
+}

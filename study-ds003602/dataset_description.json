@@ -1,0 +1,19 @@
+{
+  "Name": "Childhood Sexual Abuse and problem drinking in women: Neurobehavioral mechanisms",
+  "ReferencesAndLinks": [
+    "No bibliographic reference other than the DOI for this dataset"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ozlem Korucuoglu",
+    "Andrey P. Anokhin"
+  ],
+  "Acknowledgements": "Clement Lee and Arnaud Delorme",
+  "Funding": [
+    "5R01AA025646-04",
+    "5R24MH120037"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003602.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "ds000245_R1.0.0",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Noritaka Yoneyama",
+    "Hirohisa Watanabe",
+    "Kazuya Kawabata",
+    "Epifanio Bagarinao",
+    "Kazuhiro Hara",
+    "Takashi Tsuboi",
+    "Yasuhiro Tanaka",
+    "Reiko Ohdake",
+    "Kazunori Imai",
+    "Rei Ogura",
+    "Yasutaka Kato",
+    "Michihito Masuda",
+    "Tatsuya Hattori",
+    "Mizuki Ito",
+    "Satoshi Maesawa",
+    "Daisuke Mori",
+    "Masahisa Katsuno",
+    "Gen Sobue"
+  ],
+  "HowToAcknowledge": "Cite reference and include the following message: 'This data was obtained from the OpenfMRI database. Its accession number is ds000245'",
+  "Funding": "This research was supported in part by the following: a Grant-in-Aid from the Research Committee of Central Nervous System Degenerative Diseases by the Ministry of Health, Labour, and Welfare, Integrated Research on Neuropsychiatric Disorders project, carried out by SRBPS; a Grant-in-Aid for Scientific Research on Innovative Areas (Brain Protein Aging and Dementia Control 26117002) from the MEXT of Japan; Integrated Research on Neuropsychiatric Disorders carried out under the Strategic Research Program for Brain Sciences, Scientific Research on Innovative Areas (Comprehensive Brain Science Network); and Integrated Research on Depression, Dementia, and Development Disorders by the Strategic Research Program for Brain Sciences from the Japan Agency for Medical Research and Development (AMED).",
+  "ReferencesAndLinks": [
+    "https://openfmri.org/dataset/ds000245"
+  ],
+  "DatasetType": "study"
+}

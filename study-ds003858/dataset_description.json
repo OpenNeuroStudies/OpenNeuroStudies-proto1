@@ -1,0 +1,22 @@
+{
+  "Name": "Monetary Incentive Delay task",
+  "License": "CC0",
+  "Authors": [
+    "Leili Mortazavi",
+    "Tara Srirangarajan",
+    "Tiago Bortolini",
+    "Jorge Moll",
+    "Brian Knutson"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This work was supported by a Neurochoice Initiative Big Ideas grant from Stanford\u2019s Wu Tsai Neurosciences Institute, as well as a National Institute of Health Grant 5P50DA04201205 to BK."
+  ],
+  "ReferencesAndLinks": [
+    "Srirangarajan, T., Mortazavi, L., Bortolini, T., Moll, J., & Knutson, B. (2021). Multi\u2010band FMRI compromises detection of mesolimbic reward responses. NeuroImage, 244, 118617. https://doi.org/10.1016/j.neuroimage.2021.118617"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003858.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

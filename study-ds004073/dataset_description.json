@@ -1,0 +1,28 @@
+{
+  "Name": "Comparing language lateralisation using fMRI and fTCD",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Zoe Woodhead",
+    "Maria Sablik",
+    "Kate Watkins",
+    "David Carey",
+    "Dorothy Bishop",
+    "Emma Karlsson"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please contact Kate Watkins (University of Oxford) for citation details",
+  "Funding": [
+    "European Research Council Advanced Grant 694189"
+  ],
+  "EthicsApprovals": [
+    "University of Oxford, Medical Sciences Interdivisional Research Ethics Committee: R53052_RE002",
+    "Bangor University, School of Psychology Ethics and Research Committee: 2021-16965"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004073.v1.0.1",
+  "HEDVersion": ""
+}

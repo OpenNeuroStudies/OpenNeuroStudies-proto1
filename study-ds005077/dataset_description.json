@@ -1,0 +1,46 @@
+{
+  "Name": "optofMRI_DRN",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Hiro Taiyo Hamada",
+    "Yoshifumi Abe",
+    "Norio Takata",
+    "Masakazu Taira",
+    "Kenji F. Tanaka",
+    "Kenji Doya"
+  ],
+  "Acknowledgements": "We thank Dr. Koji Toda, Dr. Katsuhiko Miyazaki, Dr. Keigo Hikishima, Mr. Yoshiaki Ohba, Dr. Jiafu Zeng, and Prof. Grandjean for their support on this work.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Moonshot R&D from the Japan Science and Technology Agency (JST), Japan, grant PMJMS2295 (to H.T.H.)",
+    "grant-in-aid from the Japan Society for the Promotion of Science (JSPS), Japan, grant JP19KK0387 (to N.T.)",
+    "grant-in-aid from the JSPS, Japan, grant JP16H06563 (to K.D.)",
+    "Transformative Research Areas (A) \u201cGlia decoding\" grant 20H05896 (to K.F.T.)",
+    "Transformative Research Areas (A) \u201cUnified Theory\u201d grant 23H04975 (to K.D.)",
+    "Brain Mapping by Integrated Neurotechnologies for Disease Studies (Brain/MINDS) by the Japan Agency for Medical Research and Development (AMED), Japan, grant JP22dm0207069 (to K.F.T.)",
+    "Brain/MINDS by the Japan Agency for AMED, Japan, grant JP18dm0207030 and 22dm0207001 (to K.D.)",
+    "the Naito Foundation, Japan (to H.T.H.)",
+    "Okinawa Institute of Science and Technology Graduate University"
+  ],
+  "EthicsApprovals": [
+    "Okinawa Institute of Science and Technology"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005077.v1.0.2",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

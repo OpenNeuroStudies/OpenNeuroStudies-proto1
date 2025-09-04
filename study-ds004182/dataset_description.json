@@ -1,0 +1,23 @@
+{
+  "Name": "Magic, Memory, and Curiosity (MMC) fMRI Dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Stefanie Meliss",
+    "Cristina Pascua-Martin",
+    "Jeremy Skipper",
+    "Kou Murayama"
+  ],
+  "EthicsApprovals": [
+    "The study protocol was approved by the University of Reading Research Ethics Committee (UREC; 18/18)."
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We would like to thank the Centre for Integrative Neuroscience and Neurodynamics (CINN) and the MeMo lab for helpful discussions and support in the realisation of this project. We would like to also thank Carien van Reekum, Tom Johnston, Michiko Sakaki, and Matthias Gruber for their suggestions regarding the design of the study. We would further like to thank Paul Taylor, Rick Reynolds, and Vinai Roopchansingh for their advice on the full preprocessing pipeline. Lastly, we would like to acknowledge Anthony Haffey\u2019s ongoing support with regards to data collection using Collector.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004182.v1.0.1",
+  "Funding": [
+    "Leverhulme Trust (Grant number RL-2016-030 to KM)",
+    "Jacobs Foundation Research Fellowship, Switzerland (to KM)",
+    " Alexander von Humboldt Foundation (the Alexander von Humboldt Professorship endowed by the German Federal Ministry of Education and Research)"
+  ],
+  "HowToAcknowledge": "Please cite\n\nMeliss, S., Pascua, C., Skipper, J. I., & Murayama, K. (2022). The Magic, Memory, and Curiosity fMRI Dataset of People Viewing Magic Tricks. https://doi.org/10.31234/osf.io/zq7gv",
+  "DatasetType": "study"
+}

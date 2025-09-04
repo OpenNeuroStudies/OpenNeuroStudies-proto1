@@ -1,0 +1,33 @@
+{
+  "Acknowledgements": "This work was supported in part by grants from the National Institute of Mental Health (R15-MH122927 to DSF), the Eunice Kennedy Shriver National Institute of Child Health and Human Development (R21-HD093912 to JMJ), the National Institute on Aging (RF1-AG067011 to DVS), and the National Institute on Drug Abuse (R03-DA046733 to DVS), and a fellowship from the Temple Public Policy Lab (to JMJ). We thank Caleb Haynes, Jeffrey Dennison, Athena Vafiadis, and Makayla Collins for assistance with data collection.",
+  "Authors": [
+    "David V. Smith",
+    "James Wyngaarden",
+    "Cooper J. Sharp",
+    "Daniel Sazhin",
+    "Ori Zaff",
+    "Dominic Fareri",
+    "Johanna Jarcho"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004920.v1.1.1",
+  "Funding": [
+    "R15-MH122927 (to DSF) ",
+    "R21-HD093912 (to JMJ) ",
+    "RF1-AG067011 (to DVS) ",
+    "R03-DA046733 (to DVS) "
+  ],
+  "HowToAcknowledge": "If using this dataset, please consider citing our data paper (preprint: https://osf.io/preprints/psyarxiv/vqpnx) and our original work relating to the Social Doors Task (Wyngaarden, J.B., et al., https://doi.org/10.1101/2023.01.17.524305), the Shared Reward Task (Zaff, O., et al., https://doi.org/10.1101/2023.10.19.562908), and/or the Ultimatum/Dictator Game Task (Sazhin, D., et al., https://doi.org/10.1101/2023.10.19.563125).",
+  "License": "CC0",
+  "Name": "An fMRI dataset of social and nonsocial reward processing in young adults",
+  "ReferencesAndLinks": [
+    "Sazhin, D., et al., The Role of Social Reward and Corticostriatal Connectivity in Substance Use. J Psychiatr Brain Sci, 2020. 5. https://doi.org/10.20900/jpbs.20200024  ",
+    "Wyngaarden, J.B., et al., Reward sensitivity and corticostriatal function during social rewards. bioRxiv, 2023: p. 2023.01.17.524305. https://doi.org/10.1101/2023.01.17.524305  ",
+    "Zaff, O., et al., Social Context and Reward Sensitivity Enhance Corticostriatal Function during Experiences of Shared Rewards. bioRxiv, 2023: p. 2023.10.19.562908. https://doi.org/10.1101/2023.10.19.562908 ",
+    "Sazhin, D., et al., Trait Reward Sensitivity Modulates Connectivity with the Temporoparietal Junction and Anterior Insula during Strategic Decision Making. bioRxiv, 2023: p. 2023.10.19.563125. https://doi.org/10.1101/2023.10.19.563125 "
+  ],
+  "EthicsApprovals": [
+    "Temple IRB #24452"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Brain connectivity predicts placebo response across chronic pain clinical trials",
+  "License": "CC0",
+  "Authors": [
+    "Tetreault P",
+    "Mansour A",
+    "Vachon-Presseau E",
+    "Schnitzer TJ",
+    "Apkarian AV",
+    "Baliki MN"
+  ],
+  "Acknowledgements": "We thank the staff and faculty of Center of Translational Imaging at Northwestern University and students and staff of Apkarian Lab and all study participants. ",
+  "HowToAcknowledge": " ",
+  "Funding": [
+    "Eli Lilly Pharmaceuticals funded study 2 (IIT number: F1J-US-XO61). This research was partially also supported by grants from National Institute of Neurological Disorders and Stroke (NS035115), and National Center for Complementary and Integrative Health (AT007987) of U.S. National Institutes of Health. P.T. and E.V.-P. were supported by the Canadian Institutes of Health Research."
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds000208.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

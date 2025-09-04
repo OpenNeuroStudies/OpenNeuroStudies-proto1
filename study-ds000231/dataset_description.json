@@ -1,0 +1,21 @@
+{
+  "Name": "Integration of sweet taste and metabolism determines carbohydrate reward-study 3",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Maria Geraldine Veldhuizen",
+    "Richard Keith Babbs",
+    "Barkha Patel",
+    "Wambura Fobbs",
+    "Nils B Kroemer",
+    "Elizabeth Garcia",
+    "Martin Yeomans",
+    "Dana Small"
+  ],
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000231",
+  "Funding": [
+    "PepsiCo, NIDCD"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000231.v1.0.0",
+  "DatasetType": "study"
+}

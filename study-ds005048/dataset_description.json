@@ -1,0 +1,31 @@
+{
+  "Authors": [
+    "Mojtaba Lahijanian",
+    "Hamid Aghajan",
+    "Zahra Vahabi"
+  ],
+  "Name": "40Hz Auditory Entrainment",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41598-024-63727-z",
+    "https://doi.org/10.1101/2021.09.30.462389"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "Acknowledgements": "The authors wish to thank Ziaeian Hospital in Tehran for providing staff time and equipment for data collection in this study. We are grateful to the patients and their families who participated in this study.",
+  "Funding": [
+    "This work was partially funded by the Cognitive Sciences & Technologies Council of Iran and by the grant G970736 from Sharif University of Technology, which covered the cost of data collection. The funders had no role in the study conceptualization and design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Review Board of Tehran University of Medical Sciences (Approval ID: IR.TUMS.MEDICINE.REC.1398.524) and all participants provided informed consent before participating and were free to withdraw at any time."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005048.v1.0.1",
+  "HowToAcknowledge": "Please cite the following article as well as dataset DOI:\nLahijanian, M., Aghajan, H. & Vahabi, Z. Auditory gamma-band entrainment enhances default mode network connectivity in dementia patients. Sci Rep 14, 13153 (2024). https://doi.org/10.1038/s41598-024-63727-z",
+  "DatasetType": "study"
+}

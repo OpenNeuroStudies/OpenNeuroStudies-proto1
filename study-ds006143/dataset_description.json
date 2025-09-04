@@ -1,0 +1,59 @@
+{
+  "Authors": [
+    "Juliette B. H. Brook",
+    "Taylor Salo",
+    "Audrey C. Luo",
+    "Joelle Bagautdinova",
+    "Sage Rush",
+    "Aaron F. Alexander-Bloch",
+    "Erica B. Baller",
+    "Monica E. Calkins",
+    "Matt Cieslak",
+    "Elena C. Cooper",
+    "John A. Detre",
+    "Mark A. Elliot",
+    "Damien A. Fair",
+    "Phoebe Freedman",
+    "Philip R. Gehrman",
+    "Ruben C. Gur",
+    "Raquel E. Gur",
+    "Arno Klein",
+    "Nina Laney",
+    "Timothy O. Laumann",
+    "Kahini Mehta",
+    "Kathleen Merikangas",
+    "Michael Milham",
+    "Jonathan A. Mitchell",
+    "Tyler M. Moore",
+    "Steven M. Nelson",
+    "Kosha Ruparel",
+    "Brooke L. Sevchik",
+    "Sheila Shanmugan",
+    "Haochang Shou",
+    "Manuel Taso",
+    "Lauren K. White",
+    "Daniel H. Wolf",
+    "M. Dylan Tisdall",
+    "David R. Roalf",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "MRIQC derivatives for the PAFIN dataset.",
+  "GeneratedBy": [
+    {
+      "Name": "MRIQC",
+      "Version": "25.0.0rc0",
+      "CodeURL": "https://github.com/nipreps/mriqc/archive/25.0.0rc0.tar.gz"
+    }
+  ],
+  "HowToAcknowledge": "Please cite the MRIQC paper (https://doi.org/10.1371/journal.pone.0184661), along with any citations requested for the raw PAFIN dataset.",
+  "Name": "PAFIN: PennLINC AFfective INstability- MRIQC Derivatives",
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds006131"
+    }
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006143.v1.0.0"
+}

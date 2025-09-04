@@ -1,0 +1,22 @@
+{
+  "Name": "diffusion_fMRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Wiktor Olszowy",
+    "Ileana O Jelescu"
+  ],
+  "Acknowledgements": "Please acknowledge the CIBM Center for Biomedical Imaging, a Swiss research center of excellence founded and supported by Lausanne University Hospital (CHUV), University of Lausanne (UNIL), Ecole Polytechnique Federale de Lausanne (EPFL), University of Geneva (UNIGE) and Geneva University Hospitals (HUG)",
+  "HowToAcknowledge": "Please cite the following articles: \n\nOlszowy, W., Diao, Y., & Jelescu, I. O. (2021). Beyond BOLD: in search of genuine diffusion fMRI contrast in human brain. bioRxiv.",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2021.05.16.444253v1.full.pdf"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003676.v1.0.1",
+  "Funding": [
+    "This work was supported by the Swiss National Science Foundation under Spark award CRSK-2_190882 (to I.O.J.)."
+  ],
+  "EthicsApprovals": [
+    "The study was examined and approved by the ethics committee of the canton of 4 Vaud (CER-Vaud)."
+  ],
+  "DatasetType": "study"
+}

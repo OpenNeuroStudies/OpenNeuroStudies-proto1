@@ -1,0 +1,20 @@
+{
+  "Name": "Large Single-Subject Functional MRI Datasets at 7T",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Javier Gonzalez-Castilloa",
+    "Colin W. Hoy",
+    "Daniel A. Handwerker",
+    "Vinai Roopchansingh",
+    "Souheil J. Inati",
+    "Ziad S. Saad",
+    "Robert W. Cox",
+    "Peter A. Bandettini"
+  ],
+  "Funding": "NIMH Intramural Research Program",
+  "ReferencesAndLinks": [
+    "Gonzalez-Castillo, Javier, Colin W. Hoy, Daniel A. Handwerker, Vinai Roopchansingh, Souheil J. Inati, Ziad S. Saad, Robert W. Cox, and Peter A. Bandettini. \u201cTask Dependence, Tissue Specificity, and Spatial Distribution of Widespread Activations in Large Single-Subject Functional MRI Datasets at 7T.\u201d Cerebral Cortex 25, no. 12 (December 2015): 4667\u201377. https://doi.org/10.1093/cercor/bhu148."
+  ],
+  "License": "CC BY",
+  "DatasetType": "study"
+}

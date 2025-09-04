@@ -1,0 +1,21 @@
+{
+  "Acknowledgements": "The authors thank David Mossa for his assistance with data retrieval, and Chrysa Papadaniil for her support with BIDS conversion and defacing.",
+  "Authors": [
+    "Luis Martinez Agulleiro",
+    "Bowen Deng",
+    "Yuliya Yoncheva",
+    "Chao-Gan Yan",
+    "F Xavier Castellanos",
+    "Marie-Pierre St-Onge"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005525.v1.0.0",
+  "Funding": [
+    "NIH 5R01HL128226"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Circadian misalignment and energy balance",
+  "ReferencesAndLinks": [],
+  "DatasetType": "study"
+}

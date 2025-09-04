@@ -1,0 +1,22 @@
+{
+  "ReferencesAndLinks": [
+    "10.1109/EMBC46164.2021.9629771"
+  ],
+  "Authors": [
+    "Velu Prabhakar Kumaravel",
+    "Victor Kartsch",
+    "Simone Benatti",
+    "Giorgio Vallortigara",
+    "Elisabetta Farella",
+    "Marco Buiatti"
+  ],
+  "Name": "8-Channel SSVEP EEG Dataset with Artifact Trials",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004745.v1.0.1",
+  "Funding": [
+    "NeuroSoNew ERC PoC Grant 842243"
+  ],
+  "DatasetType": "study"
+}

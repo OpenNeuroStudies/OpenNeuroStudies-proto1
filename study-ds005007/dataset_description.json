@@ -1,0 +1,24 @@
+{
+  "Name": "Auditory naming task with questions that begin or end with a wh-interrogative",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Yu Kitazawa",
+    "Eishi Asano"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "N/A"
+  ],
+  "EthicsApprovals": [
+    "IRB of Wayne State University"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005007.v1.0.0"
+}

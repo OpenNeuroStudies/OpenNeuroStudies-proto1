@@ -1,0 +1,21 @@
+{
+  "Name": "Converted TUD fMRI Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Fernando Bravo"
+  ],
+  "Acknowledgements": "We thank Christine Ahrends, Katharina Pitt, and Aya Keller for help with data collection.",
+  "License": "CC0",
+  "Funding": [
+    "This project was made possible through the support from Queens\u2019 College Cambridge (Walker Studentship to F.B.), the Andrea von Braun Stiftung, and Zukunftskonzept at TU Dresden (Exzellenzinitiative of the Deutsche Forschungsgemeinschaft)."
+  ],
+  "HowToAcknowledge": "Cite this paper: Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121. \n\nConsider including the following message 'This data was obtained from the OpenNeuro database.'",
+  "ReferencesAndLinks": [
+    "Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121.",
+    "Bravo F, Cross I, Hopkins C, Gonzalez N, Docampo J, Bruno C, Stamatakis EA (2019) Anterior cingulate and medial prefrontal cortex response to systematically controlled tonal dissonance during passive music listening. Hum Brain Mapp:hbm.24786.",
+    "Bravo F, Cross I, Hawkins S, Gonzalez N, Docampo J, Bruno C, Stamatakis EA (2017) Neural mechanisms underlying valence inferences to sound: The role of the right angular gyrus. Neuropsychologia 102:144\u2013162.",
+    "Bravo F (2013) The Influence of Music on the Emotional Interpretation of Visual Contexts. Designing Interactive Multimedia Tools for Psychological Research. In: From Sounds to Music and Emotions (Aramaki M, Barthet M, Kronland-Martinet R, Ystad S, eds), pp 366\u2013377 Lecture Notes in Computer Science. Springer Berlin Heidelberg. Available at: http://link.springer.com/chapter/10.1007/978-3-642-41248-6_20 [Accessed June 6, 2016]."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006564.v1.0.0"
+}

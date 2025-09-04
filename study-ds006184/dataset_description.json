@@ -1,0 +1,64 @@
+{
+  "Authors": [
+    "Juliette B. H. Brook",
+    "Taylor Salo",
+    "Audrey C. Luo",
+    "Joelle Bagautdinova",
+    "Sage Rush",
+    "Aaron F. Alexander-Bloch",
+    "Erica B. Baller",
+    "Monica E. Calkins",
+    "Matt Cieslak",
+    "Elena C. Cooper",
+    "John A. Detre",
+    "Mark A. Elliot",
+    "Damien A. Fair",
+    "Phoebe Freedman",
+    "Philip R. Gehrman",
+    "Ruben C. Gur",
+    "Raquel E. Gur",
+    "Arno Klein",
+    "Nina Laney",
+    "Timothy O. Laumann",
+    "Kahini Mehta",
+    "Kathleen Merikangas",
+    "Michael Milham",
+    "Jonathan A. Mitchell",
+    "Tyler M. Moore",
+    "Steven M. Nelson",
+    "Kosha Ruparel",
+    "Brooke L. Sevchik",
+    "Sheila Shanmugan",
+    "Haochang Shou",
+    "Manuel Taso",
+    "Lauren K. White",
+    "Daniel H. Wolf",
+    "M. Dylan Tisdall",
+    "David R. Roalf",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "QSIRecon derivatives for the PAFIN dataset.",
+  "CodeURL": "https://github.com/pennlinc/qsirecon",
+  "DatasetLinks": {
+    "preprocessed": "https://openneuro.org/datasets/ds006182",
+    "templateflow": "https://github.com/templateflow/templateflow"
+  },
+  "GeneratedBy": [
+    {
+      "CodeURL": "https://github.com/PennLINC/qsirecon/archive/1.0.2.dev0+g04385fb.d20250312.tar.gz",
+      "Name": "qsirecon",
+      "Version": "1.0.2.dev0+g04385fb.d20250312"
+    },
+    {
+      "CodeURL": "https://github.com/PennLINC/qsiprep/archive/1.0.1.dev0+gee9aa2e.d20250115.tar.gz",
+      "Name": "qsiprep",
+      "Version": "1.0.1.dev0+gee9aa2e.d20250115"
+    }
+  ],
+  "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
+  "License": "CC0",
+  "Name": "PAFIN: PennLINC AFfective INstability- QSIRecon Derivatives",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006184.v1.0.0"
+}

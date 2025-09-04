@@ -1,0 +1,32 @@
+{
+  "Name": "Resting EEG",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "4.2.1",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Computational Neuroimaging and Neuroengineering Lab ar the University of Oklahoma"
+  ],
+  "Acknowledgements": "Please cite the paper with doi: 10.1088/1741-2552/ab7ad3 that reported the dataset for the first time.",
+  "HowToAcknowledge": "Cite the following paper.\n33.\tShou GF, Yuan H, Li C, Chen YF, Chen YX, and Ding L: Whole-brain Electrophysiological Functional Connectivity Dynamics in Resting-state EEG, Journal of Neural Engineering, 17(2): 026016, 2020.",
+  "Funding": [
+    "OPTIONAL. List of sources of funding (grant numbers)"
+  ],
+  "EthicsApprovals": [
+    "OPTIONAL. List of ethics committee approvals of the research protocols and/or protocol identifiers"
+  ],
+  "ReferencesAndLinks": [
+    "OPTIONAL. List of references to publication that contain information on the dataset, or links",
+    "https://github.com/Donders-Institute/bidscoin",
+    "doi: 10.1088/1741-2552/ab7ad3",
+    "doi: 10.1016/j.neuroimage.2022.119461",
+    "doi: 10.1016/j.neuroimage.2025.121408"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006525.v1.0.0"
+}

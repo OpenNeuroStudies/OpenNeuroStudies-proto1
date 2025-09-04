@@ -1,0 +1,18 @@
+{
+  "Name": "Brain mechanisms underlying episodic future thinking of sustainable behaviors",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Damien Brevers",
+    "Claus V\u00f6gele",
+    "Pierre Maurage",
+    "Guillaume Sescousse",
+    "Chris Baeken",
+    "Jo\u00ebl Billieux"
+  ],
+  "Funding": [
+    "This work is supported by Luxembourg National Research Fund (FNR); CORE \u2013 Junior Track [BETHAB]"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002770.v1.0.2",
+  "License": "CC0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "Age-related differences in auditory cortex activity during spoken word recognition",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Rogers CS",
+    "Jones MS",
+    "McConkey S",
+    "Spehar B",
+    "Van Engen KJ",
+    "Sommers MS",
+    "Peelle JE"
+  ],
+  "Acknowledgements": "The multiband echo planar imaging sequence was provided by the University of Minnesota Center for Magnetic Resonance Research. We are grateful to Linda Hood for assistance with data collection.",
+  "Funding": [
+    "National Institutes of Health Grant R01 DC014281"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002382.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Isometric exercise facilitates attention to salient events in women via the noradrenergic system",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Mara Mather",
+    "Ringo Huang",
+    "David Clewett",
+    "Shawn Nielsen",
+    "Rico Velasco",
+    "Kristie Tu",
+    "Sophia Han",
+    "Briana Kennedy"
+  ],
+  "Funding": [
+    "University of Southern California Endowed Fellowship and Federal NIH grant R01AG025340"
+  ],
+  "DOI": "10.1016/j.neuroimage.2020.116560",
+  "DatasetDOI": "10.18112/openneuro.ds002647.v1.0.1",
+  "HowToAcknowledge": "If using any part of this dataset, please cite: Mather, M., Huang, R., Clewett, D.V., Nielsen, S., Velasco, R., Tu, K., Han, S., & Kennedy, B.L. (2020). Isometric exercise facilitates attention to salient events in women via the noradrenergic system. NeuroImage 210:116560",
+  "ReferencesAndLinks": [
+    "https://osf.io/2y47s/?view_only=ff3af10779cb42a8a5b0e26620f81d4f",
+    "https://doi.org/10.1016/j.neuroimage.2020.116560"
+  ],
+  "DatasetType": "study"
+}

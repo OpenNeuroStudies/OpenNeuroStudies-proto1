@@ -1,0 +1,13 @@
+{
+  "Name": "Estimation of in-scanner head pose changes during structural MRI using a convolutional neural network trained on eye tracker video",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Heath R Pardoe",
+    "Samantha P Martin",
+    "Allan George",
+    "Orrin Devinsky"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003381.v1.0.0"
+}

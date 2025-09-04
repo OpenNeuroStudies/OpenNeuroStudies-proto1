@@ -1,0 +1,24 @@
+{
+  "Name": "Luminance",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Shai Sabbah",
+    "Michael S. Worden",
+    "Dimitrios D. Laniado",
+    "David M. Berson",
+    "Jerome N. Sanes"
+  ],
+  "Funding": [
+    "NIH P20GM103645",
+    "NIH R01 EY12793",
+    "National Institute of Psychobiology of Israel",
+    "Banting Postdoctoral Fellowship of Canada",
+    "Alcon Research Institute Award"
+  ],
+  "License": "CC0",
+  "EthicsApprovals": [
+    "Brown University IRB"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004065.v1.0.0"
+}

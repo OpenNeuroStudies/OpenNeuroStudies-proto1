@@ -1,0 +1,17 @@
+{
+  "Acknowledgements": "Provided by Emilie C. Sleight for the fMRIPrep bootcamp",
+  "Authors": [
+    "Emilie C. Sleight",
+    "Oscar Esteban",
+    "Fr\u00e9d\u00e9ric Grouiller"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005454.v1.0.0",
+  "HowToAcknowledge": "Cite OpenNeuro's DOI",
+  "License": "CC0",
+  "Name": "fMRIPrep boot camp -- 7T training dataset",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41592-018-0235-4"
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Vocal task",
+  "License": "CC BY-NC-SA",
+  "Authors": [
+    "Arafat Angulo-Perkins",
+    "Luis Concha"
+  ],
+  "Acknowledgements": "This study was sponsored by Conacyt (IE252-120295 and 181508) and UNAM-DGAPA (I1202811 and IN212811). We thank the Posgrado en Ciencias Biom\u00e9dicas of the Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM) and CONACYT for Graduate Fellowship 233109 to A.P.A. We are grateful to all the volunteers who made this study possible. We also thank P\u00e9zel Flores for helping us to select, evaluate and record all the vocal stimuli; Daniel Ram\u00edrez Pe\u00f1a for his valuable help with the validation and preprocessing of all the acoustic stimuli; Edgar Morales Ram\u00edrez for his permanent technical assistance; Leopoldo Gonz\u00e1lez-Santos, Erick Pasaye, Juan Ort\u00edz-Retana and the support team from the Magnetic Resonance Unit  (UNAM, Juriquilla), for technical assistance; and Dorothy Pless for proof-reading and editing our manuscript. Finally, we thank the authorities of the Music Conservatory \u201cJos\u00e9 Guadalupe Vel\u00e1zquez\u201d, the Quer\u00e9taro School of Violin Making, and the Quer\u00e9taro Fine Arts Institute for their help with the recruitment of musicians. The authors declare no competing financial interests.",
+  "HowToAcknowledge": "",
+  "Funding": "Conacyt (IE252-120295 and 181508) and UNAM-DGAPA (I1202811 and IN212811",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

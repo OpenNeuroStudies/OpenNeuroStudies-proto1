@@ -1,0 +1,29 @@
+{
+  "Name": "A multi-subject and multi-session EEG dataset for modelling human visual object recognition",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Shuning Xue",
+    "Bu Jin",
+    "Jie Jiang",
+    "Longteng Guo",
+    "Jin Zhou",
+    "Changyong Wang",
+    "Jing Liu"
+  ],
+  "DatasetType": "study",
+  "GeneratedBy": [
+    {
+      "Name": "Curry",
+      "Version": "8",
+      "Description": "The raw data is collected by Curry8"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds005589",
+      "Version": "October 23 2024"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005589.v1.0.3"
+}

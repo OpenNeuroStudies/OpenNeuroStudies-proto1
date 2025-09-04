@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "Thank you to Freddy Kamps, Halie Olson, Sabrina Piccolo, Linette Kunin, Emily Chen, and Elizabeth Mieczkowski for help with data collection, and Steve Shannon, Atsushi Takahashi, and Sam Maione, for technical and administrative support.",
+  "Authors": [
+    "Shari Liu",
+    "Kirsten Lydic",
+    "Lingjie Mei",
+    "Rebecca Saxe"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004934.v1.0.0",
+  "Funding": [
+    "NIH NRSA (F32HD103363)",
+    "DARPA  Machine  Common  Sense  Program  (CW3013552)"
+  ],
+  "HowToAcknowledge": "Please cite forthcoming paper in Imaging Neuroscience",
+  "License": "CC0",
+  "Name": "fMRI dataset: Violations of psychological and physical expectations in human adult brains",
+  "ReferencesAndLinks": [
+    "Liu, S., Lydic, K., Mei, L., & Saxe, R. (in press). Violations of physical and psychological expectations in the human adult brain. Imaging Neuroscience",
+    "Liu, S., Lydic, K., Mei, L., & Saxe, R. (2023). Violations of physical and psychological expectations in the human adult brain. Proceedings of the Annual Meeting of the Cognitive Science Society, 45(45). https://escholarship.org/uc/item/0gd2j3g8"
+  ],
+  "EthicsApprovals": [],
+  "DatasetType": "study"
+}

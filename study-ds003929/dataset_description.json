@@ -1,0 +1,34 @@
+{
+  "Name": "Rat_rest_awake",
+  "GeneratedBy": [
+    {
+      "Name": "BIDScoin",
+      "Version": "3.6.3",
+      "CodeURL": "https://github.com/Donders-Institute/bidscoin"
+    }
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Eveline Gelderman",
+    "Daphne Naessens",
+    "Roel Vrooman",
+    "Andor Veltien",
+    "Bram Coolen",
+    "Joanes Grandjean"
+  ],
+  "HowToAcknowledge": "Cite this dataset and refer to our github page https://github.com/grandjeanlab/MultiRat",
+  "Funding": [
+    "RV was supported by the Dutch Research Council grant OCENW.KLEIN.334 (awarded to JGr)",
+    "DN was supported by Eurostars project E!114985"
+  ],
+  "EthicsApprovals": [
+    "Animal experiments were performed under the approval #2019-0023-003"
+  ],
+  "ReferencesAndLinks": [
+    "This acquision follows the StandardRat protocol, https://github.com/grandjeanlab/StandardRat",
+    "https://github.com/Donders-Institute/bidscoin"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003929.v1.0.0",
+  "License": "CC0"
+}

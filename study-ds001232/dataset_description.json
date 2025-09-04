@@ -1,0 +1,17 @@
+{
+  "Name": "Competition between items in working memory leads to forgetting",
+  "License": "",
+  "Authors": [
+    "Lewis-Peacock, J.A.",
+    "Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "National Institutes of Health (R01 MH069456)",
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/ncomms6768"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001232.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

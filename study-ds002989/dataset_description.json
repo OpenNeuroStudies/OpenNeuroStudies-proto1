@@ -1,0 +1,12 @@
+{
+  "Name": "Delay Discounting Bidding",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sangil Lee",
+    "Nicole Cooper",
+    "Joseph Kable"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002989.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

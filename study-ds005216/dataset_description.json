@@ -1,0 +1,24 @@
+{
+  "Name": "UltraCortex: Submillimeter Ultra-High Field 9.4T Brain MR Image Collection and Manual Cortical Segmentations",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lucas Mahler",
+    "Julius Steiglechner",
+    "Benjamin Bender",
+    "Tobias Lindig",
+    "Dana Ramadan",
+    "Jonas Bause",
+    "Florian Birk",
+    "Rahel Heule",
+    "Edyta Charyasz",
+    "Michael Erb",
+    "Vinod Jangir Kumar",
+    "Gisela E Hagberg",
+    "Pascal Martin",
+    "Gabriele Lohmann",
+    "Klaus Scheffler"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005216.v1.1.0",
+  "DatasetType": "study"
+}

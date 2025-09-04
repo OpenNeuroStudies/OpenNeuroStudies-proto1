@@ -1,0 +1,20 @@
+{
+  "Name": "Individual Brain Charting",
+  "License": "CC0",
+  "Authors": [
+    "Ana Luisa Grilo Pinho",
+    "Lucie Hertz-Pannier",
+    "Bertrand Thirion"
+  ],
+  "Acknowledgements": "We wish to thank Alexis Amadon for the set-up of MRI sequences, Chantal Ginisty, Severine Becuwe, and Severine Roger for running MRI acquisitions while tracking all possible artifacts and for their help in all experimental procedures.  Thanks also to Isabelle Denghien for helping in task set-up and video annotations, to Torsten Ruest for the set up of HCP tasks and pilot acquisitions; thanks to Murielle Fabre and Christophe Pallier for the RSV Language task design, and to Philippe Pinel for the ARCHI task design.  Many thanks to Laurence Laurier, Veronique Joly-Testault, and Gaelle Mediouni-Cloarec for participant handling, to Christine Double for recruitment and communication with participants, to Ludivine Monassier for participant screening and to Bernadette Martins for careful follow-up of legal and safety procedures.  Thanks to Elvis Dohmatob for help in data processing, to Evelyn Eger, Stanislas Dehaene and Gael Varoquaux for their thoughtful advice on study design and analysis. \n And we specially thank the 12 volunteers who accepted to participate in that challenging study with many MRI repeated scans over a long period of time.",
+  "HowToAcknowledge": "Please cite the relevant paper (currently in submission) and include the following message: 'This data was obtained from the OpenfMRI database. Its accession number is ds000244",
+  "Funding": [
+    "European Union Horizon 2020 Framework Programme for Research and Innovation (Grant Agreement No 720270 (Human Brain Project SGA1))"
+  ],
+  "ReferencesAndLinks": [
+    "https://openfmri.org/dataset/ds000244/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000244.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

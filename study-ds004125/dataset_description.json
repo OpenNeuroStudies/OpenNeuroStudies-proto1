@@ -1,0 +1,17 @@
+{
+  "Name": "Douglas hypercapnia",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Gabriel Desrosiers-Gregoire",
+    "Daniel Gallino",
+    "Gabriel A. Devenyi",
+    "Joanes Grandjean",
+    "Mallar Chakravarty"
+  ],
+  "Funding": [
+    "This work was supported by funds from the Natural Sciences and Engineering Research Council of Canada (NSERC) and Canadian Institutes of Health Research (CIHR)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004125.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

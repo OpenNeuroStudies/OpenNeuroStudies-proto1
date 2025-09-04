@@ -1,0 +1,21 @@
+{
+  "Name": "Mind Captioning",
+  "License": "CC0",
+  "Authors": [
+    "Tomoyasu Horikawa"
+  ],
+  "Acknowledgements": "We appreciate the support of the WPI-IRCN Human fMRI Core, the University of Tokyo Institutes for Advanced Studies.",
+  "HowToAcknowledge": "Please cite https://www.biorxiv.org/content/10.1101/2024.04.23.590673v1",
+  "Funding": [
+    "This research was supported by grants from JST PRESTO Grant Number JPMJPR185B Japan and JSPS KAKENHI Grant Number JP21H03536."
+  ],
+  "ReferencesAndLinks": [
+    "Horikawa, T. Mind captioning: Evolving descriptive text of mental content from human brain activity. bioRxiv (2024). https://www.biorxiv.org/content/10.1101/2024.04.23.590673v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005191.v1.0.2",
+  "BIDSVersion": "1.10.1",
+  "EthicsApprovals": [
+    "All subjects provided written informed consent, and the study protocol was approved by the Ethics Committee of NTT."
+  ],
+  "DatasetType": "study"
+}

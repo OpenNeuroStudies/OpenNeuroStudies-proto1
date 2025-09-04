@@ -1,0 +1,30 @@
+{
+  "Name": "The Imaging Database for Epilepsy And Surgery (IDEAS)",
+  "License": "CC0",
+  "Authors": [
+    "Peter N. Taylor",
+    "Yujiang Wang",
+    "Callum Simpson",
+    "Vytene Janiukstyte",
+    "Jonathan Horsley",
+    "Karoline Leiberg",
+    "Beth Little",
+    "Harry Clifford",
+    "Sophie Adler",
+    "Sjoerd B. Vos",
+    "Gavin P Winston",
+    "Andrew W McEvoy",
+    "Anna Miserocchi",
+    "Jane de Tisi",
+    "John S Duncan"
+  ],
+  "Acknowledgements": "We thank members of the Computational Neurology, Neuroscience & Psychiatry Lab (www.cnnp-lab.com) for discussions on the analysis and manuscript. We are grateful to the UCLH Epilepsy Surgery Database local Data Monitoring Committee. P.N.T. and Y.W. are both supported by UKRI Future Leaders Fellowships (MR/T04294X/1, MR/V026569/1). Y.W. and B.L. are supported by EPSRC (EP/Y016009/1). G.P.W. and acquisition of control data was supported by the MRC (G0802012, MR/M00841X/1). JSD, JdT are supported by the NIHR UCLH/UCL Biomedical Research Centre. This work was supported by Epilepsy Research UK (grant number P1904).",
+  "HowToAcknowledge": "Please cite our paper: The Imaging Database for Epilepsy And Surgery (IDEAS) : https://arxiv.org/abs/2406.06731 when using this dataset in your research. ",
+  "ReferencesAndLinks": [
+    "https://arxiv.org/abs/2406.06731",
+    "https://www.cnnp-lab.com/ideas-data"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005602.v1.0.0",
+  "DatasetType": "study"
+}

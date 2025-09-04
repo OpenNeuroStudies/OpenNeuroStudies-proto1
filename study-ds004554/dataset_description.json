@@ -1,0 +1,22 @@
+{
+  "ReferencesAndLinks": [
+    "Characterization of spatiotemporal dynamics in EEG data during picture naming with optical flow patterns. {Volpert, V.; Xu, B.; Tchechmedjiev, A.; Harispe, S.; Aksenov, A.; Mesnildrey, Q. & Beuter, A.}. {Mathematical Biosciences and Engineering, 2023, 20, 11429-11463}. https://doi.org/10.3934/mbe.2023507"
+  ],
+  "Authors": [
+    "V. Volpert",
+    "B. Xu",
+    "A. Tchechmedjiev",
+    "S. Harispe",
+    "A. Aksenov",
+    "Q. Mesnildrey and A. Beuter"
+  ],
+  "Name": "Forced Picture Naming Task",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004554.v1.0.4",
+  "EthicsApprovals": [
+    "EEG data collection was approved by the ethical committee CER Grenoble Alpes-Avis-2020-09-01-3"
+  ],
+  "DatasetType": "study"
+}

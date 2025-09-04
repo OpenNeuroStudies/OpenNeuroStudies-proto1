@@ -1,0 +1,14 @@
+{
+  "Name": "Effects of environmental enrichment on functional connectivity in C58 mice (juvenile cohort)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Anna L. Farmer",
+    "Marcelo Febo",
+    "Bradley J. Wilkes",
+    "Mark H. Lewis"
+  ],
+  "HowToAcknowledge": "Please cite the following references if you use these data: Farmer, A.L.; Febo, M.; Wilkes, B.J.; Lewis, M.H. Environmental Enrichment Attenuates Repetitive Behavior and Alters the Functional Connectivity of Pain and Sensory Pathways in C58 Mice. Cells 2024, 13.\n\nAny publications using this data should acknowledge NIH grant S10 RR025671, which supported MRI/S instrumentation, as well as the McKnight Brain Institute at the National High Magnetic Field Laboratory\u2019s Advanced Magnetic Resonance Imaging and Spectroscopy (AMRIS) Facility, which is supported by National Science Foundation Cooperative Agreement DMR-1644779 and the State of Florida.",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005635.v1.0.1",
+  "DatasetType": "study"
+}

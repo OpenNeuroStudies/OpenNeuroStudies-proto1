@@ -1,0 +1,20 @@
+{
+  "Acknowledgements": "n/a",
+  "Authors": [
+    "Wang,S.",
+    "Oliveira,G.S.",
+    "Djebbara,Z",
+    "Gramann, K."
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004980.v1.0.0",
+  "DatasetType": "study",
+  "Funding": [
+    "China Scholarship Council"
+  ],
+  "License": "CC0",
+  "Name": "EEG data set for a architectural affordances task",
+  "ReferencesAndLinks": [
+    "unpublished"
+  ]
+}

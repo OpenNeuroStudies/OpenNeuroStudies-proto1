@@ -1,0 +1,25 @@
+{
+  "Name": "Dataset of intracranial EEG during cortical stimulation evoking visual effects",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Andrei Barborica",
+    "Felicia Mihai",
+    "Laurentiu Tofan",
+    "Irina Oane",
+    "Ioana Mindruta"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Romanian UEFISCDI PN-III-P4-ID-PCE-2020-0935"
+  ],
+  "EthicsApprovals": [
+    "Bucharest University CEC 45/11.06.2020"
+  ],
+  "ReferencesAndLinks": [
+    "Barborica A, Oane I, Donos C, Daneasa A, Mihai F, Pistol C, Dabu A, Roceanu A, Mindruta I. Imaging the effective networks associated with cortical function through intracranial high-frequency stimulation. Hum Brain Mapp. 2022 Apr 1;43(5):1657-1675. doi: 10.1002/hbm.25749."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005169.v1.0.0"
+}

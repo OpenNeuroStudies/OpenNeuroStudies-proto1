@@ -1,0 +1,31 @@
+{
+  "Name": "High-quality multimodal MRI with simultaneous EEG using conductive ink and polymer-thick film nets",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.2.0",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Nicholas G. Cicero",
+    "Nina E. Fultz",
+    "Hongbae Jeong",
+    "Stephanie D. Williams",
+    "Daniel Gomez",
+    "Beverly Setzer",
+    "Tracy Warbrick",
+    "Manfred Jaschke",
+    "Ravij Gupta",
+    "Michael Lev",
+    "Giorgio Bonmassar",
+    "Laura D. Lewis"
+  ],
+  "HowToAcknowledge": "Please cite the paper and cite Cicero, N. G. et al. (2024). High-quality multimodal MRI with simultaneous EEG using conductive ink and polymer-thick film nets. Journal of Neural Engineering",
+  "Funding": [
+    "NIH NIBIB R01EB024343",
+    "NIH NIA R01AG070135",
+    "McKnight Scholar Award",
+    "Sloan Fellowship",
+    "Pew Biomedical Scholar Award",
+    "NINDS/Brain Initiative U19NS128613"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005533.v1.0.0"
+}

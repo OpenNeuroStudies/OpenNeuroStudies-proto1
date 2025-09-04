@@ -1,0 +1,17 @@
+{
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds003430.v1.1.1",
+  "Funding": [
+    "This research was supported by grants from the New Energy and Industrial Technology Development Organization (NEDO), JSPS KAKENHI Grant number JP15H05710, JP15H05920, and JP17K12771, JST CREST Grant Number JPMJCR18A5, and JST PRESTO Grant Number JPMJPR185B Japan."
+  ],
+  "Name": "Attentionally modulated subjective images reconstructed from brain activity",
+  "License": "CC0",
+  "Authors": [
+    "Tomoyasu Horikawa",
+    "Yukiyasu Kamitani"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Acknowledgements": "This study was conducted using the MRI scanner and related facilities of Kokoro Research Center, Kyoto University.",
+  "HowToAcknowledge": "",
+  "DatasetType": "study"
+}

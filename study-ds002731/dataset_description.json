@@ -1,0 +1,16 @@
+{
+  "Name": "DRM False Memory",
+  "License": "CC0",
+  "Authors": [
+    "Bi Zhu"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds002731.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

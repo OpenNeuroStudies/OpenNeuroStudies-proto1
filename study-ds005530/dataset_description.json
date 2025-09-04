@@ -1,0 +1,36 @@
+{
+  "Name": "Depotentiation of emotional reactivity using TMR during REM sleep",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Viviana Greco",
+    "Tamas A. Foldes",
+    "Neil A. Harrison",
+    "Kevin Murphy",
+    "Marta Wawrzuta",
+    "Mahmoud E. A. Abdellahi",
+    "Penelope A. Lewis"
+  ],
+  "Acknowledgements": "We thank Sophie Smith and Caterina Leitner for collaboration at the early and late phases of the study. We also acknowledge Sofia I.R. Pereira for her significant contribution to data collection.",
+  "HowToAcknowledge": "Please cite the associated publication (citation to be added upon publication).",
+  "Funding": [
+    "ERC consolidator grant SolutionSleep to Lewis P.A.",
+    "The Wellcome Trust [WT224267] to Murphy K"
+  ],
+  "EthicsApprovals": [
+    "Ethics Committee of the School of Psychology at Cardiff University"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005530.v1.0.9",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "n/a",
+      "Description": "ezBIDS is a web-based tool for converting MRI datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/"
+    }
+  ],
+  "HEDVersion": []
+}

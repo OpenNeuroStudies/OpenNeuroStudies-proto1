@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "We thank the administrative staff of the Princeton Neuroscience Institute (especially Nick DePinto, Leigh Nystrom, and Mark Pinsk) and the Princeton 'Pygers' group for creating the Handbook for Reproducible Neuroimaging primarily focused on improving fMRI reproducibility using the BIDS format (headed up by Paula Brooks, Elizabeth McDevitt, Anne Mennen, and Sam Nastase).",
+  "Authors": [
+    "James Antony",
+    "Thomas Hartshorne",
+    "Ken Pomeroy",
+    "Todd Gureckis",
+    "Uri Hasson",
+    "Samuel McDougle",
+    "Kenneth Norman"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "CV Starr Foundation (to JWA)",
+    "ONR MURI Grant N00014-17-1-2961 (to UH and KN)"
+  ],
+  "HowToAcknowledge": "Please acknowledge these data by citing the original paper: https://www.biorxiv.org/content/10.1101/2020.03.26.008714v2",
+  "License": "CC0",
+  "Name": "Behavioral, physiological, and neural signatures of surprise during naturalistic sports viewing",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.34770/r8b8-k094"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003338.v1.1.0",
+  "DatasetType": "study"
+}

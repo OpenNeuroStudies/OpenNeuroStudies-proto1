@@ -1,0 +1,24 @@
+{
+  "Name": "The Alice Dataset: fMRI Dataset to Study Natural Language Comprehension in the Brain",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Shohini Bhattasali",
+    "Jonathan R. Brennan",
+    "Wen-Ming Luh",
+    "Berta Franzluebbers",
+    "John T. Hale"
+  ],
+  "Acknowledgments": "We acknowledge with appreciation the help of David Lutz, Frederick Callaway, Elana Feldman, Jaclyn Jeffrey-Wilensky, and Adam Mahar. We thank Emily Qualls for assistance with data collection.",
+  "Funding": [
+    "NIH grant S10RR025145",
+    "NSF grants #1607251 and # 1607441"
+  ],
+  "ReferencesAndLinks": [
+    "Bhattasali, S., Brennan, J. R., Luh, W. M., Franzluebbers, B., & Hale, J. T. (2020). The Alice Datasets: fMRI & EEG Observations of Natural Language Comprehension. In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020).",
+    "Brennan, J. R., Stabler, E. P., Van Wagenen, S. E., Luh, W. M., & Hale, J. T. (2016). Abstract linguistic structure correlates with temporal activity during naturalistic comprehension. Brain and language, 157, 81-94. doi:10.1016/j.bandl.2016.04.008"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002322.v1.0.4",
+  "HowToAcknowledge": "When using this dataset, please cite:\nBhattasali, S., Brennan, J. R, Luh, W. M., Franzluebbers, B., & Hale, J. T. (2020). The Alice Datasets: fMRI & EEG Observations of Natural Language Comprehension. In Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC 2020)",
+  "DatasetType": "study"
+}

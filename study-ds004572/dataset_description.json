@@ -1,0 +1,17 @@
+{
+  "Name": "The effects of sham hypnosis techniques",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Zoltan Kekecs",
+    "Kyra Gir\u00e1n",
+    "Vanda Vizkievicz",
+    "Anna Lutoskin",
+    "Yeganeh Farahzadi"
+  ],
+  "Funding": [
+    "Hungarian National Research, Development and Innovation Office (NKFIH, Grant No.: FK 132248)"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004572.v1.3.1"
+}

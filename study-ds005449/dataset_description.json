@@ -1,0 +1,27 @@
+{
+  "Name": "Valenced tactile information is evoked by neutral visual cues following emotional learning",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Ehlers, M. R.",
+    "Kryklywy, J. H.",
+    "Beukers A. O.",
+    "Moore S. R.",
+    "Forys, B. J.",
+    "Anderson A.K.",
+    "Todd, R. M."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "If you use this dataset in your paper, please cite our paper as indicated below.",
+  "Funding": [
+    "This research was supported by Canadian Institutes for Health Research (CIHR) Operating Grant #491746 and a grant from the Leaders Opportunity Fund from the Canadian Foundation for Innovation (FAS#: F13-03917) as well as a CIHR New Investigator Salary Award, and a Michael Smith Foundation for Health Research Scholar award to R.M. Todd. J.H. Kryklywy is supported by a Natural Sciences and Engineering Research Council of Canada (NSERC) fellowship award (PDF-532611-2019)."
+  ],
+  "EthicsApprovals": [
+    "Institutional Research Board (IRB) for Human Participants, Cornell University"
+  ],
+  "ReferencesAndLinks": [
+    "Ehlers, M. R., Kryklywy, J. H., Beukers A. O., Moore S. R., Forys, B. J., Anderson A.K., & Todd, R. M. Valenced tactile information is evoked by neutral visual cues following emotional learning. Imaging Neuroscience."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005449.v1.0.0"
+}

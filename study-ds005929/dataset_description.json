@@ -1,0 +1,25 @@
+{
+  "Name": "Motion-Yucel2014",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Y\u00fccel, Meryem",
+    "Selb, Juliette",
+    "Boas, David",
+    "Cash, Sydney",
+    "Cooper, Robert"
+  ],
+  "Acknowledgements": "This work was supported by NIH grants P41-RR14075, R01-EB006385, and R90-DA023427. We thank the participants and clinical staff who supported the study.",
+  "HowToAcknowledge": "Y\u00fccel, M.A., Selb, J., Boas, D.A., Cash, S.S., & Cooper, R.J. (2014). Reducing motion artifacts for long-term clinical NIRS monitoring using collodion-fixed prism-based optical fibers. NeuroImage, 85(Pt 1), 192-201. https://doi.org/10.1016/j.neuroimage.2013.06.054",
+  "Funding": [
+    "NIH grants P41-RR14075, R01-EB006385 and R90-DA023427"
+  ],
+  "EthicsApprovals": [
+    "The Massachusetts General Hospital Institutional Review Board approved the study."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2013.06.054"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005929.v1.0.1",
+  "DatasetType": "study"
+}

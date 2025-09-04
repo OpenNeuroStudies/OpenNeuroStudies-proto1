@@ -1,0 +1,23 @@
+{
+  "Name": "HID",
+  "License": "CC0",
+  "Authors": [
+    "Tony Johnson",
+    "Stephen Gordon",
+    "Jon Touryan",
+    "Kevin King"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "8.0"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004851.v2.1.0",
+  "DatasetType": "study"
+}

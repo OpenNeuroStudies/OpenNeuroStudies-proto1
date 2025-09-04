@@ -1,0 +1,21 @@
+{
+  "Name": "Somatosensory phase-encoded bilateral full-body light touch stimulation",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Noam Saadon-Grosman",
+    "Shahar Arzy",
+    "Yonatan Loewenstein"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2020.117257",
+    "https://doi.org/10.1093/braincomms/fcaa003"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003089.v1.0.1",
+  "DatasetType": "study"
+}

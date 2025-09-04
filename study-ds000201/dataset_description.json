@@ -1,0 +1,31 @@
+{
+  "Name": "The Stockholm Sleepy Brain Study: Effects of Sleep Deprivation on Cognitive and Emotional Processing in Young and Old",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Gustav Nilsonne",
+    "Sandra Tamm",
+    "Paolo d\u2019Onofrio",
+    "Hanna \u00c5 Thun\u00e9",
+    "Johanna Schwarz",
+    "Catharina Lavebratt",
+    "Jia Jia Liu",
+    "Kristoffer NT M\u00e5nsson",
+    "Tina Sundelin",
+    "John Axelsson",
+    "Peter Fransson",
+    "G\u00f6ran Kecklund",
+    "H\u00e5kan Fischer",
+    "Mats Lekander",
+    "Torbj\u00f6rn \u00c5kerstedt"
+  ],
+  "Acknowledgements": "We are grateful to Diana Cortes and Roberta Nagai for assistance with polysomnography recordings, to Birgitta Mannerstedt Fogelfors for assistance with screening, instructions to participants, and blood sampling, to Rouslan Sitnikov and Jonathan Berrebi for assistance with MRI sequences and auxiliary equipment, to Hannes Ingre for entering sleep diary data into a spreadsheet, and to William Triplett, data curator at openfmri.org, for assistance with data archiving.",
+  "HowToAcknowledge": "We encourage researchers to use the published dataset freely and ask that they cite the respective data sources as well as this paper.",
+  "ReferencesAndLinks": [
+    "http://www.stressforskning.su.se/polopoly_fs/1.238736.1433421769!/menu/standard/file/Sandra%20SSC%202014.pdf",
+    "https://osf.io/bxfsb/"
+  ],
+  "UsageNotes": "This multimodal dataset can be used to investigate effects of sleep deprivation as well as cross-sectional relationships between various participant characteristics and brain imaging parameters. Samples of serum and DNA are available for additional analyses. Thus, this dataset could be used for discovery or independent validation of associations found in other datasets. Possibly identifying features and variables have been censored in order to safeguard participants\u2019 integrity. We encourage researchers to use the published dataset freely and ask that they cite the respective data sources as well as this paper. For any analyses involving censored data, our intention is to share data with colleagues by arrangement, limited in each particular case by regulations pertaining to data integrity as well as by the participants\u2019 consent, and we encourage researchers to contact us.",
+  "DatasetDOI": "10.18112/openneuro.ds000201.v1.0.3",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Motor sequence learning",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Eva Berlot",
+    "Nicola Popp",
+    "J\u00f6rn Diedrichsen"
+  ],
+  "HowToAcknowledge": "If you use these data, please cite the appropriate manuscripts.",
+  "Funding": [
+    "NSERC Discovery Grant (RGPIN-2016-04890)",
+    "Canada First Research Excellence Fund (BrainsCAN)",
+    "Ontario Trillium Scholarship"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002776.v1.0.2",
+  "License": "CC0",
+  "DatasetType": "study"
+}

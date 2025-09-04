@@ -1,0 +1,19 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "AutomatedZShimSpinalCord",
+  "Authors": [
+    "Merve Kaptan",
+    "Falk Eippert"
+  ],
+  "HowToAcknowledge": "Cite this paper: Kaptan, M., Vannesjo, S. J., Mildner, T., Horn, U., Hartley-Davies, R., Oliva, V., Brooks, J. C. W., Weiskopf, N., Finsterbusch, J., & Eippert, F. (2021). Automated slice-specific z-shimming for fMRI of the human spinal cord. BioRxiv, 2021.07.27.454049. https://doi.org/10.1101/2021.07.27.454049. Consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds003743.'",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2021.07.27.454049",
+    "Kaptan, M., Vannesjo, S. J., Mildner, T., Horn, U., Hartley-Davies, R., Oliva, V., Brooks, J. C. W., Weiskopf, N., Finsterbusch, J., & Eippert, F. (2021). Automated slice-specific z-shimming for fMRI of the human spinal cord. BioRxiv, 2021.07.27.454049."
+  ],
+  "Funding": [
+    "This project has received funding from the Max Planck Society as well as the European Research Council under the European Union\u2019s Horizon 2020 research and innovation programme (grant agreement No 758974)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004068.v1.0.1",
+  "DatasetType": "study"
+}

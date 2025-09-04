@@ -1,0 +1,21 @@
+{
+  "Name": "Fixating Targets in Visual Search: The Role of Dorsal and Ventral Attention Networks in the Processing of Relevance and Rarity",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Anja Ischebeck",
+    "Hannah Kreilinger",
+    "Joe Miller",
+    "Margit Hoefler",
+    "Iain D. Gilchrist",
+    "Christof Koerner"
+  ],
+  "Funding": [
+    "This work was supported by the Austrian Science Fund (FWF) under grant P-27824."
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the ethics committee of the University Graz and was conducted according to the general principles of the Declaration of Helsinki."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005267.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

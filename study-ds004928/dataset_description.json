@@ -1,0 +1,23 @@
+{
+  "Name": "Predictive Processing in the Auditory Cortex measured at 7T",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Lonike K Faes",
+    "Agustin Lage-Castellanos",
+    "Giancarlo Valente",
+    "Zidan Yu",
+    "Martijn A. Cloos",
+    "Luca Vizioli",
+    "Steen Moeller",
+    "Essa Yacoub",
+    "Federico De Martino"
+  ],
+  "Funding": [
+    "National Institute of Health grant (RF1MH116978-01)",
+    "National Institute of Health grant (P41EB027061)",
+    "European Research Council (ERC) under the European Union\u2019s Horizon 2020 research and innovation programme (grant agreement No. 101001270)"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004928.v1.0.0"
+}

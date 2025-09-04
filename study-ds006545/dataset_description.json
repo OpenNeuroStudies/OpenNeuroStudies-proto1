@@ -1,0 +1,21 @@
+{
+  "Name": "Reliability-Dubois2024",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kernel"
+  ],
+  "HowToAcknowledge": "Please cite this paper:  https://doi.org/10.1038/s41598-024-68555-9",
+  "GeneratedBy": [
+    {
+      "Name": "Kernel Portal",
+      "Version": "2025.05.15"
+    }
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1038/s41598-024-68555-9",
+    "Dubois, J., Field, R. M., Jawhar, S., Koch, E. M., Aghajan, Z. M., Miller, N., Perdue, K. L., & Taylor, M. (2024). Reliability of brain metrics derived from a Time-Domain Functional Near-Infrared Spectroscopy System. Scientific Reports, 14(1), 17500"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006545.v1.0.0"
+}

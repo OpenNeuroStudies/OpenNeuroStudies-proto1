@@ -1,0 +1,23 @@
+{
+  "id": "HEAD",
+  "Name": "T1-weighted structural MRI study of cannabis users at baseline and 3 years follow up",
+  "BIDSVersion": "1.10.1",
+  "License": "CC BY-NC 4.0i",
+  "Authors": [
+    "Laura Koenders",
+    "Janna Cousijn",
+    "Wilhelmina A.M. Vingerhoets",
+    "Wim van den Brink",
+    "Reinout W. Wiers",
+    "Carin J. Meijer",
+    "Marise W. J. Machielsen",
+    "Dick J. Veltman",
+    "Anneke E. Goudriaan",
+    "Lieuwe de Haan"
+  ],
+  "Acknowledgements": "This study is supported through funding received from the Academic Medical Center of the University of Amsterdam and the Netherlands Organization for Scientific research - Health Research and Development, ZonMW grant #31180002 awarded to A.E. Goudriaan and W. van den Brink and grant #31160007 awarded to L. de Haan. Additional funding was obtained from Vici grant #453.008.001 awarded to R.W. Wiers by the Dutch Organization for Scientific Research (NWO) and from the Amsterdam Brain Imaging Center (BIC) for MRI scans.",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4880314/"
+  ],
+  "DatasetType": "study"
+}

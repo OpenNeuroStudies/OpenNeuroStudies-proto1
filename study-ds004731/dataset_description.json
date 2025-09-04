@@ -1,0 +1,66 @@
+{
+  "Name": "Rates of cerebral protein synthesis and memory formation during sleep",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Dante Picchioni",
+    "Kathleen C Schmidt",
+    "Kelly K McWhirter",
+    "Inna Loutaev",
+    "Adriana J Pavletic",
+    "Andrew M Speer",
+    "Alan J Zametkin",
+    "Ning Miao",
+    "Shrinivas Bishu",
+    "Kate M Turetsky",
+    "Anne S Morrow",
+    "Jeffrey L Nadel",
+    "Brittney C Evans",
+    "Diana M Vesselinovitch",
+    "Carrie A Sheeler",
+    "Thomas J Balkin",
+    "Carolyn B Smith"
+  ],
+  "Curators": [
+    "Martin N\u00f8rgaard",
+    "Eric Earl",
+    "Anthony Galassi",
+    "Dustin Moraczewski",
+    "Adam Thomas"
+  ],
+  "Acknowledgements": "The authors would like to acknowledge the following individuals for their help: Adams, G., Allard, R., Burlin, T., Castellano, J., Catalano, R., Chung, K., Conant, S., Friedman, R., Gogtay, N., Huang, T., Jones, A., Kabiru, R., Kim, J., Klapec, K., Kong, W., Lee, B., Martinez, P., Morgan, A., Newman, R., Polk, D., Powers, M., Prindle, N., Ratcliffe, R., Strickland-Mangano, A., Thada, S., and Xia, Z.",
+  "HowToAcknowledge": "Cite https://doi.org/10.1093/sleep/zsy088 and the dataset DOI on OpenNeuro for the dataset version you are using",
+  "Funding": [
+    "1ZIAMH000889 from the Intramural Research Program of the National Institute of Mental Health",
+    "1ZIANS003027 from the Intramural Research Program of the National Institute of Neurological Disorders and Stroke",
+    "W81XWH-08-D-0047 from the Military Operational Medicine Research Program of the United States Army Medical Research and Materiel Command"
+  ],
+  "EthicsApprovals": [
+    "National Institutes of Health Institutional Review Board Protocol Number is 09-M-N230."
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1093/sleep/zsy088",
+    "https://doi.org/10.1038/sj.jcbfm.9600067",
+    "https://doi.org/10.1038/sj.jcbfm.9600066",
+    "https://doi.org/10.1038/jcbfm.2008.43",
+    "https://doi.org/10.1038/jcbfm.2009.52",
+    "https://doi.org/10.1038/s41598-017-18890-x",
+    "https://doi.org/10.1371/journal.pone.0195580",
+    "https://doi.org/10.1177/0271678X18771242"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MathWorks MATLAB niftiwrite",
+      "Description": "Used to convert the raw DICOM data to NIfTI format.",
+      "CodeURL": "https://www.mathworks.com/help/images/ref/niftiwrite.html"
+    },
+    {
+      "Name": "FreeSurfer's MiDeFace",
+      "Version": "7.3.2",
+      "Description": "A tool for defacing MRI images in a way that is both minimally invasive and achieves goals of privacy",
+      "CodeURL": "https://surfer.nmr.mgh.harvard.edu/fswiki/MiDeFace"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004731.v1.0.0"
+}

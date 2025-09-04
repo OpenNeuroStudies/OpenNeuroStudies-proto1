@@ -1,0 +1,39 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Longitudinal Brain Correlates of Multisensory Lexical Processing in Children",
+  "ReferencesAndLinks": [
+    "Edwards E. S., Burke K., Booth J. R. & McNorgan C. Dyslexia on a continuum: A complex network approach. PLOS One. 13, e0208923 (2018).",
+    "Smith G. J., Booth J. R. & McNorgan C. Longitudinal task-related functional connectivity changes predict reading development. Frontiers in Psychology. 9, 1754 (2018).",
+    "Weiss, Y. & Booth, J. R. Neural correlates of the lexicality effect in children. Brain and Language. 175, 64-70 (2017).",
+    "Younger, J. W., Tucker-Drob, E. & Booth, J. R. Longitudinal changes in reading network connectivity related to skill improvement. Neuroimage. 158, 90-98 (2017).",
+    "Gullick, M. M., Demir-Lira, E. & Booth, J. R. Reading skill\u2013fractional anisotropy relationships in visuospatial tracts diverge depending on socioeconomic status. Developmental Science. 19, 672-684 (2016).",
+    "Cao, F., Brennan, C. & Booth, J. R. The brain adapts to orthography with experience: Evidence from English and Chinese. Developmental Science. 18, 785-798 (2015).",
+    "Gullick, M. M., & Booth, J. R. The direct segment of the arcuate fasciculus is predictive of longitudinal reading change. Developmental Cognitive Neuroscience. 13, 68-74 (2015).",
+    "McNorgan, C. & Booth, J. R. Skill dependent audiovisual integration in the fusiform induces repetition suppression. Brain and Language. 141, 110-123 (2015).",
+    "McNorgan, C., Awati, N., Desroches, A. & Booth, J. R. Multimodal lexical processing in auditory cortex is literacy skill-dependent. Cerebral Cortex. 24, 2464-2475 (2014).",
+    "Gullick, M. M. & Booth, J. R. Individual differences in crossmodal brain activity predict arcuate fasisculus connectivity in developing readers. Journal of Cognitive Neuroscience. 26, 1331-1346 (2014).",
+    "Brennan, C., Cao, F., Pedroareana-Leal, N., McNorgan, C. & Booth, J. R. Reading acquisition reorganizes the phonological awareness network only in alphabetic systems. Human Brain Mapping. 34, 3354-3368 (2013).",
+    "McNorgan, C., Randazzo-Wagner, M. & Booth, J. R. Cross-modal integration in the brain is related to phonological awareness only in typical readers, not in those with reading difficulty. Frontiers in Human Neuroscience. 7, 388 (2013)."
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset: \n\nLytle MN, McNorgan C & Booth JR (2019). Longitudinal brain correlates of multisensory lexical processing in children. OpenNeuro. 10.18112/openneuro.ds001894\n\nLytle MN, McNorgan C & Booth JR (2019). A longitudinal neuroimaging dataset on multisensory lexical processing in school-aged children. Scientific Data, 6, 329.\n",
+  "Funding": [
+    "HD042049 from the National Institute of Child Health and Human Development awarded to James R. Booth",
+    "HD093547  from the National Institute of Child Health and Human Development awarded to James R. Booth"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Christine Brennan",
+    "Ozlem Ece Demir-Lira",
+    "Amy Desroches",
+    "Clara Ekerdt",
+    "Margaret M. Gullick",
+    "Marisa N. Lytle",
+    "Chris McNorgan",
+    "Melissa Randazzo-Wagner",
+    "Yael Weiss",
+    "Jessica Wise Younger"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001894.v1.4.1",
+  "DatasetType": "study"
+}

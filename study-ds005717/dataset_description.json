@@ -1,0 +1,12 @@
+{
+  "Name": "An fMRI dataset during a silent movie watching task",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jerry Tang",
+    "Alexander G. Huth"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "This work was supported by the National Institute on Deafness and Other Communication Disorders, Whitehall Foundation, Alfred P. Sloan Foundation, Burroughs Wellcome Fund.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005717.v1.0.0",
+  "DatasetType": "study"
+}

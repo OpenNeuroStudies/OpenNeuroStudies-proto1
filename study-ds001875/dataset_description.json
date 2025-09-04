@@ -1,0 +1,24 @@
+{
+  "Name": "TheVirtualBrain Macaque MRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Kelly Shen",
+    "Joseph S. Gati",
+    "Ravi S. Menon",
+    "Stefan Everling",
+    "Anthony R. McIntosh"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "The following publication should be cited when using this dataset: Shen K, Bezgin G, Schirner M, Ritter P, Everling S, McIntosh AR (2018) A macaque connective for large-scale network simulations in TheVirtualBrain. bioRxiv 480905, doi: https://doi.org/10.1101/48905.",
+  "Funding": [
+    "Canadian Institutes of Health Research (FRN 148365)",
+    "Canada First Research Excellence Fund (to BrainsCAN)",
+    "J.S. McDonnell Foundation (Collaborative Research Grant 220020255)"
+  ],
+  "ReferencesAndLinks": [
+    "Additional information on this dataset can be found in the following papers: 1) Ghahremani M, Hutchison RM, Menon RS, Everling S (2017) Frontoparietal functional connectivity in the common marmoset. Cerebral Cortex 27 (8): 3890-3905, and 2) Shen K, Goulas A, Grayson DS, Eusebio J, Gati JS, Menon RS, McIntosh AR, Everling S (2019) Exploring the limits of network topology estimation using diffusion-based tractography and tracer studies in the macaque cortex. Neuroimage 191: 81-92."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001875.v1.0.3",
+  "DatasetType": "study"
+}

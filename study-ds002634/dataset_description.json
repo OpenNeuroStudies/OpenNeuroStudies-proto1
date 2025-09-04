@@ -1,0 +1,19 @@
+{
+  "Name": "Project_larynx",
+  "License": "CC0",
+  "Authors": [
+    "Eichert, N",
+    "Watkins, KE",
+    "project-specific co-authors"
+  ],
+  "Acknowledgements": "N.E. is a Wellcome Trust Doctoral student in Neuroscience at the University of Oxford [203730/Z/16/Z]. The project was supported by the NIHR Oxford Health Biomedical Research Centre. The Wellcome Centre for Integrative Neuroimaging is supported by core funding from the Wellcome Trust [203139/Z/16/Z]. \nData in this repository has been used in multiple projects that involved different collaborators. For project-specific acknowledgements, please refer to the relevant references.",
+  "HowToAcknowledge": "Data in this repository has been used in multiple projects.\nWhen using this dataset, please include the following message: 'This data was obtained from the OpenNeuro database under the accession number ds002634'.\n,Please also reference the relevant data papers, as indicated in the README file, depending on which data you use.",
+  "ReferencesAndLinks": [
+    "Eichert et al. 2020, eLife: https://elifesciences.org/articles/53232",
+    "Eichert et al. 2020, Cerebral Cortex: https://doi.org/10.1093/cercor/bhaa182",
+    "Eichert et al. 2020, Brain Struct Funct: https://doi.org/10.1007/s00429-020-02180-w"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002634.v3.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

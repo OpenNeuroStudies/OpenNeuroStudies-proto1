@@ -1,0 +1,14 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Auditory and Visual Oddball EEG-fMRI",
+  "Authors": [
+    "Jennifer M Walz",
+    "Robin I Goldman",
+    "Jordan Muraskin",
+    "Bryan Conroy",
+    "Truman R Brown",
+    "Paul Sajda"
+  ],
+  "DatasetDOI": "",
+  "DatasetType": "study"
+}

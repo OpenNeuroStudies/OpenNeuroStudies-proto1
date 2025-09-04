@@ -1,0 +1,19 @@
+{
+  "Name": "Scene Perception",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Elissa M. Aminoff",
+    " Michael J. Tarr"
+  ],
+  "Acknowledgements": "We thank David Mu\u00f1oz, Deborah Johnson, Scott Kurdilla, and Deborah Viszlay for data collection assistance; and John Pyles and Adrian Nestor a for helpful discussions in preliminary stages of the experiment.",
+  "Funding": [
+    "Office of Naval Research MURI contract N000141010934 (to E.A. & M.T.)",
+    "National Science Foundation 1439237 (to E.A. & M.T.)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467091/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds000149.v1.0.0",
+  "DatasetType": "study"
+}

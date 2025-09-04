@@ -1,0 +1,26 @@
+{
+  "Name": "Simulated motion artifacts based on the (MR-ART) dataset (https://openneuro.org/datasets/ds004173/versions/1.0.2)",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Hampus Olsson",
+    "Jason Michael Millward",
+    "Ludger Starke",
+    "Thomas Gladytz",
+    "Tobias Klein",
+    "Jana Fehr",
+    "Wei-Cheng Lai",
+    "Christoph Lippert",
+    "Thoralf Niendorf",
+    "Sonia Waiczies"
+  ],
+  "HowToAcknowledge": "Manuscript under revision",
+  "Funding": [
+    "This project was funded by the German Federal Ministry of Education and Research (BMBF, URL: https://www.bundesregierung.de/breg-en/federal-government/ministries/federal-ministry-of-education) within the project \u2018Syreal\u2019 (Grant No.01/S21069A). The funding was awarded to SW and CL. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  ],
+  "EthicsApprovals": [
+    "All data is derived from the MR-ART dataset, thus no separate ethical approval was obtained. The MR-ART study protocol was approved by the National Institute of Pharmacy and Nutrition (file number: OGY\u00c9I/70184/2017)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004795.v1.0.0",
+  "DatasetType": "study"
+}

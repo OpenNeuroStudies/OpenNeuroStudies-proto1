@@ -1,0 +1,24 @@
+{
+  "Name": "Subcortical DMN functional connectivity",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Li J.",
+    "Curley W. H.",
+    "Guerin B.",
+    "Dougherty D. D.",
+    "Dalca A. V.",
+    "Fischl B.",
+    "Horn A.",
+    "Edlow B. L."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003716.v1.0.0",
+  "License": "CC0",
+  "HowToAcknowledge": "Li, J. et al. Data from: Subcortical DMN functional connectivity. OpenNeuro https://openneuro.org/datasets/ds003716, doi:10.18112/openneuro.ds003716.v1.0.0 (2019).",
+  "Acknowledgements": "This study was supported by the NIH Director's Office (DP2HD101400), National Institute of Neurological Disorders and Stroke (R21NS109627, RF1NS115268, R01NS0525851, R21NS072652, R01NS070963, R01NS083534, U01NS086625, U24NS10059103, R01NS105820), BRAIN Initiative Cell Census Network (U01MH117023), National Institute for Biomedical Imaging and Bioengineering (P41EB015896, R01EB023281, R01EB006758, R21EB018907, R01EB019956, P41EB030006), National Institute on Aging (R56AG064027, R01AG064027, R01AG008122, R01AG016495), National Institute of Mental Health (R01MH123195, R01MH121885, 1RF1MH123195), the James S. McDonnell Foundation, and the Tiny Blue Dot Foundation. This work was also made possible by the resources provided by Shared Instrumentation Grants S10RR023401, S10RR019307, and S10RR023043. Additional support was provided by the NIH Blueprint for Neuroscience Research (U01MH093765), part of the multi-institutional Human Connectome Project.",
+  "ReferencesAndLinks": [
+    "https://www.lead-dbs.org/",
+    "https://surfer.nmr.mgh.harvard.edu",
+    "https://histopath.nmr.mgh.harvard.edu"
+  ],
+  "DatasetType": "study"
+}

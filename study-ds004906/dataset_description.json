@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "RF shimming in the cervical spinal cord at 7T",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Daniel Papp",
+    "Kyle M. Gilbert",
+    "Gaspard Cereza",
+    "Alexandre D'Astous",
+    "Marcus Couch",
+    "Pedram Yazdanbakhsh",
+    "Robert L. Barry",
+    "Eva Alonso Ortiz",
+    "Julien Cohen-Adad"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004906.v2.4.0"
+}

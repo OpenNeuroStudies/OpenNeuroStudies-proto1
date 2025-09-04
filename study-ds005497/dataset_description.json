@@ -1,0 +1,30 @@
+{
+  "Name": "Visual Stim",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Xiaochen Liu",
+    "David Hike",
+    "Sangcheon Choi",
+    "Weitao Man",
+    "Chongzhao Ran",
+    "Xiaoqing Alice Zhou",
+    "Yuanyuan Jiang",
+    "Xin Yu"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "The dataset is supported by funding sources, including NIH grants (RF1NS113278, RF1NS124778, R01NS122904, R01NS120594, and R21NS121642), U19 Cooperative Agreement Grant (U19NS123717), S10 instrument grants (S10OD028616 and S10RR025563) to Martinos Center, Massachusetts General Hospital, and NSF grant (2123970).",
+  "Funding": [
+    "NIH grants (RF1NS113278, RF1NS124778, R01NS122904, R01NS120594, and R21NS121642)",
+    "U19 Cooperative Agreement Grant (U19NS123717)",
+    "S10 instrument grants (S10OD028616 and S10RR025563)",
+    "NSF grant (2123970)"
+  ],
+  "Ethics Approvals": "All animal procedures were conducted in accordance with protocols approved by the Massachusetts General Hospital (MGH) Institutional Animal Care and Use Committee (IACUC), and animals were cared for according to the requirements of the National Research Council's Guide for the Care and Use of Laboratory Animals. ",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005497.v1.0.0",
+  "EthicsApprovals": [
+    "All animal procedures were conducted in accordance with protocols approved by the Massachusetts General Hospital (MGH) Institutional Animal Care and Use Committee (IACUC), and animals were cared for according to the requirements of the National Research Council's Guide for the Care and Use of Laboratory Animals."
+  ],
+  "DatasetType": "study"
+}

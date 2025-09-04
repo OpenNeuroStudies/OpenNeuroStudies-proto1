@@ -1,0 +1,38 @@
+{
+  "Name": "Skewed Gambling Task: Deconstructing neural predictors of risky choice",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Leili Mortazavi",
+    "Charlene C. Wu",
+    "Elnaz Ghasemi",
+    "Brian Knutson"
+  ],
+  "Acknowledgements": "We thank Kiefer Katovich, Josiah Leong, and Mirre Stallen for assistance with data collection, as well as Russell Poldrack, and Spanlab for feedback on previous drafts.",
+  "HowToAcknowledge": "Please cite this paper (link will be added after acceptance by the journal).",
+  "Funding": [
+    "NeuroChoice Initiative Big Ideas grant from Stanford\u2019s Wu Tsai Neuroscience Institute to BK"
+  ],
+  "EthicsApprovals": [
+    "The study and all procedures were approved by the Institutional Review Board of the Stanford University School of Medicine."
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/fvd69/?view_only=d84508a56bcb42468f80a720fdd68192"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006105.v1.0.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.9.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

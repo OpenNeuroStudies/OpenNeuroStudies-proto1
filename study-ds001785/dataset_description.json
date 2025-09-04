@@ -1,0 +1,30 @@
+{
+  "Authors": [
+    "Michael Pereira",
+    "Pierre M\u00e9gevand",
+    "Mi Xue Tan",
+    "Wenwen Chang",
+    "Shuo Wang",
+    "Ali Rezai",
+    "Margitta Seeck",
+    "Marco Corniola",
+    "Shahan Momjian",
+    "Fosco Bernasconi",
+    "Olaf Blanke",
+    "Nathan Faivre"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds001785.v1.1.1",
+  "Funding": [
+    "Bertarelli Foundation",
+    "Swiss National Science Foundation",
+    "European Research Council (ERC) "
+  ],
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "Name": "Evidence accumulation relates to perceptual consciousness and monitoring",
+  "ReferencesAndLinks": [
+    "List of papers or websites"
+  ],
+  "License": "CC0",
+  "DatasetType": "study"
+}

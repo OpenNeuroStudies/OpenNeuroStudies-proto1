@@ -1,0 +1,17 @@
+{
+  "Name": "Parallel Adaptation of Symbols, Quantities, and Physical Size",
+  "License": "CCO",
+  "Authors": [
+    "H. Moriah Sokolowski",
+    "Zachary Hawes",
+    "Lien Peters",
+    "Daniel Ansari"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "10.18112/openneuro.ds001848.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

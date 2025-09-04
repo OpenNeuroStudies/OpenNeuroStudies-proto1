@@ -1,0 +1,19 @@
+{
+  "Name": "Valence processing differs across stimulus modalities (Multi-echo)",
+  "License": "CC0",
+  "Authors": [
+    "Jelle R. Dalenberg",
+    "Liselore Weitkamp",
+    "Remco J. Renken",
+    "Gert J. ter Horst"
+  ],
+  "Acknowledgements": "This research was funded by Top Institute Food and Nutrition (TIFN, Project code SL001)",
+  "HowToAcknowledge": "",
+  "Funding": "TIFN SL001",
+  "ReferencesAndLinks": [
+    "Jelle R. Dalenberg, Liselore Weitkamp, Remco J. Renken, Gert J. ter Horst. Valence processing differs across stimulus modalities. NeuroImage. 2018. https://doi.org/10.1016/j.neuroimage.2018.08.059."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001491.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

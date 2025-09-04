@@ -1,0 +1,28 @@
+{
+  "Name": "planmemreplay",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "G. Elliott Wimmer",
+    "Yunzhe Liu",
+    "Daniel C. McNamee",
+    "Raymond J. Dolan"
+  ],
+  "Acknowledgements": "",
+  "Funding": [
+    "G.E.W. was supported by a fellowship from the Deutsche Forschungsgemeinschaft (DFG) and an MRC Career Development Award (MR/V032429/1)",
+    "R.D. is supported by Wellcome Trust Investigator Award 098362/ Z/12/Z.",
+    "Y.L. was supported by the Open Research Fund of the State Key Laboratory of Cognitive Neuroscience and Learning.",
+    "D.C.M. was supported by a Sir Henry Wellcome Trust Postdoctoral Research Fellowship Q: (110257/Z/15/Z).",
+    "The Wellcome Centre for Human Neuroimaging is supported by core funding from the Wellcome Trust (203147/Z/16/Z).",
+    "The Max Planck University College London Centre is a joint initiative supported by University College London and the Max Planck Society."
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/gewimmer-neuro/multistep-replay",
+    "https://osf.io/szjxp/",
+    "https://doi.org/10.1101/2021.11.08.467745 (update to PNAS)"
+  ],
+  "License": "CC0",
+  "HowToAcknowledge": "Please cite https://doi.org/10.1101/2021.11.08.467745 (update to PNAS)",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004398.v1.0.0",
+  "DatasetType": "study"
+}

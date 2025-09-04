@@ -1,0 +1,16 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Project Name",
+  "Authors": [
+    "Author 1",
+    "Author 2"
+  ],
+  "Funding": [
+    "Funding 1",
+    "Funding 2"
+  ],
+  "Missing": " ",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006209.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

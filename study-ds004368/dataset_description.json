@@ -1,0 +1,18 @@
+{
+  "Name": "Meta-rdk: Preprocessed EEG data",
+  "License": "CC0",
+  "Authors": [
+    "Martin Rouy",
+    "Matthieu Roger",
+    "Dorian Goueytes",
+    "Michael Pereira",
+    "Paul Roux",
+    "Nathan Faivre"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004368.v1.0.2",
+  "DatasetType": "study"
+}

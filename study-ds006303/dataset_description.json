@@ -1,0 +1,23 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Reduced Threat-Related Neural Efficiency: A Possible Biomarker for Pediatric Anxiety Disorder.",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Linke, Julia",
+    "Naim, Reut",
+    "Haller, Simone",
+    "Khosravi, Parmis",
+    "Scheinberg, Beck",
+    "Byrne, Meghan",
+    "Harrewijn, Anita",
+    "Leibenluft, Ellen",
+    "Brotman, Melissa",
+    "Winkler, Anderson",
+    "Pine, Daniel"
+  ],
+  "EthicsApprovals": [
+    "This research was conducted in compliance with the Declaration of Helsinki code of ethics and the standards established by the NIMH Institutional Review Board."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006303.v1.1.0"
+}

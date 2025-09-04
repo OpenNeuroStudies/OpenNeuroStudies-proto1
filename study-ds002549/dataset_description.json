@@ -1,0 +1,10 @@
+{
+  "Authors": [
+    "Laboratory for Computational Neurodiagnostics"
+  ],
+  "Name": "Protecting the Aging Brain (PAgB)",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002549.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

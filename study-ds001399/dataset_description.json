@@ -1,0 +1,27 @@
+{
+  "Name": "multibandACQtests",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Joset A. Etzel",
+    "Debbie Yee",
+    "Bidhan Lamichhane",
+    "Mitchell Jeffers",
+    "Elisa Di Rosa",
+    "Jenny Crawford",
+    "Hongyu An",
+    "Todd S. Braver"
+  ],
+  "Acknowledgements": "Abraham Snyder, Aaron Tanenbaum, Alexander Kizhner",
+  "Funding": [
+    "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
+    "This research was supported by NIH NINDS 1P30NS098577 to Hongyu An.",
+    "Image acquisition is partially supported by Mallinckrodt Institute of Radiology, Washington University in St. Louis."
+  ],
+  "ReferencesAndLinks": [
+    "http://ccpweb.wustl.edu/",
+    "https://www.mir.wustl.edu/research/research-support-facilities/center-for-clinical-imaging-research-ccir"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001399.v1.0.1",
+  "DatasetType": "study"
+}

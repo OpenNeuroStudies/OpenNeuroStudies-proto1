@@ -1,0 +1,27 @@
+{
+  "Name": "Population Receptive Fields in Developmental Prosopagnosics and Controls",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Daniel A. Stehr",
+    "Yiyuan Zhang",
+    "Anusha Patgiri",
+    "Alexis Kidder",
+    "Kendrick Kay",
+    "Bradley Duchaine"
+  ],
+  "HowToAcknowledge": "Stehr DA, Zhang Y, Patgiri A, Kidder A, Kay K, Duchaine BD. 2025. Developmental prosopagnosics have normal spatial integration in posterior ventral face-selective regions. In preparation",
+  "Funding": [
+    "National Institute of Health Grant R01EY034118 (K.K.)",
+    "National Institute of Health Grant 1R01EY030613-01A1 (B.D.)"
+  ],
+  "EthicsApprovals": [
+    "Procedures were approved by the Dartmouth College Committee for the Protection of Human Subjects (#23282) and were in accordance with the Declaration of Helsinki"
+  ],
+  "ReferencesAndLinks": [
+    "Paper: ",
+    "Code: "
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006472.v1.0.0"
+}

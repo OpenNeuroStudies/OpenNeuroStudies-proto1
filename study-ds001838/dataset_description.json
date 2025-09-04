@@ -1,0 +1,19 @@
+{
+  "Name": "Handedness and Symbolic Number Representation",
+  "License": "CCO",
+  "Authors": [
+    "Celia Goffin",
+    "H. Moriah Sokolowski",
+    "Michael Slipenkyj",
+    "Daniel Ansari"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite: Goffin, C., Sokolowski, H. M., Slipenkyj, M., & Ansari, D. (In-Principal Acceptance 2018). Does writing handedness affect neural representation of symbolic number? An fMRI Adaptation Study. Cortex.",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "Goffin, C., Sokolowski, H. M., Slipenkyj, M., & Ansari, D. (In-Principal Acceptance 2018). Does writing handedness affect neural representation of symbolic number? An fMRI Adaptation Study. Cortex. "
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds001838.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

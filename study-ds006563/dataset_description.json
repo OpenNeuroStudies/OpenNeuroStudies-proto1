@@ -1,0 +1,20 @@
+{
+  "Name": "Dimension-based attention modulates early visual processing",
+  "License": "CC0",
+  "Authors": [
+    "Klaus Gramann, Thomas T\u00f6llner, Hermann J. M\u00fcller"
+  ],
+  "ReferencesAndLinks": [
+    "Gramann, K., T\u00f6llner, T. and M\u00fcller, H.J. (2010), Dimension-based attention modulates early visual processing. Psychophysiology, 47: 968-978. https://doi.org/10.1111/j.1469-8986.2010.00998.x"
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "EEG-BIDS",
+      "Version": "10.2"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006563.v1.0.0",
+  "DatasetType": "study"
+}

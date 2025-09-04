@@ -1,0 +1,23 @@
+{
+  "Name": "ScenePerceptionAndParallelism",
+  "License": "CC0",
+  "Authors": [
+    "John Wilder",
+    "Morteza Rezanejad",
+    "Sven Dickinson",
+    "Kaleem Siddiqi",
+    "Allan Jepson",
+    "Dirk B. Walther"
+  ],
+  "Acknowledgements": "We thank the many participants who made this dataset possible",
+  "HowToAcknowledge": "Please cite our paper in PLOS One",
+  "Funding": [
+    "This work was supported by The Natural Sciences and Engineering Research Council of Canada/NSERC https://www.nserc-crsng.gc.ca/index_eng.asp (SD, KS, DBW), The Social Sciences and Humanities Research Council of Canada/SSHRC https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx (DBW), Samsung https://research.samsung.com/aicenter_toronto (SD, AJ), and a Sony Research Award https://www.sony.com/electronics/research-award-program (DBW).The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/mrezanejad/SalienceScoresForScene"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003950.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

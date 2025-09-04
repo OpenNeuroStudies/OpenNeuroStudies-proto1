@@ -1,0 +1,15 @@
+{
+  "Name": "Spatial Navigation Memory of Object Locations",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Haydn G. Herrema",
+    "Michael J. Kahana"
+  ],
+  "Funding": [
+    "DARPA RAM: N66001-14-2-4032"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, Mayo Clinic, Columbia University Hospital, Emory University Hospital, University of Texas Southwestern Medical Center, University of Washington Medical Center.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005522.v1.0.0"
+}

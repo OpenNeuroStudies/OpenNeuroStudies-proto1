@@ -1,0 +1,38 @@
+{
+  "Name": "somatomotor",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Fa-Hsuan Lin",
+    "Deirdre Foxe von Pechmann",
+    "Kaisu Lankinen",
+    "Seppo Ahlfors",
+    "Bruce Rosen",
+    "Jyrki Ahveninen",
+    "Matti H\u00e4m\u00e4l\u00e4inen",
+    "Tommi Raij"
+  ],
+  "Acknowledgements": "This research was supported by the U.S. National Institutes of Health grants P41RR014075 and P41EB030006 (BR). The funders had no role in the study design; data collection, analysis, and interpretation; writing of the manuscript; or the decision to submit the data for publication.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NIH P41RR014075, P41EB030006"
+  ],
+  "EthicsApprovals": [
+    "name: Massachusetts General Hospital",
+    "number: 1999P010946"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006035.v1.0.0",
+  "GeneratedBy": [
+    {
+      "Name": "mne",
+      "Version": "1.7.0"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.TBD"
+    }
+  ],
+  "License": "CC0"
+}

@@ -1,0 +1,15 @@
+{
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2022.07.05.498906v4.abstract"
+  ],
+  "Authors": [
+    "Edward Ester",
+    "Asal Nouri"
+  ],
+  "Name": "Internal selective attention is delayed by competition between endogenous and exogenous factors",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004519.v1.0.1",
+  "DatasetType": "study"
+}

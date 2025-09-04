@@ -1,0 +1,39 @@
+{
+  "Name": "Open-Access Multimodal Dataset of Pituitary Adenoma",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Martin \u010cern\u00fd",
+    "Martin M\u00e1jovsk\u00fd",
+    "Jan Valo\u0161ek",
+    "Vojt\u011bch Sedl\u00e1k",
+    "Raffaele Da Mutten",
+    "Jan Egger",
+    "Victor Staartjes",
+    "Gijs Luijten",
+    "Mateo Fari\u00f1a N\u00fa\u00f1ez",
+    "Lisle Faray de Paiva",
+    "Olivier Zanier",
+    "Michaela May",
+    "Ali Abbaslou",
+    "Shahriar Kashiri",
+    "Lea Mlad\u00e1",
+    "David Netuka"
+  ],
+  "Acknowledgements": "We acknowledge the support of the Czech Health Research Council (grant nr. AZV NW 24-08-00324), Charles University Cooperatio Program and Project of the Ministry of Defense of the Czech Republic MO 1012. This work was supported by the Donatio Universitatis Carolinae fund of the Charles University in Prague (research project \u201cPr\u00e1vn\u00ed podpora nov\u00fdch technologi\u00ed a inovac\u00ed v medic\u00edn\u011b\u201c). This work was supported by the REACT-EU project KITE (grant number: EFRE-0801977, Plattform f\u00fcr KI-Translation Essen, https://kite.ikim.nrw/). Jan Valo\u0161ek received funding from the European Union's Horizon Europe research and innovation programme under the Marie Sk\u0142odowska-Curie grant agreement No 101107932.",
+  "Funding": [
+    "Czech Health Research Council (grant nr. AZV NW 24-08-00324)",
+    "Charles University Cooperatio Program",
+    "Ministry of Defense of the Czech Republic Institutional Support MO 1012",
+    "Donatio Universitatis Carolinae fund of the Charles University in Prague",
+    "REACT-EU project KITE (grant number: EFRE-0801977, Plattform f\u00fcr KI-Translation Essen)",
+    "Marie Sk\u0142odowska-Curie grant agreement No 101107932"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006248.v1.0.0",
+  "License": "CC0",
+  "HowToAcknowledge": "If you use this dataset in your work, please cite:\n\n\u010cern\u00fd M, M\u00e1jovsk\u00fd M, Valo\u0161ek J, et al. Open-access multiparametric MRI dataset of pituitary adenoma and benchmark analysis of five segmentation models. Scientific Data. [Under review].",
+  "EthicsApprovals": [
+    "This study was approved by the institutional ethical committee of Military University Hospital Prague (ref. nr. 108/17-11/2022). Data were anonymized at the time of patient inclusion and treated according to the ethical standards of the Declaration of Helsinki. A written informed consent with data acquisition and publication was obtained from all participants after thoroughly informing the participant."
+  ],
+  "DatasetType": "study"
+}

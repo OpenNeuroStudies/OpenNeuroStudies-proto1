@@ -1,0 +1,38 @@
+{
+  "Name": "Stanford Emotional Narratives fMRI Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Marianne C. Reddan",
+    "Desmond Ong",
+    "Tor D. Wager",
+    "Jamil Zaki"
+  ],
+  "Acknowledgements": "the little guy",
+  "HowToAcknowledge": "Please cite Nat Comms paper Reddan et al 2025",
+  "Funding": [
+    "NIH R01 PI: Zaki"
+  ],
+  "EthicsApprovals": [
+    "The study and all procedures were approved by the Institutional Review Board of Stanford University."
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/cs3km/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006111.v1.0.0",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.9.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

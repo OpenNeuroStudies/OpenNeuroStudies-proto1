@@ -1,0 +1,34 @@
+{
+  "Name": "Loss of the lysosomal lipid flippase ATP10B leads to progressive dopaminergic neurodegeneration and parkinsonian motor deficits.",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Mar\u00eda Sanchiz-Calvo",
+    "Elena Coccia",
+    "Christopher Cawthorne",
+    "Gustavo Morrone Parfitt",
+    "Koen Van Laere",
+    "Teresa Torre-Muruzabal",
+    "Diego Cabezudo",
+    "George Tsafaras",
+    "Ana Cascalho",
+    "Chris Van den Haute",
+    "Peter Vangheluwe",
+    "Joel Blanchard",
+    "Eduard Bentea",
+    "Veerle Baekelandt"
+  ],
+  "Acknowledgements": "We thank Annelies Aertgeerts, Kristel Vennekens and Joris Van Asselberghs for their technical assistance and the Leuven Viral Vector Core (LVVC) for the rAAV vector production. We acknowledge the VIB Bioimaging Core for the use of the confocal microscope and technical assistance. The authors would like to thank the staff of the clinical radiopharmacy at UZ Leuven for supply of [18F]-FE-PE2I, and Ms. Kasia B\u0142a\u017cejczyk for technical support during some of the in vivo imaging assays.",
+  "HowToAcknowledge": "Please cite this paper : https://doi.org/10.1101/2024.07.09.602700",
+  "Funding": [
+    "This research was funded by the Aligning Science Across Parkinson\u2019s [ASAP-000458] through the Michael J. Fox Foundation for Parkinson\u2019s Research (MJFF) allocated to PV and VB, the Vlaio O&O project LeAD-UP, and the KU Leuven Parkinson fund. EB is a postdoctoral research fellow supported by Aligning Science Across Parkinson\u2019s [ASAP-000458]. TT-M, DC and GT were supported by doctoral fellowships from the Research Foundation-Flanders (FWO). CC was funded by FWO I000321N and FWO I000123N, and the PET-CT equipment was funded via an FWO medium infrastructure grant (AKUL15-30/G0H1216N) allocated to KVL. KVL was funded by a senior clinical researcher mandate of FWO."
+  ],
+  "EthicsApproval": [
+    "201_2022_001"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2024.07.09.602700v1.full"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005895.v1.0.0"
+}

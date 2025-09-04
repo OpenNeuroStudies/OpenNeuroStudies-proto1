@@ -1,0 +1,9 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "This dataset is made available under the Public Domain Dedication and License \nv1.0, whose full text can be found at \nhttp://www.opendatacommons.org/licenses/pddl/1.0/. \nWe hope that all users will follow the ODC Attribution/Share-Alike \nCommunity Norms (http://www.opendatacommons.org/norms/odc-by-sa/).",
+  "Name": "Test dataset for XCP software",
+  "ReferencesAndLinks": [
+    "Ciric, R., Wolf, D. H., Power, J. D., Roalf, D. R., Baum, G. L., Ruparel, K., ... & Gur, R. C. (2017). Benchmarking of participant-level confound regression strategies for the control of motion artifact in studies of functional connectivity. Neuroimage, 154, 174-187."
+  ],
+  "DatasetType": "study"
+}

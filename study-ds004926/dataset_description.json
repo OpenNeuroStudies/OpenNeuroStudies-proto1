@@ -1,0 +1,27 @@
+{
+  "Name": "Reliability of taskbased fMRI in the dorsal horn of the human spinal cord",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Alice Dabbagh",
+    "Ulrike Horn",
+    "Merve Kaptan",
+    "Toralf Mildner",
+    "Roland Mueller",
+    "Joeran Lepsien",
+    "Nikolaus Weiskopf",
+    "Jonathan C.W. Brooks",
+    "Juergen Finsterbusch",
+    "Falk Eippert"
+  ],
+  "Acknowledgements": "",
+  "Funding": [
+    "ERC StG: PredictingPain GA ID 758974"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2023.12.22.572825 "
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004926.v1.3.0",
+  "HowToAcknowledge": "Cite this paper: Dabbagh, A., Horn, U., Kaptan, M., Mildner, T., Mueller, R., Lepsien, J., Weiskopf, N., Brooks, J.C., Finsterbusch, J. and Eippert, F., (2023). Reliability of task-based fMRI in the dorsal horn of the human spinal cord. bioRxiv, pp.2023-12.\n\nConsider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds004926.'\n"
+}

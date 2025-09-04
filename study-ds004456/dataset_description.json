@@ -1,0 +1,15 @@
+{
+  "Name": "Bilingual speech production with functional localizers",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Agata Wolna",
+    "Zofia Wodniecka"
+  ],
+  "Funding": [
+    "The collection of this dataset was supported by the grant from National Science Centre Poland awarded to Zofia Wodniecka (OPUS 2017/27/B/HS6/00959)."
+  ],
+  "Acknowledgements": "We are grateful to all the paritcipants of this study as well as the members of Language and Bilingualism Lab who supported the data collection.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004456.v1.0.2"
+}

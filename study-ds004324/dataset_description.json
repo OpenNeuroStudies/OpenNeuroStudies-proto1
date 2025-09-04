@@ -1,0 +1,11 @@
+{
+  "Name": "ToonFaces",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Luis Alberto Barradas Chac\u00f3n",
+    "Selina C. Wriessnegger"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004324.v1.0.0",
+  "License": "CC0"
+}

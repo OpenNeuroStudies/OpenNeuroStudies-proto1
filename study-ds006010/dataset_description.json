@@ -1,0 +1,58 @@
+{
+  "Name": "A geometric shape regularity effect in the human brain: fMRI dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Mathias Sabl\u00e9-Meyer",
+    "Lucas Benjamin",
+    "Cassandra Potier Watkins",
+    "Chenxi He",
+    "Maxence Pajot",
+    "Th\u00e9o Morfoisse",
+    "Fosca Al Roumi",
+    "Stanislas Dehaene"
+  ],
+  "Acknowledgements": "We are grateful to Ghislaine Dehaene\u2010Lambertz, Leila Azizi, S\u00e9verine Becuwe and the NeuroSpin support teams for help in data acquisition, and Lorenzo Ciccione, Christophe Pallier, Minye Zhan, Alexandre Gramfort and the MNE team for support in data processing.",
+  "HowToAcknowledge": "Please cite our preprint at https://doi.org/10.1101/2024.03.13.584141 or the published version of this paper",
+  "Funding": [
+    "ERC-ADG-2015 NeuroSyntax to Stanislas Dehaene",
+    "CEA to Stanislas Dehaene",
+    "INSERM to Stanislas Dehaene",
+    "Coll\u00e8ge de France to Stanislas Dehaene",
+    "FYSSEN to Mathias Sabl\u00e9-Meyer"
+  ],
+  "EthicsApprovals": [
+    "CPP 100027 (children)",
+    "CPP 100053 (children)",
+    "CPP 100050 (adults)"
+  ],
+  "License": "CC0",
+  "GeneratedBy": [
+    {
+      "Name": "Mathias Sable-Meyer",
+      "Version": "29.y.o",
+      "Description": "Manually arranged the raw files from the scanner in a BIDS structure, with the help of some of nilearn and nibabel's functions, as well as help from S\u00e9verine Becuwe.",
+      "CodeURL": "https://s-m.ac/"
+    },
+    {
+      "Name": "bidsonym",
+      "Version": "0.0.4",
+      "Description": "Used to deface the data, see below for softwards it relied on",
+      "CodeURL": "https://mne.tools/mne-bids/"
+    },
+    {
+      "Name": "nobrainer",
+      "Version": "1.2.1",
+      "Description": "We relied on the `neuronets/brainy/0.1.0/brain-extraction-unet-128iso-model.h5` weights, no retraining, was called from bidsonym.",
+      "CodeURL": "https://github.com/neuronets/nobrainer"
+    },
+    {
+      "Name": "pydeface",
+      "Version": "2.0.2",
+      "Description": "With the default mask; was called from bidsonym.",
+      "CodeURL": "https://github.com/poldracklab/pydeface"
+    }
+  ],
+  "SourceDatasets": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006010.v1.0.1"
+}

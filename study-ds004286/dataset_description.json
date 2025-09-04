@@ -1,0 +1,23 @@
+{
+  "Name": "Multidimensional memory topography in the medial parietal cortex identified from neuroimaging of thousands of daily memory videos",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Wilma A. Bainbridge",
+    "Chris I. Baker"
+  ],
+  "HowToAcknowledge": "Please cite: Bainbridge, W. A., & Baker, C. I. (2022). Multidimensional memory topography in the medial parietal cortex identified from neuroimaging of thousands of daily memory videos. Nature Communications, 13, 6508.",
+  "ReferencesAndLinks": [
+    "Open Science Framework link: https://osf.io/exb7m/",
+    "Paper link: http://rdcu.be/cYD8Z"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004286.v1.0.0",
+  "Funding": [
+    "Intramural Research Program of the National Institutes of Health (ZIA-MH-002909)"
+  ],
+  "EthicsApprovals": [
+    "National Institute of Mental Health Clinical Study Protocol 93-M-1070 (NCT00001360)"
+  ],
+  "Acknowledgements": "Thank you to Cesar Kuriyama of the app 1 Second Everyday to allow us to use their app for this study.",
+  "DatasetType": "study"
+}

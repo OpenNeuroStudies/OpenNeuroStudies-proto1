@@ -1,0 +1,35 @@
+{
+  "Name": "7 Tesla MRI of the ex vivo human brain at 100 micron resolution",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Edlow BL",
+    "Mareyam A",
+    "Horn A",
+    "Polimeni JR",
+    "Witzel T",
+    "Tisdall MD",
+    "Augustinack J",
+    "Stockmann JP",
+    "Diamond BR",
+    "Stevens A",
+    "Tirrell LS",
+    "Folkerth RD",
+    "Wald LL",
+    "Fischl B",
+    "van der Kouwe A"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002179.v1.1.0",
+  "License": "CC0",
+  "HowToAcknowledge": "Edlow BL, Mareyam A, Horn A, et al. Data from: 7 Tesla MRI of the ex vivo human brain at 100 micron resolution. OpenNeuro https://openneuro.org/datasets/ds002179, doi:10.18112/openneuro.ds002179.v1.1.0 (2019).\n",
+  "Acknowledgements": "We thank Michelle Siciliano and Terrence Ott for assistance in obtaining and processing the brain specimen; Simon Sigalovsky for assistance with coil construction; Gunjan Madan for assistance with coil testing and evaluation; L. Daniel Bridgers for constructing the brain container and coil array housing; Andrew Hoopes for assistance with creation of visual media; and Paul Raines for expert technical support in implementing the online Biolucida viewer for this dataset.  \nThis work was supported by the National Institutes of Health (NIH) National Institute of Neurological Disorders and Stroke (K23-NS094538, R01-NS052585, R21-NS072652, R01-NS070963, R01-NS083534, U01-NS086625, R21-NS109627), National Institute for Biomedical Imaging and Bioengineering (P41-EB015896, R01-EB006758, R21-EB018907, R01-EB019956, R01-EB023281, R00-EB021349), National Institute on Aging (R01-AG057672, R01-AG022381, R01-AG008122, R01-AG016495, R01-AG008122, U01-AG006781, R21-AG046657, P41-RR014075, P50-AG005136, R56-AG064027), National Center for Alternative Medicine (RC1-AT005728), Eunice Kennedy Shriver National Institute of Child Health and Human Development (K01-HD074651, R01-HD071664, R00-HD074649), NIH Director\u2019s Office (DP2HD101400) and the Centers for Disease Control and Prevention (R49-CE001171).  Support for this research was also provided by the BRAIN Initiative Cell Census Network (U01-MH117023) and the NIH Blueprint for Neuroscience Research (U01-MH093765) as part of the multi-institutional Human Connectome Project.  This research utilized resources provided by the National Center for Research Resources (U24-RR021382) and by NIH shared instrumentation grants S10-RR023401, S10-RR019307, and S10-RR023043.  Additional support was provided by the James S. McDonnell Foundation, Rappaport Foundation, Tiny Blue Dot Foundation, and the German Research Foundation (Emmy Noether Grant 410169619).\n",
+  "ReferencesAndLinks": [
+    "https://datadryad.org/resource/doi:10.5061/dryad.119f80q",
+    "https://www.youtube.com/playlist?list=PLlL7CEMX5bxzl1TqkJRK3pMV4Ax6By4bN",
+    "https://www.lead-dbs.org/",
+    "https://github.com/leaddbs/leaddbs",
+    "https://surfer.nmr.mgh.harvard.edu/fswiki",
+    "https://github.com/freesurfer/freesurfer",
+    "https://histopath.nmr.mgh.harvard.edu/100micronMRI"
+  ],
+  "DatasetType": "study"
+}

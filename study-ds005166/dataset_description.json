@@ -1,0 +1,21 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "A framework for leveraging technology to probe mechanism: A proof of concept study of inhibitory control",
+  "DatasetType": "study",
+  "Authors": [
+    "Anonymous"
+  ],
+  "License": "CC0",
+  "CuratedBy": [
+    "Simone Haller",
+    "Arshitha Basavaraj"
+  ],
+  "Acknowledgments": "This research was supported by the NIMH Intramural Research Program (ZIAMH002781), conducted under NIH Clinical Study Protocols 15-M-0182 (ClinicalTrials.gov identifier: NCT02531893), 02-M-0021 (NCT00025935), 00-M-0198 (NCT00006177), and 01-M-0192 (NCT00018057). We thank Arshitha Basavaraj from the NIMH data-sharing team for curating the data included in this work.",
+  "Funding": [
+    "ZIAMH002781"
+  ],
+  "EthicsApprovals": [
+    "NIH Institutional Review Board (NIH Clinical Study Protocols 15-M-0182 (ClinicalTrials.gov identifier: NCT02531893), 02-M-0021 (NCT00025935), 00-M-0198 (NCT00006177), and 01-M-0192 (NCT00018057)DatasetDOI"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005166.v1.0.0"
+}

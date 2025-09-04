@@ -1,0 +1,17 @@
+{
+  "Name": "singleFingerRSA",
+  "License": "Creative Commons CC0 1.0",
+  "Authors": [
+    "Patrick Beukema",
+    "Timothy D. Verstynen"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite the following manuscript Patrick Beukema, J\u00f6rn Diedrichsen, Timothy Verstynen. bioRxiv 255794; doi: https://doi.org/10.1101/255794 in addition to this dataset",
+  "Funding": [
+    "NSF Career Award 1351748, Pennsylvania Department of Health Formula Award SAP4100062201, Multimodal Neuroimaging Training Program NIH T90 DA022761"
+  ],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

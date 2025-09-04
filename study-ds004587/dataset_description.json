@@ -1,0 +1,14 @@
+{
+  "Name": "IllusionGameEEG_data",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Makowski, Dominique",
+    "Te, An-Shu",
+    "Jiayi, Zhang",
+    "Kirk, Stephanie",
+    "Ngoi, Zi Liang"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004587.v1.0.0",
+  "License": "CC0"
+}

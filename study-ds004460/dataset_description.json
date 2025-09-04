@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "We gratefully acknowledge the help of Jonna J\u00fcrs and Yiru Chen with the data acquisition and pre-processing.",
+  "Authors": [
+    "Gramann, K.",
+    "Hohlefeld, F.U.",
+    "Gehrke, L.",
+    "Klug, M"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004460.v1.1.0",
+  "DatasetType": "study",
+  "Funding": [
+    "the German Research Foundation (DFG) Grant No. GR 2627/8-1, Open Access funding enabled and organized by Projekt DEAL."
+  ],
+  "License": "CC0",
+  "Name": "EEG and motion capture data set for a full-body/joystick rotation task",
+  "ReferencesAndLinks": [
+    "Human cortical dynamics during full-body heading changes",
+    "https://doi.org/10.1038/s41598-021-97749-8"
+  ],
+  "EthicsApprovals": [
+    "The experimental procedures were approved by the local ethics committee (Technische Universit\u00e4t Berlin, Germany) and the research was performed in accordance with the ethics guidelines. The study was conducted in accordance to the Declaration of Helsinki and all participants signed a written informed consent."
+  ],
+  "HowToAcknowledge": "Please cite as \"Gramann, K., Hohlefeld, F. U., Gehrke, L., & Klug, M. (2021). Human cortical dynamics during full-body heading changes. Scientific Reports, 11(1), 18186\""
+}

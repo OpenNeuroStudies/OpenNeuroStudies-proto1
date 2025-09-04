@@ -1,0 +1,16 @@
+{
+  "Name": "Analogical reasoning sequential design fMRI",
+  "BIDSVersion": "1.10.1",
+  "DatsetType": "raw",
+  "Authors": [
+    "Jeffrey N. Chiang",
+    "Yujia Peng",
+    "Hongjing Lu",
+    "Keith J. Holyoak",
+    "Martin M. Monti"
+  ],
+  "HowToAcknowledge": "Please cite Chiang et al., 2020. https://doi.org/10.1162/jocn_a_01620",
+  "DatasetDOI": "10.18112/openneuro.ds003094.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

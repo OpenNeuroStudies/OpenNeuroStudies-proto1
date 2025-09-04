@@ -1,0 +1,49 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Cross-Sectional Multidomain Lexical Processing",
+  "ReferencesAndLinks": [
+    "Wang JX, Bartolotti J, Amaral LAN & Booth JR (2013). Changes in task related functional connectivity across multiple spatial scales are related to reading performance. PLOS One, 8, e59204. (PMCID: PMC3609744)",
+    "Burman DD, Minas T, Bolger DJ & Booth JR (2013). Age, sex, and verbal abilities affect location of linguistic connectivity in ventral visual pathway. Brain and Language, 124, 184-193. (PMCID: PMC3572208)",
+    "McNorgan C, Alvarez A, Bhullar A, Gayda J & Booth JR (2011). The prediction of reading skill several years later depends on age and brain region: Implication for developmental models of reading. Journal of Neuroscience, 31, 9641-9648. (PMCID: PMC3147303)",
+    "Liu L, Vira A, Friedman E, Minas J, Bolger DJ, Bitan T & Booth JR (2010). Children with reading disability show brain differences in effective connectivity for visual, but not auditory, word comprehension. PLOS One, 5, e13492. (PMCID: PMC2963599)",
+    "Bitan T, Lifshitz A, Breznitz Z & Booth JR (2010). Bidirectional connectivity between hemispheres occurs at multiple levels in language processing, but depends on sex. Journal of Neuroscience, 30, 11576-11585. (PMCID: PMC2943218)",
+    "Desroches AS, Cone NE, Bolger DJ, Bitan T, Burman DD & Booth JR (2010). Children with reading difficulties show differences in brain regions associated with orthographic processing during spoken language processing. Brain Research, 1356, 73-84. (PMCID: PMC2942963)",
+    "Cao F, Khalid K, Zaveri R, Bolger DJ, Bitan T & Booth JR (2010). Neural correlates of priming effects in children during spoken word processing with orthographic demands. Brain and Language, 114, 80-89. (PMCID: PMC2891176)",
+    "Bitan T, Cheon J, Lu D, Burman DD & Booth JR (2009). Developmental increase in top-down and bottom-up processing in a phonological task: An effective connectivity, fMRI study. Journal of Cognitive Neuroscience, 21, 1135-1145. (PMCID: PMC2821219)",
+    "Bolger DJ, Hornickel J, Cone NE, Burman DD & Booth JR (2008). Neural correlates of orthographic and phonological consistency effects in children. Human Brain Mapping, 29, 1416-1429. (PMCID: PMC2667127)",
+    "Bolger DJ, Minas JE, Burman DD & Booth JR (2008). Differential effects of orthographic and phonological consistency in cortex for children with and without reading disability. Neuropsychologia, 46, 3210-3224. (PMCID: PMC2658621)",
+    "Cao F, Bitan T & Booth JR (2008). Effective connectivity in children with dyslexia during phonological processing. Brain and Language, 107, 91-101. (PMCID: PMC2676797)",
+    "Cone NE, Burman DD, Bitan T & Booth JR (2008). Developmental changes in brain regions involved in phonological and orthographic processing during spoken language processing. Neuroimage, 48, 623-635. (PMCID: PMC2443702)",
+    "Burman DD, Bitan T, & Booth JR (2008). Sex differences in neural processing of language among children. Neuropsychologia, 46, 1349-1362. (PMCID: PMC2478638)",
+    "Booth JR, Mehdiratta N, Burman DD & Bitan T (2008). Developmental increases in effective connectivity to brain regions involved in phonological processing during tasks with orthographic demands. Brain Research, 1189, 78-89. (PMCID: PMC2692511)",
+    "Bitan T, Burman DD, Chou TL, Lu D, Cone NE, Cao F, Bigio JD & Booth JR (2007). The interaction between orthographic and phonological information in children: an fMRI study. Human Brain Mapping, 28, 880-891. (PMCID: PMC2692515)",
+    "Booth JR, Cho S, Burman DD & Bitan T (2007). The neural correlates of mapping from phonology to orthography in children performing an auditory spelling task. Developmental Science, 10, 441-451. (PMCID: PMC2638504)",
+    "Bitan T, Cheon J, Lu D, Burman DD, Gitelman D, Mesulam MM & Booth JR (2007). Developmental changes in activation and connectivity in phonological processing. Neuroimage, 38, 564-575. (PMCID: PMC2638503)",
+    "Booth JR, Bebko G, Burman DD & Bitan T (2007). Children with reading disorder show modality independent brain abnormalities during semantic tasks. Neuropsychologia, 45, 775-783. (PMCID: PMC2710998)",
+    "Chou TL, Booth JR, Bitan T, Burman DD, Bigio JD, Cone NE, Lu D & Cao, F (2006). Developmental and skill effects on the neural correlates of semantic processing to visually presented words. Human Brain Mapping, 27, 915-924. (PMCID: PMC2615534)",
+    "Cao F, Bitan T, Chou TL, Burman DD & Booth JR (2006). Deficient orthographic and phonological representations in developmental dyslexics revealed by brain activation patterns. Journal of Child Psychology and Psychiatry, 40, 1041-1050. (PMCID: PMC2617739)",
+    "Chou TL, Booth JR, Burman DD, Bitan T, Bigio JD, Lu D & Cone NE (2006). Developmental changes in the neural correlates of semantic processing. Neuroimage, 29, 11-41-1149. (PCMID: PMC1391972)"
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset: \n\nLytle MN, Bitan T & Booth JR (2019). Cross-sectional multidomain lexical processing. OpenNeuro. 10.18112/openneuro.ds002236\n\nLytle MN, Bitan T & Booth JR (2020). A neuroimaging dataset on orthographic, phonological and semantic word processing in school-aged children. Data in Brief, 28, 105091.\n",
+  "Funding": [
+    "HD093547 from the National Institute of Child Health and Human Development awarded to James R. Booth",
+    "HD042049 from the National Institute of Child Health and Human Development awarded to James R. Booth"
+  ],
+  "Authors": [
+    "Jordan Bigio",
+    "Tali Bitan",
+    "Douglas Bolger",
+    "Douglas Burman",
+    "Fan Cao",
+    "Tai-Li Chou",
+    "Nadia Cone",
+    "Jessica Gayda",
+    "Dong Lu",
+    "Marisa Lytle",
+    "Jenni Minas",
+    "James R. Booth"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds002236.v1.1.1",
+  "DatasetType": "study"
+}

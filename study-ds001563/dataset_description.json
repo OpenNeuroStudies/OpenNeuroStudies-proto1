@@ -1,0 +1,14 @@
+{
+  "Name": "CMRR Workshop ",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Renzo Huber"
+  ],
+  "Acknowledgements": "These data are acquired in collaboration and with great input from the following people:\nBenedikt A Poser, Benedikt.Poser@maastrichtuniversity.nl, MBIC, Maastricht University, Netherlands,\nPeter A Bandettini, Bandettini@nih.gov, NIMH, Bethesda, MD, United States.\nSean Marrett, marrett@nih.gov, NIMH, Bethesda, MD, United States.",
+  "License": "CC0",
+  "DatasetDOI": "mockDOI",
+  "Funding": [
+    "Laurentius Huber is funded form the NWO VENI project 016.Veni.198.032."
+  ],
+  "DatasetType": "study"
+}

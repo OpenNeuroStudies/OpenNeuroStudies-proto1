@@ -1,0 +1,29 @@
+{
+  "Name": "ANT: Healthy aging and Parkinson's disease",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Trevor K. M. Day",
+    "Tara M. Madyastha",
+    "Peter Boord",
+    "Mary K. Askren",
+    "Nicholas J. Wapstra",
+    "Thomas J. Montine",
+    "Thomas J. Grabowski"
+  ],
+  "HowToAcknowledge": "Please cite the data paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7217223/",
+  "Funding": [
+    "NIH RC4 NS073008",
+    "NIH P50 NS062684",
+    "Ruth L. Kirschstein National Research Service Award T32AG0000258"
+  ],
+  "ReferencesAndLinks": [
+    "doi.org/10.1016/j.nicl.2016.11.004",
+    "doi.org/10.1089/brain.2014.0248"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds001907.v3.2.0",
+  "EthicsApprovals": [
+    "University of Washington Institutional Review Board (#41304)"
+  ],
+  "DatasetType": "study"
+}

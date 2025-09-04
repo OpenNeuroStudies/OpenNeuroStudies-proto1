@@ -1,0 +1,33 @@
+{
+  "Name": "Aphasia Recovery Cohort (ARC) Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Makayla Gibson",
+    "Roger Newman-Norlund",
+    "Leonardo Bonilha",
+    "Julius Fridriksson",
+    "Gregory Hickok",
+    "Argye E. Hillis",
+    "Dirk-Bart den Ouden",
+    "Chris Rorden"
+  ],
+  "Acknowledgements": "Special thanks to the C-STAR participants, faculty and staff, as well as our collaborators",
+  "Funding": [
+    "National Institute of Health Grant P50DC014664",
+    "National Institute of Health Grant U01DC011739",
+    "National Institute of Health Grant R01DC008355",
+    "National Institute of Health Grant RF1MH133701"
+  ],
+  "EthicsApprovals": [
+    "All data acquired from studies that were approved by the Institutional Review Board at the University of South Carolina. Because final dataset is fully anonymised, it meets exemption criteria."
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Manual"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004884.v1.0.2",
+  "License": "CC0",
+  "HowToAcknowledge": "Gibson M, Newman-Norlund R, Bonilha L, Fridriksson J, Hickok G, Hillis AE, den Ouden DB, Rorden C. The Aphasia Recovery Cohort, an open-source chronic stroke repository. Sci Data. 2024 Sep 9;11(1):981. doi: 10.1038/s41597-024-03819-7. PMID: 39251640.\n\nPMID: 39251640  \n\nDOI: 10.1038/s41597-024-03819-7"
+}

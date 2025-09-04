@@ -1,0 +1,21 @@
+{
+  "Name": "Cognitive Control Theoretic Mechanisms of Real-time fMRI-Guided Neuromodulation (CTM)",
+  "Authors": [
+    "Kevin Fialkowski",
+    "Ivan Messias",
+    "Keith A. Bush"
+  ],
+  "Funding": [
+    "National Science Foundation, BCS-1735820"
+  ],
+  "EthicsApprovals": [
+    "UAMS IRB #206667"
+  ],
+  "BIDSVersion": "1.10.1",
+  "ReferencesAndLinks": [
+    "Open Science Framework Project: https://osf.io/jwv6c/"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003831.v1.0.0",
+  "DatasetType": "study"
+}

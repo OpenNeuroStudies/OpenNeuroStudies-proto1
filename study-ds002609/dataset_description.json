@@ -1,0 +1,23 @@
+{
+  "Name": "RPN-signature_Study2",
+  "License": "CC0",
+  "Authors": [
+    "Tamas Spisak",
+    "Balint Kincses",
+    "Frederik Schlitt",
+    "Matthias Zunhammer",
+    "Tobias Schmidt-Wilcke",
+    "Zsigmond T. Kincses",
+    "Ulrike Bingel"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [],
+  "ReferencesAndLinks": [
+    "https://spisakt.github.io/RPN-signature/"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002609.v1.0.3",
+  "BIDSVersion": "1.10.1",
+  "ReferensesAndLinks": "",
+  "DatasetType": "study"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Yan-Han Chang",
+    "Hsi-An Chen",
+    "Min-Jiun Tsai",
+    "Chun-Lung Tseng",
+    "Ching-Huei Lo",
+    "Kuan-Chih Huang",
+    "Chun-Shu Wei"
+  ],
+  "Acknowledgements": "This work was supported by the National Science and Technology Council (NSTC) under Contracts 109-2222-E-009-006-MY3.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005815.v2.0.1",
+  "GeneratedBy": [
+    {
+      "Name": "N/A",
+      "Version": "N/A",
+      "CodeURL": ""
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "N/A",
+      "Version": "N/A"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Smiley",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Christos Chatzichristos",
+    "Manuel Morante",
+    "Nikos Andreadis",
+    "Eleftherios Kofidis",
+    "Yiannis Kopsinis",
+    "Sergios Theodoridis"
+  ],
+  "Funding": [
+    "European Union's H2020 Framework Programme (H2020-MSCA-ITN-2014) under grant agreement No.~642685 MacSeNet."
+  ],
+  "ReferencesAndLinks": [
+    "Emojis influence autobiographical memory retrieval from reading words: An fMRI-based study, Plos One, 2020"
+  ],
+  "HowToAcknowledge": "If you use these data, please cite the appropriate manuscripts.",
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds002711.v1.1.0",
+  "Acknowledgements": "The authors would like to thank Dr. M. Papadatou-Pastou, National and Kapodistrian University of Athens, Greece, for providing the results of the statistical analysis for the selection of the words used in the paper, Prof. A. Protopapas, University of Oslo, Norway, for his critical comments on this paper, the personnel of the imaging department of Bioiatriki S.A. at Ampelokipoi, Greece, and all the volunteers who have participated in this study. Last but not least, the authors would like to thank the anonymous reviewers and the editor, whose comments helped improve the quality of the final manuscript.",
+  "DatasetType": "study"
+}

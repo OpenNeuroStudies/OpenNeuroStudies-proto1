@@ -1,0 +1,16 @@
+{
+  "Name": "Neural pattern change during encoding of a narrative predicts retrospective duration estimates",
+  "License": "",
+  "Authors": [
+    "Lositsky, O., Chen, J., Toker, D., Honey, C.J., Poppenk, J.L., Hasson, U., & Norman, K.A."
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": "",
+  "ReferencesAndLinks": [
+    "dataset https://elifesciences.org/articles/1607"
+  ],
+  "DatasetDOI": "",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

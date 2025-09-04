@@ -1,0 +1,26 @@
+{
+  "Name": "Intraoperative EEG dataset during medianus-tibialis stimulation with 8 different rates",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Giorgio Selmin",
+    "Vasileios Dimakopoulos",
+    "Niklaus Krayenb\u00fchl",
+    "Luca Regli",
+    "Johannes Sarnthein"
+  ],
+  "Acknowledgements": "We acknowledge a grant awarded by the Swiss National Science Foundation(funded by the SNSF 204651 to J.S.) and a scholarship awarded by the Alexander S. Onassis Public Benefit Foundation (to V.D.). The funders had no role in the design or analysis of the study. We thank two anonymous reviewers for their constructive comments on earlier versions of the manuscript.",
+  "HowToAcknowledge": "If you use this dataset please cite this paper: Dimakopoulos V, Selmin G, Regli L, Sarnthein J, Optimization of signal-to-noise ratio in short-duration SEP recordings by variation of stimulation rate, Clinical Neurophysiology, 2023, ISSN 1388-2457, https://doi.org/10.1016/j.clinph.2023.03.008.",
+  "Funding": [
+    "Swiss National Science Foundation, SNSF 204651",
+    "Alexander S. Onassis Public Benefit Foundation Scholarship"
+  ],
+  "EthicsApprovals": [
+    "2019-01977"
+  ],
+  "ReferencesAndLinks": [
+    "https://hfozuri.ch"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004381.v1.0.2"
+}

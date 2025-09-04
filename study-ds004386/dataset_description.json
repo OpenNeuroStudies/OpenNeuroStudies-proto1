@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "fc-reliability-spinalcord",
+  "Authors": [
+    "Merve Kaptan",
+    "Falk Eippert"
+  ],
+  "HowToAcknowledge": "Cite this paper:  https://doi.org/10.1016/j.neuroimage.2023.120152. Consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is ds004386.'",
+  "ReferencesAndLinks": [
+    "Kaptan, M., Horn, U., Vannesjo, S. J., Mildner, T., Weiskopf, N., Finsterbusch, J., Brooks, J. C. W., & Eippert, F. (2023). Reliability of resting-state functional connectivity in the human spinal cord: Assessing the impact of distinct noise sources. NeuroImage, 120152. https://doi.org/10.1016/j.neuroimage.2023.120152"
+  ],
+  "Funding": [
+    "This project has received funding from the Max Planck Society as well as the European Research Council under the European Union\u2019s Horizon 2020 research and innovation programme (grant agreement No 758974)."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004386.v1.1.2",
+  "DatasetType": "study"
+}

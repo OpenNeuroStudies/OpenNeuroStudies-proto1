@@ -1,0 +1,19 @@
+{
+  "Name": "Adult language learners",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kshipra Gurunandan",
+    "Manuel Carreiras",
+    "Pedro M. Paz-Alonso"
+  ],
+  "HowToAcknowledge": "Please cite one of these papers: https://doi.org/10.1016/j.neuroimage.2019.116040\nhttps://doi.org/10.1523/JNEUROSCI.0851-20.2020",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2019.116040",
+    "https://doi.org/10.1523/JNEUROSCI.0851-20.2020",
+    "Gurunandan, K., Carreiras, M., & Paz-Alonso, P.M. (2019). Functional plasticity associated with language learning in adults. NeuroImage, 201. Doi:10.1016/j.neuroimage.2019.116040",
+    "Gurunandan, K., Arnaez-Telleria, J., Carreiras, M., & Paz-Alonso, P.M. (2020). Converging evidence for differential specialization and plasticity of language systems. Journal of Neuroscience, 40(50), 9715-9724. Doi:10.1523/JNEUROSCI.0851-20.2020"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003542.v1.0.0",
+  "License": "CC0"
+}

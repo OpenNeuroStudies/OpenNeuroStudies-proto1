@@ -1,0 +1,22 @@
+{
+  "Name": "multibandCFtests",
+  "License": "CC0",
+  "Authors": [
+    "Joset A. Etzel",
+    "Todd S. Braver"
+  ],
+  "Acknowledgements": "Maria Gehred, Alexander Kizhner",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "This research was supported by NIH R37MH066078 and NIH R21AG058206 to Todd Braver.",
+    "Image acquisition is partially supported by Mallinckrodt Institute of Radiology, Washington University in St. Louis."
+  ],
+  "ReferencesAndLinks": [
+    "http://ccpweb.wustl.edu/",
+    "https://pages.wustl.edu/dualmechanisms",
+    "https://mvpa.blogspot.com/2017/09/yet-more-with-respiration-and-motion.html"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002737.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

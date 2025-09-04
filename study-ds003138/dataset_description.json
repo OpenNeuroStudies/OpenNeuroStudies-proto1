@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "",
+  "Authors": [
+    "...",
+    "Karl Koschutnig",
+    "Bernhard Weber",
+    "Andreas Fink"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003138.v1.0.1",
+  "Funding": [
+    "No Funding"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Name": "Tidying Up White Matter: Neuroplastic Transformations in Sensorimotor Tracts following Slackline Skill Acquisition",
+  "ReferencesAndLinks": [
+    "List of papers or websites",
+    "https://psychologie.uni-graz.at/de/mri-lab/"
+  ],
+  "EthicsApprovals": [
+    "Yes"
+  ],
+  "DatasetType": "study"
+}

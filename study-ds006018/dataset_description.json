@@ -1,0 +1,32 @@
+{
+  "Name": "Cognitive Electrophysiology in Socioeconomic Context in Adulthood: An EEG dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Elif Isbell",
+    "Amanda N. Peters",
+    "Dylan M. Richardson",
+    "Nancy E. R. De Le\u00f3n"
+  ],
+  "Acknowledgements": "We thank Isbell Development, Experiences, and Achievement (IDEA) lab research assistants for their contributions to data collection, and the adults who participated in the study.",
+  "Funding": [
+    "Research start-up funds awarded to Elif Isbell by University of California Merced."
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the University of California Institutional Review Board."
+  ],
+  "ReferencesAndLinks": [
+    "Isbell, E., De Le\u00f3n, N. E. R., & Richardson, D. M. (2024). Childhood family socioeconomic status is linked to adult brain electrophysiology. PloS One, 19(8), e0307406.",
+    "Kappenman, E. S., Farrens, J. L., Zhang, W., Stewart, A. X., & Luck, S. J. (2021). ERP CORE: An open resource for human event-related potential research. NeuroImage, 225, 117465."
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "MATLAB",
+      "Version": "R2024a",
+      "Description": "Custom-made scripts used to create the dataset in BIDS format."
+    }
+  ],
+  "SourceDatasets": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006018.v1.2.2"
+}

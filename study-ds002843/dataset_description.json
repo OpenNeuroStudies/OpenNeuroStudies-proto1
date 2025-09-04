@@ -1,0 +1,15 @@
+{
+  "Name": "Cognitive Training",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sangil Lee",
+    "Joseph Kable"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.2832-16.2017",
+    "Kable, J. W., Caulfield, M. K., Falcone, M., McConnell, M., Bernardo, L., Parthasarathi, T., Cooper, N., Ashare, R., Audrain-McGovern, J., Hornik, R., Diefenback, P., Lee, F., and Lerman, C. (2017). No effect of commercial cognitive training on brain activity, choice behavior or cognitive performance. Journal of Neuroscience, 37(31), 7390-7402."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002843.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

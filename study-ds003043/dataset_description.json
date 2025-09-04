@@ -1,0 +1,16 @@
+{
+  "Name": "Dichoptic Magno/Parvo",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Karen T. Navarro",
+    "Cheryl A. Olman",
+    "Kimberly B. Weldon"
+  ],
+  "Funding": [
+    "NIH R01 MH111447",
+    "NIH R21 EY025371"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003043.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,37 @@
+{
+  "Name": "An fMRI Dataset for Appetite Neural Correlates in People Living with Motor Neuron Disease",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jeryn Chang",
+    "JingLei Lv",
+    "Christine C Guo",
+    "Diana Zanfirache",
+    "Saskia Bollmann",
+    "Kelly Garner",
+    "Pamela A McCombe",
+    "Robert D Henderson",
+    "Thomas B Shaw",
+    "Frederik J Steyn",
+    "Shyuan T Ngo"
+  ],
+  "Acknowledgements": "We thank all participants for partaking in this study. We thank Dr Fleur Garton for advice on the statistical analysis and selection of visual stimuli. We also thank the radiology and professional staff at the Herston Imaging Research Facility, UQ Centre for Clinical Research, and UQ Research Computing Centre.",
+  "Funding": [
+    "Funding for EATT4MND was provided by Wesley Medical Research (the Wesley Hospital, Brisbane) and The Faculty of Medicine (The University of Queensland, Brisbane).",
+    "JC is supported by the UQ Graduate School Scholarship (RTP) and the MND Research Australia PhD Scholarship Top-up Grant.",
+    "STN is supported by a FightMND Mid-Career Fellowship.",
+    "TS is supported by a Motor Neurone Disease Research Australia (MNDRA) Postdoctoral Research Fellowship (PDF2112)."
+  ],
+  "EthicsApprovals": [
+    "The Royal Brisbane and Womens Hospital (RBWH, HREC/17/QRBW/616)",
+    "Uniting Care Health Human Research Ethics (Ref no. 1801) Committees."
+  ],
+  "DatasetLinks": {
+    "fMRIPrep": "derivatives/fmriprep-v23.1.4/",
+    "PhysIO": "derivatives/physio-R2022a-v8.1.0",
+    "SPM12": "derivatives/spm12-v7771"
+  },
+  "DatasetType": "study",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005874.v1.0.1",
+  "HowToAcknowledge": "OPTIONAL. Instructions how researchers using this dataset should acknowledge the original authors. This field can also be used to define a publication that should be cited in publications that use the dataset"
+}

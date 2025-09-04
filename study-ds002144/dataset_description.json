@@ -1,0 +1,14 @@
+{
+  "Name": "Stat Episodic",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sherman, B.",
+    "Turk-Browne, N.B."
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002144.v2.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

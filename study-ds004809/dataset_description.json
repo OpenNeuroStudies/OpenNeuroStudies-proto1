@@ -1,0 +1,17 @@
+{
+  "Name": "Categorized Free Recall: Delayed Free Recall of Word Lists Organized by Semantic Categories",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Haydn G. Herrema",
+    "Michael J. Kahana"
+  ],
+  "Acknowledgements": "We thank our collaborators who have helped in the collection of this data: Hospital of the University of Pennsylvania, Thomas Jefferson University Hospital, Dartmouth-Hitchcock Medical Center, Mayo Clinic, NIH NINDS, Columbia University Hospital, Emory University Hospital, University of Texas Southwestern Medical Center, University of Texas Health Science Center at San Antonio, University of Colorado Anschutz Medical Campus.",
+  "License": "CC0",
+  "Funding": [
+    "DARPA RAM: N66001-14-2-4032",
+    "NIH: R01-NS-106611",
+    "NIH: U01-NS-113198"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004809.v2.2.0"
+}

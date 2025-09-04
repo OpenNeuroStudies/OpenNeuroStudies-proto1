@@ -1,0 +1,8 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "data4openNeuroBOOST",
+  "Authors": [
+    "Nadav Aridan"
+  ],
+  "DatasetType": "study"
+}

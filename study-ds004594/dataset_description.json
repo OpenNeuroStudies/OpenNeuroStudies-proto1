@@ -1,0 +1,25 @@
+{
+  "Name": "Brain surface fingerprints",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Marc N. Coutanche",
+    "Jake Sauter",
+    "Essang Akpan",
+    "Rae Buckser",
+    "August Vincent",
+    "M. Kathleen Caulfield"
+  ],
+  "Acknowledgements": "We thank Julie Fiez, Melissa Libertus and Griffin Koch for their contributions to experimental design, and other assistance.",
+  "Funding": [
+    "The analyzed data were collected with funding from the National Science Foundation (NSF 1734735), awarded to Melissa Libertus, Marc Coutanche and Julie Fiez",
+    "Marc Coutanche received support from NSF award 1947685."
+  ],
+  "HowToAcknowledge": "Please cite: 'Coutanche, M.N., Sauter, J., Akpan, E., Buckser, R., Vincent, A., Caulfield, M.K. (in press). Novel approaches to functional lateralization: Assessing information in activity patterns across hemispheres and more accurately identifying structural homologues. Neuropsychologia.",
+  "ReferencesAndLinks": [
+    "Dataset contact: Marc Coutanche, marc.coutanche@pitt.edu",
+    "Most of the underlying analysis code for this project can be found at https://github.com/jakesauter/lateralization_project"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004594.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

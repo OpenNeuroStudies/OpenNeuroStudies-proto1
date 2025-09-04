@@ -1,0 +1,15 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Social cognitive tasks (animate movement task, moral judgment task, false belief task)",
+  "Authors": [
+    "Moran, J.M.",
+    "Jolly, E.",
+    "Mitchell, J.P."
+  ],
+  "ReferencesAndLinks": [
+    "Moran, J.M., Jolly, E., Mitchell, J.P. (2012). Social-cognitive deficits in normal aging. J Neurosci, 32(16):5553-61. doi: 10.1523/JNEUROSCI.5511-11.2012"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds000109.v2.0.2",
+  "License": "CC0",
+  "DatasetType": "study"
+}

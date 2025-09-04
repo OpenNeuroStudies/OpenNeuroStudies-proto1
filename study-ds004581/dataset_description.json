@@ -1,0 +1,18 @@
+{
+  "Name": " Brain Differences in Monolingual and Highly Proficient Multilingual Speakers",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Ludmila Midrigan-Ciochina",
+    "Kayla P. Vodacek",
+    "Srinija Balabhadra",
+    "David P. Corina"
+  ],
+  "Acknowledgements": "We would like to thank Dr. Costin Tanase for his help in suggesting imaging protocols and data analysis practices, and Sharon Coffey Corina for helping throughout the length of the project. Thanks to Diana Malancea-Malac for helping with the behavioral and MRI data collection and organization and to Cristina Sewell for helping with coding and software installation. Additional thanks to Charles D. Arnold for advising with statistical analysis. This research was supported by the UC Davis Imaging Research Center Pilot Program.",
+  "HowToAcknowledge": " Please cite the doi for this dataset and the corresponding paper ",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004581.v2.0.1",
+  "ReferencesAndLinks": [
+    "Midrigan-Ciochina, L., Vodacek, K. P., Balabhadra, S., & Corina, D. P. (2024). A comparison of structural brain differences in monolingual and highly proficient multilingual speakers. Bilingualism: Language and Cognition, 27(1), 117-127."
+  ]
+}

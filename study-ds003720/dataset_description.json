@@ -1,0 +1,25 @@
+{
+  "Name": "Music Genre fMRI Dataset",
+  "License": "CC0",
+  "Authors": [
+    "Tomoya Nakai",
+    "Naoko Koide-Majima",
+    "Shinji Nishimoto"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "MEXT/JSPS KAKENHI grant numbers JP20K07718",
+    "JP20H05023 in #4903",
+    "JP15H05311",
+    "JP18H05522",
+    "JST CREST JPMJCR18A5",
+    "ERATO JPMJER1801"
+  ],
+  "ReferencesAndLinks": [
+    "Nakai, Koide-Majima, and Nishimoto (2021). Correspondence of categorical and feature-based representations of music in the human brain. Brain and Behavior. 11(1), e01936. https://doi.org/10.1002/brb3.1936"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003720.v1.0.0",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

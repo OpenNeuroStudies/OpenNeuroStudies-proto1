@@ -1,0 +1,72 @@
+{
+  "Name": "PAFIN: PennLINC AFfective INstability- fMRIPost-AROMA Derivatives",
+  "Authors": [
+    "Juliette B. H. Brook",
+    "Taylor Salo",
+    "Audrey C. Luo",
+    "Joelle Bagautdinova",
+    "Sage Rush",
+    "Aaron F. Alexander-Bloch",
+    "Erica B. Baller",
+    "Monica E. Calkins",
+    "Matt Cieslak",
+    "Elena C. Cooper",
+    "John A. Detre",
+    "Mark A. Elliot",
+    "Damien A. Fair",
+    "Phoebe Freedman",
+    "Philip R. Gehrman",
+    "Ruben C. Gur",
+    "Raquel E. Gur",
+    "Arno Klein",
+    "Nina Laney",
+    "Timothy O. Laumann",
+    "Kahini Mehta",
+    "Kathleen Merikangas",
+    "Michael Milham",
+    "Jonathan A. Mitchell",
+    "Tyler M. Moore",
+    "Steven M. Nelson",
+    "Kosha Ruparel",
+    "Brooke L. Sevchik",
+    "Sheila Shanmugan",
+    "Haochang Shou",
+    "Manuel Taso",
+    "Lauren K. White",
+    "Daniel H. Wolf",
+    "M. Dylan Tisdall",
+    "David R. Roalf",
+    "Theodore D. Satterthwaite"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Description": "fMRIPost-AROMA derivatives for the PAFIN dataset.",
+  "GeneratedBy": [
+    {
+      "Name": "fMRIPost-AROMA",
+      "Version": "0.0.10",
+      "CodeURL": "https://github.com/nipreps/fmripost_aroma/archive/0.0.10.tar.gz"
+    },
+    {
+      "Name": "fMRIPrep",
+      "Version": "24.1.1",
+      "CodeURL": "https://github.com/nipreps/fmriprep/archive/24.1.1.tar.gz"
+    }
+  ],
+  "HowToAcknowledge": "Include the generated boilerplate in the methods section.",
+  "SourceDatasets": [
+    {
+      "URL": "https://openneuro.org/datasets/ds006185"
+    },
+    {
+      "URL": "https://openneuro.org/datasets/ds006131"
+    }
+  ],
+  "License": "CC0",
+  "DatasetLinks": {
+    "raw": "https://openneuro.org/datasets/ds006131",
+    "templateflow": "https://github.com/templateflow/templateflow",
+    "input": "https://openneuro.org/datasets/ds006185"
+  },
+  "DatasetDOI": "doi:10.18112/openneuro.ds006189.v1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "test",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lanfang Liu",
+    "Jiahao Jiang",
+    "Guosheng Ding"
+  ],
+  "Acknowledgments": "We thank Sihe Feng for preparing the BIDS dataset",
+  "HowToAcknowledge": "citing",
+  "Funding": [
+    "0"
+  ],
+  "ReferencesAndLinks": [
+    "10.7554/eLife.99997.1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005623.v1.0.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Collaborations and deceptions in strategic interactions revealed by hyperscanning fMRI",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Siao-Shan Shen",
+    "Jen-Tang Cheng",
+    "I-Jeng Hsu",
+    "Der-Yow Chen",
+    "Ming-Hung Weng",
+    "Chun-Chia Kung"
+  ],
+  "Acknowledgements": "This work is supported by MOST 107-2420-H-006-007-MY3. We thank Mind Research and Imaging Center (MRIC) at National Cheng Kung University for consultation and instrument availability.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "Taiwan Ministry of Science and Technology"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2021.07.11.451985v1"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004103.v1.0.4",
+  "DatasetType": "study"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Stroop Task",
+  "BIDSVersion": "1.10.1",
+  "License": "PDDL",
+  "Authors": [
+    "Timothy D. Verstynen"
+  ],
+  "Acknowledgements": "The author thanks Daniel Weissman and Jean Vettel for their helpful comments on the initial phases of this study, Kirk Erickson for supplying the experimental task used in this study, and Kevin Jarbo, Patrick Buekema, David Creswell, and Fang-Cheng Yeh for their critiques on early versions of the manuscript.",
+  "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000164.",
+  "Funding": "This research was sponsored in part by Pennsylvania Department of Health Formula Award SAP4100062201 and by the Army Research Laboratory under Cooperative Agreement Number W911NF-10-2-0022.",
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/25143543"
+  ],
+  "CogAtlasID\u200b": "http://www.cognitiveatlas.org/task/id/tsk_4a57abb949e27",
+  "DatasetType": "study"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "Adolescent language learners",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Kshipra Gurunandan",
+    "Jaione Arnaez-Telleria",
+    "Manuel Carreiras",
+    "Pedro M. Paz-Alonso"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.1523/JNEUROSCI.0851-20.2020",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1523/JNEUROSCI.0851-20.2020",
+    "Gurunandan, K., Arnaez-Telleria, J., Carreiras, M., & Paz-Alonso, P.M. (2020). Converging evidence for differential specialization and plasticity of language systems. Journal of Neuroscience, 40(50), 9715-9724. Doi:10.1523/JNEUROSCI.0851-20.2020"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003545.v1.0.0",
+  "License": "CC0"
+}

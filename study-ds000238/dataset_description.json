@@ -1,0 +1,15 @@
+{
+  "Name": "Trial timing for multivariate pattern analysis",
+  "BIDSVersion": "1.10.1",
+  "License": "CCO",
+  "Authors": [
+    "Zeithamova, D.",
+    "De Araujo Sanchez, M.",
+    "Adke, A."
+  ],
+  "Acknowledgements": "This work was made possible through generous support from the Lewis Family Endowment to the UO which supports the Robert and Beverly Lewis Center for Neuroimaging.",
+  "ReferencesAndLinks": [
+    "Bischoff\u2010Grethe, A., Ozyurt, I. B., Busa, E., Quinn, B. T., Fennema\u2010Notestine, C., Clark, C. P., ... & Brown, G. G. (2007). A technique for the deidentification of structural brain MR images. Human brain mapping, 28(9), 892-903."
+  ],
+  "DatasetType": "study"
+}

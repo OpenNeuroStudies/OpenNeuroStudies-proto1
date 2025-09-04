@@ -1,0 +1,20 @@
+{
+  "Name": "Social Observation EEG raw data",
+  "License": "CC0",
+  "Authors": [
+    "Yaner Su"
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy": [
+    {
+      "Name": "bids-matlab-tools",
+      "Version": "10.2"
+    }
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006554.v1.0.0",
+  "DatasetType": "study"
+}

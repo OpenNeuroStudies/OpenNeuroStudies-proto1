@@ -1,0 +1,34 @@
+{
+  "Name": "An open-access accelerated adult equivalent of the ABCD Study neuroimaging dataset (a-ABCD)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Kristina M. Rapuano",
+    "May I. Conley",
+    "Anthony C. Juliano",
+    "Gregory M. Conan",
+    "Maria T. Maza",
+    "Kylie Woodman",
+    "Steven A. Martinez",
+    "Eric Earl",
+    "Anders Perrone",
+    "Eric Feczko",
+    "Damien A. Fair",
+    "Richard Watts",
+    "BJ Casey",
+    "Monica D. Rosenberg"
+  ],
+  "Acknowledgements": "The Developmental Cognition and Neuroimaging (DCAN) Labs who developed the ABCD-BIDS MRI processing pipeline (DOI: 10.5281/zenodo.2587210; https://github.com/DCAN-Labs; Damien A. Fair, Ph.D., Eric Earl, Anders Perrone, Darrick Sturgeon, Kathy Snider, Anthony Galassi). ABCD Acknowledgement: Behavioral data used in the preparation of the associated manuscript were obtained from the Adolescent Brain Cognitive Development (ABCD) Study (abcdstudy.org), held in the NIMH Data Archive (NDA). This is a multisite, longitudinal study designed to recruit more than 10,000 children ages 9-10 and follow them over 10 years into early adulthood. The ABCD Study is supported by the National Institutes of Health and additional federal partners under award numbers U01DA041022, U01DA041028, U01DA041048, U01DA041089, U01DA041106, U01DA041117, U01DA041120, U01DA041134, U01DA041148, U01DA041156, U01DA041174, U24DA041123, and U24DA041147. A full list of supporters is available at abcdstudy.org/nih-collaborators. A listing of participating sites and a complete listing of the study investigators can be found at abcdstudy.org/principal-investigators.html. ABCD consortium investigators designed and implemented the study and/or provided data but did not necessarily participate in analysis or writing of this report. This manuscript reflects the views of the authors and may not reflect the opinions or views of the NIH or ABCD consortium investigators.",
+  "HowToAcknowledge": "Please cite this dataset as: Rapuano, K.M., Conley, M.I., Juliano, A.C., Conan, G.M., Maza, M.T., Woodman, K., Martinez, S.A., Earl, E., Perrone, A., Feczko, E. Fair, D.A., Watts, R., Casey, B.J. & Rosenberg, M.D. (2022). An open-access accelerated adult equivalent of the ABCD Study neuroimaging dataset (a-ABCD). OpenNeuro, ds004097.",
+  "Funding": [
+    "Yale BIC Discovery funding",
+    "NIH U01 DA041174"
+  ],
+  "ReferencesAndLinks": [
+    "Rapuano, K.M., Conley, M.I., Juliano, A.C., Conan, G.M., Maza, M.T., Woodman, K., Martinez, S.A., Earl, E., Perrone, A., Feczko, E. Fair, D.A., Watts, R., Casey, B.J. & Rosenberg, M.D. (2022). An open-access accelerated adult equivalent of the ABCD Study neuroimaging dataset (a-ABCD). NeuroImage, 119215.",
+    "The Adolescent Brain Cognitive Development (ABCD) study: Imaging acquisition across 21 sites. Casey B.J., Cannonier T., Conley M.I., Cohen A.O., Barch D.M., Heitzeg M.M., Soules M.E., Teslovich T., Dellarco D.V., Garavan H., Orr C.A., Wager T.D., Banich M.T., Speer N.K., Sutherland M.T., Riedel M.C., Dick A.S., Bjork J.M., Thomas K.M., Chaarani B., Mejia M.H., Hagler D.J. Jr, Daniela Cornejo M., Sicat C.S., Harms M.P., Dosenbach N.U.F., Rosenberg M., Earl E., Bartsch H., Watts R., Polimeni J.R., Kuperman J.M., Fair D.A., Dale A.M. ABCD Imaging Acquisition Workgroup. Dev Cogn Neurosci. 2018 Aug. doi: 10.1016/j.dcn.2018.03.001. Epub 2018 Mar 14. Review. PMID: 29567376.",
+    "D. Sturgeon, Eric Earl, Anders Perrone, & Kathy. (2021). DCAN-Labs/abcd-hcp-pipeline: Minor update to DCAN BOLD Processing and MRE version (v0.0.4). Zenodo. https://doi.org/10.5281/zenodo.4571051"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004097.v1.1.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

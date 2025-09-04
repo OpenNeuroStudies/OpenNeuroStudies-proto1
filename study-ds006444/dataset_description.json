@@ -1,0 +1,28 @@
+{
+  "Name": "Benchmarking the Impact of Anatomical Segmentation on In Vivo Magnetic Resonance Spectroscopy",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jessica Archibald",
+    "Kay Chioma Igwe",
+    "Antonia Kaiser",
+    "Karl Landheer",
+    "Jaimie Lee",
+    "John Kramer",
+    "Niklaus Z\u00f6lch",
+    "Aaron Gudmundson",
+    "Helge J. Z\u00f6llner",
+    "Candace C. Fleischer",
+    "Georg Oeltzschner",
+    "Jamie Near",
+    "Mark Mikkelsen"
+  ],
+  "Funding": [
+    "National Institute of Biomedical Imaging and Bioengineering (NIBIB) grant K99EB028828"
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Weill Cornell Medicine Institutional Review Board: protocol 0807009883."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006444.v1.0.5"
+}

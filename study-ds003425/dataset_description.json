@@ -1,0 +1,24 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Mental imagery can generate and regulate acquired differential fear conditioned reactivity",
+  "ReferenceAndLink": [
+    "tbd"
+  ],
+  "Authors": [
+    "Steven Greening",
+    "Tae-Ho Lee",
+    "Laurent Gregoire",
+    "Lauryn Burleigh",
+    "Tyler Robinson",
+    "Xinrui Jiang",
+    "Mara Mather",
+    "Jonas Kaplan"
+  ],
+  "Funding": [
+    "University of Southern California Postdoctoral Scholars Research Grant and a Louisiana Board of Regents \u2013 Research Competitiveness Subprogram (S.G.G.) "
+  ],
+  "HowToAcknowledge": "tbd",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003425.v1.0.2",
+  "DatasetType": "study"
+}

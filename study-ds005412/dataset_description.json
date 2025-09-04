@@ -1,0 +1,19 @@
+{
+  "Name": "Grant DataSet",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Grant",
+    "None"
+  ],
+  "Acknowledgements": "Thanks to XYZ for supporting this research.",
+  "HowToAcknowledge": "Please cite this dataset if you use it.",
+  "Funding": [
+    "None"
+  ],
+  "ReferencesAndLinks": [
+    "None"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005412.v1.0.0",
+  "DatasetType": "study"
+}

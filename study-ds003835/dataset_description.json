@@ -1,0 +1,24 @@
+{
+  "Name": "PE-Update",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Alyssa H Sinclair",
+    "Morgan D Barense"
+  ],
+  "Acknowledgements": "Thanks to Grace M. Manalili, Iva K. Brunec, and R. Alison Adcock for their contributions to data collection, analysis, and interpretation.",
+  "HowToAcknowledge": "Please cite this dataset and our paper!",
+  "Funding": [
+    "James S. McDonnell Scholar Award to MDB",
+    "Natural Sciences and Engineering Research Council of Canada Discovery Grant and Accelerator Supplement, RGPIN-2014-05959 and RGPIN-2020-05747, to MDB"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003835.v1.0.2",
+  "Notes": "This BIDS dataset accompanies the paper: Prediction Errors Disrupt Hippocampal Representations and Update Episodic Memories. In this task, participants viewed a set of 70 short narrative videos (approx 30 sec duration). The next day, they viewed the videos again. They were scanned during this Day 2 session. Critically, half of the videos were presented again in Full-length form, but half were Interrupted at the narrative climax to elicit surprise. No responses were made during video viewing. In the primary paper, we reported differences in neural activation during the aftermath of Full vs. Interrupted videos. This fMRI data can be also used to examine neural activation during video watching, a naturalistic audiovisual stimulus. We also collected resting state scans (eyes closed) before and after video watching. A few notes: 1) Subject 13 is missing Run 1 of the videos task because of technical issues. 2) Some subjects are missing the end-of-session resting state scan because we ran out of time. 3) In a few instances, the functional scan was accidentally terminated early before the last video finished playing. These incomplete events are included in the onset files as excluded trials. You may want to omit these trials from your task design matrix if you experience errors because the event goes beyond the number of volumes.",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    "Sinclair, A.H., Manalili, G.M., Brunec, I.K., Adcock, R.A., & Barense, M.D. (2021). Prediction errors disrupt hippocampal representations and update episodic memories. Proc. Natl. Acad. Sci. U.S.A. (118), e2117625118. DOI: https://doi.org/10.1073/pnas.2117625118"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the IRB at the University of Toronto, protocol #00035787"
+  ],
+  "DatasetType": "study"
+}

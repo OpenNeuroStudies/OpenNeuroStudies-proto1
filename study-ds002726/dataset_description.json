@@ -1,0 +1,29 @@
+{
+  "Name": "Structural brain network of gifted children",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Jordi Sole-Casals",
+    "Josep M Serra-Grabulosa",
+    "Rafael Romero-Garcia",
+    "Gemma Vilaseca",
+    "Ana Adan",
+    "Nuria Vilaro",
+    "Nuria Vilaro",
+    "Edward T. Bullmore"
+  ],
+  "Acknowledgements": "[\"Magnetic resonance imaging analysis were performed at the Brain Mapping Unit, Department of Psychiatry, University of Cambridge, Cambridge, United Kingdom)\"]",
+  "HowToAcknowledge": "[\"Please cite this paper: https://www.ncbi.nlm.nih.gov/pubmed/XXXXXXXXXX\"]",
+  "Funding": [
+    "Ministerio de Economia y Competividad (PSI2013-47216-P)",
+    "Ministerio de Educacion, Cultura y Deporte (MINECO, ref. PRX15/00127)",
+    "Ministerio de Economia y Competividad (TEC2016-77791-C4-2-R)",
+    "Wellcome Trust to the University of Cambridge and University College London (095844/Z/11/Z)",
+    "Guarantors of Brain Charity (264139)"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.ncbi.nlm.nih.gov/pubmed/XXXXXXXXX"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002726.v1.0.1",
+  "DatasetType": "study"
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "MIND: Multilingual Imaging Neuro Dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Xuanyi Jessica Chen",
+    "Maxwell Salvadore",
+    "Esti Blanco-Elorrieta"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds006391.v2.0.0",
+  "DatasetType": "study"
+}

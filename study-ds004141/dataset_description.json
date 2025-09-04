@@ -1,0 +1,23 @@
+{
+  "Acknowledgements": "We thank Carlos Ferreira and S\u00f3nia Afonso for assistance with task and participant preparation, Jo\u00e3o Castelhano for assistance with Acquisition protocol and EEG-fMRI setup optimization",
+  "Authors": [
+    "Bruno Direito",
+    "Marco Sim\u00f5es",
+    "Alexandre Sayal",
+    "Miguel Castelo-Branco"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004141.v1.0.5",
+  "Funding": [
+    "European project BRAINTRAIN-FP7-HEALTH-2013-INNOVATION-1-602186",
+    "Fundacao para a Ciencia e Tecnologia (PEST - UID/NEU/04539/2013, COMPETE, POCI 01-0145-FEDER 007440, COMPETE, POCI 01-0145-FEDER 007440)",
+    "MS is supported by the Fundacao para a Ciencia e Tecnologia (grant SFRH/2011/77044)"
+  ],
+  "HowToAcknowledge": "If you use these data, we invite you to cite the dataset and our paper 'https://www.sciencedirect.com/science/article/pii/S0306452219301332'. doi:https://doi.org/10.1016/j.neuroscience.2019.02.024 ",
+  "License": "CC0",
+  "Name": "Targeting Dynamic Facial Processing Mechanisms in Superior Temporal Sulcus Using fMRI Neurofeedback ",
+  "ReferencesAndLinks": [
+    "https://www.sciencedirect.com/science/article/pii/S0306452219301332"
+  ],
+  "DatasetType": "study"
+}

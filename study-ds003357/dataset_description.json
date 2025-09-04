@@ -1,0 +1,22 @@
+{
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2020.08.10.243998v1"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003357.v1.0.0",
+  "Funding": [
+    "Jena University Hospital"
+  ],
+  "Name": "The influence of heart rate variability biofeedback on cardiac regulation and functional brain connectivity",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Andy Schumann",
+    "Feliberto de la Cruz",
+    "Stefanie K{\"o}hler",
+    "Lisa Brotte",
+    "Karl-J{\"u}rgen B{\"a}r"
+  ],
+  "Acknowledgments": "AS is supported by the Interdisciplinary Center for Clinical Research Jena (MSP05-2019, www.uniklinikum-jena.de/izkf) and the German Research Foundation (SCHU 3432/2-1, ww.dfg.de). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+  "HowToAcknowledge": "",
+  "DatasetType": "study"
+}

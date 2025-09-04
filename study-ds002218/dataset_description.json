@@ -1,0 +1,12 @@
+{
+  "Authors": [
+    "Daniel C Comstock",
+    "Ramesh Balasubramaniam"
+  ],
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors and cite the paper specified under 'ReferenceAndLinks'. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "Name": "Auditory and Visual Rhythm Omission EEG",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "mockDOI",
+  "DatasetType": "study"
+}

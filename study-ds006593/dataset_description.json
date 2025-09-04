@@ -1,0 +1,24 @@
+{
+  "Name": "cBCI Matrix Multimodal Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Basak Celik",
+    "Tab Memmott",
+    "Matthew Lawhead",
+    "Srikar Ananthoju",
+    "Deniz Erdogmus"
+  ],
+  "License": "CC0",
+  "Acknowledgements": "These studies were approved by the Northeastern IRB #10-05-2022. The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study. We would like to thank Emma Sombers and Julia Gangemi for their assistance with data collection and preprocessing. We thank the Consortium of Accessible Multimodal Brain-Body Interfaces (CAMBI) for their insight and guidance over the course of the experiment. Additionally, we would like to thank all the participants for their time and effort in contributing to this research.",
+  "HowToAcknowledge": "Please cite the following paper if you use this dataset: Celik et al. Multimodal Sensor Fusion for EEG-Based BCI Typing Systems. Proc. 11th Int. Brain-Computer Interface Meeting. DOI:10.3217/978-3-99161-050-2-196. <br /> To cite BciPy, please use: Memmott T, Ko\u00e7anao\u011fullar\u0131 A, Lawhead M, Klee D, Dudy S, Fried-Oken M, Oken B. BciPy: brain-computer interface software in Python. Brain-Computer Interfaces, 8(4), 137-53, 2021.",
+  "Funding": [
+    "This research was funded by the National Institutes of Health (DC009834)."
+  ],
+  "EthicsApprovals": [
+    "Northeastern University IRB #10-05-2022"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006593.v1.0.0",
+  "SourceDatasets": [],
+  "StudyDescription": "This dataset contains EEG and Eyetracker data collected from 21 participants while they performed a matrix-based cBCI task. The participants were asked to focus on target characters in a 6x6 matrix and their EEG and eye movements were recorded simultaneously. The dataset includes raw data for calibration and copy spelling tasks, as well as event markers indicating the presentation of target and non-target stimuli."
+}

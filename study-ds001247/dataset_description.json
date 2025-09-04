@@ -1,0 +1,19 @@
+{
+  "Name": "sports_betting_study",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Damien Brevers",
+    "Sarah C Herremans",
+    "Qinghua He",
+    "Marie-Anne Vanderhasselt",
+    "Mathieu Petieau",
+    "Dimitri Verdonck",
+    "Tasha Poppa",
+    "Sara De Witte",
+    "Charles Kornreich",
+    "Antoine Bechara",
+    "Chris Baeken"
+  ],
+  "Funding": "This work was supported by the Belgian National Funds for Scientific Research FNRS",
+  "DatasetType": "study"
+}

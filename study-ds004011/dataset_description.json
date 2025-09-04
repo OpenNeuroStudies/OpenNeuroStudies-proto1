@@ -1,0 +1,17 @@
+{
+  "Name": " The nature of neural object representations during dynamic occlusion",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Lina Teichmann",
+    "Denise Moerel",
+    "Anina Rich",
+    "Chris Baker"
+  ],
+  "ReferencesAndLinks": [
+    "Teichmann, L., Moerel, D., Rich, A. N., & Baker, C. I. (2021, April 24). The nature of neural object representations during dynamic occlusion. Retrieved from osf.io/tp2ad",
+    "Teichmann, L., Moerel, D., Rich, A. N., & Baker, C. I. (2022, January 24). The nature of neural object representations during dynamic occlusion . Retrieved from osf.io/hc25w"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004011.v1.0.3"
+}

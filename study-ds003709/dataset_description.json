@@ -1,0 +1,29 @@
+{
+  "Name": "NIMH-CompyPsych MMI",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Hanna Keren",
+    "Katharine Chang",
+    "Aria Vitale",
+    "Chris C. Camp",
+    "Robb B Rutledge",
+    "Dylan M. Nielson",
+    "Argyris Stringaris"
+  ],
+  "Acknowledgements": "Preparation of this dataset for sharing used the computational resources of the NIH HPC (high-performance computing) Biowulf cluster (http://hpc.nih.gov).",
+  "HowToAcknowledge": "Please cite this paper: https://doi.org/10.7554/eLife.62051",
+  "Funding": [
+    "National Institute of Mental Health Grant ZIA-MH002957-01 to AS"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.7554/eLife.62051",
+    "Keren H., Zheng C., Jangraw D.C., Chang K., Vitale A., Rutledge R.B., Pereira F., Nielson D.M., Stringaris A. (2021). The temporal representation of experience in subjective mood. eLife, 2021;10:e62051, DOI: 10.7554/eLife.62051"
+  ],
+  "HEDVersion": "HED7.2.0.xml",
+  "EthicsApprovals": [
+    "All participants in this study were enrolled in the Characterization and Treatment of Adolescent Depression study approved by the NIH IRB under protocol number 18-M-0037."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003709.v1.0.0"
+}

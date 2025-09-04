@@ -1,0 +1,16 @@
+{
+  "Name": "bids_dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Redouane Jamil",
+    "Franck Mauconduit",
+    "Caroline Le Ster",
+    "Philipp Ehses",
+    "Benedikt A. Poser",
+    "Alexandre Vignaud",
+    "Nicolas Boulant"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "10.18112/openneuro.ds003777.v1.0.0",
+  "DatasetType": "study"
+}

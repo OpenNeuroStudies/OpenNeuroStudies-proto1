@@ -1,0 +1,15 @@
+{
+  "Name": "Animal Brain Collection Project",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Kumamoto, T",
+    "Komaki, Y",
+    "Tsurugizawa, T"
+  ],
+  "Acknowledgements": "Animal samples were provided by Nasu Animal Kingdom, Kobe Animal Kingdom, RIKEN BDR, Hyogo Medical University, Utsunomiya University, National Yang Ming Chiao Tung University, and private breeders. For further details, please refer to the upcoming publication.",
+  "HowToAcknowledge": "Please cite our upcoming publication.",
+  "Description": "We are collecting MRI data of various species including hugfishs, turtles, crows, and etc...",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005431.v1.1.0",
+  "DatasetType": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "Name": "Brain Network Mechanisms of Visual Shape Completion",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Brian P Keane",
+    "Deanna M Barch",
+    "Ravi Mill",
+    "Steven M Silverstein",
+    "Bart Krekelberg",
+    "Michael W Cole"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003404.v1.0.8",
+  "DatasetType": "study"
+}

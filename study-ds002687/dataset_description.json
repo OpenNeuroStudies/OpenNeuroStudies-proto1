@@ -1,0 +1,26 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "Working Memory and Reward in Adults",
+  "ReferencesAndLinks": [
+    "Hammer R, Cooke GE, Stein MA & Booth JR (2015). Functional neuroimaging of visuospatial working memory tasks enables accurate detection of attention deficit and hyperactivity disorder. Neuroimage \u2013 Clinical, 9, 244-252. (PMCID: PMC4576365)",
+    "Hammer R, Tennekoon M, Cooke GE, Gayda J, Stein MA & Booth JR (2015). Feedback associated with expectation for larger-reward improves visuospatial working memory performances in children with ADHD. Developmental Cognitive Neuroscience, 14, 38-49. (PMCID: PMC4536089)",
+    "Hammer R, Booth JR, Borhani R & Katsaggelos AK (Feb. 25, 2020).  Pattern analysis based on fMRI data collected while subjects perform working memory tasks allowing high-precision diagnosis of ADHD. US10571539B2."
+  ],
+  "HowToAcknowledge": "Please cite this dataset as well as the corresponding data descriptor for use of this dataset:\n\nLytle MN, Hammer R & Booth JR (2020). Working memory and reward in adults. OpenNeuro. 10.18112/openneuro.ds002687\n\nLytle MN, Hammer R & Booth JR (2020). A neuroimaging dataset on working memory and reward processing in children with and without ADHD. Data in Brief, 28,105801.\n",
+  "Funding": [
+    "NIH grant R21-MH080820 awarded to James R. Booth",
+    "NIH grant R03-HD093547 awarded to James R. Booth"
+  ],
+  "Authors": [
+    "James R. Booth",
+    "Gillian E. Cooke",
+    "Jessica Gayda",
+    "Rubi Hammer",
+    "Marisa N. Lytle",
+    "Mark A. Stein",
+    "Michael Tennekoon"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002687.v1.2.0",
+  "DatasetType": "study"
+}

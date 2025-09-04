@@ -1,0 +1,23 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "NARPS",
+  "Authors": [
+    "Rotem Botvinik-Nezer",
+    "Roni Iwanir",
+    "Russell A. Poldrack",
+    "Tom Schonberg"
+  ],
+  "HowToAcknowledge": "Please cite our Data Descriptor:\nBotvinik-Nezer, R. et al. fMRI data of mixed gambles from the Neuroimaging Analysis Replication and Prediction Study. Sci Data 6, 106 (2019).\nhttps://doi.org/10.1038/s41597-019-0113-7",
+  "Funding": [
+    "Data collection, performed at Tel Aviv University, was supported by the Austrian Science Fund (P29362-G27), the Israel Science Foundation (ISF) and the Swedish Foundation for Humanities and Social Sciences (NHS14-1719:1)."
+  ],
+  "ReferencesAndLinks": [
+    "https://narps.info",
+    "https://doi.org/10.1038/s41597-019-0113-7",
+    "https://www.biorxiv.org/content/10.1101/843193v1"
+  ],
+  "Acknowledgements": "NARPS team: Rotem Botvinik-Nezer, Roni Iwanir, Felix Holzmeister, J\u00fcrgen Huber, Magnus Johannesson, Michael Kirchler, Anna Dreber, Colin F. Camerer, Russell A.Poldrack and Tom Schonberg.\nThanks to Chris Gorgolewski, Jeanette Mumford and Joke Durnez for assistance in design and execution of the study.",
+  "DatasetDOI": "10.18112/openneuro.ds001734.v1.0.5",
+  "License": "CC0",
+  "DatasetType": "study"
+}

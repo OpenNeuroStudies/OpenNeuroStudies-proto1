@@ -1,0 +1,26 @@
+{
+  "Name": "Retrospective Task/Rest fMRI Data from Tumor Patients",
+  "License": "CC0",
+  "Authors": [
+    "Eric C. Leuthardt",
+    "Joshua S. Shimony",
+    "Abraham Z. Snyder",
+    "Donna Dierker",
+    "Ki Yun Park"
+  ],
+  "Acknowledgements": "We extend our deepest gratitude to all participants and their families for their invaluable contribution to this research. This project has been made possible by the support from NIH R01 CA203861",
+  "HowToAcknowledge": "Please cite our papers https://doi.org/10.1016%2Fj.nic.2017.06.011 and https://doi.org/10.1371/journal.pone.0236423 when using this dataset in your research. Additionally, you can acknowledge the dataset by including: 'Data was sourced from the OpenNeuro database, accession number ds005003'.",
+  "Funding": [
+    "NIH R01 CA203861"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016%2Fj.nic.2017.06.011",
+    "https://doi.org/10.1371/journal.pone.0236423"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005003.v2.0.0",
+  "EthicsApprovals": [
+    "All aspects of the study were approved by the Institutional Review Board at Washington University School of Medicine in St Louis. Clinical data were acquired during preoperative evaluation and reviewed retrospectively."
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "Data was acquired at York Neuroimaging Centre (York, UK). We thank all the staff at YNiC for support with scanning.",
+  "Authors": [
+    "Elisa Zamboni",
+    "Alexis Makin",
+    "Marco Bertamini",
+    "Antony Morland"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004715.v1.0.3",
+  "Funding": [
+    "ESRC Grant - When does perceptual organisation happen? awarded to Alexis Makin (PI), Antony Morland (Co-I), and Marco Bertamini (Co-I)."
+  ],
+  "HowToAcknowledge": "Feel free to cite: https://www.biorxiv.org/content/10.1101/2023.10.27.564326v1",
+  "License": "CC0",
+  "Name": "Symmetry & Luminance BOLD fMRI",
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/make.up.the.doi.link.here"
+  ],
+  "EthicsApprovals": [
+    "The study was approved by the York Neuroimaging Centre Research Ethics Committee at the University of York (UK) (ADD HERE Ethics reference number)"
+  ],
+  "DatasetType": "study"
+}

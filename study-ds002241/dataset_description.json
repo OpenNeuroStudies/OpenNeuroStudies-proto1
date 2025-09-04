@@ -1,0 +1,18 @@
+{
+  "Name": "Relating visual production and recognition of objects in human visual cortex",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Fan, J.",
+    "Wammes, J.D.",
+    "Gunn, J.B.",
+    "Yamins, D.L.",
+    "Norman, K.A.",
+    "Turk-Browne, N.B."
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds002241.v1.1.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

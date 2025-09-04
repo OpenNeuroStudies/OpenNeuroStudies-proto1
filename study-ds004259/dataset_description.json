@@ -1,0 +1,18 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Individual risk attitudes arise from noise in neurocognitive magnitude representations.",
+  "ReferencesAndLinks": [
+    "Garcia, M. B. et al. Individual risk attitudes arise from noise in neurocognitive magnitude representations. Biorxiv 2022.08.22.504413 (2022) doi:10.1101/2022.08.22.504413."
+  ],
+  "Authors": [
+    "Miguel B. Garcia",
+    "Gilles de Hollander",
+    "Marcus Grueschow",
+    "Rafael Polania",
+    "Michael Woodford",
+    "Christian C. Ruff"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004259.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

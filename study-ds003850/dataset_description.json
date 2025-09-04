@@ -1,0 +1,14 @@
+{
+  "Name": "Next Gen VASO data at <0.1 micro liter voxels for ISMRM 2022",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Renzo Huber (uploader)"
+  ],
+  "Acknowledgements": "For full authorships see absract ISMRM https://layerfmri.page.link/ISMRM2022_nextgen",
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds003850.v2.0.0",
+  "Funding": [
+    "This project is supported by the NIH BRAIN Initiative (R01MH/111444, \ufeffU01-EB025162-01). Laurentius Huber was funded from the NWO VENI project 016.Veni.198.032."
+  ],
+  "DatasetType": "study"
+}

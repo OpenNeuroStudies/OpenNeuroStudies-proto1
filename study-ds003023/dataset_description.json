@@ -1,0 +1,20 @@
+{
+  "Name": "Dynamic intersubject neural synchronization in response to natuarlistic music listening paradigms. ",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Matthew Sachs",
+    "Assal Habibi",
+    "Antonio Damasio",
+    "Jonas Kaplan"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    ""
+  ],
+  "ReferencesAndLinks": [
+    "Sachs, M. E., Habibi, A., Damasio, A., & Kaplan, J. T. (2019). Dynamic intersubject neural synchronization reflects affective responses to sad music. NeuroImage, 116512."
+  ],
+  "DatasetType": "study"
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "BRAR_NQ",
+  "License": "CC0",
+  "Authors": [
+    "Nur Syairah Ab Rani",
+    "Nurfaizatul Aisyah Ab Aziz",
+    "Mohammed Farouq Reza",
+    "Muzaimi Mustapha"
+  ],
+  "Acknowledgements": "This work was supported by the Universiti Sains Malaysia (USM).",
+  "HowToAcknowledge": "Cite this data, the study in the references section and consider including the following message: 'This data was obtained from the OpenNeuro database. Its accession number is '",
+  "Funding": [
+    "The study has been funded by the USM Research Grant for Fundamental Neuroscience\u2013Neurobehaviour (BrainReward and Anti-Reward) (1002/CNEURO/910114) and USM Research University Grant (1001.PPSP.812189)"
+  ],
+  "ReferencesAndLinks": [
+    "Mustapha, M., Rani, N. S. A., Reza, M. F., Wan Daud, W. N., & Ghani, M. A. A. (2016). Neurotechnological Advances in Exploring Melodic Recitation of the Noble Quran: Uncovering the Neural Circuitry in the Human Brain. 229-235. doi:10.1007/978-981-287-778-9_15. (Springer) ",
+    "http://usmrewardantirewardteam.com/neuroquran-research-group"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004012.v1.0.0"
+}

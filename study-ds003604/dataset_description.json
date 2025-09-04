@@ -1,0 +1,30 @@
+{
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Name": "A longitudinal neuroimaging dataset on language processing in children ages 5, 7, and 9 years old",
+  "ReferencesAndLinks": [
+    "Wang, J., Joanisse, M., Booth, J.R.(2021). Letter fluency in 7-8-year-old children is related to the anterior, but not posterior, ventral occipito-temporal cortex during an auditory phonological task. Developmental Cognitive Neuroscience, 47, 100898. https://www.sciencedirect.com/science/article/pii/S187892932030147X",
+    "Wang, J., Rice, M.L., Booth, J.R. (2020). Semantic and syntactic specializatio during auditory sentence processing in 7-8-year-old children. Cortex. Registered report (IPA) at https://osf.io/xs9aq",
+    "Wang, J., Rice, M.L., Booth, J.R. (2020). Syntactic and semantic specialization and integration in 5- to 6-year-old children during auditory sentence processing. Journal of Cognitive Neuroscience, 32(1),36-49. https://www.mitpressjournals.org/doi/full/10.1162/jocn_a_01477",
+    "Wang, J., Joanisse, M.F., Booth, J.R. (2020). Neural representations of phonology in temporal cortex scaffold longitudinal reading gains in 5- to 7-year-old children. NeuroImage, 207, 116359. https://www.sciencedirect.com/science/article/pii/S1053811919309504",
+    "Yamasaki, B. L., McGregor, K. K., & Booth, J. R. (2019). Early Phonological Neural Specialization Predicts Later Growth in Word Reading Skills.preprint at https://psyarxiv.com/vjkdf/",
+    "Younger, J.W., Lee, K.W., Demir-Lira, O.E., & Booth, J.R. (2019). Brain lateralization of phonological awareness varies by maternal education. Developmental Science, 22(6), e12807. https://onlinelibrary.wiley.com/doi/full/10.1111/desc.12807",
+    "Wang J., Joanisse M.F., Booth J.R. (2018). Reading skill related to left ventral occipitotemporal cortex during a phonological awareness task in 5-6-year old children. Developmental Cognitive Neuroscience, 30, 116-122. https://www.sciencedirect.com/science/article/pii/S1878929317301494",
+    "Weiss, Y., Cweigenberg, H.G., Booth, J.R. (2018). Neural specialization of phonological and semantic processing in young children. Human Brain Mapping, 39(11), 4334-4348. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24274"
+  ],
+  "HowToAcknowledge": "Please cite: Wang J, Lytle M, Weiss Y, Yamasaki B & Booth JR. (2021) A longitudinal neuroimaging dataset on language processing in children ages 5, 7, and 9 years old. preprint at https://psyarxiv.com/tpndf ",
+  "Funding": [
+    "R01-DC013274 from National Institute of Deafness and other Communication Disorders (NIDCD)",
+    "BCS-1358794 from National Science Foundation"
+  ],
+  "Authors": [
+    "Jin Wang",
+    "Marisa N. Lytle",
+    "Yael Weiss",
+    "Brianna L. Yamasaki",
+    "James R. Booth"
+  ],
+  "Acknowledgements": "This project was supported by R01-DC013274 and BCS-1358794 from the National Institute of Deafness and other Communication Disorders (NIDCD) and the National Science Foundation (NSF) awarded to James R. Booth. We thank Emily Algert, Hannah Cweigenberg, Stephanie Herrin, Alyssa Lucio, Madeleine Reisgerzog, Christine Saenz, Macarena Suarez-Pellicioni & Jessica W. Younger for their help with data collection. We thank Neelima Wagley, Abigail Snow, Lilah Givens, Tyjah Johnson, and Julia Pines for their help with data curation. We thank Chris Thompson for his help with developing a code for data uploading. ",
+  "DatasetDOI": "10.18112/openneuro.ds003604.v1.0.2",
+  "DatasetType": "study"
+}

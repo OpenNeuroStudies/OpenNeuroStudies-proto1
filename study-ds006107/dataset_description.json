@@ -1,0 +1,25 @@
+{
+  "Name": "iEEG_Neural_spatial_volatility",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Naoto Kuroda",
+    "Eishi Asano",
+    "Nobukazu Nakasato"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "N/A"
+  ],
+  "EthicsApprovals": [
+    "IRBs of Wayne State University and Tohoku University"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006107.v1.0.0"
+}

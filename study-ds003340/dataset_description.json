@@ -1,0 +1,14 @@
+{
+  "Name": "Tasting Pictures: Viewing Images of Foods Evokes Taste-Quality-Specific Activity in Gustatory Insular Cortex",
+  "License": "CC0",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Jason A Avery",
+    "Alexander G Liu",
+    "John E Ingeholm",
+    "Stephen J Gotts",
+    "Alex Martin"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003340.v1.0.4",
+  "DatasetType": "study"
+}

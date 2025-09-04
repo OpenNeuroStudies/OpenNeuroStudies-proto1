@@ -1,0 +1,20 @@
+{
+  "Name": "SocialBrain",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Ivy F. Tso",
+    "Saige E. Rutherford",
+    "Yu Fang",
+    "Mike Angstadt",
+    "Stephan F. Taylor"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "When using this data please cite:\nTso IF, Rutherford S, Fang Y, Angstadt M, Taylor SF. (2018). The \"social brain\" is highly sensitive to the mere presence of social information: An automated meta-analysis and an independent study. PLoS ONE. Doi: 10.1371/journal.pone.0196503",
+  "Funding": "This research was partially supported by the National Institute of Mental Health (R01 MH01258 to S.F.T.; K23 MH108823 to I.F.T.)",
+  "ReferencesAndLinks": [
+    "The social brain is highly sensitive to the mere presence of social information: An automated meta-analysis and an independent study"
+  ],
+  "DatasetDOI": "10.52181/zenodod.1210217",
+  "DatasetType": "study"
+}

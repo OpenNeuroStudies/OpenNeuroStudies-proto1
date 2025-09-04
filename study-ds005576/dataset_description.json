@@ -1,0 +1,33 @@
+{
+  "Name": "dataset for 7T odor fMRI experiment",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2bids",
+      "Version": "2.1.6",
+      "CodeURL": "https://unfmontreal.github.io/Dcm2Bids/"
+    }
+  ],
+  "Authors": [
+    "Toshiki Okumura",
+    "Ikuhiro Kida",
+    "Atsushi Yokoi",
+    "Shinji Nishimoto",
+    "Kazushige Touhara",
+    "Masako Okamoto"
+  ],
+  "Funding": [
+    "21J13615",
+    "JPMJER1801",
+    "JP18H05522",
+    "JPMJMI19D1",
+    "JP18H04998",
+    "JP21H05808"
+  ],
+  "HowToAcknowledge": "",
+  "License": "CC0",
+  "Acknowledgements": "We thank Mses. Rumi Iwasaki, Akiko Yamamoto, and Rumiko Miyatake for their help in conducting the experiments, and Dr. Tobias Kober for developing the MP2RAGE sequence and providing technical support. This work was supported by a Grant\u2010in\u2010Aid for JSPS Research Fellow to T. O. (Grant Number JP21\u2009J13615), JST ERATO to S. N. (Grant Number JPMJER1801), JSPS KAKENHI to S. N. (Grant Number JP18H05522), JST Mirai Program to K. T. (Grant Number JPMJMI19D1), and JSPS KAKENHI to M. O. (Grant Numbers JP18H04998 and JP21H05808).",
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005576.v1.0.0"
+}

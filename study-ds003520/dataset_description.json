@@ -1,0 +1,16 @@
+{
+  "Name": "Rat_rest_STZ",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Yujian Diao",
+    "Ileana O Jelescu"
+  ],
+  "Acknowledgements": "Please acknowledge the CIBM Center for Biomedical Imaging, a Swiss research center of excellence founded and supported by Lausanne University Hospital (CHUV), University of Lausanne (UNIL) Ecole Polytechnique Federale de Lausanne (EPFL), University of Geneva (UNIGE) and Geneva University Hospitals (HUG)",
+  "HowToAcknowledge": "Please cite the following articles: \n\nCatarina Tristao Pereira, Yujian Diao, Ting Yin, Analina R da Silva, Bernard Lanz, Katarzyna Pierzchala Carole Poitry-Yamate and Ileana O Jelescu, Synchronous nonmonotonic changes in functional connectivity and white matter integrity in a rat model of sporadic Alzheimers disease. NeuroImage 225 (2021) 117498. https://doi.org/10.1016/j.neuroimage.2020.117498; \n\nYujian Diao, Ting Yin, Rolf Gruetter and Ileana O Jelescu, PIRACY: An Optimized Pipeline for Functional Connectivity Analysis in the Rat Brain. Front. Neurosci. 15, (2021). https://doi.org/10.3389/fnins.2021.602170",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2020.117498, https://arxiv.org/abs/2001.09857"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003520.v1.0.2",
+  "DatasetType": "study"
+}

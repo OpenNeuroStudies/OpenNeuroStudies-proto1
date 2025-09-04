@@ -1,0 +1,22 @@
+{
+  "Name": "Identification of an Amygdala-Thalamic Circuit That Acts as a Central Gain Mechanism in Taste Perception",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Maria Geraldine Veldhuizen",
+    "Michael C. Farruggia",
+    "Xiao Gao",
+    "Yuko Nakamura",
+    "Barry G. Green",
+    "Dana Small"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "This data was obtained from the OpenNEURO database. Its accession number is ds003424, DOI: 10.18112/openneuro.ds003424.v1.0.0. \n\nPlease cite this paper: https://doi.org/10.1523/JNEUROSCI.2618-19.2020\n",
+  "Funding": [
+    "National Institutes of Health training grant T32NS041228 (M.C.F.)",
+    "Yale Medical School Fellowship (M.C.F.)",
+    "National Institutes of Health R01 DC006706 (D.M.S.)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003424.v1.0.0",
+  "DatasetType": "study"
+}

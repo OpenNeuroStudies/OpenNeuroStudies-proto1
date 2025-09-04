@@ -1,0 +1,20 @@
+{
+  "Name": "Visual EEG Study (BrainVision \u2192 BIDS)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Sanaz Ghaffari",
+    "Arian Yavari",
+    "Sara Bonyadian",
+    "Arsalan Ghofrani",
+    "Russell Butler"
+  ],
+  "EthicsApprovals": [
+    "CIUSSS de l\u2019Estrie \u2013 CHUS"
+  ],
+  "Acknowledgements": "",
+  "Funding": [],
+  "ReferencesAndLinks": [],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006547.v1.0.0"
+}

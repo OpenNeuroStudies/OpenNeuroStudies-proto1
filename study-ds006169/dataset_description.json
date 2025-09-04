@@ -1,0 +1,21 @@
+{
+  "Name": "Longitudinal-Trajectories-Early-Brain-Development-Language",
+  "License": "CC0",
+  "Authors": [
+    "Ted Turesky",
+    "Elizabeth Escalante",
+    "Megan Loh",
+    "Nadine Gaab"
+  ],
+  "Acknowledgements": "Thank you to all participating families for their long-term dedication to this study. We are also grateful for all additional members of the research team who contributed to data acquisition and quality control, including Victoria Hue, Ja\u2019Kala Barber, Emily Hu, Olivia Baldi, Brooke Jordan, Jade Dunstan, Clarisa Carruthers, Carolyn King, Doroteja Rubez, Kathryn Garrisi, Ally Lee, Omeed Moini, Ana\u00efs Colin, Zumin Chen, Colby Weiss, and Olivia Oh. We also thank Rebecca Petersen for her input on psychometric assessments, Jennifer Zuk for work on infant scanning procedures, Borjan Gagoski and Ross Mair for efforts on scanning sequences, Luke Miratrix and Fernando Aguate for guidance on (non)linear mixed effects models, and Banu Ahtam for feedback.",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NIH\u2013NICHD R01 HD065762 (2016-2021), the William Hearst Fund (Harvard University), and the Harvard Catalyst/NIH (5UL1RR025758) to NG"
+  ],
+  "ReferencesAndLinks": [
+    "Turesky TK, Escalante, E, Loh M, Gaab N. Longitudinal trajectories of brain development from infancy to school age and their relationship to literacy development, https://doi.org/10.1101/2024.06.29.601366."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006169.v1.0.1",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study"
+}

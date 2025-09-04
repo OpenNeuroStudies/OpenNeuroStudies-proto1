@@ -1,0 +1,30 @@
+{
+  "Name": "Whisker Stim",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "David Hike",
+    "Xiaochen Liu",
+    "Zeping Xie",
+    "Bei Zhang",
+    "Sangcheon Choi",
+    "Xiaoqing Alice Zhou",
+    "Andy Liu",
+    "Alyssa Murstein",
+    "Yuanyuan Jiang",
+    "Anna Devor",
+    "Xin Yu"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Any publication using this data should acknowledge NIH Brain Initiative grants (RF1NS113278, RF1NS124778, R01NS122904, R01NS120594, and R21NS121642), U19 Cooperative Agreement Grant (U19NS123717), S10 instrument grants (S10OD028616 and S10RR025563) to the Massachusetts General Hospital/Harvard-MIT Program in Health Sciences and Technology Martinos Center, and NSF CBET grant (2123970).",
+  "Funding": [
+    "RF1NS113278, RF1NS124778, R01NS122904, R01NS120594, and R21NS121642",
+    "U19NS123717",
+    "S10OD028616 and S10RR025563",
+    "NSF CBET 2123970"
+  ],
+  "EthicApprovals": "All animal procedures were conducted in accordance with protocols approved by the Massachusetts General Hospital (MGH) Institutional Animal Care and Use Committee (IACUC), and animals were cared for according to the requirements of the National Research Council's Guide for the Care and Use of Laboratory Animals.",
+  "ReferenceAndLinks": "https://doi.org/10.7554/eLife.95528.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005496.v1.0.1",
+  "DatasetType": "study"
+}

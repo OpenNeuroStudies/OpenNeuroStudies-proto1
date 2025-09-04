@@ -1,0 +1,14 @@
+{
+  "Name": "Deception Signaling Task",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Sangil Lee",
+    "Runxuan Niu",
+    "Lusha Zhu",
+    "Andrew Kayser",
+    "Ming Hsu"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005128.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

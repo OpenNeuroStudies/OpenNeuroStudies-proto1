@@ -1,0 +1,16 @@
+{
+  "Name": "Task-Dependent Effort-Induced Connectivity",
+  "Authors": [
+    "Bart Aben",
+    "Cristian Buc Calderon",
+    "Eva Van den Bussche",
+    "Tom Verguts"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds002683.v1.0.1",
+  "ReferencesAndLinks": [
+    "Aben, B., Buc Calderon, C. Van den Bussche, E., Verguts, T. (2020). Cognitive Effort Modulates Connectivity between Dorsal Anterior Cingulate Cortex and Task-Relevant Cortical Areas. The Journal of Neuroscience 40(19), 3838-3848."
+  ],
+  "License": "CC0",
+  "DatasetType": "study"
+}

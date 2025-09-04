@@ -1,0 +1,16 @@
+{
+  "Name": "PREK",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Jeason D. Yeatman"
+  ],
+  "EthicsApprovals": [
+    "UW University"
+  ],
+  "PipelineDescription": {
+    "Name": "qsiprep"
+  },
+  "DatasetDOI": "doi:10.18112/openneuro.ds005572.v1.0.1"
+}

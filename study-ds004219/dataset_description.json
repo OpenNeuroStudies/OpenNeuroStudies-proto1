@@ -1,0 +1,28 @@
+{
+  "Name": "Litebook_Alertness_Study",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Kyoko Ohashi",
+    "Martin H. Teicher",
+    "Elizabeth Bolger",
+    "Laura C. Hernandez Garcia",
+    "Poopak Hafezi",
+    "Leslie P. Weiser",
+    "Cynthia E. McGreenery",
+    "Alaptagin Khan"
+  ],
+  "Acknowledgements": "We thank Rosalind Gendreau, R.N., M.S.N., who was the Director of Health Services at the Walnut Hill School.  She provided invaluable assistance in organizing the study and enabling it to take place at Walnut Hill.",
+  "HowToAcknowledge": "Please contact authors - in process of submitting manuscript.",
+  "Funding": [
+    "LiteBook Company LTD, 941 S Railway St, Medicine Hat, AB T1A 2W3, Canada."
+  ],
+  "EthicsApprovals": [
+    "Partners Health Care IRB (Protocol ID 2016D003724)"
+  ],
+  "ReferencesAndLinks": [
+    "clinicaltrials.gov ID NCT05383690"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004219.v1.0.0"
+}

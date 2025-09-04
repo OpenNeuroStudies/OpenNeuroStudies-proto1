@@ -1,0 +1,11 @@
+{
+  "Name": "Perinatal Stroke",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Evan Gordon, Ph.D.",
+    "Timothy Laumann, Ph.D."
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004498.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

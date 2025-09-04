@@ -1,0 +1,30 @@
+{
+  "Name": "In vivo T1w MRI of a TDP-43 knock-in mouse model of ALS-FTD",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eugene Kim",
+    "Camilla Simmons",
+    "Diana Cash",
+    "Ziqiang Lin",
+    "Jemeen Sreedharan"
+  ],
+  "HowToAcknowledge": "Please cite this preprint: Lin Z, Kim E, Ahmed M, Han G, Simmons C, Redhead Y, Bartlett J, Pe\u00f1a Altamira LE, Callaghan I, White MA, Sing N, Sawiak S, Spires-Jones T, Vernon AC, Coleman MP, Green J, Henstridge C, Davies JS, Cash D, Sreedharan J. 2020. MRI-guided histology of TDP-43 knock-in mice implicates parvalbumin interneuron loss, impaired neurogenesis and aberrant neurodevelopment in ALS-FTD. bioRxiv doi:10.1101/2020.05.24.107177",
+  "Funding": [
+    "Alzheimer's Research UK",
+    "Motor Neuron Disease Association",
+    "Medical Research Council UK",
+    "Lady Edith Wolfson Fellowship Fund",
+    "van Geest Foundation",
+    "Rosetrees Trust",
+    "Psychiatry Research Trust",
+    "Chinese Scholarship Council"
+  ],
+  "EthicApprovals": "All animal experiments were performed under the UK Animal (Scientific Procedures) Act 1986 Amendment Regulations 2012 on Project Licences P023CC39A and P35785FD7.",
+  "ReferenceAndLinks": [
+    "Lin Z, Kim E, Ahmed M, Han G, Simmons C, Redhead Y, Bartlett J, Pe\u00f1a Altamira LE, Callaghan I, White MA, Sing N, Sawiak S, Spires-Jones T, Vernon AC, Coleman MP, Green J, Henstridge C, Davies JS, Cash D, Sreedharan J. 2020. MRI-guided histology of TDP-43 knock-in mice implicates parvalbumin interneuron loss, impaired neurogenesis and aberrant neurodevelopment in ALS-FTD. bioRxiv doi:10.1101/2020.05.24.107177",
+    "https://doi.org/10.1101/2020.05.24.107177"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003325.v1.0.0",
+  "DatasetType": "study"
+}

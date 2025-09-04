@@ -1,0 +1,30 @@
+{
+  "Name": "Resting State MRI data from healthy control (HC), Parkinson's disease with normal cognition (PD-NC), and Parkinson's disease with mild cognitive impairment (PD-MCI) cohorts",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Aaron S. Kemp",
+    "Journey Eubank",
+    "Yahya Younus",
+    "James E. Galvin",
+    "Fred W. Prior",
+    "Linda J. Larson-Prior"
+  ],
+  "Acknowledgements": "This dataset was collected as part of a longitudinal study conducted at New York University (NYU) under the supervision of Dr. James E. Galvin, MD, MPH. These data were collected during Year 1 of the study from those who provided fully informed written consent to participate in optional neuroimaging for this study. For additional details please see companion journal article, Sequential Patterning of Dynamic Brain States Distinguish Parkinson\u2019s Disease Patients with Mild Cognitive Impairments, which has been submitted to the journal NeuroImage: Clinical.",
+  "Funding": [
+    "Financial support for this project was provided by a competitive research grant from the Michael J. Fox Foundation (PI: Galvin), which had no direct involvement in the collection, analysis, or interpretation of the data presented herein."
+  ],
+  "ReferencesAndLinks": [
+    "https://bids-specification.readthedocs.io/en/stable/",
+    "https://www.michaeljfox.org"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005892.v1.0.0",
+  "HowToAcknowledge": "Please cite: Kemp AS, et al., Sequential Patterning of Dynamic Brain States Distinguish Parkinson\u2019s Disease Patients with Mild Cognitive Impairments, NeuroImage: Clinical (under review).",
+  "Keywords": [
+    "Parkinson's disease",
+    "Mild cognitive impairment",
+    "MRI",
+    "Healthy controls"
+  ],
+  "DatasetType": "study"
+}

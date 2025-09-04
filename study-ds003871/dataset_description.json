@@ -1,0 +1,24 @@
+{
+  "Name": "Resting-state for 34 younger and 28 older adults",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Christopher N. Wahlheim",
+    "Alexander P. Christensen",
+    "Brittany S. Cassidy",
+    "Zachariah M. Reagh"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Wahlheim, C. N., Christensen, A. P., Reagh, Z. M., & Cassidy, B. S. (2021). Intrinsic functional connectivity in the default mode network predicts mnemonic discrimination: A connectome-based modeling approach. bioRxiv. https://doi.org/10.1101/2021.07.09.451777",
+  "Funding": [
+    "Scientific Research Network on Decision Neuroscience and Aging (NIA R24-AG054355)"
+  ],
+  "ReferencesAndLinks": [
+    "https://osf.io/f6vg8/"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003871.v1.0.2",
+  "EthicsApprovals": [
+    "The study was approved by the University of North Carolina at Greensboro (UNCG) Institutional Review Board."
+  ],
+  "DatasetType": "study"
+}

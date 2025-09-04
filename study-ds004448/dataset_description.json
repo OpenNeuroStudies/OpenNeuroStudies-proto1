@@ -1,0 +1,18 @@
+{
+  "Name": "The BMI-HDEEG dataset 4",
+  "Authors": [
+    "Seitaro Iwama",
+    "Masumi Morishige",
+    "Yoshikazu Takahashi",
+    "Ryotaro Hirose",
+    "Midori Kodama",
+    "Junichi Ushiba"
+  ],
+  "HowToAcknowledge": "Reference",
+  "AlternativeWebsite": "homepage of closed dataset",
+  "BIDSVersion": "1.10.1",
+  "Funding": [],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004448.v1.0.2",
+  "DatasetType": "study"
+}

@@ -1,0 +1,33 @@
+{
+  "Authors": [
+    "Hong-Zhi Li",
+    "Jia-Jia Yang",
+    "Zhen Lv",
+    "Li-Yang Wan",
+    "Wo Wang",
+    "Da-Qi Li",
+    "Dong-Dong Zhou",
+    "Li Kuang"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "GeneratedBy": [
+    {
+      "Name": "FieldTrip",
+      "Version": "unknown",
+      "Description": "data2bids converter",
+      "URI": "https://www.fieldtriptoolbox.org"
+    }
+  ],
+  "KeyWords": [
+    "MOBA game",
+    "Electroencephalography",
+    "ERP"
+  ],
+  "Name": "Research data supporting 'EEG recording during playing MOBA game'",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005520.v1.0.1",
+  "License": "CC0",
+  "Funding": [
+    "This work was supported by a grant from the Chongqing Medical Youth Top Talent Project in Chongqing Municipal Health Commission (DDZ)."
+  ]
+}

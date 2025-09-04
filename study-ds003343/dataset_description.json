@@ -1,0 +1,25 @@
+{
+  "Acknowledgements": "We want to thank Techno Concept and especially Frederic Albert for sharing their extensive knowledge on the topic and for aiding with the technical setup for the tendon vibration. Further we appreciate the work Sophie Aebischer and Elise Marenghi put into reviewing corresponding literature for their bachelor thesis at the Haute ecole de travail social et de la sante (EESP) Lausanne.",
+  "Authors": [
+    "Christoph Schneider",
+    "Renaud Marquis",
+    "Jane Johr",
+    "Marina Da Silva Lopes",
+    "Philippe Ryvlin",
+    "Andrea Serino",
+    "Marzia De Lucia",
+    "Karin Diserens"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003343.v2.0.1",
+  "Funding": [
+    "This work was supported by the Fondation CHUV, Lausanne, Switzerland; the Loterie Romande, Lausanne, Switzerland; and Techno Concept, Mane, France."
+  ],
+  "HowToAcknowledge": "If you reference this dataset in your publications, please acknowledge its authors and cite the paper specified under 'ReferenceAndLinks'. Also, please include the following message: 'This data was obtained from the Open Neuro database.'",
+  "License": "CC0",
+  "Name": "Disentangling the percepts of illusory movement and sensory stimulation during tendon vibration in the EEG",
+  "ReferencesAndLinks": [
+    "Insert citation + paper doi"
+  ],
+  "DatasetType": "study"
+}

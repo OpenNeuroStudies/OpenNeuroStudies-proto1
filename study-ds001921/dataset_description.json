@@ -1,0 +1,14 @@
+{
+  "Name": "Anterior cingulate engagement in a foraging context reflects choice difficulty, not foraging value (1)",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "A. Shenhav",
+    "M.A. Straccia",
+    "J.D. Cohen",
+    "M.M. Botvinick"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.nature.com/articles/nn.3771"
+  ],
+  "DatasetType": "study"
+}

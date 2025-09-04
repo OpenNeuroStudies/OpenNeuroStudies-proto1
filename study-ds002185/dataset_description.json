@@ -1,0 +1,24 @@
+{
+  "Acknowledgements": "Dr. Rita Schmidt for help in optimizing imaging parameters.",
+  "Authors": [
+    "Tali Weiss",
+    "Timna Soroka",
+    "Lior Gorodisky",
+    "Sagit Shushan",
+    "Kobi Snitz",
+    "Reut Weisgross",
+    "Edna Furman-Haran",
+    "Thijs Dhollander",
+    "Noam Sobel"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "This work was funded by an ERC AdG",
+    "GRANT #670798"
+  ],
+  "HowToAcknowledge": "With using this data please cite the papers in References and Links",
+  "License": "CC0",
+  "Name": "Human Olfaction Without Apparent Olfactory Bulbs",
+  "DatasetDOI": "10.18112/openneuro.ds002185.v1.0.3",
+  "DatasetType": "study"
+}

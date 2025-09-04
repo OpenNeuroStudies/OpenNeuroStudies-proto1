@@ -1,0 +1,12 @@
+{
+  "Name": "gaze_exp",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Martin Szinte",
+    "Tomas Knapen",
+    "Matthias Nau"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004271.v1.1.0",
+  "DatasetType": "study"
+}

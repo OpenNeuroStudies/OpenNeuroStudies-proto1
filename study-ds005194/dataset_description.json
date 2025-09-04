@@ -1,0 +1,21 @@
+{
+  "Name": "Differential cortical and subcortical visual processing with eyes shut",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "Authors": [
+    "Nicholas G. Cicero",
+    "Michaela Klimova",
+    "Laura D. Lewis",
+    "Sam Ling"
+  ],
+  "Funding": [
+    "NIH R01-EY028163",
+    "NIH U19-NS128613",
+    "Pew Biomedical Scholars Program",
+    "Sloan Fellowship",
+    "McKnight Scholar Award"
+  ],
+  "License": "CC0",
+  "HowtoAcknowledge": "Please cite the paper and cite Cicero, N. G., Klimova, M., Lewis, L. D., Ling, S. (2024). Differential cortical and subcortical visual processing with eyes shut. Journal of Neurophysiology",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005194.v1.1.0"
+}

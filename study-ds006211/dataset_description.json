@@ -1,0 +1,39 @@
+{
+  "Name": "Brain bases for navigating acoustic features - fMRI dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Alexander J Billig",
+    "William Sedley",
+    "Philip E Gander",
+    "Sukhbinder Kumar",
+    "Meher Lad",
+    "Maria Chait",
+    "Yousef Mohammadi",
+    "Joel I Berger",
+    "Timothy D Griffiths"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "Please cite the dataset and the original paper (as of 7 May 2025 this is the preprint: https://doi.org/10.1101/2025.02.10.636597)",
+  "Funding": [],
+  "EthicsApprovals": [],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2025.02.10.636597"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006211.v1.0.1",
+  "SourceDatasets": [],
+  "GeneratedBy": [
+    {
+      "Name": "ezBIDS",
+      "Version": "1.0.0",
+      "Description": "ezBIDS is a web-based tool for converting neuroimaging datasets to BIDS, requiring neither coding nor knowledge of the BIDS specification",
+      "CodeURL": "https://brainlife.io/ezbids/",
+      "Container": {
+        "Type": "docker",
+        "Tag": "brainlife/ezbids-handler"
+      }
+    }
+  ],
+  "HEDVersion": []
+}

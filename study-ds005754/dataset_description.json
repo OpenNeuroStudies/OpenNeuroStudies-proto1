@@ -1,0 +1,34 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Multivariate Assessment of Inhibitory Control in Youth: Links with Psychopathology and Brain Function Dataset",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Elise M. Cardinale",
+    "Jessica Bezek",
+    "Julia O Linke",
+    "Olivia Siegal",
+    "Gabrielle Freitag",
+    "Anni Subar",
+    "Khosravi Parmis",
+    "Ajitha Mallidi",
+    "Olivia Peterson",
+    "Isaac Morales",
+    "Simone P Haller",
+    "Courtney Filippi",
+    "Kyunghun Lee",
+    "Melissa A. Brotman",
+    "Daniel S. Pine",
+    "Ellen Leibenluft",
+    "Katharina Kircanski"
+  ],
+  "Acknowledgements": " This research was supported by the NIMH Intramural Research Program (ZIAMH002781); NIH Clinical Study Protocols 15-M-0182 (ClinicalTrials.gov identifier: NCT02531893), 02-M-0021 (NCT00025935), 00-M-0198 (NCT00006177), and 01-M-0192 (NCT00018057). We acknowledge Cameron McKay for contributions during manuscript revision.",
+  "HowToAcknowledge": "TBD",
+  "Funding": [
+    " ZIAMH002781"
+  ],
+  "EthicsApprovals": [
+    "NIH Institutional Review Board (NIH Clinical Study Protocols 15-M-0182 (ClinicalTrials.gov identifier: NCT02531893), 02-M-0021 (NCT00025935), 00-M-0198 (NCT00006177), and 01-M-0192 (NCT00018057)"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005754.v1.1.0"
+}

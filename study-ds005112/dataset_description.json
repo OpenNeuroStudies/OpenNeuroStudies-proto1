@@ -1,0 +1,32 @@
+{
+  "Name": "Structural MRI dataset from NIMH: Clinical and Translational Neuroscience Branch and Behavioral Endocrinology Branch",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Karen Berman",
+    "Peter Schmidt"
+  ],
+  "Curators": [
+    "Brad Zoltick",
+    "Arshitha Basavaraj",
+    "Dustin Moraczewski",
+    "Eric Earl"
+  ],
+  "Funding": [
+    "ZIAMH002942: NCT00001486, NCT00004571"
+  ],
+  "EthicsApprovals": [
+    "NIMH IRB, Protocols 00-M-0085, 11-M-0251"
+  ],
+  "ReferencesAndLinks": [
+    "Dorsal visual stream and LIMK1: hemideletion, haplotype, and enduring effects in children with Williams syndrome. Kippenhan JS, Gregory MD, Nash T, Kohn P, Mervis CB, Eisenberg DP, Garvey MH, Roe K, Morris CA, Kolachana B, Pani AM, Sorcher L, Berman KF. J Neurodev Disord. 2023 Aug 26;15(1):29. doi: 10.1186/s11689-023-09493-x. PMID: 37633900",
+    "Echoes of ancient DNA in living modern humans affect risk for neuropsychiatric disease and brain structure and function of networks subserving higher-order cognition. Gregory MD, Berman KF. Neuropsychopharmacology. 2023 Jan;48(1):236-237. doi: 10.1038/s41386-022-01396-0. PMID: 35922549",
+    "Neanderthal-derived genetic variation in living humans relates to schizophrenia diagnosis, to psychotic symptom severity, and to dopamine synthesis.Gregory MD, Eisenberg DP, Hamborg M, Kippenhan JS, Kohn P, Kolachana B, Dickinson D, Berman KF.Am J Med Genet B Neuropsychiatr Genet. 2021 Jul;186(5):329-338. doi: 10.1002/ajmg.b.32872. Epub 2021 Sep 6. PMID: 34487600",
+    "Williams syndrome hemideletion and LIMK1 variation both affect dorsal stream functional connectivity. Gregory MD, Mervis CB, Elliott ML, Kippenhan JS, Nash T, B Czarapata J, Prabhakaran R, Roe K, Eisenberg DP, Kohn PD, Berman KF. Brain. 2019 Dec 1;142(12):3963-3974. doi: 10.1093/brain/awz323. PMID: 31687737",
+    "Sequence Variation Associated with SLC12A5 Gene Expression Is Linked to Brain Structure and Function in Healthy Adults. Gregory MD, Kippenhan JS, Callicott JH, Rubinstein DY, Mattay VS, Coppola R, Berman KF. Cereb Cortex. 2019 Dec 17;29(11):4654-4661. doi: 10.1093/cercor/bhy344. PMID: 30668668",
+    "Role of gamma-amino-butyric acid in the dorsal anterior cingulate in age-associated changes in cognition. Marenco S, Meyer C, van der Veen JW, Zhang Y, Kelly R, Shen J, Weinberger DR, Dickinson D, Berman KF. Neuropsychopharmacology. 2018 Oct;43(11):2285-2291. doi: 10.1038/s41386-018-0134-5. Epub 2018 Jul 3. PMID: 30050047",
+    "Neanderthal-Derived Genetic Variation Shapes Modern Human Cranium and Brain. Gregory MD, Kippenhan JS, Eisenberg DP, Kohn PD, Dickinson D, Mattay VS, Chen Q, Weinberger DR, Saad ZS, Berman KF. Sci Rep. 2017 Jul 24;7(1):6308. doi: 10.1038/s41598-017-06587-0. PMID: 28740249"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds005112.v1.0.1"
+}

@@ -1,0 +1,22 @@
+{
+  "Acknowledgments": "Thanks to everyone for all your help",
+  "HowToAcknowledge": "Please cite: Author AB, Seminal Paper Title, High Impact Journal, 2019",
+  "ReferencesAndLinks": [
+    "A Reference",
+    "Another Reference",
+    "A Link"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004720.v1.0.0",
+  "Funding": [
+    "First Grant",
+    "Second Grant"
+  ],
+  "Name": "Descriptive name for this dataset",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "First Author",
+    "Second Author"
+  ],
+  "DatasetType": "study"
+}

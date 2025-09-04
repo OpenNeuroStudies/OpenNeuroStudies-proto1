@@ -1,0 +1,34 @@
+{
+  "Name": "Brain correlates of speech perception in schizophrenia patients with and without auditory hallucinations",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Joan Soler-Vidal",
+    "Paola Fuentes-Claramonte",
+    "Pilar Salgado-Pineda",
+    "Nuria Ramiro",
+    "Mar\u00eda \u00c1ngeles Garc\u00eda-Le\u00f3n",
+    "Mar\u00eda Llanos Torres",
+    "Antonio Ar\u00e9valo",
+    "Amalia Guerrero-Pedraza",
+    "Josep Munuera",
+    "Salvador Sarr\u00f3",
+    "Raymond Salvador",
+    "Wolfram Hinzen",
+    "Peter McKenna",
+    "Edith Pomarol-Clotet"
+  ],
+  "Acknowledgements": "The authors wish to thank Dr Aniol Santo-Angles for his work and support in data acquisition and analysis of this project.",
+  "HowToAcknowledge": "Please cite Soler-Vidal J. et al. (2022) Brain correlates of speech perception in schizophrenia patients with and without auditory hallucinations. PLOS ONE.",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004302.v1.0.1",
+  "EthicsApprovals": [
+    "All participants gave written informed consent prior to participation. All the study procedures had been previously approved by the Research Ethics Committee FIDMAG Sisters Hospitallers (Comit\u00e9 de \u00c9tica de la Investigaci\u00f3n de FIDMAG Hermanas Hospitalarias) and complied with its ethical standards on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008."
+  ],
+  "Funding": [
+    "This work was supported by the CIBERSAM and the Catalonian Government (2017SGR01271 to EP-C and 2017SGR1265 to WH). Also by a grant from the Plan Nacional de I+D+i 2013\u20132016: Juan de la Cierva-formaci\u00f3n contract (FJCI-2015-25278 to PF-C) and two projects from the Ministerio de Ciencia, Innovaci\u00f3n y Universidades (MCIU) y la Agencia Estatal de Investigaci\u00f3n (AEI), FFI2016-77647-C2-2-P to WH and PS-P and PID2019-110120RBI00/AEI/10.13039/501100011033 to WH); and by the Instituto de Salud Carlos III, co-funded by European Union (ERDF/ESF, \u201cInvesting in your future\u201d): Miguel Servet Research contracts (CPII13/00018 to RS and MS10/00596 to EP-C), Sara Borrell contract (CD19/00149 to PF-C) and Research Project Grants (PI18/00880 to PM). The funders had no role in study design; in the collection, analysis and interpretation of data; in the writing of the report; or in the decision to submit the article for publication."
+  ],
+  "ReferencesAndLinks": [
+    "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276975"
+  ]
+}

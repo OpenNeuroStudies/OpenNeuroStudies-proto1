@@ -1,0 +1,28 @@
+{
+  "Name": "Discrimination-Estimation Task",
+  "License": "CC0",
+  "Authors": [
+    "Hyunwoo Gu",
+    "Joonwon Lee",
+    "Sungje Kim",
+    "Jaeseob Lim",
+    "Hyang-Jung Lee",
+    "Heeseung Lee",
+    "Minjin Choe",
+    "Dong-Gyu Yoo",
+    "Jun Hwan (Joshua) Ryu",
+    "Sukbin Lim",
+    "Sang-Hun Lee"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "",
+  "Funding": [
+    "NRF-2021R1F1A1052020"
+  ],
+  "ReferencesAndLinks": [
+    "https://www.biorxiv.org/content/10.1101/2023.06.28.546818v1"
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005381.v1.0.0",
+  "DatasetType": "study"
+}

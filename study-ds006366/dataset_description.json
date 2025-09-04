@@ -1,0 +1,37 @@
+{
+  "Name": "Mouse Sleep Staging Validation dataset (MSSV)",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Acknowledgements": "Acknowledgements: Thank you to all participating labs for sharing their data.",
+  "Funding": [
+    "Lundbeck Foundation (R344-2020-749)"
+  ],
+  "EthicsApprovals": [
+    "All animal studies have been approved by the respective national authorities and carried out according to ethical guidelines (European Communities Council Directive (86/609/EEC) and ARRIVE (Animal Research: Reporting In Vivo Experiments)."
+  ],
+  "Authors": [
+    "Laura Rose",
+    "Alexander Neergaard Zahid",
+    "Javier Garc\u00eda Ciudad",
+    "Christine Egebjerg",
+    "Louise Piilgaard",
+    "Frederikke Lynge S\u00f8rensen",
+    "Mie Andersen",
+    "Tessa Radovanovic",
+    "Anastasia Tsopanidou",
+    "Maiken Nedergaard",
+    "S\u00e9bastien Arthaud",
+    "Renato Maciel",
+    "Christelle Peyron",
+    "Chiara Berteotti",
+    "Viviana Lo Martire",
+    "Alessandro Silvani",
+    "Giovanna Zoccoli",
+    "Micaela Borsa",
+    "Antoine Adamantidis",
+    "Morten M\u00f8rup",
+    "Birgitte Rahbek Kornum"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds006366.v1.0.0"
+}

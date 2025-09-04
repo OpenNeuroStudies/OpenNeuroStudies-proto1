@@ -1,0 +1,23 @@
+{
+  "Name": "Language Learning Aptitude dataset",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Mikael Nov\u00e9n",
+    "Hampus Olsson",
+    "Gunther Helms",
+    "Markus Nilsson",
+    "Merle Horne",
+    "Mikael Roll"
+  ],
+  "Acknowledgments": "Lund University Bioimaging Center (LBIC), Lund University, Sweden, is gratefully acknowledged for providing experimental resources.",
+  "HowToAcknowledge": "Please cite the paper once published if you use this dataset.",
+  "Funding": [
+    "This work was supported by Knut and Alice Wallenberg Foundation (Grant No. 2014.0139) and the Swedish Research Council (Grant No. 2018.00632). "
+  ],
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003508.v1.0.0",
+  "DatasetType": "study"
+}

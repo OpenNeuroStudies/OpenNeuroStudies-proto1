@@ -1,0 +1,17 @@
+{
+  "Name": "Neural Tracking to go",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Lisa Straetmans",
+    "Bjoern Holtze",
+    "Stefan Debener",
+    "Manuela Jaeger",
+    "Bojana Mirkovic"
+  ],
+  "ReferencesAndLinks": [
+    "article link follows"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds003801.v1.0.0",
+  "DatasetType": "study"
+}

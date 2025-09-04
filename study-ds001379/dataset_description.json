@@ -1,0 +1,10 @@
+{
+  "BIDSVersion": "1.10.1",
+  "Name": "Loci case study",
+  "Authors": [
+    "Christopher Baldassano"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds001379.v1.0.0",
+  "License": "CC0",
+  "DatasetType": "study"
+}

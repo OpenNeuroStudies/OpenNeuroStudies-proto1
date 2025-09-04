@@ -1,0 +1,27 @@
+{
+  "Name": "In vivo multi-parametric manganese-enhanced MRI for detecting senile plaques in rodent models of Alzheimer\u2019s disease",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eugene Kim",
+    "Davide Di Censo",
+    "Mattia Baraldo",
+    "Camilla Simmons",
+    "Ilaria Rosa",
+    "Karen Randall",
+    "Clive Ballard",
+    "Ben Dickie",
+    "Steve Williams",
+    "Richard Killick",
+    "Diana Cash"
+  ],
+  "HowToAsknowledge": "",
+  "Funding": [
+    "Alzheimer\u2019s Society"
+  ],
+  "EthicApprovals": "All animal experiments were performed in accordance with the UK Animal (Scientific Procedures) Act 1986 and King's College London institutional ethical guidelines",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "10.18112/openneuro.ds003463.v1.0.1",
+  "HowToAcknowledge": "Please cite the following preprint:\n\nEugene Kim, Davide Di Censo, Mattia Baraldo, Camilla Simmons, Ilaria Rosa, Karen Randall, Clive Ballard, Ben R Dickie, Steven CR Williams, Richard Killick, Diana Cash\nIn vivo multi-parametric manganese-enhanced MRI for detecting senile plaques in rodent models of Alzheimer's disease\nbioRxiv 2021.01.12.426392; doi: https://doi.org/10.1101/2021.01.12.426392",
+  "DatasetType": "study"
+}

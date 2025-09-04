@@ -1,0 +1,28 @@
+{
+  "Name": "Which multiband factor should you choose for your resting-state fMRI study? The Emory Multiband Dataset",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC0",
+  "Authors": [
+    "Benjamin Risk",
+    "Raphiel Murden",
+    "Junjie Wu",
+    "Mary Beth Nebel",
+    "Arun Venkataraman",
+    "Zhengwu Zhang",
+    "Deqiang Qiu"
+  ],
+  "Acknowledgements": "We would like to thank Sarah Basadre, Michael Larch, Sonny Roh, and Samira Yeboah for MRI acquisition and Dr. Lei Zhou for computational support.",
+  "Funding": [
+    "Image acquisition supported by the Dean's Pilot Grant from the Rollins School of Public Health, Emory University and a Pilot Grant from the Center for Systems Imaging at Emory University",
+    "The research was partially supported by NIH R21AG066970."
+  ],
+  "EthicsApprovals": [
+    "This study was approved by the Institutional Review Board of Emory University."
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/thebrisklab"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003540.v1.0.1",
+  "HowToAcknowledge": "Please reference B. Risk, R. Murden, J. Wu, M. Nebel, A. Venkataraman, Z. Zhang, and D. Qiu. \"Which multiband factor should you choose for your resting-state fMRI study?\" NeuroImage, in press.\n\nhttps://www.sciencedirect.com/science/article/pii/S1053811921002421 "
+}

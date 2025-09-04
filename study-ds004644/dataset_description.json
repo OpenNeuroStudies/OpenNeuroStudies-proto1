@@ -1,0 +1,28 @@
+{
+  "Name": "Investigating brain alterations in the Dp1Tyb mouse model of Down Syndrome",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Maria Elisa Serrano",
+    "Eugene Kim",
+    "Bernard Siow",
+    "Da Ma",
+    "Loreto Rojo",
+    "Camilla Simmons",
+    "Darryl Hayward",
+    "Dorota Gibbins",
+    "Nisha Singh",
+    "Andre Strydom",
+    "Elizabeth M. C. Fisher",
+    "Victor L. J. Tybulewicz",
+    "Diana Cash"
+  ],
+  "HowToAsknowledge": "",
+  "Funding": [
+    "Wellcome Trust"
+  ],
+  "EthicApprovals": "All animal experiments were performed in accordance with the UK Animal (Scientific Procedures) Act 1986 and the Francis Crick Institute's ethical guidelines",
+  "ReferenceAndLinks": "",
+  "DatasetDOI": "doi:10.18112/openneuro.ds004644.v1.0.0",
+  "DatasetType": "study"
+}

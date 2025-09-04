@@ -1,0 +1,24 @@
+{
+  "Name": "Stimulation of the dorsolateral prefrontsal cortex modulates brain cue reactivity to reward(un)availability",
+  "BIDSVersion": "1.10.1",
+  "Authors": [
+    "Damien Brevers",
+    "Chris Baeken",
+    "Stefanie De Smet",
+    "Beatriz Catoira",
+    "Sara De Witte",
+    "Qingha He",
+    "Pierre Maurage",
+    "Laimi Schultze",
+    "Guillaume Sescousse",
+    "Claudia Vila Verde",
+    "Claus V\u00f6gele",
+    "Jo\u00ebl Billieux"
+  ],
+  "Funding": [
+    "This work is supported by Luxembourg National Research Fund (FNR); CORE \u2013 Junior Track [BETHAB]"
+  ],
+  "DatasetDOI": "doi:10.18112/openneuro.ds004102.v1.0.1",
+  "License": "CC0",
+  "DatasetType": "study"
+}

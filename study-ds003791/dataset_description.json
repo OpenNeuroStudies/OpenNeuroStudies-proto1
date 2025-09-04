@@ -1,0 +1,44 @@
+{
+  "Name": "Sniffing the Human Body-Volatile Hexadecanal Blocks Aggression in Men but Triggers Aggression in Women",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Eva Mishor",
+    "Daniel Amir",
+    "Tali Weiss",
+    "Danielle Honigstein",
+    "Aharon Weissbrod",
+    "Ethan Livne",
+    "Lior Gorodisky",
+    "Shiri Karagach",
+    "Aharon Ravia",
+    "Kobi Snitz",
+    "Diyala Karawani",
+    "Rotem Zirler",
+    "Reut Weissgross",
+    "Timna Soroka",
+    "Yaara Endevelt-Shapira",
+    "Shani Agron",
+    "Liron Rozenkrantz",
+    "Netta Reshef",
+    "Edna Furman-Haran",
+    "Heinz Breer",
+    "Joerg Strotmann",
+    "Tatsuya Uebi",
+    "Mamiko Ozaki",
+    "Noam Sobel"
+  ],
+  "HowToAcknowledge": "Please cite this paper: https://www.biorxiv.org/content/10.1101/2020.09.29.318287v2",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1101/2020.09.29.318287",
+    "E. Mishor et al., Sniffing the Human Body-Volatile Hexadecanal Blocks Aggression in Men but Triggers Aggression in Women. bioRxiv, 2020.2009.2029.318287 (2020)."
+  ],
+  "EthicsApprovals": [
+    "Institutional IRB (Protocol ARL-20098-10051, ARL 12-040, and ARL 12-041)"
+  ],
+  "Funding": [
+    "ERC AdG grant (SocioSmell 670798)"
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003791.v1.0.0",
+  "DatasetType": "study"
+}

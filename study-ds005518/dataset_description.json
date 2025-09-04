@@ -1,0 +1,33 @@
+{
+  "Name": "Deciphering the neural responses to a naturalistic persuasive message",
+  "Authors": [
+    "Ioannis Ntoumanis",
+    "Julia Sheronova",
+    "Alina Davydova",
+    "Maria Dolgaleva",
+    "Iiro P J\u00e4\u00e4skel\u00e4inen",
+    "Vladimir Kosonogov",
+    "Anna N Shestakova",
+    "Vasily Klucharev"
+  ],
+  "BIDSVersion": "1.10.1",
+  "Funding": [
+    "Basic Research Program at HSE University"
+  ],
+  "License": "CC0",
+  "DatasetType": "study",
+  "GeneratedBy": [
+    {
+      "Name": "dcm2niix",
+      "Version": "v1.0.20220720"
+    }
+  ],
+  "EthicsApprovals": [
+    "All procedures were approved by the HSE Committee on Interuniversity Surveys and Ethical Assessment of Empirical Research (Protocol \u2116 74)."
+  ],
+  "ReferencesAndLinks": [
+    "https://github.com/intoumanis/fMRI_persuasion"
+  ],
+  "HowToAcknowledge": "Please cite the corresponding paper: Ntoumanis I, Sheronova J, Davydova A, et al. Deciphering the neural responses to a naturalistic persuasive message. Proc Natl Acad Sci U S A. 2024;121(43):e2401317121. doi:10.1073/pnas.2401317121. https://www.pnas.org/doi/10.1073/pnas.2401317121",
+  "DatasetDOI": "doi:10.18112/openneuro.ds005518.v1.0.1"
+}

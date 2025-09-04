@@ -1,0 +1,22 @@
+{
+  "Name": "Pragmatic Language",
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Authors": [
+    "Rasgado-Toledo, J.",
+    "Lizcano-Cort\u00e9s, F.",
+    "Olalde-Mathieu, V.",
+    "Zamora-Ursulo, M.",
+    "Licea-Haquet, G.",
+    "Carillo-Pe\u00f1a, A.",
+    "Navarrete, E.",
+    "Reyes-Aguilar, A.*",
+    "Giordano, M"
+  ],
+  "Acknowledgements": "We thank Drs. Erick Pasaye, Leopoldo Gonz\u00e1lez-Santos, Juan Ortiz, and the personnel at the National Laboratory for Magnetic Resonance Imaging (LANIREM UNAM), for their valuable assistance. This work received support from Luis Aguilar, Alejandro De Le\u00f3n, Carlos Flores, and Jair Garc\u00eda of the Laboratorio Nacional de Visualizaci\u00f3n Cient\u00edfica Avanzada (LAVIS). Additional thanks to Elizabeth Valles-Capetillo and Francis Manno for their valuable help with recruitment and MRI data acquisition, and to Domingo Mart\u00ednez for quality control of datasets.",
+  "Funding": [
+    "This study was supported by grants from UNAM, DGAPA-PAPIIT IN203818-2, and the Mexican Council for Science and Technology, Fronteras de la Ciencia CONACyT 2015 no. 225. to M. Giordano, and scholarships #476261 to R-T, J., #779254 to L-C, F., #330989 to O-M, V. E., #621367 to L-H, G.L., #612272 to Z-U, A., and from intramural funds (Instituto de Neurobiolog\u00eda, UNAM)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003481.v1.0.3",
+  "DatasetType": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "Authors": [
+    "Mojtaba Lahijanian",
+    "Mohammad Javad Sedghizadeh",
+    "Hamid Aghajan"
+  ],
+  "Name": "Multisensory Gamma Entrainment",
+  "License": "CC0",
+  "ReferencesAndLinks": [
+    ""
+  ],
+  "BIDSVersion": "1.10.1",
+  "DatasetDOI": "10.18112/openneuro.ds003805.v1.0.0",
+  "DatasetType": "study"
+}

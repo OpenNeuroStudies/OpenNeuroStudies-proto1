@@ -1,0 +1,29 @@
+{
+  "Name": "Postnatal Affective MRI Dataset",
+  "Authors": [
+    "Heidemarie Laurent, PhD",
+    "Megan K. Finnegan",
+    "Katherine Haigler"
+  ],
+  "BIDSVersion": "1.10.1",
+  "License": "CC0",
+  "Use": "The Postnatal Affective MRI Dataset has been made available under a CC0 1.0 Universal public domain dedication (https://creativecommons.org/publicdomain/zero/1.0/legalcode). Acknowledge the creator of this dataset in any publications resulting from the use of this data, and do not use this dataset to re-identify participants",
+  "HowtoAcknowledge": [
+    "Laurent, H., Finnegan, M. K., and Haigler, K. (2020). Postnatal Affective Mri Dataset. OpenNeuro. Retrieved from Openneuro.org "
+  ],
+  "Funding": [
+    "This work was supported by the Society for Research in Child Development Victoria Levin Award 'Early Calibration of Stress Systems: Defining Family Influences and Health Outcomes' to Heidemarie Laurent and by the University of Oregon College of Arts and Sciences"
+  ],
+  "ReferencesandLinks": [
+    "Laurent, H. K., Wright, D., Finnegan, M. K. (2018). Mindfulness-related differences in neural response to own-infant negative versus positive emotion contexts. Developmental Cognitive Neuroscience 30: 70-76. https://doi.org/10.1016/j.dcn.2018.01.002",
+    "Finnegan, M. K., Kane, S., Heller, W., and Laurent, H. (2020). Mothers' neural response to valenced infant interactions predicts postnatal depression and anxiety. PLoS One (under review)."
+  ],
+  "DatasetDOI": "10.18112/openneuro.ds003136.v1.0.0",
+  "HowToAcknowledge": "Laurent, H., Finnegan, M. K., and Haigler, K. (2020). Postnatal Affective MRI Dataset. OpenNeuro. DOI: 10.18112/openneuro.ds003136.v1.0.0.",
+  "Acknowledgements": "Saumya Agrawal was instrumental in getting the PAMD dataset into a BIDS-compliant structure.",
+  "ReferencesAndLinks": [
+    "Laurent, H. K., Wright, D., Finnegan, M. K. (2018). Mindfulness-related differences in neural response to own-infant negative versus positive emotion contexts. Developmental Cognitive Neuroscience 30: 70-76. https://doi.org/10.1016/j.dcn.2018.01.002.",
+    "Finnegan, M. K., Kane, S., Heller, W., and Laurent, H. (2020). Mothers' neural response to valenced infant interactions predicts postnatal depression and anxiety. PLoS One (under review)."
+  ],
+  "DatasetType": "study"
+}
