@@ -85,7 +85,7 @@ done
 git add studies.tsv
 
 # whatever is left must be our bug as not having original dataset!
-if /bin/ls ds0* | head | grep .; then
+if /bin/ls ds0* >/dev/null 2>&1 || :; then
 	echo "ERROR: still have some datasets left"
 	exit 1
 fi
