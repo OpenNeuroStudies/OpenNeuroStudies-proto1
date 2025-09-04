@@ -18,7 +18,7 @@ function fetch_cached() {
 	cpath=scratch/cache/
 	mkdir -p "$cpath"
 	cpath+=$(echo $url | tr '/' '_')
-	if [ ! -e "$cpath" ] ; then
+	if [ ! -s "$cpath" ] ; then
 		curl -s -H "Authorization: Bearer $GITHUB_TOKEN" "$url" >| "$cpath"
 	fi
 	cat "$cpath"
@@ -32,7 +32,7 @@ function compose_studies_tsv() {
     echo -e "study_id\tName\tBIDSRawVersion\tLicense\tAuthors\tDerivatives" >| studies.tsv
     for sds in study-*; do
         sds_ddj="$sds/dataset_description.json"
-        if [ ! -e "$sds_ddj" ]; then
+        if [ ! -s "$sds_ddj" ]; then
             echo "I: $sds is likely not yet legit BIDS, skipped"
 		    echo -e "$sds\tn/a\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
             continue
@@ -102,7 +102,7 @@ compose_studies_tsv
 git add studies.tsv
 
 # whatever is left must be our bug as not having original dataset!
-if /bin/ls ds0* >/dev/null 2>&1 || :; then
+/bin/ls ds0* >/dev/null 2>&1 && {
 	echo "ERROR: still have some datasets left"
 	exit 1
-fi
+} || :
