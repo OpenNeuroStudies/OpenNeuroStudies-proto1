@@ -28,26 +28,16 @@ function get_default_branch() {
 	fetch_cached  "https://api.github.com/repos/$1" | jq -r '.default_branch'
 }
 
-mkdir -p scratch
-if ! grep -q -v scratch .gitignore; then
-	touch .gitignore
-	echo scratch >> .gitignore
-	git add .gitignore
-fi
-
-# go through all of the datasets and produce their "study-level" datasets
-echo -e "study_id\tName\tBIDSVersion\tLicense\tAuthors" >| studies.tsv
-for ds in "${dss[@]}"; do
-	echo "I: working on $ds"
-	sds="study-$ds"
-	mkdir -p "$sds"/{derivatives,sourcedata}
-	# TODO: add `git describe --tags` output somehow or version from CHANGES?
-	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; j["BIDSVersion"]="1.10.1"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
-		echo " E: likely is not a BIDS dataset!"
-		echo -e "$sds\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
-	else
-		git add "$sds/dataset_description.json"
-		cat "$sds/dataset_description.json" | python -c "
+function compose_studies_tsv() {
+    echo -e "study_id\tName\tBIDSVersion\tLicense\tAuthors" >| studies.tsv
+    for sds in study-*; do
+        sds_ddj="$sds/dataset_description.json"
+        if [ -e "$sds_ddj" ]; then
+            echo "I: $sds is likely not yet legit BIDS, skipped"
+		    echo -e "$sds\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
+            continue
+        fi
+		cat "$sds_ddj" | python -c "
 import json, sys
 data = json.load(sys.stdin)
 row = ['$sds',
@@ -56,7 +46,27 @@ row = ['$sds',
 	   data.get('License', ''),
 	   repr(data.get('Authors', ''))]
 print('\t'.join(row))
-" >> studies.tsv
+" | tr '\n' ' ' >> studies.tsv
+    done
+}
+
+mkdir -p scratch
+if ! grep -q -v scratch .gitignore; then
+	touch .gitignore
+	echo scratch >> .gitignore
+	git add .gitignore
+fi
+
+# go through all of the datasets and produce their "study-level" datasets
+for ds in "${dss[@]}"; do
+	echo "I: working on $ds"
+	sds="study-$ds"
+	mkdir -p "$sds"/{derivatives,sourcedata}
+	# TODO: add `git describe --tags` output somehow or version from CHANGES?
+	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; j["BIDSVersion"]="1.10.1"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
+		echo " E: likely is not a BIDS dataset!"
+	else
+		git add "$sds/dataset_description.json"
 	fi
 	git mv "$ds" "$sds/sourcedata/raw"
 	# TODO: formalize!?
@@ -80,8 +90,9 @@ print('\t'.join(row))
 done
 
 # TODO: enhance studies.tsv with information about derivatives -- either they are complete or not and either correspond to the same version of the dataset as what we have now etc. But may be that should be already part of the dashboarding
-# TODO: move generation and update of the derivatives.tsv and studies.tsv into a reusable function
+# TODO: move generation and update of the derivatives.tsv into a reusable function
 # which would also "bubble up" the status of processing
+compose_studies_tsv
 git add studies.tsv
 
 # whatever is left must be our bug as not having original dataset!
