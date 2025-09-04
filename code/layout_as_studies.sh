@@ -29,24 +29,30 @@ function get_default_branch() {
 }
 
 function compose_studies_tsv() {
-    echo -e "study_id\tName\tBIDSVersion\tLicense\tAuthors" >| studies.tsv
+    echo -e "study_id\tName\tBIDSRawVersion\tLicense\tAuthors\tDerivatives" >| studies.tsv
     for sds in study-*; do
         sds_ddj="$sds/dataset_description.json"
-        if [ -e "$sds_ddj" ]; then
+        if [ ! -e "$sds_ddj" ]; then
             echo "I: $sds is likely not yet legit BIDS, skipped"
-		    echo -e "$sds\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
+		    echo -e "$sds\tn/a\tn/a\tn/a\tn/a\tn/a" >> studies.tsv  # TODO: expand
             continue
+        fi
+        if /bin/ls $sds/derivatives/* >/dev/null 2>&1; then
+            derivatives=$(cd $sds/derivatives; ls -1 | tr '\n' ' ')
+        else
+            derivatives='n/a'
         fi
 		cat "$sds_ddj" | python -c "
 import json, sys
 data = json.load(sys.stdin)
 row = ['$sds',
-	   data.get('Name', ''),
-	   data.get('BIDSVersion', ''),
-	   data.get('License', ''),
-	   repr(data.get('Authors', ''))]
+	   data.get('Name', '').replace('\n', ' '),
+	   data.get('BIDSVersion', '').replace('\n', ' '),  # TODO: make BIDSRawVersion
+	   data.get('License', '').replace('\n', ' '),
+	   repr(data.get('Authors', '')),  # TODO: make BIDSRawAuthors
+       \"$derivatives\"]
 print('\t'.join(row))
-" | tr '\n' ' ' >> studies.tsv
+" >> studies.tsv
     done
 }
 
@@ -63,7 +69,7 @@ for ds in "${dss[@]}"; do
 	sds="study-$ds"
 	mkdir -p "$sds"/{derivatives,sourcedata}
 	# TODO: add `git describe --tags` output somehow or version from CHANGES?
-	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; j["BIDSVersion"]="1.10.1"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
+	if ! fetch_cached "https://raw.githubusercontent.com/OpenNeuroDatasets/$ds/refs/heads/$(get_default_branch OpenNeuroDatasets/$ds)/dataset_description.json" | python -c 'import json, sys; j=json.load(sys.stdin);j["DatasetType"]="study"; j["BIDSRawVersion"]=j.get("BIDSVersion", ""); j["BIDSRawAuthors"]=j.get("Authors", []);j["BIDSVersion"]="1.10.1"; print(json.dumps(j, indent=2))' > "$sds/dataset_description.json"; then
 		echo " E: likely is not a BIDS dataset!"
 	else
 		git add "$sds/dataset_description.json"
