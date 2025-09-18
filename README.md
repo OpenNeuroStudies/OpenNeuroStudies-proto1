@@ -25,3 +25,4 @@ Remember that for viewing .tsv files locally you can use an awesome
 [visidata](https://www.visidata.org/) tool.
 
 For more TODOs etc see the initial https://github.com/OpenNeuroStudies/OpenNeuroStudies/issues/1 .
+For more detailed summary -- see [doc/project_summary.md](doc/project_summary.md).
