@@ -10,16 +10,32 @@ Load @README.md and referenced there @doc/project_summary.md (paths are relative
 
 Those DataLad superdatasets will be the sources to operate on
 
-- openfmri submodule leading to https://datasets.datalad.org/openfmri/.git
-- openneuro submodule leading to https://datasets.datalad.org/openneuro/.git
-- openneuro-derivatives submodule leading to  https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives
+- openfmri/ submodule leading to https://datasets.datalad.org/openfmri/.git
+
+  - or may be better - just a spec (yaml file with top org, regex for
+    repos to include) to traverse and list GitHub organization
+    https://github.com/OpenNeuroDatasets 
+
+- openneuro/ submodule leading to https://datasets.datalad.org/openneuro/.git
+- openneuro-derivatives/ submodule leading to  https://github.com/OpenNeuroDerivatives/OpenNeuroDerivatives
+- (later) cerebra-felix -- to point to collection under https://cerebra.fz-juelich.de/f.hoffstaedter/
+
+  - similar to OpenNeuroDatasets above, may be here spec to point to that cerebra (which is an instance of 
+    https://codeberg.org/matrss/forgejo-aneksajo)
+
+- (later) registry.yaml -- spec to point to https://registry.datalad.org to
+  potentially discover new derivatives to be included.
+
+In the future we might need to extend to datasets coming from other
+portals and sources.
 
 Scripts should operate on them to 
 
 - discover known datasets 
 - get their urls from .gitmodules
-
-In the future we might need to extend to datasets coming from other portals and sources.
+- get their current state (commit hexsha) to be able to update as needed
+- be able to fetch corresponding dataset_description.json and any other specific file
+  without needing to clone an entire dataset (so using known URLs how to access a tree for github and forgejo)
 
 ### code/ 
 
