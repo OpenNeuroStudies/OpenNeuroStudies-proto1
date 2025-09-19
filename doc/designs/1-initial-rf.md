@@ -41,6 +41,17 @@ Scripts should operate on them to
 
 that's where all the code should reside
 
+#### code/containers
+
+We might want submodule for https://github.com/repronim/containers to get
+access to bids-validator container for consistency etc... but yet not sure if
+needed or we just better use e.g.
+
+   uvx bids-validator-deno@2.1.0 ...
+
+to invoke it with a specific version
+
+
 ### study-{id}/
 
 Subfolders per each study.
@@ -91,13 +102,13 @@ Script to produce such a summary should be indempotent and
 
 Should not be copied, and rather generated. With the Authors entry to come from
 
-    git config user.name
+    git shortlog -sn
 
-command.  
+command, thus summarizing all contributors to the "study" dataset.
 
-"Title" should come from the underlying `sourcedata/raw/dataset_description.json` but prefixed with "Study dataset: ".
+"Title" should come from the underlying `sourcedata/raw/dataset_description.json` but prefixed with "Study dataset for ".
 
-"BIDSVersion" should be "1.10.1".
+"BIDSVersion" should be "1.10.1" or whatever other future version we would decide to work with later.
 
 Populate "SourceDatasets" (ref in BIDS:
 https://bids-specification.readthedocs.io/en/stable/glossary.html#objects.metadata.SourceDatasets)
@@ -250,5 +261,14 @@ we should
   - note that there then should be no single "sourcedata/raw"
 - link derivative in question (ds006190) under derivatives/{codename} where codename is to be figured out as a short word based on what it is .... TODO
 
+#### derivatives/bids-validator.{json,txt}
 
+After introdcuing modification, or just upon request we need to run
+`bids-validator-deno` on each study dataset, and store text and json
+outputs under derivatives/.
+
+Result of bids-validator should be used later to populate some bids-valid
+column in studies.tsv.
+
+# Some non-specific desires yet
 
